@@ -1,7 +1,7 @@
 # Chinese translations for PACKAGE package.
 # Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2012.
+# Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013.
 #
 msgid ""
 msgstr ""
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../src/search_keyword.py:25
 msgid "Automatic login"
-msgstr "自動登錄"
+msgstr "自動登入"
 
 #: ../src/search_keyword.py:26 ../src/main.py:105 ../src/main.py:109
 msgid "Deepin Account"
@@ -26,11 +26,11 @@ msgstr "深度帳號"
 
 #: ../src/search_keyword.py:27 ../src/main.py:107
 msgid "Account Name"
-msgstr "帳號名"
+msgstr "帳號名稱"
 
 #: ../src/search_keyword.py:28
 msgid "Create Account"
-msgstr "創建帳號"
+msgstr "建立帳號"
 
 #: ../src/search_keyword.py:29
 msgid "Delete Account"
@@ -38,18 +38,18 @@ msgstr "刪除帳號"
 
 #: ../src/search_keyword.py:30
 msgid "Change Password"
-msgstr "修改密碼"
+msgstr "變更密碼"
 
 #: ../src/search_keyword.py:31 ../src/main.py:1017
 msgid "Set Picture"
-msgstr "設置頭像"
+msgstr "設定頭像"
 
 #: ../src/search_keyword.py:32
 msgid "Account"
 msgstr "帳號"
 
 msgid "User Accounts"
-msgstr "帳戶設置"
+msgstr "使用者帳號"
 
 #: ../src/main.py:100 ../src/main.py:108
 msgid "Account type"
@@ -61,7 +61,7 @@ msgstr "密碼"
 
 #: ../src/main.py:104
 msgid "Log in without a password"
-msgstr "不使用密碼登錄"
+msgstr "不使用密碼登入"
 
 #: ../src/main.py:106 ../src/main.py:110
 msgid "Unbound"
@@ -82,15 +82,15 @@ msgstr "啟用此帳號"
 
 #: ../src/main.py:139
 msgid "Add"
-msgstr "添加帳戶"
+msgstr "添加帳號"
 
 #: ../src/main.py:140
 msgid "Delete"
-msgstr "刪除帳戶"
+msgstr "刪除帳號"
 
 #: ../src/main.py:141
 msgid "Create"
-msgstr "創建"
+msgstr "建立"
 
 #: ../src/main.py:142 ../src/main.py:195 ../src/main.py:201 ../src/main.py:873
 msgid "Cancel"
@@ -98,89 +98,89 @@ msgstr "取消"
 
 #: ../src/main.py:190
 msgid "It is possible to keep the home directory when deleting a user account."
-msgstr "刪除用戶時可以保留用戶主目錄。"
+msgstr "刪除使用者時可以保留使用者家目錄。"
 
 #: ../src/main.py:193
 msgid "Delete Files"
-msgstr "刪除文件"
+msgstr "刪除檔案"
 
 #: ../src/main.py:194
 msgid "Keep Files"
-msgstr "保留文件"
+msgstr "保留檔案"
 
 #: ../src/main.py:202
 msgid "Save"
-msgstr "保存"
+msgstr "儲存"
 
 #: ../src/main.py:490
 msgid "Enabled auto-login for %s"
-msgstr "允許%s自動登錄"
+msgstr "允許 %s 自動登入"
 
 #: ../src/main.py:492
 msgid "Disabled auto-login for %s"
-msgstr "禁止%s自動登錄"
+msgstr "禁止 %s 自動登入"
 
 #: ../src/main.py:510
 msgid "Enabled passwordless login for %s"
-msgstr "允許%s不使用密碼登錄"
+msgstr "已啟用 %s 不使用密碼登入"
 
 #: ../src/main.py:513
 msgid "Disabled passwordless login for %s"
-msgstr "禁止%s不使用密碼登錄"
+msgstr "已停用 %s 不使用密碼登入"
 
 #: ../src/main.py:529
 msgid "Disable %s"
-msgstr "禁用%s"
+msgstr "停用 %s"
 
 #: ../src/main.py:530 ../src/main.py:669 ../src/main.py:1068
 msgid "Disable"
-msgstr "禁用此帳號"
+msgstr "停用此帳號"
 
 #: ../src/main.py:532
 msgid "Enable %s"
-msgstr "啟用%s"
+msgstr "啟用 %s"
 
 #: ../src/main.py:568
 msgid "%s has been created"
-msgstr "%s已創建"
+msgstr "%s 帳號已建立"
 
 #: ../src/main.py:574
 msgid "The user name is invalid"
-msgstr "用戶名不合法"
+msgstr "使用者名稱無效"
 
 #: ../src/main.py:588
 msgid ""
 "User names can only consist of letters, numbers, underscores and begin with "
 "a letter"
-msgstr "用戶名只能由字母、數字、下划線組成，并且由字母開頭"
+msgstr "使用者名稱只能由英文字母、數字、下划線組成，并且以字母開頭"
 
 #: ../src/main.py:606
 msgid "%s has been deleted"
-msgstr "%s已被刪除"
+msgstr "%s 已被刪除"
 
 #: ../src/main.py:623
 msgid "Do you want to keep <u>%s</u>'s files?"
-msgstr "你想要保留<u>%s</u>的文件嗎？"
+msgstr "你想要保留 <u>%s</u> 的檔案嗎？"
 
 #: ../src/main.py:651 ../src/main.py:1051
 msgid "Account disabled"
-msgstr "帳號已禁用"
+msgstr "帳號已停用"
 
 #: ../src/main.py:653 ../src/main.py:1053
 msgid "To be set at next login"
-msgstr "下次登錄時設置"
+msgstr "在下次登入時設定"
 
 #: ../src/main.py:655 ../src/main.py:1055
 msgid "None"
-msgstr "無"
+msgstr "沒有"
 
 #: ../src/main.py:728
 msgid "%s's account type has been set as %s"
-msgstr "%s的帳戶類型被設置為%s"
+msgstr "%s 的帳號類型已被設定為“%s”"
 
 #: ../src/main.py:845
 msgid "Current password"
-msgstr "當前密碼"
+msgstr "目前密碼"
 
 #: ../src/main.py:846
 msgid "New password"
@@ -196,15 +196,15 @@ msgstr "顯示密碼"
 
 #: ../src/main.py:874
 msgid "Change"
-msgstr "修改"
+msgstr "變更"
 
 #: ../src/main.py:919
 msgid "Password did not match."
-msgstr "兩次密碼輸入不一致"
+msgstr "兩次密碼不相符"
 
 #: ../src/main.py:935 ../src/main.py:959
 msgid "password unchanged"
-msgstr "密碼未被修改"
+msgstr "密碼未被變更"
 
 #: ../src/main.py:937
 msgid "authentication token manipulation error"
@@ -216,7 +216,7 @@ msgstr "新密碼與舊密碼過於相近"
 
 #: ../src/main.py:953
 msgid "%s's password has been changed"
-msgstr "%s的密碼修改完成"
+msgstr "%s 的密碼變更完成"
 
 #: ../src/main.py:1216
 msgid "Error:"
@@ -224,35 +224,35 @@ msgstr "錯誤："
 
 #: ../src/edit_icon_page.py:85
 msgid "zoom in"
-msgstr "放大"
+msgstr "拉近"
 
 #: ../src/edit_icon_page.py:90
 msgid "zoom out"
-msgstr "縮小"
+msgstr "拉遠"
 
 #: ../src/edit_icon_page.py:95
 msgid "Take a photo"
-msgstr "拍照"
+msgstr "照相"
 
 #: ../src/edit_icon_page.py:100
 msgid "Try again"
-msgstr "再次拍照"
+msgstr "再次照相"
 
 #: ../src/edit_icon_page.py:856
 msgid "Clip"
-msgstr "截取頭像"
+msgstr "照片裁剪"
 
 #: ../src/edit_icon_page.py:872
 msgid "Preview"
-msgstr "頭像預覽"
+msgstr "照片預覽"
 
 #: ../src/edit_icon_page.py:924
 msgid "no picture"
-msgstr "頭像為空"
+msgstr "沒有圖片"
 
 #: ../src/set_icon_page.py:127 ../src/set_icon_page.py:129
 msgid "Local picture"
-msgstr "從本地文件"
+msgstr "本地端檔案"
 
 #: ../src/set_icon_page.py:127 ../src/set_icon_page.py:130
 msgid "Take a screeshot"
@@ -260,24 +260,24 @@ msgstr "使用深度截圖"
 
 #: ../src/set_icon_page.py:131
 msgid "From camera"
-msgstr "使用攝像頭"
+msgstr "使用攝影機"
 
 #: ../src/set_icon_page.py:149
 msgid "Choose a new picture for your account"
-msgstr "選擇用戶頭像"
+msgstr "選擇帳號照片"
 
 #: ../src/set_icon_page.py:153
 msgid "Previously used pictures"
-msgstr "歷史使用頭像"
+msgstr "曾經使用的照片"
 
 #: ../src/set_icon_page.py:197
 msgid "Set <u>%s</u>'s picture"
-msgstr "設置<u>%s</u>的頭像"
+msgstr "設定 <u>%s</u> 的照片"
 
 #: ../src/set_icon_page.py:360 ../src/set_icon_page.py:389
 #: ../src/set_icon_page.py:395
 msgid "Edit Picture"
-msgstr "編輯頭像"
+msgstr "編輯照片"
 
 #: ../src/treeitem.py:175
 msgid "My Account"
