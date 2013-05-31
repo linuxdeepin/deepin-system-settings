@@ -1,7 +1,7 @@
 # Chinese translations for PACKAGE package.
 # Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2012.
+# Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013.
 #
 msgid ""
 msgstr ""
@@ -18,175 +18,175 @@ msgstr ""
 
 #: ../src/search_keyword.py:29 ../src/display_view.py:276
 msgid "Monitor Display"
-msgstr ""
+msgstr "顯示器顯示設定值"
 
 #: ../src/search_keyword.py:30 ../src/display_view.py:283
 msgid "Monitor"
-msgstr ""
+msgstr "顯示器"
 
 #: ../src/search_keyword.py:31 ../src/display_view.py:328
 msgid "Resolution"
-msgstr ""
+msgstr "解析度"
 
 #: ../src/search_keyword.py:32 ../src/display_view.py:343
 msgid "Rotation"
-msgstr ""
+msgstr "旋轉"
 
 #: ../src/search_keyword.py:33 ../src/display_view.py:371
 msgid "Monitor Brightness"
-msgstr ""
+msgstr "螢幕亮度設定值"
 
 #: ../src/search_keyword.py:34 ../src/display_view.py:380
 msgid "Brightness"
-msgstr ""
+msgstr "螢幕亮度"
 
 #: ../src/search_keyword.py:35
 msgid "Auto Adjust Monitor Brightness"
-msgstr ""
+msgstr "自動調整螢幕亮度設定值"
 
 #: ../src/search_keyword.py:36 ../src/display_view.py:412
 msgid "Close Monitor"
-msgstr ""
+msgstr "關閉顯示器"
 
 #: ../src/search_keyword.py:37
 msgid "Auto Lock User Monitor Screen"
-msgstr ""
+msgstr "自動鎖定使用者的畫面"
 
 #: ../src/search_keyword.py:38 ../src/display_view.py:446
 msgid "Lock Screen"
-msgstr ""
+msgstr "鎖定畫面"
 
 #: ../src/display_view.py:224
 msgid "Copy Display"
-msgstr ""
+msgstr "複製顯示"
 
 #: ../src/display_view.py:225
 msgid "Extend Display"
-msgstr ""
+msgstr "延伸顯示"
 
 #: ../src/display_view.py:226
 msgid "Only Monitor 1 shown"
-msgstr ""
+msgstr "僅顯示第 1 個顯示器"
 
 #: ../src/display_view.py:227
 msgid "Only Monitor 2 shown"
-msgstr ""
+msgstr "僅顯示第 2 個顯示器"
 
 #: ../src/display_view.py:228
 msgid "Normal"
-msgstr ""
+msgstr "一般"
 
 #: ../src/display_view.py:229
 msgid "Right"
-msgstr ""
+msgstr "右方"
 
 #: ../src/display_view.py:230
 msgid "Left"
-msgstr ""
+msgstr "左方"
 
 #: ../src/display_view.py:231
 msgid "Inverted"
-msgstr ""
+msgstr "反轉"
 
 #: ../src/display_view.py:232
 msgid "Minute"
-msgstr ""
+msgstr "分鐘"
 
 #: ../src/display_view.py:233 ../src/display_view.py:234
 #: ../src/display_view.py:235 ../src/display_view.py:236
 #: ../src/display_view.py:237
 msgid "Minutes"
-msgstr ""
+msgstr "分鐘"
 
 #: ../src/display_view.py:238
 msgid "Hour"
-msgstr ""
+msgstr "小時"
 
 #: ../src/display_view.py:239
 msgid "Never"
-msgstr ""
+msgstr "永不"
 
 #: ../src/display_view.py:296
 msgid "Relative Settings"
-msgstr ""
+msgstr "關聯設定值"
 
 #: ../src/display_view.py:302
 #, python-format
 msgid "<span foreground=\"%s\" underline=\"single\">Personalization</span>"
-msgstr ""
+msgstr "<span foreground=\"%s\" underline=\"single\">個人化</span>"
 
 #: ../src/display_view.py:310
 #, python-format
 msgid "<span foreground=\"%s\" underline=\"single\">Power</span>"
-msgstr ""
+msgstr "<span foreground=\"%s\" underline=\"single\">電源</span>"
 
 #: ../src/display_view.py:356
 msgid "Multi-Monitors"
-msgstr ""
+msgstr "多個顯示器"
 
 #: ../src/display_view.py:398
 msgid "Auto Adjust Brightness"
-msgstr ""
+msgstr "自動調整螢幕亮度"
 
 #: ../src/display_view.py:425
 msgid "Monitor Screen Lock"
-msgstr ""
+msgstr "鎖定畫面"
 
 #: ../src/display_view.py:431
 msgid "Auto Lock User Screen"
-msgstr ""
+msgstr "自動鎖定使用者畫面"
 
 #: ../src/display_view.py:497
 msgid "Reset to default value"
-msgstr ""
+msgstr "重設為預設值"
 
 #: ../src/display_view.py:581
 #, python-format
 msgid "Changed brightness to %d%%"
-msgstr ""
+msgstr "已變更亮度設定值為 %d%%"
 
 #: ../src/display_view.py:606
 msgid "Changed to manual adjustment"
-msgstr ""
+msgstr "已變更為手動調整模式"
 
 #: ../src/display_view.py:609
 msgid "Changed to automatic adjustment"
-msgstr ""
+msgstr "已變更為自動調整模式"
 
 #: ../src/display_view.py:615
 msgid "Changed to manual lock"
-msgstr ""
+msgstr "已變更為手動鎖定模式"
 
 #: ../src/display_view.py:618
 msgid "Changed to automatic lock"
-msgstr ""
+msgstr "已變更為自動鎖定模式"
 
 #: ../src/display_view.py:623
 #, python-format
 msgid "Changed current output to %s"
-msgstr ""
+msgstr "已變更目前輸出為 %s"
 
 #: ../src/display_view.py:629
 #, python-format
 msgid "Changed resolution to %s"
-msgstr ""
+msgstr "已變更解析度為 %s"
 
 #: ../src/display_view.py:634
 #, python-format
 msgid "Changed rotation to %s"
-msgstr ""
+msgstr "已變更旋轉設定值為 %s"
 
 #: ../src/display_view.py:639
 #, python-format
 msgid "Changed multiply monitors mode to %s"
-msgstr ""
+msgstr "已變更多重顯示器模式為 %s"
 
 #: ../src/display_view.py:644
 #, python-format
 msgid "Changed close monitor duration to %s"
-msgstr ""
+msgstr "已變更顯示器關閉持續時間為 %s"
 
 #: ../src/display_view.py:649
 #, python-format
 msgid "Changed lock display duration to %s"
-msgstr ""
+msgstr "已變更書面鎖定持續時間為 %s"
