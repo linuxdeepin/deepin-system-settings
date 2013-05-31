@@ -1,7 +1,7 @@
 # Chinese translations for PACKAGE package.
 # Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2012.
+# Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013
 #
 msgid ""
 msgstr ""
@@ -18,19 +18,19 @@ msgstr ""
 
 #: ../src/search_keyword.py:25
 msgid "Sound"
-msgstr "聲音"
+msgstr "音效"
 
 #: ../src/search_keyword.py:26
 #: ../src/main.py:113
 #: ../src/main.py:443
 #: ../src/main.py:447
 msgid "Balance"
-msgstr "均衡"
+msgstr "平衡"
 
 #: ../src/search_keyword.py:27
 #: ../src/main.py:106
 msgid "Speaker"
-msgstr "揚聲器"
+msgstr "喇叭"
 
 #: ../src/search_keyword.py:28
 #: ../src/main.py:107
@@ -49,19 +49,19 @@ msgstr "輸入"
 
 #: ../src/search_keyword.py:31
 msgid "Hardware"
-msgstr "硬件"
+msgstr "硬體"
 
 #: ../src/tray_sound_gui.py:96
 msgid "Device"
-msgstr "設備"
+msgstr "裝置"
 
 #: ../src/tray_sound_gui.py:124
 msgid "Applications"
-msgstr "應用程序"
+msgstr "應用程式"
 
 #: ../src/tray_sound_gui.py:132
 msgid "Advanced..."
-msgstr "更多高級選項..."
+msgstr "進階..."
 
 #: ../src/tray_sound_gui.py:290
 msgid "Volume"
@@ -74,7 +74,7 @@ msgid "Mute"
 msgstr "靜音"
 
 msgid "Sound Enabled"
-msgstr "開啓聲音"
+msgstr "啟用音效"
 
 msgid "Playing"
 msgstr "播放中"
@@ -94,7 +94,7 @@ msgstr "右"
 
 #: ../src/main.py:110
 msgid "Output Port"
-msgstr "輸出端口"
+msgstr "輸出連接埠"
 
 #: ../src/main.py:111
 #: ../src/main.py:442
@@ -104,7 +104,7 @@ msgstr "輸出音量"
 
 #: ../src/main.py:114
 msgid "Input Port"
-msgstr "輸入端口"
+msgstr "輸入連接埠"
 
 #: ../src/main.py:117
 msgid "Input Level"
@@ -119,23 +119,23 @@ msgstr "輸入音量"
 #: ../src/main.py:127
 #: ../src/main.py:621
 msgid "Advanced"
-msgstr "高級設置"
+msgstr "進階"
 
 #: ../src/main.py:175
 msgid "Choose a device for sound output:"
-msgstr "選擇音頻輸出設備"
+msgstr "選擇聲音輸出的裝置:"
 
 #: ../src/main.py:176
 msgid "Choose a device for sound input:"
-msgstr "選擇音頻輸入設備"
+msgstr "選擇聲音輸入的裝置:"
 
 #: ../src/main.py:177
 msgid "Choose a device to configure:"
-msgstr "選擇要配置的設備"
+msgstr "選擇一個要設定的裝置:"
 
 #: ../src/main.py:444
 msgid "Muted output"
-msgstr "輸出設為靜音"
+msgstr "設定輸出為靜音"
 
 #: ../src/main.py:448
 msgid "Unmuted output"
@@ -143,7 +143,7 @@ msgstr "取消輸出靜音"
 
 #: ../src/main.py:458
 msgid "Muted input"
-msgstr "輸入設為靜音"
+msgstr "設定輸入為靜音"
 
 #: ../src/main.py:461
 msgid "Unmuted input"
@@ -151,19 +151,19 @@ msgstr "取消輸入靜音"
 
 #: ../src/main.py:493
 msgid "Set output port to %s"
-msgstr "輸出端口設為%s"
+msgstr "設定輸出連接埠為%s"
 
 #: ../src/main.py:502
 msgid "Set input port to %s"
-msgstr "輸入端口設為%s"
+msgstr "設定輸入連接埠為%s"
 
 #: ../src/main.py:517
 msgid "Output device %s selected"
-msgstr "選擇輸出設備：%s"
+msgstr "已選擇輸出裝置：%s"
 
 #: ../src/main.py:523
 msgid "Input device %s selected"
-msgstr "選擇輸入設備：%s"
+msgstr "已選擇輸入裝置：%s"
 
 #: ../src/main.py:763
 msgid "%d Outputs"
