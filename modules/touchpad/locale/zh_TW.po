@@ -1,7 +1,7 @@
 # Chinese translations for PACKAGE package.
 # Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2012.
+# Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013.
 #
 msgid ""
 msgstr ""
@@ -18,12 +18,12 @@ msgstr ""
 
 #: ../src/search_keyword.py:25
 msgid "Touchpad"
-msgstr "觸摸板"
+msgstr "觸控板"
 
 #: ../src/search_keyword.py:26
 #: ../src/main.py:93
 msgid "Pointer Speed"
-msgstr "指針速度"
+msgstr "指標速度"
 
 #: ../src/search_keyword.py:27
 #: ../src/main.py:94
@@ -33,7 +33,7 @@ msgstr "移動速度"
 #: ../src/search_keyword.py:28
 #: ../src/main.py:96
 msgid "Sensitivity"
-msgstr "精確度"
+msgstr "靈敏度"
 
 #: ../src/search_keyword.py:29
 #: ../src/main.py:98
@@ -62,11 +62,11 @@ msgstr "解除延時"
 
 #: ../src/main.py:92
 msgid "Custom"
-msgstr "使用習慣"
+msgstr "自訂"
 
 #: ../src/main.py:101
 msgid "Double-click on the smiley face to test your settings."
-msgstr "雙擊笑臉測試您的點擊頻率。"
+msgstr "雙擊笑臉來測試點擊頻率設定值。"
 
 #: ../src/main.py:103
 msgid "Drag and Drop"
@@ -74,29 +74,29 @@ msgstr "拖放速度"
 
 #: ../src/main.py:106
 msgid "Relevant Settings"
-msgstr "相關設置"
+msgstr "關聯設定值"
 
 #: ../src/main.py:112
 msgid "Keyboard Settings"
-msgstr "鍵盤設置"
+msgstr "鍵盤配置"
 
 #: ../src/main.py:115
 msgid "Mouse Settings"
-msgstr "鼠標設置"
+msgstr "滑鼠設定值"
 
 #: ../src/main.py:118
 msgid "Reset to Defaults"
-msgstr "恢復默認"
+msgstr "重設為預設值"
 
 #: ../src/main.py:281
 #: ../src/main.py:331
 msgid "Slow"
-msgstr "慢"
+msgstr "慢速"
 
 #: ../src/main.py:282
 #: ../src/main.py:332
 msgid "Fast"
-msgstr "快"
+msgstr "快速"
 
 #: ../src/main.py:297
 msgid "Low"
@@ -116,12 +116,12 @@ msgstr "長"
 
 #: ../src/main.py:496
 msgid "Set to right-handed"
-msgstr "設為慣用左手"
+msgstr "設定為「慣用右手」"
 
 #: ../src/main.py:498
 msgid "Set to left-handed"
-msgstr "設為慣用右手"
+msgstr "設定為「慣用左手」"
 
 #: ../src/main.py:592
 msgid "Reset to defaults"
-msgstr "恢復默認值"
+msgstr "重設為預設值"
