@@ -1,7 +1,7 @@
 # Chinese translations for PACKAGE package.
 # Copyright (C) 2013 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2013.
+# Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013
 #
 msgid ""
 msgstr ""
@@ -18,66 +18,66 @@ msgstr ""
 
 #: ../src/tray_bluetooth_plugin.py:173
 msgid "Adapter"
-msgstr ""
+msgstr "介面卡"
 
 #: ../src/tray_bluetooth_plugin.py:201
 msgid "Advanced option..."
-msgstr ""
+msgstr "進階選項..."
 
 #: ../src/bluetooth_view.py:84
 msgid "Pair"
-msgstr ""
+msgstr "配對"
 
 #: ../src/bluetooth_view.py:86
 msgid "Send File"
-msgstr ""
+msgstr "傳送檔案"
 
 #: ../src/bluetooth_view.py:88
 msgid "Remove Device"
-msgstr ""
+msgstr "移除裝置"
 
 #: ../src/bluetooth_view.py:275
 msgid "Pair Failed!"
-msgstr ""
+msgstr "配對失敗"
 
 #: ../src/bluetooth_view.py:285
 #, python-format
 msgid "Please confirm %s pin match as below"
-msgstr ""
+msgstr "請確認裝置 %s 上顯示的 PIN 與下面的相符"
 
 #: ../src/bluetooth_view.py:286
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: ../src/bluetooth_view.py:287
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: ../src/bluetooth_view.py:362
 #, python-format
 msgid "in %d seconds"
-msgstr ""
+msgstr "在 %d 秒內"
 
 #: ../src/bluetooth_view.py:396 ../src/bluetooth_view.py:400
 #: ../src/bluetooth_view.py:403
 msgid "Bluetooth"
-msgstr ""
+msgstr "藍牙"
 
 #: ../src/bluetooth_view.py:407 ../src/search_keyword.py:29
 msgid "Bluetooth Get Powered"
-msgstr ""
+msgstr "藍牙是否啟用"
 
 #: ../src/bluetooth_view.py:427 ../src/search_keyword.py:30
 msgid "Device Shown Name"
-msgstr ""
+msgstr "顯示裝置名稱"
 
 #: ../src/bluetooth_view.py:445
 msgid "Be Discoverable"
-msgstr ""
+msgstr "可被發現"
 
 #: ../src/bluetooth_view.py:478
 msgid "Search"
-msgstr ""
+msgstr "搜尋"
 
 #: ../src/bluetooth_sender.py:51
 #, python-format
@@ -85,24 +85,26 @@ msgid ""
 "Failed!\n"
 "error msg: %s"
 msgstr ""
+"抱歉！文件傳送失敗，請檢視您的藍牙網路設定。\n"
+"錯誤訊息: %s"
 
 #: ../src/bluetooth_sender.py:66
 #, python-format
 msgid "Sending file to %s"
-msgstr ""
+msgstr "傳送檔案到 %s"
 
 #: ../src/bluetooth_sender.py:83
 msgid "Succeed!"
-msgstr ""
+msgstr "傳送成功！"
 
 #: ../src/bluetooth_sender.py:114
 msgid "Select File"
-msgstr ""
+msgstr "選擇檔案"
 
 #: ../src/search_keyword.py:31
 msgid "Be Searchedable"
-msgstr ""
+msgstr "可被搜尋"
 
 #: ../src/search_keyword.py:32
 msgid "Searching Device Timeout"
-msgstr ""
+msgstr "搜尋裝置逾時"
