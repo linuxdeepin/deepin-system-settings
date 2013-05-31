@@ -1,7 +1,7 @@
 # Chinese translations for PACKAGE package.
 # Copyright (C) 2013 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2013.
+# Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013
 #
 msgid ""
 msgstr ""
@@ -18,160 +18,160 @@ msgstr ""
 
 #: ../src/desktop_view.py:65
 msgid "Default Style"
-msgstr ""
+msgstr "預設樣式"
 
 #: ../src/desktop_view.py:66
 msgid "Auto Hide"
-msgstr ""
+msgstr "自動隱藏"
 
 #: ../src/desktop_view.py:67
 msgid "Invisible"
-msgstr ""
+msgstr "一直隱藏"
 
 #: ../src/desktop_view.py:68
 msgid "Buttom"
-msgstr ""
+msgstr "底部"
 
 #: ../src/desktop_view.py:69
 msgid "Top"
-msgstr ""
+msgstr "頂端"
 
 #: ../src/desktop_view.py:70
 msgid "Default Icon"
-msgstr ""
+msgstr "預設圖示"
 
 #: ../src/desktop_view.py:71
 msgid "Small"
-msgstr ""
+msgstr "小"
 
 #: ../src/desktop_view.py:72 ../src/desktop_view.py:75
 msgid "Nothing"
-msgstr ""
+msgstr "無"
 
 #: ../src/desktop_view.py:73
 msgid "Opening Window"
-msgstr ""
+msgstr "開啟的視窗"
 
 #: ../src/desktop_view.py:74
 msgid "Launcher"
-msgstr ""
+msgstr "啟動器"
 
 #: ../src/desktop_view.py:75
 msgid "Maximize"
-msgstr ""
+msgstr "最大化"
 
 #: ../src/desktop_view.py:81 ../src/search_keyword.py:29
 msgid "Desktop Icon"
-msgstr ""
+msgstr "桌面圖示"
 
 #: ../src/desktop_view.py:89
 msgid "Computer"
-msgstr ""
+msgstr "電腦"
 
 #: ../src/desktop_view.py:92
 msgid "Home"
-msgstr ""
+msgstr "家目錄"
 
 #: ../src/desktop_view.py:95
 msgid "Trash"
-msgstr ""
+msgstr "回收筒"
 
 #: ../src/desktop_view.py:98
 msgid "Software Center"
-msgstr ""
+msgstr "軟體中心"
 
 #: ../src/desktop_view.py:113 ../src/search_keyword.py:30
 msgid "Dock"
-msgstr ""
+msgstr "Dock"
 
 #: ../src/desktop_view.py:119
 msgid "Display Style"
-msgstr ""
+msgstr "顯示樣式"
 
 #: ../src/desktop_view.py:139
 msgid "Place Style"
-msgstr ""
+msgstr "位置樣式"
 
 #: ../src/desktop_view.py:151
 msgid "Icon Size"
-msgstr ""
+msgstr "圖示大小"
 
 #: ../src/desktop_view.py:165
 msgid "Preview"
-msgstr ""
+msgstr "預覽"
 
 #: ../src/desktop_view.py:173 ../src/search_keyword.py:31
 msgid "Hot Zone"
-msgstr ""
+msgstr "螢幕熱區"
 
 #: ../src/desktop_view.py:176
 msgid "Top Left"
-msgstr ""
+msgstr "左上角"
 
 #: ../src/desktop_view.py:195
 msgid "Bottom Right"
-msgstr ""
+msgstr "右下角"
 
 #: ../src/desktop_view.py:216
 msgid "Top Edge"
-msgstr ""
+msgstr "頂部邊界"
 
 #: ../src/desktop_view.py:228
 msgid "Left Edge"
-msgstr ""
+msgstr "左邊邊界"
 
 #: ../src/desktop_view.py:240
 msgid "Right Edge"
-msgstr ""
+msgstr "右邊邊界"
 
 #: ../src/desktop_view.py:255
 msgid "Login &amp;&amp; Lock"
-msgstr ""
+msgstr "登入與鎖定畫面"
 
 #: ../src/desktop_view.py:263
 msgid "Login Page"
-msgstr ""
+msgstr "登入畫面"
 
 #: ../src/desktop_view.py:268 ../src/desktop_view.py:284
 msgid "Select"
-msgstr ""
+msgstr "選擇"
 
 #: ../src/desktop_view.py:279
 msgid "Lock Page"
-msgstr ""
+msgstr "鎖定畫面"
 
 #: ../src/desktop_view.py:334
 msgid "Show computer icon"
-msgstr ""
+msgstr "顯示“電腦”圖示"
 
 #: ../src/desktop_view.py:336
 msgid "Hide computer icon"
-msgstr ""
+msgstr "隱藏“電腦”圖示"
 
 #: ../src/desktop_view.py:342
 msgid "Show home icon"
-msgstr ""
+msgstr "顯示“家目錄”圖示"
 
 #: ../src/desktop_view.py:344
 msgid "Hide home icon"
-msgstr ""
+msgstr "隱藏“家目錄”圖示"
 
 #: ../src/desktop_view.py:350
 msgid "Show trash icon"
-msgstr ""
+msgstr "顯示“回收筒”圖示"
 
 #: ../src/desktop_view.py:352
 msgid "Hide trash icon"
-msgstr ""
+msgstr "隱藏“回收筒”圖示"
 
 #: ../src/desktop_view.py:358
 msgid "Show deepin software center icon"
-msgstr ""
+msgstr "顯示“軟體中心”圖示"
 
 #: ../src/desktop_view.py:360
 msgid "Hide deepin software conter icon"
-msgstr ""
+msgstr "隱藏“軟體中心”圖示"
 
 #: ../src/desktop_view.py:415
 msgid "Reset to default value"
-msgstr ""
+msgstr "還原為預設值"
