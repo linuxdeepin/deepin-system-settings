@@ -1,7 +1,7 @@
 # Chinese translations for PACKAGE package.
 # Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2012.
+# Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013
 #
 msgid ""
 msgstr ""
@@ -18,12 +18,12 @@ msgstr ""
 
 #: ../src/search_keyword.py:25
 msgid "Mouse"
-msgstr "鼠標"
+msgstr "滑鼠"
 
 #: ../src/search_keyword.py:26
 #: ../src/main.py:85
 msgid "Pointer Speed"
-msgstr "指針速度"
+msgstr "指標速度"
 
 #: ../src/search_keyword.py:27
 #: ../src/main.py:86
@@ -33,7 +33,7 @@ msgstr "移動速度"
 #: ../src/search_keyword.py:28
 #: ../src/main.py:90
 msgid "Sensitivity"
-msgstr "精確度"
+msgstr "靈敏度"
 
 #: ../src/search_keyword.py:29
 #: ../src/main.py:94
@@ -57,21 +57,21 @@ msgstr "慣用左手"
 
 #: ../src/main.py:84
 msgid "Custom"
-msgstr "使用習慣"
+msgstr "自訂"
 
 #: ../src/main.py:88
 #: ../src/main.py:97
 #: ../src/main.py:273
 #: ../src/main.py:320
 msgid "Fast"
-msgstr "快"
+msgstr "快速"
 
 #: ../src/main.py:89
 #: ../src/main.py:98
 #: ../src/main.py:272
 #: ../src/main.py:319
 msgid "Slow"
-msgstr "慢"
+msgstr "慢速"
 
 #: ../src/main.py:92
 #: ../src/main.py:287
@@ -85,32 +85,32 @@ msgstr "高"
 
 #: ../src/main.py:99
 msgid "Double-click on the smiley face to test your settings."
-msgstr "雙擊笑臉測試您的點擊頻率。"
+msgstr "雙擊笑臉來測試點擊頻率設定值。"
 
 #: ../src/main.py:101
 msgid "Relevant Settings"
-msgstr "相關設置"
+msgstr "關聯設定值"
 
 #: ../src/main.py:107
 msgid "Keyboard Settings"
-msgstr "鍵盤設置"
+msgstr "鍵盤設定值"
 
 #: ../src/main.py:110
 msgid "TouchPad Settings"
-msgstr "觸摸板設置"
+msgstr "觸控板設定值"
 
 #: ../src/main.py:113
 msgid "Reset"
-msgstr "恢復默認"
+msgstr "重設為預設值"
 
 #: ../src/main.py:430
 msgid "Set to left-handed"
-msgstr "設為慣用左手"
+msgstr "設定為慣用左手"
 
 #: ../src/main.py:432
 msgid "Set to right-handed"
-msgstr "設為慣用右手"
+msgstr "設定為慣用右手"
 
 #: ../src/main.py:516
 msgid "Reset to defaults"
-msgstr "恢復默認值"
+msgstr "重設為預設值"
