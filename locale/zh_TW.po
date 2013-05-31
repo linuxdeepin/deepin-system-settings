@@ -1,7 +1,7 @@
 # Chinese translations for PACKAGE package.
 # Copyright (C) 2013 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2013.
+# Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013.
 #
 msgid ""
 msgstr ""
@@ -18,20 +18,20 @@ msgstr ""
 
 #: ../dss/action_bar.py:100 ../dss/main.py:270
 msgid "System Settings"
-msgstr ""
+msgstr "系統設定"
 
 #: ../dss/foot_box.py:57
 msgid "Reset"
-msgstr ""
+msgstr "重設"
 
 #: ../dss/bluetooth_dialog.py:62
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ../dss/bluetooth_dialog.py:112
 msgid "Ok"
-msgstr ""
+msgstr "確認"
 
 #: ../dss/main.py:390
 msgid "Deepin System Settings"
-msgstr ""
+msgstr "深度系統設定"
