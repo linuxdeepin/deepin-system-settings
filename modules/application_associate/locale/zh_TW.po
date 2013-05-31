@@ -1,7 +1,7 @@
 # Chinese translations for PACKAGE package.
 # Copyright (C) 2013 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2013.
+# Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013.
 #
 msgid ""
 msgstr ""
@@ -19,158 +19,158 @@ msgstr ""
 #: ../src/app_asso_view.py:61 ../src/search_keyword.py:29
 #: ../src/session_view.py:51
 msgid "Application"
-msgstr ""
+msgstr "應用程式"
 
 msgid "Default Applications"
-msgstr ""
+msgstr "預設應用程式"
 
 #: ../src/app_asso_view.py:62 ../src/search_keyword.py:30
 msgid "Media"
-msgstr ""
+msgstr "媒體"
 
 msgid "Autoplay"
-msgstr ""
+msgstr "自動播放"
 
 #: ../src/app_asso_view.py:63 ../src/search_keyword.py:31
 msgid "Autostart"
-msgstr ""
+msgstr "自動啟動"
 
 #: ../src/media_view.py:49
 msgid "You can choose the operation after plugining media or device"
-msgstr ""
+msgstr "您可以選擇插入媒體或裝置後的操作"
 
 #: ../src/media_view.py:51
 msgid "CD"
-msgstr ""
+msgstr "CD"
 
 #: ../src/media_view.py:52
 msgid "DVD"
-msgstr ""
+msgstr "DVD"
 
 #: ../src/media_view.py:53
 msgid "music player"
-msgstr ""
+msgstr "音樂播放器"
 
 #: ../src/media_view.py:54
 msgid "camera"
-msgstr ""
+msgstr "照相機"
 
 #: ../src/media_view.py:55
 msgid "software"
-msgstr ""
+msgstr "應用程式"
 
 #: ../src/media_view.py:57
 msgid "other applications"
-msgstr ""
+msgstr "其他應用程式"
 
 #: ../src/media_view.py:58
 msgid "ask"
-msgstr ""
+msgstr "詢問"
 
 #: ../src/media_view.py:59
 msgid "do nothing"
-msgstr ""
+msgstr "不做任何事"
 
 #: ../src/media_view.py:60
 msgid "open folder"
-msgstr ""
+msgstr "開啟資料夾"
 
 #: ../src/media_view.py:61
 msgid "apply auto mount for all media and devices"
-msgstr ""
+msgstr "套用自動掛載全部媒體和裝置"
 
 #: ../src/media_view.py:62
 msgid "apply auto open for all media and devices"
-msgstr ""
+msgstr "套用自動開啟全部媒體和裝置"
 
 #: ../src/media_view.py:69
 msgid "more option"
-msgstr ""
+msgstr "更多選項"
 
 #: ../src/search_keyword.py:32
 msgid "Application Associate"
-msgstr ""
+msgstr "應用程式關聯"
 
 #: ../src/session_view.py:51
 msgid "Exec"
-msgstr ""
+msgstr "執行"
 
 #: ../src/session_view.py:51
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: ../src/session_view.py:64
 msgid "New"
-msgstr ""
+msgstr "新增"
 
 #: ../src/session_view.py:65
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: ../src/app_view.py:42
 msgid "web"
-msgstr ""
+msgstr "網頁"
 
 #: ../src/app_view.py:43
 msgid "mail"
-msgstr ""
+msgstr "郵件"
 
 #: ../src/app_view.py:44
 msgid "editor"
-msgstr ""
+msgstr "編輯器"
 
 #: ../src/app_view.py:45
 msgid "music"
-msgstr ""
+msgstr "音樂"
 
 #: ../src/app_view.py:46
 msgid "video"
-msgstr ""
+msgstr "影片"
 
 #: ../src/app_view.py:47
 msgid "photo"
-msgstr ""
+msgstr "相片"
 
 #: ../src/app_view.py:48
 msgid "terminal"
-msgstr "終端"
+msgstr "終端機"
 
 #: ../src/widget.py:44
 msgid "Autostart app"
-msgstr ""
+msgstr "自動啟動程式"
 
 #: ../src/widget.py:53
 msgid "OK"
-msgstr ""
+msgstr "確定"
 
 #: ../src/widget.py:54
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ../src/widget.py:87
 msgid "Name:"
-msgstr ""
+msgstr "名稱:"
 
 #: ../src/widget.py:88
 msgid "Exec:"
-msgstr ""
+msgstr "執行:"
 
 #: ../src/widget.py:89
 msgid "Description:"
-msgstr ""
+msgstr "描述:"
 
 #: ../src/treeview.py:117
 msgid "No exec"
-msgstr ""
+msgstr "無執行"
 
 #: ../src/treeview.py:131
 msgid "No description"
-msgstr ""
+msgstr "無描述"
 
 #: ../src/treeview.py:140
 msgid "active"
-msgstr ""
+msgstr "使用"
 
 #: ../src/treeview.py:142
 msgid "not running"
-msgstr ""
+msgstr "未運行"
