@@ -1,7 +1,7 @@
 # Chinese translations for PACKAGE package.
 # Copyright (C) 2013 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2013.
+# Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013.
 #
 msgid ""
 msgstr ""
@@ -18,102 +18,102 @@ msgstr ""
 
 #: ../src/main.py:122 ../src/ui/delete_page.py:97 ../src/ui/select_page.py:357
 msgid "Delete Wallpaper"
-msgstr ""
+msgstr "刪除桌布"
 
 #: ../src/main.py:136
 #, python-format
 msgid "%s Theme Setting"
-msgstr ""
+msgstr "佈景主題「%s」設定值"
 
 #: ../src/main.py:141
 msgid "Add Wallpaper"
-msgstr ""
+msgstr "加入桌布"
 
 #: ../src/search_keyword.py:29
 msgid "Personalization"
-msgstr ""
+msgstr "個人化"
 
 #: ../src/search_keyword.py:30 ../src/ui/theme_page.py:55
 msgid "My Theme"
-msgstr ""
+msgstr "我的佈景主題"
 
 #: ../src/search_keyword.py:31 ../src/ui/theme_page.py:60
 msgid "System Theme"
-msgstr ""
+msgstr "系統佈景主題"
 
 #: ../src/search_keyword.py:32
 msgid "Wallpaper"
-msgstr ""
+msgstr "桌布"
 
 #: ../src/search_keyword.py:33 ../src/ui/add_page.py:85
 msgid "Picture"
-msgstr ""
+msgstr "「圖片」目錄"
 
 #: ../src/theme_manager.py:412
 msgid "Untitled"
-msgstr ""
+msgstr "無標題"
 
 #: ../src/ui/add_page.py:79
 msgid "Library"
-msgstr ""
+msgstr "本地資料庫"
 
 #: ../src/ui/add_page.py:80
 msgid "From Internet"
-msgstr ""
+msgstr "網路資料庫"
 
 #: ../src/ui/add_page.py:84
 msgid "System"
-msgstr ""
+msgstr "系統桌布"
 
 #: ../src/ui/add_page.py:86
 msgid "My Favorite"
-msgstr ""
+msgstr "我的愛好"
 
 #: ../src/ui/add_page.py:87
 msgid "360BiZhi"
-msgstr ""
+msgstr "360 壁紙"
 
 #: ../src/ui/add_page.py:88
 msgid "LoveBiZhi HD"
-msgstr ""
+msgstr "愛壁紙 HD"
 
 #: ../src/ui/detail_page.py:37
 msgid "Minute"
-msgstr ""
+msgstr "分鐘"
 
 #: ../src/ui/detail_page.py:37 ../src/ui/detail_page.py:38
 #: ../src/ui/detail_page.py:39 ../src/ui/detail_page.py:40
 msgid "Minutes"
-msgstr ""
+msgstr "分鐘"
 
 #: ../src/ui/detail_page.py:40
 msgid "Hour"
-msgstr ""
+msgstr "小時"
 
 #: ../src/ui/detail_page.py:41 ../src/ui/detail_page.py:42
 #: ../src/ui/detail_page.py:43
 msgid "Hours"
-msgstr ""
+msgstr "小時"
 
 #: ../src/ui/detail_page.py:46
 msgid "Scaling"
-msgstr ""
+msgstr "縮放"
 
 #: ../src/ui/detail_page.py:46
 msgid "Tiling"
-msgstr ""
+msgstr "鋪排"
 
 #: ../src/ui/detail_page.py:70
 msgid "Position"
-msgstr ""
+msgstr "圖片位置"
 
 #: ../src/ui/detail_page.py:73
 msgid "Duration"
-msgstr ""
+msgstr "變更桌布時間間隔"
 
 #: ../src/ui/detail_page.py:80
 msgid "Random"
-msgstr ""
+msgstr "隨機變更"
 
 #: ../src/ui/detail_page.py:85 ../src/ui/detail_page.py:135
 #: ../src/ui/detail_page.py:144 ../src/ui/detail_page.py:152
@@ -126,12 +126,12 @@ msgstr ""
 #: ../src/ui/select_page.py:336 ../src/ui/select_page.py:350
 #: ../src/ui/select_page.py:354
 msgid "Select All"
-msgstr ""
+msgstr "全部選取"
 
 #: ../src/ui/detail_page.py:88 ../src/ui/delete_page.py:61
 #: ../src/ui/select_page.py:311
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: ../src/ui/detail_page.py:133 ../src/ui/detail_page.py:142
 #: ../src/ui/detail_page.py:150 ../src/ui/detail_page.py:231
@@ -140,71 +140,71 @@ msgstr ""
 #: ../src/ui/select_page.py:272 ../src/ui/select_page.py:290
 #: ../src/ui/select_page.py:334 ../src/ui/select_page.py:348
 msgid "UnSelect All"
-msgstr ""
+msgstr "取消全選"
 
 #: ../src/ui/wallpaper_view.py:57
 msgid "Apply Wallpaper"
-msgstr ""
+msgstr "設定為目前桌布"
 
 #: ../src/ui/wallpaper_item.py:1027
 msgid "downloaded"
-msgstr ""
+msgstr "已下載"
 
 #: ../src/ui/theme_view.py:94 ../src/ui/theme_view.py:111
 #, python-format
 msgid "Changed User Theme to %s"
-msgstr ""
+msgstr "已變更使用者的佈景主題為「%s」"
 
 #: ../src/ui/theme_view.py:130 ../src/ui/theme_view.py:256
 msgid "Theme Save As"
-msgstr ""
+msgstr "另存為"
 
 #: ../src/ui/theme_view.py:135
 msgid "Theme ReName"
-msgstr ""
+msgstr "重新命名"
 
 #: ../src/ui/theme_view.py:139 ../src/ui/theme_view.py:156
 msgid "Delete Theme"
-msgstr ""
+msgstr "刪除"
 
 #: ../src/ui/theme_view.py:140
 #, python-format
 msgid "Are you sure delete %s theme?"
-msgstr ""
+msgstr "您確定要刪除佈景主題「%s」嗎？"
 
 #: ../src/ui/theme_view.py:150 ../src/ui/theme_view.py:154
 #: ../src/ui/theme_view.py:260
 msgid "Save As"
-msgstr ""
+msgstr "另存為"
 
 #: ../src/ui/theme_view.py:153
 msgid "ReName"
-msgstr ""
+msgstr "重新命名"
 
 #: ../src/ui/theme_view.py:232 ../src/ui/theme_view.py:241
 #, python-format
 msgid "Changed System Theme to %s"
-msgstr ""
+msgstr "已變更系統佈景主題為「%s」"
 
 #: ../src/ui/cache_page.py:131 ../src/ui/delete_page.py:55
 #: ../src/ui/select_page.py:192 ../src/ui/select_page.py:248
 #: ../src/ui/select_page.py:307
 msgid "Back"
-msgstr ""
+msgstr "上一頁"
 
 #: ../src/ui/cache_page.py:133
 msgid "Download All"
-msgstr ""
+msgstr "下載全部"
 
 #: ../src/ui/delete_page.py:98 ../src/ui/select_page.py:358
 msgid "Are you sure delete wallpaper?"
-msgstr ""
+msgstr "你確定要刪除桌布嗎？"
 
 #: ../src/ui/select_page.py:196 ../src/ui/select_page.py:252
 #: ../src/ui/select_page.py:313
 msgid "Add"
-msgstr ""
+msgstr "加入"
 
 #: ../src/ui/select_page.py:282
 msgid "Please copy some pictures under Pictures"
-msgstr ""
+msgstr "請將幾張圖片複製到「圖片」目錄下"
