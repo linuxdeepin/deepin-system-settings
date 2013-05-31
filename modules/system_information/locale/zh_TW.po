@@ -22,26 +22,26 @@ msgstr "處理器"
 
 #: ../src/search_keyword.py:26 ../src/main.py:60
 msgid "Memory"
-msgstr "內存"
+msgstr "記憶體"
 
 #: ../src/search_keyword.py:27 ../src/main.py:61
 msgid "OS Type"
-msgstr "操作系統類型"
+msgstr "OS 類型"
 
 #: ../src/search_keyword.py:28 ../src/main.py:62
 msgid "Disk"
-msgstr "磁盤"
+msgstr "磁碟"
 
 msgid "System"
 msgstr "系統"
 
 #: ../src/search_keyword.py:29
 msgid "System information"
-msgstr "系統信息"
+msgstr "系統資訊"
 
 #: ../src/main.py:57
 msgid "Wuhan Deepin Technology Co.Ltd, All rights reserved"
-msgstr "武漢深之度科技優先公司 版權所有"
+msgstr "武漢深之度科技有限公司 版權所有"
 
 #: ../src/main.py:58
 msgid "Version"
@@ -49,4 +49,4 @@ msgstr "版本"
 
 #: ../src/main.py:151
 msgid "bit"
-msgstr "位"
+msgstr "位元"
