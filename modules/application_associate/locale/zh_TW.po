@@ -8,140 +8,140 @@ msgstr "DVD"
 
 #: ../src/media_view.py:55
 msgid "Music Player"
-msgstr ""
+msgstr "音樂播放器"
 
 #: ../src/media_view.py:56
 msgid "Camera"
-msgstr ""
+msgstr "照相機"
 
 #: ../src/media_view.py:57
 msgid "Software"
-msgstr ""
+msgstr "應用程式"
 
 #: ../src/media_view.py:62 ../src/media_view.py:222
 msgid "other applications"
-msgstr ""
+msgstr "其他應用程式"
 
 #: ../src/media_view.py:63
 msgid "ask"
-msgstr ""
+msgstr "詢問"
 
 #: ../src/media_view.py:64
 msgid "do nothing"
-msgstr ""
+msgstr "不做任何事"
 
 #: ../src/media_view.py:65
 msgid "open folder"
-msgstr ""
+msgstr "開啟資料夾"
 
 #: ../src/media_view.py:68 ../src/app_asso_view.py:62
 msgid "Autoplay"
-msgstr ""
+msgstr "自動播放"
 
 #: ../src/media_view.py:79
 msgid "more option"
-msgstr ""
+msgstr "更多選項"
 
 #: ../src/treeview.py:119
 msgid "No exec"
-msgstr ""
+msgstr "無命令"
 
 #: ../src/treeview.py:134
 msgid "No description"
-msgstr ""
+msgstr "無說明"
 
 #: ../src/treeview.py:143
 msgid "active"
-msgstr ""
+msgstr "使用"
 
 #: ../src/treeview.py:145
 msgid "not running"
-msgstr ""
+msgstr "未運行"
 
 #: ../src/app_view.py:42
 msgid "Web"
-msgstr ""
+msgstr "網頁"
 
 #: ../src/app_view.py:43
 msgid "Mail"
-msgstr ""
+msgstr "郵件"
 
 #: ../src/app_view.py:44
 msgid "Editor"
-msgstr ""
+msgstr "編輯器"
 
 #: ../src/app_view.py:45
 msgid "Music"
-msgstr ""
+msgstr "音樂"
 
 #: ../src/app_view.py:46
 msgid "Video"
-msgstr ""
+msgstr "影片"
 
 #: ../src/app_view.py:47
 msgid "Photo"
-msgstr ""
+msgstr "相片"
 
 #: ../src/app_view.py:48
 msgid "Terminal"
-msgstr ""
+msgstr "終端機"
 
 #: ../src/app_asso_view.py:61
 msgid "Default Applications"
-msgstr ""
+msgstr "預設應用程式"
 
 #: ../src/app_asso_view.py:63 ../src/search_keyword.py:31
 msgid "Autostart"
-msgstr ""
+msgstr "自動啟動"
 
 #: ../src/search_keyword.py:29 ../src/session_view.py:51
 msgid "Application"
-msgstr ""
+msgstr "應用程式"
 
 #: ../src/search_keyword.py:30
 msgid "Media"
-msgstr ""
+msgstr "媒體"
 
 #: ../src/search_keyword.py:32
 msgid "Application Associate"
-msgstr ""
+msgstr "應用程式關聯"
 
 #: ../src/session_view.py:51
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: ../src/session_view.py:51
 msgid "Exec"
-msgstr ""
+msgstr "執行"
 
 #: ../src/session_view.py:64
 msgid "New"
-msgstr ""
+msgstr "新增"
 
 #: ../src/session_view.py:65
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: ../src/widget.py:44
 msgid "Autostart app"
-msgstr ""
+msgstr "自動啟動程式"
 
 #: ../src/widget.py:53
 msgid "OK"
-msgstr ""
+msgstr "確認"
 
 #: ../src/widget.py:54
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ../src/widget.py:87
 msgid "Name:"
-msgstr ":"
+msgstr "名稱:"
 
 #: ../src/widget.py:89
 msgid "Exec:"
-msgstr ":"
+msgstr "執行:"
 
 #: ../src/widget.py:91
 msgid "Comment:"
-msgstr ":"
+msgstr "描述:"
