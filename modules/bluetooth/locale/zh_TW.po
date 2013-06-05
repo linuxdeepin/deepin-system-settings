@@ -59,7 +59,7 @@ msgstr "配對失敗"
 #: ../src/bluetooth_view.py:284
 #, python-format
 msgid "Please confirm %s pin match as below"
-msgstr "請確認裝置 %s 上顯示的 PIN 與下面的相符"
+msgstr "請確認裝置「%s」上顯示的 PIN 碼與下面的相符"
 
 #: ../src/bluetooth_view.py:285
 msgid "Yes"
@@ -99,7 +99,7 @@ msgstr ""
 #: ../src/bluetooth_sender.py:66
 #, python-format
 msgid "Sending file to %s"
-msgstr "傳送檔案到 %s"
+msgstr "正在傳送檔案到「%s」"
 
 #: ../src/bluetooth_sender.py:83
 msgid "Succeed!"
