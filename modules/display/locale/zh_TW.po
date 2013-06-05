@@ -39,15 +39,15 @@ msgstr "螢幕亮度"
 
 #: ../src/search_keyword.py:34 ../src/display_view.py:398
 msgid "Auto-Brightness"
-msgstr ""
+msgstr "自動調節螢幕亮度"
 
 #: ../src/search_keyword.py:35 ../src/display_view.py:412
 msgid "Turn off monitor"
-msgstr ""
+msgstr "關閉顯示器"
 
 #: ../src/search_keyword.py:36 ../src/display_view.py:431
 msgid "Lock screen automatically"
-msgstr ""
+msgstr "自動鎖定畫面"
 
 #: ../src/search_keyword.py:37 ../src/display_view.py:425
 #: ../src/display_view.py:446
@@ -64,11 +64,11 @@ msgstr "延伸顯示"
 
 #: ../src/display_view.py:226
 msgid "Only shown in display 1"
-msgstr ""
+msgstr "僅在第 1 個顯示器顯示"
 
 #: ../src/display_view.py:227
 msgid "Only shown in display 2"
-msgstr ""
+msgstr "僅在第 2 個顯示器顯示"
 
 #: ../src/display_view.py:228
 msgid "Normal"
@@ -120,7 +120,7 @@ msgstr "<span foreground=\"%s\" underline=\"single\">電源</span>"
 
 #: ../src/display_view.py:356
 msgid "Multi-Monitor"
-msgstr ""
+msgstr "多個顯示器"
 
 #: ../src/display_view.py:497
 msgid "Reset to default value"
@@ -129,23 +129,23 @@ msgstr "重設為預設值"
 #: ../src/display_view.py:581
 #, python-format
 msgid "Changed brightness to %d%%"
-msgstr "已變更亮度設定值為 %d%%"
+msgstr "已變更亮度設定值為「%d%%」"
 
 #: ../src/display_view.py:606
 msgid "Changed to manual adjustment"
-msgstr "已變更為手動調整模式"
+msgstr "已變更為「手動調整」模式"
 
 #: ../src/display_view.py:609
 msgid "Changed to automatic adjustment"
-msgstr "已變更為自動調整模式"
+msgstr "已變更為「自動調整」模式"
 
 #: ../src/display_view.py:615
 msgid "Changed to manual lock"
-msgstr "已變更為手動鎖定模式"
+msgstr "已變更為「手動鎖定」模式"
 
 #: ../src/display_view.py:618
 msgid "Changed to automatic lock"
-msgstr "已變更為自動鎖定模式"
+msgstr "已變更為「自動鎖定」模式"
 
 #: ../src/display_view.py:623
 #, python-format
@@ -165,17 +165,17 @@ msgstr "已變更旋轉設定值為 %s"
 #: ../src/display_view.py:639
 #, python-format
 msgid "Changed multi-monitor mode to %s"
-msgstr ""
+msgstr "已變更多顯示器模式為「%s」"
 
 #: ../src/display_view.py:644
 #, python-format
 msgid "Idle time before turning off display has been changed to to %s"
-msgstr ""
+msgstr "顯示器關閉前閑置時間已變更為「%s」"
 
 #: ../src/display_view.py:649
 #, python-format
 msgid "Idle time before locking display has been changed to %s"
-msgstr ""
+msgstr "顯示器鎖定前閑置時間已變更為「%s」"
 
 #~ msgid "Monitor Display"
 #~ msgstr "顯示器顯示設定值"
