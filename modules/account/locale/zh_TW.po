@@ -189,7 +189,7 @@ msgstr "沒有"
 #: ../src/main.py:750
 #, python-format
 msgid "%s's account type has been set as %s"
-msgstr "%s 的帳號類型已被設定為“%s”"
+msgstr "%s 的帳號類型已被設定為「%s」"
 
 #: ../src/main.py:867
 msgid "Current password"
@@ -298,7 +298,7 @@ msgstr "照片預覽"
 
 #: ../src/edit_icon_page.py:924
 msgid "no picture"
-msgstr "沒有圖片"
+msgstr "沒有照片"
 
 #~ msgid "Action"
 #~ msgstr "動作"
