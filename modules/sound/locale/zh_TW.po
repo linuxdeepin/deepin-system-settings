@@ -113,12 +113,12 @@ msgstr "取消輸入靜音"
 #: ../src/main.py:577 ../src/main_full.py:503
 #, python-format
 msgid "Set output port to %s"
-msgstr "設定輸出連接埠為%s"
+msgstr "設定輸出連接埠為「%s」"
 
 #: ../src/main.py:586 ../src/main_full.py:512
 #, python-format
 msgid "Set input port to %s"
-msgstr "設定輸入連接埠為%s"
+msgstr "設定輸入連接埠為「%s」"
 
 #: ../src/main.py:601 ../src/main_full.py:527
 #, python-format
