@@ -86,11 +86,11 @@ msgstr "重設為預設值"
 
 #: ../src/main.py:436
 msgid "Set to left-handed"
-msgstr "設定為慣用左手"
+msgstr "設定為「慣用左手」"
 
 #: ../src/main.py:438
 msgid "Set to right-handed"
-msgstr "設定為慣用右手"
+msgstr "設定為「慣用右手」"
 
 #: ../src/main.py:525
 msgid "Reset to defaults"
