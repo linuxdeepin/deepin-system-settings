@@ -139,7 +139,7 @@ msgstr "圖片位置"
 
 #: ../src/ui/detail_page.py:73
 msgid "Duration"
-msgstr "變更桌布時間間隔"
+msgstr "變更桌布間隔"
 
 #: ../src/ui/detail_page.py:80
 msgid "Random"
@@ -199,7 +199,7 @@ msgstr "系統桌布"
 
 #: ../src/ui/add_page.py:86
 msgid "My Favorite"
-msgstr "我的愛好"
+msgstr "我的喜好"
 
 #: ../src/ui/add_page.py:87
 msgid "360 Wallpaper"
