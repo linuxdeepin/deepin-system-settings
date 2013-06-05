@@ -142,35 +142,35 @@ msgstr "鎖定畫面"
 
 #: ../src/desktop_view.py:334
 msgid "Show computer icon"
-msgstr "顯示“電腦”圖示"
+msgstr "顯示「電腦」圖示"
 
 #: ../src/desktop_view.py:336
 msgid "Hide computer icon"
-msgstr "隱藏“電腦”圖示"
+msgstr "隱藏「電腦」圖示"
 
 #: ../src/desktop_view.py:342
 msgid "Show home icon"
-msgstr "顯示“家目錄”圖示"
+msgstr "顯示「家目錄」圖示"
 
 #: ../src/desktop_view.py:344
 msgid "Hide home icon"
-msgstr "隱藏“家目錄”圖示"
+msgstr "隱藏「家目錄」圖示"
 
 #: ../src/desktop_view.py:350
 msgid "Show trash icon"
-msgstr "顯示“回收筒”圖示"
+msgstr "顯示「回收筒」圖示"
 
 #: ../src/desktop_view.py:352
 msgid "Hide trash icon"
-msgstr "隱藏“回收筒”圖示"
+msgstr "隱藏「回收筒」圖示"
 
 #: ../src/desktop_view.py:358
 msgid "Show deepin software center icon"
-msgstr "顯示“軟體中心”圖示"
+msgstr "顯示「軟體中心」圖示"
 
 #: ../src/desktop_view.py:360
 msgid "Hide deepin software conter icon"
-msgstr "隱藏“軟體中心”圖示"
+msgstr "隱藏「軟體中心」圖示"
 
 #: ../src/desktop_view.py:415
 msgid "Reset to default value"
