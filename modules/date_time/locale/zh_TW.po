@@ -202,19 +202,19 @@ msgstr "變更日期為 %d-%d-%d"
 
 #: ../src/date_time_view.py:461
 msgid "Changed to automatic set time"
-msgstr "修改為自動設定時刻"
+msgstr "修改為「自動設定時刻」"
 
 #: ../src/date_time_view.py:465
 msgid "Changed to manual set time"
-msgstr "修改為手動設定時刻"
+msgstr "修改為「手動設定時刻」"
 
 #: ../src/date_time_view.py:473
 msgid "Changed to 24 Hour"
-msgstr "變更為 24 小時"
+msgstr "變更為「24 小時制」"
 
 #: ../src/date_time_view.py:475
 msgid "Changed to 12 Hour"
-msgstr "變更為 12 小時"
+msgstr "變更為「12 小時制」"
 
 #: ../src/date_time_view.py:484
 #, python-format
@@ -224,7 +224,7 @@ msgstr "變更時間為 %02d:%02d:%02d"
 #: ../src/date_time_view.py:506
 #, python-format
 msgid "Changed timezone to %s"
-msgstr "變更時區為 %s"
+msgstr "變更時區為「%s」"
 
 #: ../src/tray_time.py:74
 msgid "AM"
