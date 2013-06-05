@@ -351,7 +351,7 @@ msgstr "VPN 網路"
 
 #: ../src/tray_ui.py:70
 msgid "Advanced..."
-msgstr "進階..."
+msgstr "進階設定..."
 
 #: ../src/tray_ui.py:482
 #, python-format
