@@ -99,7 +99,7 @@ msgstr "正在傳送檔案到「%s」"
 
 #: ../src/bluetooth_sender.py:83
 msgid "Transfer complete!"
-msgstr ""
+msgstr "傳送成功！"
 
 #: ../src/bluetooth_sender.py:114
 msgid "Select File"
