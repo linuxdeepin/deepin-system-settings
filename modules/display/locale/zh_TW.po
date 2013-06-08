@@ -106,7 +106,7 @@ msgstr "永不"
 
 #: ../src/display_view.py:296
 msgid "Relevant Settings"
-msgstr ""
+msgstr "關聯設定值"
 
 #: ../src/display_view.py:302
 #, python-format
@@ -155,12 +155,12 @@ msgstr "已變更目前輸出為 %s"
 #: ../src/display_view.py:629
 #, python-format
 msgid "Changed resolution to %s"
-msgstr "已變更解析度為 %s"
+msgstr "已變更解析度為「%s」"
 
 #: ../src/display_view.py:634
 #, python-format
 msgid "Changed rotation to %s"
-msgstr "已變更旋轉設定值為 %s"
+msgstr "已變更旋轉設定值為「%s」"
 
 #: ../src/display_view.py:639
 #, python-format
