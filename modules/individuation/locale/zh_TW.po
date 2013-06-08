@@ -156,7 +156,7 @@ msgstr "另存為"
 
 #: ../src/ui/theme_view.py:135
 msgid "Rename Theme"
-msgstr "刪除"
+msgstr "重新命名"
 
 #: ../src/ui/theme_view.py:139 ../src/ui/theme_view.py:156
 msgid "Delete Theme"
