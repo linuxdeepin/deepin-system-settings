@@ -21,7 +21,6 @@ msgid "Adapter"
 msgstr "介面卡"
 
 #: ../src/tray_bluetooth_plugin.py:209
-#, fuzzy
 msgid "Advanced options..."
 msgstr "進階選項..."
 
@@ -65,19 +64,16 @@ msgid "Bluetooth"
 msgstr "藍牙"
 
 #: ../src/bluetooth_view.py:407 ../src/search_keyword.py:29
-#, fuzzy
 msgid "Enable bluetooth"
-msgstr "藍牙"
+msgstr "藍牙是否啟用"
 
 #: ../src/bluetooth_view.py:427 ../src/search_keyword.py:30
-#, fuzzy
 msgid "Device name"
 msgstr "顯示裝置名稱"
 
 #: ../src/bluetooth_view.py:445 ../src/search_keyword.py:31
-#, fuzzy
 msgid "Discoverable"
-msgstr "可被發現"
+msgstr "可被搜尋"
 
 #: ../src/bluetooth_view.py:478
 msgid "Search"
