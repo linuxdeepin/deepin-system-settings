@@ -29,12 +29,10 @@ msgid "Personalization"
 msgstr "個人化"
 
 #: ../src/search_keyword.py:30 ../src/ui/theme_page.py:55
-#, fuzzy
 msgid "My Themes"
 msgstr "我的佈景主題"
 
 #: ../src/search_keyword.py:31 ../src/ui/theme_page.py:60
-#, fuzzy
 msgid "System Themes"
 msgstr "系統佈景主題"
 
@@ -43,7 +41,6 @@ msgid "Wallpaper"
 msgstr "桌布"
 
 #: ../src/search_keyword.py:33 ../src/ui/add_page.py:85
-#, fuzzy
 msgid "Pictures"
 msgstr "「圖片」目錄"
 
@@ -56,7 +53,6 @@ msgid "Library"
 msgstr "本地資料庫"
 
 #: ../src/ui/add_page.py:80
-#, fuzzy
 msgid "Internet"
 msgstr "網路資料庫"
 
@@ -65,7 +61,6 @@ msgid "System"
 msgstr "系統桌布"
 
 #: ../src/ui/add_page.py:86
-#, fuzzy
 msgid "Favorites"
 msgstr "我的喜好"
 
@@ -97,11 +92,11 @@ msgstr "小時"
 
 #: ../src/ui/detail_page.py:46
 msgid "Stretch"
-msgstr ""
+msgstr "延伸"
 
 #: ../src/ui/detail_page.py:46
 msgid "Tile"
-msgstr ""
+msgstr "鋪排"
 
 #: ../src/ui/detail_page.py:70
 msgid "Position"
@@ -125,7 +120,6 @@ msgstr "隨機變更"
 #: ../src/ui/select_page.py:292 ../src/ui/select_page.py:309
 #: ../src/ui/select_page.py:336 ../src/ui/select_page.py:350
 #: ../src/ui/select_page.py:354
-#, fuzzy
 msgid "Select all"
 msgstr "全部選取"
 
@@ -141,14 +135,13 @@ msgstr "刪除"
 #: ../src/ui/select_page.py:272 ../src/ui/select_page.py:290
 #: ../src/ui/select_page.py:334 ../src/ui/select_page.py:348
 msgid "Clear all"
-msgstr ""
+msgstr "全部清理"
 
 #: ../src/ui/wallpaper_view.py:57
 msgid "Apply Wallpaper"
 msgstr "設定為目前桌布"
 
 #: ../src/ui/wallpaper_item.py:1027
-#, fuzzy
 msgid "Downloaded"
 msgstr "已下載"
 
@@ -158,12 +151,10 @@ msgid "Changed User Theme to %s"
 msgstr "已變更使用者的佈景主題為「%s」"
 
 #: ../src/ui/theme_view.py:130 ../src/ui/theme_view.py:256
-#, fuzzy
 msgid "Save Theme As"
 msgstr "另存為"
 
 #: ../src/ui/theme_view.py:135
-#, fuzzy
 msgid "Rename Theme"
 msgstr "刪除"
 
@@ -172,7 +163,7 @@ msgid "Delete Theme"
 msgstr "刪除"
 
 #: ../src/ui/theme_view.py:140
-#, fuzzy, python-format
+#, python-format
 msgid "Are you sure you want to delete the theme %s?"
 msgstr "您確定要刪除佈景主題「%s」嗎？"
 
@@ -183,7 +174,7 @@ msgstr "另存為"
 
 #: ../src/ui/theme_view.py:153
 msgid "Rename"
-msgstr ""
+msgstr "重新命名"
 
 #: ../src/ui/theme_view.py:232 ../src/ui/theme_view.py:241
 #, python-format
@@ -211,7 +202,7 @@ msgstr "加入"
 
 #: ../src/ui/select_page.py:282
 msgid "Your Pictures Folder is empty."
-msgstr ""
+msgstr "您的「圖片」資料夾為空。"
 
 #~ msgid "Theme Save As"
 #~ msgstr "另存為"
