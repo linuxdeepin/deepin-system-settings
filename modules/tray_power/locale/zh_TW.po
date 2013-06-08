@@ -18,37 +18,37 @@ msgstr ""
 
 #: ../src/tray_power_plugin.py:151 ../src/tray_power_plugin.py:180
 msgid "Fully charged"
-msgstr ""
+msgstr "電池已完全充飽"
 
 #: ../src/tray_power_plugin.py:153
 msgid "Charging"
-msgstr ""
+msgstr "充電中"
 
 #: ../src/tray_power_plugin.py:178
 #, python-format
 msgid "%s remaining"
-msgstr ""
+msgstr "剩餘電量「%s」"
 
 #: ../src/tray_power_gui.py:45
 msgid "Power"
-msgstr ""
+msgstr "電源"
 
 #: ../src/tray_power_gui.py:54
 msgid "Balanced"
-msgstr ""
+msgstr "平衡"
 
 #: ../src/tray_power_gui.py:55
 msgid "Power saver"
-msgstr ""
+msgstr "節省"
 
 #: ../src/tray_power_gui.py:56
 msgid "High performance"
-msgstr ""
+msgstr "高性能"
 
 #: ../src/tray_power_gui.py:57
 msgid "Custom"
-msgstr ""
+msgstr "自訂"
 
 #: ../src/tray_power_gui.py:72
 msgid "Advanced..."
-msgstr ""
+msgstr "進階設定..."
