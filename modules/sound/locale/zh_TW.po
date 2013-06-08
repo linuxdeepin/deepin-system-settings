@@ -168,7 +168,7 @@ msgstr "應用程式"
 
 #: ../src/tray_sound_gui.py:134 ../src/tray_sound_gui_small.py:135
 msgid "Advanced..."
-msgstr "進階..."
+msgstr "進階設定..."
 
 #: ../src/tray_sound_gui.py:314 ../src/tray_sound_gui_small.py:356
 msgid "Volume"
