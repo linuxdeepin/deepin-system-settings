@@ -2,7 +2,7 @@
 # Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013.
-#
+# Freddy <freddy4212@gmail.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -34,27 +34,27 @@ msgstr "其他帳號"
 
 #: ../src/face_record_page.py:79
 msgid "Start"
-msgstr ""
+msgstr "開始錄製"
 
 #: ../src/face_record_page.py:83
 msgid "Please plug in or enable your camera"
-msgstr ""
+msgstr "煩請插入或者開啓照相機"
 
 #: ../src/face_record_page.py:84
 msgid "Please keep still for 5 seconds"
-msgstr ""
+msgstr "請保持5秒不要動"
 
 #: ../src/face_record_page.py:86
 msgid "Failed to record your face"
-msgstr ""
+msgstr "錄製人臉失敗"
 
 #: ../src/face_record_page.py:94
 msgid "Your face has been successfully recorded"
-msgstr ""
+msgstr "成功錄製人臉"
 
 #: ../src/face_record_page.py:184
 msgid "Try Again"
-msgstr ""
+msgstr "再次錄製"
 
 #: ../src/main.py:122 ../src/main.py:134
 msgid "Account type"
@@ -86,15 +86,15 @@ msgstr "帳號名稱"
 
 #: ../src/main.py:139
 msgid "Facial recognition"
-msgstr ""
+msgstr "人臉辨識"
 
 #: ../src/main.py:162
 msgid "Record"
-msgstr ""
+msgstr "錄製人臉"
 
 #: ../src/main.py:163
 msgid "Test"
-msgstr ""
+msgstr "辨識測試"
 
 #: ../src/main.py:176 ../src/main.py:613 ../src/main.py:761
 #: ../src/main.py:1200
@@ -135,11 +135,11 @@ msgstr "儲存"
 
 #: ../src/main.py:244
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #: ../src/main.py:245
 msgid "Experience"
-msgstr ""
+msgstr "體驗"
 
 #: ../src/main.py:562
 #, python-format
@@ -264,7 +264,7 @@ msgstr "設定頭像"
 
 #: ../src/main.py:1151
 msgid "Face Record"
-msgstr ""
+msgstr "錄製人臉"
 
 #: ../src/main.py:1355
 msgid "Error:"
@@ -272,7 +272,7 @@ msgstr "錯誤："
 
 #: ../src/set_icon_page.py:127 ../src/set_icon_page.py:129
 msgid "Local picture"
-msgstr "本地端檔案"
+msgstr "本機檔案"
 
 #: ../src/set_icon_page.py:127 ../src/set_icon_page.py:130
 msgid "Take a screeshot"
@@ -280,7 +280,7 @@ msgstr "使用深度截圖"
 
 #: ../src/set_icon_page.py:131
 msgid "From camera"
-msgstr "使用攝影機"
+msgstr "使用照相機"
 
 #: ../src/set_icon_page.py:149
 msgid "Choose a new picture for your account"
