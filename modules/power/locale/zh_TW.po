@@ -21,7 +21,7 @@ msgid "<span foreground='#FF0000'>Restart</span> your computer now?,12"
 msgstr "現在要<span foreground='#FF0000'>重新啟動</span>電腦？,10"
 
 #: ../src/tray_shutdown_plugin.py:49
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "The system will restart in \n"
 "%s seconds.,12"
@@ -32,7 +32,7 @@ msgid "<span foreground='#FF0000'>Suspend</span> your computer now?,12"
 msgstr "現在要<span foreground='#FF0000'>暫停</span>電腦？,10"
 
 #: ../src/tray_shutdown_plugin.py:53
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "The system will suspend in \n"
 "%s seconds.,12"
@@ -40,25 +40,25 @@ msgstr "系統將會在 %s 秒內暫停。,10"
 
 #: ../src/tray_shutdown_plugin.py:54
 msgid "<span foreground='#FF0000'>Log out</span> of your system now?,12"
-msgstr "現在要<span foreground='#FF0000'>登出</span>電腦？,10"
+msgstr "現在要<span foreground='#FF0000'>登出</span>系統？,10"
 
 #: ../src/tray_shutdown_plugin.py:55
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "You will be automatically logged out in \n"
 "%s seconds.,12"
 msgstr "系統將會在 %s 秒內登出。,10"
 
 #: ../src/tray_shutdown_plugin.py:61
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "The Software Center is running. <span foreground='#ff0000'>%s</span> now may "
 "harm your computer.,12"
-msgstr "現在要<span foreground='#FF0000'>重新啟動</span>電腦？,10"
+msgstr "軟體中心正在執行。<span foreground='#ff0000'>%s</span>可能會損壞系統！,10"
 
 #: ../src/tray_shutdown_plugin.py:62
 msgid "Do you want to view the process in the Software Center?,12"
-msgstr ""
+msgstr "您要在軟體中心檢視進度嗎？,10"
 
 #: ../src/tray_shutdown_plugin.py:85 ../src/tray_shutdown_gui.py:96
 #: ../src/power_view.py:62
@@ -131,7 +131,7 @@ msgid "<span foreground='#FF0000'>Turn off</span> your computer now?,12"
 msgstr "現在要<span foreground='#FF0000'>關閉</span>電腦？,10"
 
 #: ../src/tray_dialog.py:48
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "The system will shut down in \n"
 "%s seconds.,12"
