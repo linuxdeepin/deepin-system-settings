@@ -109,6 +109,10 @@ msgid ""
 "that you install Linux Deepin on your hard disk to get the best experience "
 "possible."
 msgstr ""
+"\n"
+"注意！檢測出你的使用環境為<span foreground='#FF0000'>虛擬機</span>加載，這將"
+"嚴重影響到您的用戶體驗。建議在真實環境下使用 LinuxDeepin 系統獲取最好的用戶體"
+"驗。"
 
 #: ../src/tray_shutdown_plugin.py:107 ../src/tray_shutdown_gui.py:96
 #: ../src/power_view.py:62
@@ -150,11 +154,11 @@ msgstr "登出"
 
 #: ../src/tray_shutdown_plugin.py:308
 msgid "Don't prompt again"
-msgstr ""
+msgstr "不再提醒"
 
 #: ../src/tray_shutdown_plugin.py:308
 msgid "I see"
-msgstr ""
+msgstr "我知道了"
 
 #: ../src/search_keyword.py:29 ../src/power_view.py:74
 msgid "Power Button Settings"
