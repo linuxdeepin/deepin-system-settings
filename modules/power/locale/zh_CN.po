@@ -110,7 +110,7 @@ msgid ""
 msgstr ""
 "\n"
 "我们注意到您的系统是在<span foreground='#cc5744'>虚拟机</span>下运行，建议您"
-"尽可能使用硬盘安装 LinuxDeepin 以获得最佳性能体验。"
+"尽可能使用硬盘安装 Linux Deepin 以获得最佳性能体验。"
 
 #: ../src/tray_shutdown_plugin.py:107 ../src/tray_shutdown_gui.py:96
 #: ../src/power_view.py:62
