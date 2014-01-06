@@ -1,51 +1,63 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
+# electricface <songwentai@linuxdeepin.com>, 2014
 # freddy4212 <freddy4212@gmail.com>, 2013
 # Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-05 15:17+0800\n"
-"PO-Revision-Date: 2013-12-16 09:33+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
-"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/deepin-system-settings/language/zh_TW/)\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
+"PO-Revision-Date: 2014-01-06 04:58+0000\n"
+"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/deepin-"
+"system-settings/language/zh_TW/)\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_TW\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../src/search_keyword.py:25
-msgid "Keyboard"
-msgstr "鍵盤"
+#: ../src/accel_entry.py:52
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key."
+msgstr "捷徑「%s」無法使用，原因是會無法按下此按鍵。"
 
-#: ../src/search_keyword.py:26 ../src/main.py:262
-msgid "Shortcuts"
-msgstr "捷徑鍵"
+#: ../src/accel_entry.py:53
+msgid "Please try with a key such as Control, Alt or Shift at the same time."
+msgstr "請試用其它的按鍵：如同時使用 Control，Alt 或 Shift。"
 
-#: ../src/search_keyword.py:27 ../src/main.py:261
-msgid "Typing"
-msgstr "打字"
+#: ../src/accel_entry.py:56 ../src/accel_entry.py:74 ../src/main.py:772
+msgid "Cancel"
+msgstr "取消"
 
-#: ../src/search_keyword.py:28
-msgid "Layout"
-msgstr "鍵盤配置"
+#: ../src/accel_entry.py:67
+#, python-format
+msgid "The shortcut \"%s\" is already used for \"%s\""
+msgstr "捷徑鍵「%s」己經使用於「%s」"
 
-#: ../src/search_keyword.py:29 ../src/main.py:117
-msgid "Repeat"
-msgstr "按鍵重復"
+#: ../src/accel_entry.py:69
+#, python-format
+msgid ""
+"If you reassign the shortcut to \"%s\", the \"%s\" shortcut will be disabled."
+msgstr "如果你重新指派捷徑鍵為「%s」，「%s」的捷徑鍵就會停用。"
 
-#: ../src/search_keyword.py:30 ../src/main.py:120
-msgid "Repeat Delay"
-msgstr "重復延時"
+#: ../src/accel_entry.py:73
+msgid "Reassign"
+msgstr "重新指派"
 
-#: ../src/search_keyword.py:31 ../src/main.py:123
-msgid "Repeat Interval"
-msgstr "重復間隔"
+#: ../src/accel_entry.py:238 ../src/accel_entry.py:426 ../src/treeitem.py:308
+msgid "disable"
+msgstr "停用"
+
+#: ../src/accel_entry.py:295
+msgid "Please input new shortcuts"
+msgstr "請鍵入新的捷徑鍵"
 
 #: ../src/keybind_all.py:33 ../src/main.py:504
 msgid "System"
@@ -279,6 +291,18 @@ msgstr "將視窗移至下方的工作區"
 msgid "Custom Shortcuts"
 msgstr "自訂捷徑鍵"
 
+#: ../src/main.py:117 ../src/search_keyword.py:29
+msgid "Repeat"
+msgstr "按鍵重復"
+
+#: ../src/main.py:120 ../src/search_keyword.py:30
+msgid "Repeat Delay"
+msgstr "重復延時"
+
+#: ../src/main.py:123 ../src/search_keyword.py:31
+msgid "Repeat Interval"
+msgstr "重復間隔"
+
 #: ../src/main.py:126 ../src/main.py:133 ../src/main.py:340 ../src/main.py:379
 msgid "Fast"
 msgstr "快速"
@@ -339,6 +363,14 @@ msgstr "刪除"
 msgid "Add"
 msgstr "加入"
 
+#: ../src/main.py:261 ../src/search_keyword.py:27
+msgid "Typing"
+msgstr "打字"
+
+#: ../src/main.py:262 ../src/search_keyword.py:26
+msgid "Shortcuts"
+msgstr "捷徑鍵"
+
 #: ../src/main.py:475 ../src/main.py:791 ../src/main.py:810
 #, python-format
 msgid "Current Layout: %s"
@@ -360,10 +392,6 @@ msgstr "目前鍵盤配置為: %s"
 #: ../src/main.py:742
 msgid "Select an input source to add"
 msgstr "選擇一個要加入的輸入源"
-
-#: ../src/main.py:772 ../src/accel_entry.py:56 ../src/accel_entry.py:74
-msgid "Cancel"
-msgstr "取消"
 
 #: ../src/main.py:850
 msgid "Deleted custom hotkey"
@@ -404,35 +432,10 @@ msgstr "確認"
 msgid "Reset to default"
 msgstr "重設為預設值"
 
-#: ../src/treeitem.py:308 ../src/accel_entry.py:238 ../src/accel_entry.py:426
-msgid "disable"
-msgstr "停用"
+#: ../src/search_keyword.py:25
+msgid "Keyboard"
+msgstr "鍵盤"
 
-#: ../src/accel_entry.py:52
-#, python-format
-msgid ""
-"The shortcut \"%s\" cannot be used because it will become impossible to type"
-" using this key."
-msgstr "捷徑「%s」無法使用，原因是會無法按下此按鍵。"
-
-#: ../src/accel_entry.py:53
-msgid "Please try with a key such as Control, Alt or Shift at the same time."
-msgstr "請試用其它的按鍵：如同時使用 Control，Alt 或 Shift。"
-
-#: ../src/accel_entry.py:67
-#, python-format
-msgid "The shortcut \"%s\" is already used for\"%s\""
-msgstr "捷徑鍵「%s」己經使用於「%s」"
-
-#: ../src/accel_entry.py:69
-#, python-format
-msgid "If you reassign the shortcut to \"%s\", the \"%s\" shortcut will be disabled."
-msgstr "如果你重新指派捷徑鍵為「%s」，「%s」的捷徑鍵就會停用。"
-
-#: ../src/accel_entry.py:73
-msgid "Reassign"
-msgstr "重新指派"
-
-#: ../src/accel_entry.py:295
-msgid "Please input new shortcuts"
-msgstr "請鍵入新的捷徑鍵"
+#: ../src/search_keyword.py:28
+msgid "Layout"
+msgstr "鍵盤配置"

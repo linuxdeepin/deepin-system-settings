@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Automatically generated, 2012
 # CasperLi_HK <li_waikin@hotmail.com>, 2013
@@ -9,31 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-27 16:15+0800\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
 "PO-Revision-Date: 2013-12-18 07:04+0000\n"
 "Last-Translator: CasperLi_HK <li_waikin@hotmail.com>\n"
-"Language-Team: Chinese (Hong Kong) (http://www.transifex.com/projects/p/deepin-system-settings/language/zh_HK/)\n"
+"Language-Team: Chinese (Hong Kong) (http://www.transifex.com/projects/p/"
+"deepin-system-settings/language/zh_HK/)\n"
+"Language: zh_HK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_HK\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
-msgid "Standard"
-msgstr "標准"
-
-#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
-msgid "Administrator"
-msgstr "管理員"
-
-#: ../src/treeitem.py:176
-msgid "My Account"
-msgstr "我的帳號"
-
-#: ../src/treeitem.py:180
-msgid "Other Accounts"
-msgstr "其他帳號"
 
 #: ../src/face_record_page.py:79
 msgid "Start"
@@ -58,6 +43,50 @@ msgstr "你的樣貌已成功被記錄下"
 #: ../src/face_record_page.py:184
 msgid "Try Again"
 msgstr "請再試一次"
+
+#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
+msgid "Standard"
+msgstr "標准"
+
+#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
+msgid "Administrator"
+msgstr "管理員"
+
+#: ../src/treeitem.py:176
+msgid "My Account"
+msgstr "我的帳號"
+
+#: ../src/treeitem.py:180
+msgid "Other Accounts"
+msgstr "其他帳號"
+
+#: ../src/edit_icon_page.py:85
+msgid "zoom in"
+msgstr "拉近"
+
+#: ../src/edit_icon_page.py:90
+msgid "zoom out"
+msgstr "拉遠"
+
+#: ../src/edit_icon_page.py:95
+msgid "Take a photo"
+msgstr "照相"
+
+#: ../src/edit_icon_page.py:100
+msgid "Try again"
+msgstr "再次照相"
+
+#: ../src/edit_icon_page.py:856
+msgid "Clip"
+msgstr "照片裁剪"
+
+#: ../src/edit_icon_page.py:872
+msgid "Preview"
+msgstr "照片預覽"
+
+#: ../src/edit_icon_page.py:924
+msgid "no picture"
+msgstr "沒有照片"
 
 #: ../src/main.py:122 ../src/main.py:134
 msgid "Account type"
@@ -121,8 +150,7 @@ msgid "Cancel"
 msgstr "取消"
 
 #: ../src/main.py:228
-msgid ""
-"It is possible to keep the home directory when deleting a user account."
+msgid "It is possible to keep the home directory when deleting a user account."
 msgstr "刪除使用者時可以保留使用者家目錄。"
 
 #: ../src/main.py:231
@@ -300,7 +328,7 @@ msgid "Set <u>%s</u>'s picture"
 msgstr "設定 <u>%s</u> 的照片"
 
 #: ../src/set_icon_page.py:360 ../src/set_icon_page.py:389
-#: ../src/set_icon_page.py:395
+#: ../src/set_icon_page.py:401
 msgid "Edit Picture"
 msgstr "編輯照片"
 
@@ -323,31 +351,3 @@ msgstr "帳號"
 #: ../src/search_keyword.py:33
 msgid "User Accounts"
 msgstr "使用者帳號"
-
-#: ../src/edit_icon_page.py:85
-msgid "zoom in"
-msgstr "拉近"
-
-#: ../src/edit_icon_page.py:90
-msgid "zoom out"
-msgstr "拉遠"
-
-#: ../src/edit_icon_page.py:95
-msgid "Take a photo"
-msgstr "照相"
-
-#: ../src/edit_icon_page.py:100
-msgid "Try again"
-msgstr "再次照相"
-
-#: ../src/edit_icon_page.py:856
-msgid "Clip"
-msgstr "照片裁剪"
-
-#: ../src/edit_icon_page.py:872
-msgid "Preview"
-msgstr "照片預覽"
-
-#: ../src/edit_icon_page.py:924
-msgid "no picture"
-msgstr "沒有照片"

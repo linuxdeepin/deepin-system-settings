@@ -1,38 +1,23 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # gamjachib <drios9420@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-27 16:15+0800\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
 "PO-Revision-Date: 2013-12-17 03:36+0000\n"
 "Last-Translator: gamjachib <drios9420@gmail.com>\n"
-"Language-Team: Spanish (Chile) (http://www.transifex.com/projects/p/deepin-system-settings/language/es_CL/)\n"
+"Language-Team: Spanish (Chile) (http://www.transifex.com/projects/p/deepin-"
+"system-settings/language/es_CL/)\n"
+"Language: es_CL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es_CL\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
-msgid "Standard"
-msgstr "Estándar"
-
-#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
-msgid "Administrator"
-msgstr "Administrador"
-
-#: ../src/treeitem.py:176
-msgid "My Account"
-msgstr "Mi cuenta"
-
-#: ../src/treeitem.py:180
-msgid "Other Accounts"
-msgstr "Otras cuentas"
 
 #: ../src/face_record_page.py:79
 msgid "Start"
@@ -57,6 +42,50 @@ msgstr "Tu cara fue grabada satisfactoriamente"
 #: ../src/face_record_page.py:184
 msgid "Try Again"
 msgstr "Intenta de nuevo"
+
+#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
+msgid "Standard"
+msgstr "Estándar"
+
+#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
+msgid "Administrator"
+msgstr "Administrador"
+
+#: ../src/treeitem.py:176
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: ../src/treeitem.py:180
+msgid "Other Accounts"
+msgstr "Otras cuentas"
+
+#: ../src/edit_icon_page.py:85
+msgid "zoom in"
+msgstr "acercar"
+
+#: ../src/edit_icon_page.py:90
+msgid "zoom out"
+msgstr "alejar"
+
+#: ../src/edit_icon_page.py:95
+msgid "Take a photo"
+msgstr "Tomar una foto"
+
+#: ../src/edit_icon_page.py:100
+msgid "Try again"
+msgstr "Intentar de nuevo"
+
+#: ../src/edit_icon_page.py:856
+msgid "Clip"
+msgstr "Clip"
+
+#: ../src/edit_icon_page.py:872
+msgid "Preview"
+msgstr "Previsualizar"
+
+#: ../src/edit_icon_page.py:924
+msgid "no picture"
+msgstr "sin foto"
 
 #: ../src/main.py:122 ../src/main.py:134
 msgid "Account type"
@@ -120,9 +149,9 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 #: ../src/main.py:228
-msgid ""
-"It is possible to keep the home directory when deleting a user account."
-msgstr "Es posible mantener la carpeta home cuando se elimina una cuenta de usuario."
+msgid "It is possible to keep the home directory when deleting a user account."
+msgstr ""
+"Es posible mantener la carpeta home cuando se elimina una cuenta de usuario."
 
 #: ../src/main.py:231
 msgid "Delete Files"
@@ -191,7 +220,9 @@ msgstr "El nombre de usuario no es válido"
 msgid ""
 "User names can only consist of letters, numbers, underscores and begin with "
 "a letter"
-msgstr "Los nombres de usuario solo pueden llevar letras, números, guión bajo y deben comenzar con una letra"
+msgstr ""
+"Los nombres de usuario solo pueden llevar letras, números, guión bajo y "
+"deben comenzar con una letra"
 
 #: ../src/main.py:699
 #, python-format
@@ -299,7 +330,7 @@ msgid "Set <u>%s</u>'s picture"
 msgstr "Configurar la foto de <u>%s</u>"
 
 #: ../src/set_icon_page.py:360 ../src/set_icon_page.py:389
-#: ../src/set_icon_page.py:395
+#: ../src/set_icon_page.py:401
 msgid "Edit Picture"
 msgstr "Editar foto"
 
@@ -322,31 +353,3 @@ msgstr "Cuenta"
 #: ../src/search_keyword.py:33
 msgid "User Accounts"
 msgstr "Cuentas de usuario"
-
-#: ../src/edit_icon_page.py:85
-msgid "zoom in"
-msgstr "acercar"
-
-#: ../src/edit_icon_page.py:90
-msgid "zoom out"
-msgstr "alejar"
-
-#: ../src/edit_icon_page.py:95
-msgid "Take a photo"
-msgstr "Tomar una foto"
-
-#: ../src/edit_icon_page.py:100
-msgid "Try again"
-msgstr "Intentar de nuevo"
-
-#: ../src/edit_icon_page.py:856
-msgid "Clip"
-msgstr "Clip"
-
-#: ../src/edit_icon_page.py:872
-msgid "Preview"
-msgstr "Previsualizar"
-
-#: ../src/edit_icon_page.py:924
-msgid "no picture"
-msgstr "sin foto"

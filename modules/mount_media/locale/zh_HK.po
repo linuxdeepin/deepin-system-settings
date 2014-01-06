@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Automatically generated, 2013
 # CasperLi_HK <li_waikin@hotmail.com>, 2013
@@ -9,32 +9,33 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-12 17:38+0800\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
 "PO-Revision-Date: 2013-12-18 07:09+0000\n"
 "Last-Translator: CasperLi_HK <li_waikin@hotmail.com>\n"
-"Language-Team: Chinese (Hong Kong) (http://www.transifex.com/projects/p/deepin-system-settings/language/zh_HK/)\n"
+"Language-Team: Chinese (Hong Kong) (http://www.transifex.com/projects/p/"
+"deepin-system-settings/language/zh_HK/)\n"
+"Language: zh_HK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_HK\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../src/tray_mount_gui.py:166 ../src/tray_mount_gui.py:389
-#: ../src/tray_mount_gui.py:405 ../src/tray_mount_gui.py:410
+#: ../src/tray_mount_gui.py:170 ../src/tray_mount_gui.py:394
+#: ../src/tray_mount_gui.py:410 ../src/tray_mount_gui.py:415
 msgid "Storage Device"
 msgstr "儲存裝置"
 
-#: ../src/tray_mount_gui.py:390
+#: ../src/tray_mount_gui.py:395
 #, python-format
 msgid "Mount and open device \"%s\"?"
 msgstr "要安裝並打開設備 \"%s\" 嗎？"
 
-#: ../src/tray_mount_gui.py:405
+#: ../src/tray_mount_gui.py:410
 #, python-format
 msgid "Removable media \"%s\" has been removed"
 msgstr "移動媒介 \"%s\" 已被移除"
 
-#: ../src/tray_mount_gui.py:410
+#: ../src/tray_mount_gui.py:415
 #, python-format
 msgid "Found new removable media \"%s\""
 msgstr "發現新移動媒介 \"%s\""

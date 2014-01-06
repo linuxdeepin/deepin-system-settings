@@ -1,180 +1,181 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # 648trindade <rafaelgt.mbin@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-05 10:41+0800\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
 "PO-Revision-Date: 2013-12-17 04:48+0000\n"
 "Last-Translator: 648trindade <rafaelgt.mbin@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/deepin-system-settings/language/pt_BR/)\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/"
+"deepin-system-settings/language/pt_BR/)\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: ../src/search_keyword.py:29 ../src/display_view.py:276
-msgid "Display"
-msgstr "Tela"
-
-#: ../src/search_keyword.py:30 ../src/display_view.py:283
-msgid "Monitor"
-msgstr "Monitor"
-
-#: ../src/search_keyword.py:31 ../src/display_view.py:328
-msgid "Resolution"
-msgstr "Resolução"
-
-#: ../src/search_keyword.py:32 ../src/display_view.py:343
-msgid "Rotation"
-msgstr "Rotação"
-
-#: ../src/search_keyword.py:33 ../src/display_view.py:371
-#: ../src/display_view.py:380
-msgid "Brightness"
-msgstr "Brilho"
-
-#: ../src/search_keyword.py:34 ../src/display_view.py:398
-msgid "Auto-Brightness"
-msgstr "Brilho Automático"
-
-#: ../src/search_keyword.py:35 ../src/display_view.py:412
-msgid "Turn off monitor"
-msgstr "Desligar monitor"
-
-#: ../src/search_keyword.py:36 ../src/display_view.py:431
-msgid "Lock screen automatically"
-msgstr "Travar tela automaticamente"
-
-#: ../src/search_keyword.py:37 ../src/display_view.py:425
-#: ../src/display_view.py:446
-msgid "Lock Screen"
-msgstr "Travar Tela"
-
-#: ../src/display_view.py:224
+#: ../src/display_view.py:240
 msgid "Copy Display"
 msgstr "Copiar Tela"
 
-#: ../src/display_view.py:225
+#: ../src/display_view.py:241
 msgid "Extend Display"
 msgstr "Extender Tela"
 
-#: ../src/display_view.py:226
+#: ../src/display_view.py:242
 msgid "Only shown in display 1"
 msgstr "Só exibido na tela 1"
 
-#: ../src/display_view.py:227
+#: ../src/display_view.py:243
 msgid "Only shown in display 2"
 msgstr "Só exibido na tela 2"
 
-#: ../src/display_view.py:228
+#: ../src/display_view.py:244
 msgid "Normal"
 msgstr "Normal"
 
-#: ../src/display_view.py:229
+#: ../src/display_view.py:245
 msgid "Right"
 msgstr "Direita"
 
-#: ../src/display_view.py:230
+#: ../src/display_view.py:246
 msgid "Left"
 msgstr "Esquerda"
 
-#: ../src/display_view.py:231
+#: ../src/display_view.py:247
 msgid "Inverted"
 msgstr "Invertido"
 
-#: ../src/display_view.py:232
+#: ../src/display_view.py:248
 msgid "Minute"
 msgstr "Minuto"
 
-#: ../src/display_view.py:233 ../src/display_view.py:234
-#: ../src/display_view.py:235 ../src/display_view.py:236
-#: ../src/display_view.py:237
+#: ../src/display_view.py:249 ../src/display_view.py:250
+#: ../src/display_view.py:251 ../src/display_view.py:252
+#: ../src/display_view.py:253
 msgid "Minutes"
 msgstr "Minutos"
 
-#: ../src/display_view.py:238
+#: ../src/display_view.py:254
 msgid "Hour"
 msgstr "Hora"
 
-#: ../src/display_view.py:239
+#: ../src/display_view.py:255
 msgid "Never"
 msgstr "Nunca"
 
-#: ../src/display_view.py:296
+#: ../src/display_view.py:292 ../src/search_keyword.py:29
+msgid "Display"
+msgstr "Tela"
+
+#: ../src/display_view.py:299 ../src/search_keyword.py:30
+msgid "Monitor"
+msgstr "Monitor"
+
+#: ../src/display_view.py:312
 msgid "Relevant Settings"
 msgstr "Configurações relevantes"
 
-#: ../src/display_view.py:302
+#: ../src/display_view.py:318
 #, python-format
 msgid "<span foreground=\"%s\" underline=\"single\">Personalization</span>"
 msgstr "<span foreground=\"%s\" underline=\"single\">Personalização</span>"
 
-#: ../src/display_view.py:310
+#: ../src/display_view.py:326
 #, python-format
 msgid "<span foreground=\"%s\" underline=\"single\">Power</span>"
 msgstr "<span foreground=\"%s\" underline=\"single\">Energia</span>"
 
-#: ../src/display_view.py:356
+#: ../src/display_view.py:344 ../src/search_keyword.py:31
+msgid "Resolution"
+msgstr "Resolução"
+
+#: ../src/display_view.py:359 ../src/search_keyword.py:32
+msgid "Rotation"
+msgstr "Rotação"
+
+#: ../src/display_view.py:372
 msgid "Multi-Monitor"
 msgstr "Multi-Monitor"
 
-#: ../src/display_view.py:497
+#: ../src/display_view.py:387 ../src/display_view.py:396
+#: ../src/search_keyword.py:33
+msgid "Brightness"
+msgstr "Brilho"
+
+#: ../src/display_view.py:414 ../src/search_keyword.py:34
+msgid "Auto-Brightness"
+msgstr "Brilho Automático"
+
+#: ../src/display_view.py:428 ../src/search_keyword.py:35
+msgid "Turn off monitor"
+msgstr "Desligar monitor"
+
+#: ../src/display_view.py:441 ../src/display_view.py:462
+#: ../src/search_keyword.py:37
+msgid "Lock Screen"
+msgstr "Travar Tela"
+
+#: ../src/display_view.py:447 ../src/search_keyword.py:36
+msgid "Lock screen automatically"
+msgstr "Travar tela automaticamente"
+
+#: ../src/display_view.py:513
 msgid "Reset to default value"
 msgstr "Reconfigurar para valor padrão"
 
-#: ../src/display_view.py:581
+#: ../src/display_view.py:604
 #, python-format
 msgid "Changed brightness to %d%%"
 msgstr "Brilho alterado para %d%%"
 
-#: ../src/display_view.py:606
+#: ../src/display_view.py:630
 msgid "Changed to manual adjustment"
 msgstr "Alterado para ajuste manual"
 
-#: ../src/display_view.py:609
+#: ../src/display_view.py:633
 msgid "Changed to automatic adjustment"
 msgstr "Alterado para ajuste automático"
 
-#: ../src/display_view.py:615
+#: ../src/display_view.py:639
 msgid "Changed to manual lock"
 msgstr "Alterado para trava manual"
 
-#: ../src/display_view.py:618
+#: ../src/display_view.py:642
 msgid "Changed to automatic lock"
 msgstr "Alterado para trava automática"
 
-#: ../src/display_view.py:623
+#: ../src/display_view.py:647
 #, python-format
 msgid "Changed current output to %s"
 msgstr "Saída atual alterada para %s"
 
-#: ../src/display_view.py:629
+#: ../src/display_view.py:653
 #, python-format
 msgid "Changed resolution to %s"
 msgstr "Resolução alterada para %s"
 
-#: ../src/display_view.py:634
+#: ../src/display_view.py:658
 #, python-format
 msgid "Changed rotation to %s"
 msgstr "Rotação alterada para %s"
 
-#: ../src/display_view.py:639
+#: ../src/display_view.py:663
 #, python-format
 msgid "Changed multi-monitor mode to %s"
 msgstr "Modo multi-monitor alterado para  %s"
 
-#: ../src/display_view.py:644
+#: ../src/display_view.py:668
 #, python-format
 msgid "Idle time before turning off display has been changed to to %s"
 msgstr "Tempo inativo antes de desligar tela foi alterado para %s"
 
-#: ../src/display_view.py:649
+#: ../src/display_view.py:673
 #, python-format
 msgid "Idle time before locking display has been changed to %s"
 msgstr "Tempo inativo antes de travar tela foi alterado para %s"

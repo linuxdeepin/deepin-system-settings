@@ -1,180 +1,182 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # corEr <baracus.de@gmail.com>, 2013
+# 胡家润 <hujiadfr@126.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-05 10:41+0800\n"
-"PO-Revision-Date: 2013-12-17 08:03+0000\n"
-"Last-Translator: corEr <baracus.de@gmail.com>\n"
-"Language-Team: German (Germany) (http://www.transifex.com/projects/p/deepin-system-settings/language/de_DE/)\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
+"PO-Revision-Date: 2014-01-01 14:16+0000\n"
+"Last-Translator: 胡家润 <hujiadfr@126.com>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/projects/p/deepin-"
+"system-settings/language/de_DE/)\n"
+"Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../src/search_keyword.py:29 ../src/display_view.py:276
-msgid "Display"
-msgstr ""
-
-#: ../src/search_keyword.py:30 ../src/display_view.py:283
-msgid "Monitor"
-msgstr ""
-
-#: ../src/search_keyword.py:31 ../src/display_view.py:328
-msgid "Resolution"
-msgstr ""
-
-#: ../src/search_keyword.py:32 ../src/display_view.py:343
-msgid "Rotation"
-msgstr ""
-
-#: ../src/search_keyword.py:33 ../src/display_view.py:371
-#: ../src/display_view.py:380
-msgid "Brightness"
-msgstr ""
-
-#: ../src/search_keyword.py:34 ../src/display_view.py:398
-msgid "Auto-Brightness"
-msgstr ""
-
-#: ../src/search_keyword.py:35 ../src/display_view.py:412
-msgid "Turn off monitor"
-msgstr ""
-
-#: ../src/search_keyword.py:36 ../src/display_view.py:431
-msgid "Lock screen automatically"
-msgstr ""
-
-#: ../src/search_keyword.py:37 ../src/display_view.py:425
-#: ../src/display_view.py:446
-msgid "Lock Screen"
-msgstr ""
-
-#: ../src/display_view.py:224
+#: ../src/display_view.py:240
 msgid "Copy Display"
-msgstr ""
+msgstr "Kopieren anzeigen"
 
-#: ../src/display_view.py:225
+#: ../src/display_view.py:241
 msgid "Extend Display"
-msgstr ""
+msgstr "Verlängern Anzeige"
 
-#: ../src/display_view.py:226
+#: ../src/display_view.py:242
 msgid "Only shown in display 1"
-msgstr ""
+msgstr "Nur in Anzeige 1 gezeigt"
 
-#: ../src/display_view.py:227
+#: ../src/display_view.py:243
 msgid "Only shown in display 2"
-msgstr ""
+msgstr "Nur im Display 2 dargestellt"
 
-#: ../src/display_view.py:228
+#: ../src/display_view.py:244
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
-#: ../src/display_view.py:229
+#: ../src/display_view.py:245
 msgid "Right"
 msgstr "Rechts"
 
-#: ../src/display_view.py:230
+#: ../src/display_view.py:246
 msgid "Left"
 msgstr "Links"
 
-#: ../src/display_view.py:231
+#: ../src/display_view.py:247
 msgid "Inverted"
-msgstr ""
+msgstr "Inverted"
 
-#: ../src/display_view.py:232
+#: ../src/display_view.py:248
 msgid "Minute"
 msgstr "Minute"
 
-#: ../src/display_view.py:233 ../src/display_view.py:234
-#: ../src/display_view.py:235 ../src/display_view.py:236
-#: ../src/display_view.py:237
+#: ../src/display_view.py:249 ../src/display_view.py:250
+#: ../src/display_view.py:251 ../src/display_view.py:252
+#: ../src/display_view.py:253
 msgid "Minutes"
 msgstr "Minuten"
 
-#: ../src/display_view.py:238
+#: ../src/display_view.py:254
 msgid "Hour"
 msgstr "Stunde"
 
-#: ../src/display_view.py:239
+#: ../src/display_view.py:255
 msgid "Never"
 msgstr "Nie"
 
-#: ../src/display_view.py:296
-msgid "Relevant Settings"
-msgstr ""
+#: ../src/display_view.py:292 ../src/search_keyword.py:29
+msgid "Display"
+msgstr "Bildschirme"
 
-#: ../src/display_view.py:302
+#: ../src/display_view.py:299 ../src/search_keyword.py:30
+msgid "Monitor"
+msgstr "Überwachung"
+
+#: ../src/display_view.py:312
+msgid "Relevant Settings"
+msgstr "Relevante Einstellungen"
+
+#: ../src/display_view.py:318
 #, python-format
 msgid "<span foreground=\"%s\" underline=\"single\">Personalization</span>"
-msgstr ""
+msgstr "<span foreground=\"%s\" underline=\"single\">Personalisierung</span>"
 
-#: ../src/display_view.py:310
+#: ../src/display_view.py:326
 #, python-format
 msgid "<span foreground=\"%s\" underline=\"single\">Power</span>"
-msgstr ""
+msgstr "<span foreground=\"%s\" underline=\"single\">Power</span>"
 
-#: ../src/display_view.py:356
+#: ../src/display_view.py:344 ../src/search_keyword.py:31
+msgid "Resolution"
+msgstr "Auflösung"
+
+#: ../src/display_view.py:359 ../src/search_keyword.py:32
+msgid "Rotation"
+msgstr "Rotation"
+
+#: ../src/display_view.py:372
 msgid "Multi-Monitor"
-msgstr ""
+msgstr "Multi-Monitor"
 
-#: ../src/display_view.py:497
+#: ../src/display_view.py:387 ../src/display_view.py:396
+#: ../src/search_keyword.py:33
+msgid "Brightness"
+msgstr "Helligkeit"
+
+#: ../src/display_view.py:414 ../src/search_keyword.py:34
+msgid "Auto-Brightness"
+msgstr "Auto-Helligkeit"
+
+#: ../src/display_view.py:428 ../src/search_keyword.py:35
+msgid "Turn off monitor"
+msgstr "Monitor ausschalten"
+
+#: ../src/display_view.py:441 ../src/display_view.py:462
+#: ../src/search_keyword.py:37
+msgid "Lock Screen"
+msgstr "Lock Screen"
+
+#: ../src/display_view.py:447 ../src/search_keyword.py:36
+msgid "Lock screen automatically"
+msgstr "Sperren Bildschirm automatisch"
+
+#: ../src/display_view.py:513
 msgid "Reset to default value"
-msgstr ""
+msgstr "Zurücksetzen auf Standardwert"
 
-#: ../src/display_view.py:581
+#: ../src/display_view.py:604
 #, python-format
 msgid "Changed brightness to %d%%"
-msgstr ""
+msgstr "Geänderte Helligkeit auf %d%%"
 
-#: ../src/display_view.py:606
+#: ../src/display_view.py:630
 msgid "Changed to manual adjustment"
-msgstr ""
+msgstr "Um die manuelle Einstellung geändert"
 
-#: ../src/display_view.py:609
+#: ../src/display_view.py:633
 msgid "Changed to automatic adjustment"
-msgstr ""
-
-#: ../src/display_view.py:615
-msgid "Changed to manual lock"
-msgstr ""
-
-#: ../src/display_view.py:618
-msgid "Changed to automatic lock"
-msgstr ""
-
-#: ../src/display_view.py:623
-#, python-format
-msgid "Changed current output to %s"
-msgstr ""
-
-#: ../src/display_view.py:629
-#, python-format
-msgid "Changed resolution to %s"
-msgstr ""
-
-#: ../src/display_view.py:634
-#, python-format
-msgid "Changed rotation to %s"
-msgstr ""
+msgstr "Um die automatische Einstellung geändert"
 
 #: ../src/display_view.py:639
+msgid "Changed to manual lock"
+msgstr "Auf manuelle Sperre geändert"
+
+#: ../src/display_view.py:642
+msgid "Changed to automatic lock"
+msgstr "Um die automatische Sperre geändert"
+
+#: ../src/display_view.py:647
+#, python-format
+msgid "Changed current output to %s"
+msgstr "Geändert Stromausgang mit %s"
+
+#: ../src/display_view.py:653
+#, python-format
+msgid "Changed resolution to %s"
+msgstr "Geänderte Auflösung %s"
+
+#: ../src/display_view.py:658
+#, python-format
+msgid "Changed rotation to %s"
+msgstr "Veränderte Dreh %s"
+
+#: ../src/display_view.py:663
 #, python-format
 msgid "Changed multi-monitor mode to %s"
-msgstr ""
+msgstr "Veränderte Multi-Monitor-Modus, um %s"
 
-#: ../src/display_view.py:644
+#: ../src/display_view.py:668
 #, python-format
 msgid "Idle time before turning off display has been changed to to %s"
-msgstr ""
+msgstr "Leerlaufzeit vor dem Ausschalten Anzeige wurde geändert, um %s"
 
-#: ../src/display_view.py:649
+#: ../src/display_view.py:673
 #, python-format
 msgid "Idle time before locking display has been changed to %s"
-msgstr ""
+msgstr "Leerlaufzeit vor Sperranzeige hat sich geändert in %s wurde"

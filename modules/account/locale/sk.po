@@ -1,0 +1,354 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# fasier <matus.ravas@outlook.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin System Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
+"PO-Revision-Date: 2014-01-03 17:30+0000\n"
+"Last-Translator: ballmet <emkohencel@gmail.com>\n"
+"Language-Team: Slovak (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/sk/)\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: ../src/face_record_page.py:79
+msgid "Start"
+msgstr "Začať"
+
+#: ../src/face_record_page.py:83
+msgid "Please plug in or enable your camera"
+msgstr "Zastrčte alebo zapnite kameru, prosím"
+
+#: ../src/face_record_page.py:84
+msgid "Please keep still for 5 seconds"
+msgstr "Zostaňte prosím v kľude po dobu 5 sekúnd"
+
+#: ../src/face_record_page.py:86
+msgid "Failed to record your face"
+msgstr "Nepodarilo sa zaznamenať vašu tvár"
+
+#: ../src/face_record_page.py:94
+msgid "Your face has been successfully recorded"
+msgstr "Vaša tvár bola úspešne zaznamenaná"
+
+#: ../src/face_record_page.py:184
+msgid "Try Again"
+msgstr "Skúsiť znovu"
+
+#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
+msgid "Standard"
+msgstr "Štandartný"
+
+#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
+msgid "Administrator"
+msgstr "Administrátor"
+
+#: ../src/treeitem.py:176
+msgid "My Account"
+msgstr "Môj účet"
+
+#: ../src/treeitem.py:180
+msgid "Other Accounts"
+msgstr "Ostatné účty"
+
+#: ../src/edit_icon_page.py:85
+msgid "zoom in"
+msgstr "priblížiť"
+
+#: ../src/edit_icon_page.py:90
+msgid "zoom out"
+msgstr "oddialiť"
+
+#: ../src/edit_icon_page.py:95
+msgid "Take a photo"
+msgstr "Spraviť fotografiu"
+
+#: ../src/edit_icon_page.py:100
+msgid "Try again"
+msgstr "Skúsiť znovu"
+
+#: ../src/edit_icon_page.py:856
+msgid "Clip"
+msgstr "Záber"
+
+#: ../src/edit_icon_page.py:872
+msgid "Preview"
+msgstr "Náhľad"
+
+#: ../src/edit_icon_page.py:924
+msgid "no picture"
+msgstr "žiadna fotografia"
+
+#: ../src/main.py:122 ../src/main.py:134
+msgid "Account type"
+msgstr "Typ účtu"
+
+#: ../src/main.py:124
+msgid "Password"
+msgstr "Heslo"
+
+#: ../src/main.py:127 ../src/search_keyword.py:25
+msgid "Automatic login"
+msgstr "Automatické prihlásenie"
+
+#: ../src/main.py:129
+msgid "Log in without a password"
+msgstr "Prihlásiť sa bez hesla"
+
+#: ../src/main.py:131 ../src/main.py:135 ../src/search_keyword.py:26
+msgid "Deepin Account"
+msgstr "Účet"
+
+#: ../src/main.py:132 ../src/main.py:136
+msgid "Unbound"
+msgstr "Rozviazané"
+
+#: ../src/main.py:133 ../src/search_keyword.py:27
+msgid "Account Name"
+msgstr "Názov účtu"
+
+#: ../src/main.py:139
+msgid "Facial recognition"
+msgstr "Rozpoznanie podľa tváre"
+
+#: ../src/main.py:162
+msgid "Record"
+msgstr "Zaznamenať"
+
+#: ../src/main.py:163
+msgid "Test"
+msgstr "Vyskúšať"
+
+#: ../src/main.py:176 ../src/main.py:613 ../src/main.py:761
+#: ../src/main.py:1200
+msgid "Enable"
+msgstr "Povoliť"
+
+#: ../src/main.py:177
+msgid "Add"
+msgstr "Pridať"
+
+#: ../src/main.py:178
+msgid "Delete"
+msgstr "Vymazať"
+
+#: ../src/main.py:179
+msgid "Create"
+msgstr "Vytvoriť"
+
+#: ../src/main.py:180 ../src/main.py:233 ../src/main.py:239 ../src/main.py:971
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: ../src/main.py:228
+msgid "It is possible to keep the home directory when deleting a user account."
+msgstr "Je možné zachovať domovský adresár pri zmazaní používateľského účtu."
+
+#: ../src/main.py:231
+msgid "Delete Files"
+msgstr "Vymazať súbory"
+
+#: ../src/main.py:232
+msgid "Keep Files"
+msgstr "Zachovať súbory"
+
+#: ../src/main.py:240
+msgid "Save"
+msgstr "Uložiť"
+
+#: ../src/main.py:244
+msgid "Back"
+msgstr "Zpäť"
+
+#: ../src/main.py:245
+msgid "Experience"
+msgstr "Skúsenosť"
+
+#: ../src/main.py:562
+#, python-format
+msgid "Enabled auto-login for %s"
+msgstr "Automatické prihlásenie povolené pre %s"
+
+#: ../src/main.py:564
+#, python-format
+msgid "Disabled auto-login for %s"
+msgstr "Automatické prihlásenie zakázané pre %s"
+
+#: ../src/main.py:586
+#, python-format
+msgid "Enabled passwordless login for %s"
+msgstr "Prihlásenie bez hesla povolené pre %s"
+
+#: ../src/main.py:593
+#, python-format
+msgid "Disabled passwordless login for %s"
+msgstr "Prihlásenie bez hesla zakázané pre %s"
+
+#: ../src/main.py:609
+#, python-format
+msgid "Enable %s"
+msgstr "Povoliť %s"
+
+#: ../src/main.py:610 ../src/main.py:763 ../src/main.py:1202
+msgid "Disable"
+msgstr "Zakázať"
+
+#: ../src/main.py:612
+#, python-format
+msgid "Disable %s"
+msgstr "Zakázať %s"
+
+#: ../src/main.py:659
+#, python-format
+msgid "%s has been created"
+msgstr "%s bol vytvorený"
+
+#: ../src/main.py:665
+msgid "The user name is invalid"
+msgstr "Používateľské meno je nesprávne"
+
+#: ../src/main.py:680
+msgid ""
+"User names can only consist of letters, numbers, underscores and begin with "
+"a letter"
+msgstr ""
+"Používateľské mená môžu obsahovať iba písmená, čísla, podpomlčky a začínať s "
+"písmenom"
+
+#: ../src/main.py:699
+#, python-format
+msgid "%s has been deleted"
+msgstr "%s bol vymazaný"
+
+#: ../src/main.py:716
+#, python-format
+msgid "Do you want to keep <u>%s</u>'s files?"
+msgstr "Prajete si zachovať súbory  <u>%s</u> ?"
+
+#: ../src/main.py:744 ../src/main.py:1184
+msgid "Account disabled"
+msgstr "Účet zakázaný"
+
+#: ../src/main.py:746 ../src/main.py:1186
+msgid "To be set at next login"
+msgstr "Nastaviť pri ďalšom prihlásení"
+
+#: ../src/main.py:748 ../src/main.py:1188
+msgid "None"
+msgstr "Žiadny"
+
+#: ../src/main.py:823
+#, python-format
+msgid "%s's account type has been set as %s"
+msgstr "Typ účtu %s bol nastavený ako %s"
+
+#: ../src/main.py:940
+msgid "Current password"
+msgstr "Aktuálne heslo"
+
+#: ../src/main.py:942
+msgid "New password"
+msgstr "Nové heslo"
+
+#: ../src/main.py:944
+msgid "Confirm new password"
+msgstr "Potvrdiť nové heslo"
+
+#: ../src/main.py:958
+msgid "Show password"
+msgstr "Ukázať heslo"
+
+#: ../src/main.py:972
+msgid "Change"
+msgstr "Zmeniť"
+
+#: ../src/main.py:1017
+msgid "Password did not match."
+msgstr "Heslo sa nezhoduje."
+
+#: ../src/main.py:1033 ../src/main.py:1058
+msgid "password unchanged"
+msgstr "heslo nezmenené"
+
+#: ../src/main.py:1035
+msgid "authentication token manipulation error"
+msgstr "chyba pri zachádzaní s overovacím symbolom"
+
+#: ../src/main.py:1037
+msgid "new and old password are too similar"
+msgstr "nové a staré heslo si sú príliš podobné"
+
+#: ../src/main.py:1051 ../src/main.py:1105
+#, python-format
+msgid "%s's password has been changed"
+msgstr "%s heslo bolo zmenené"
+
+#: ../src/main.py:1133 ../src/search_keyword.py:31
+msgid "Set Picture"
+msgstr "Nastaviť fotografiu"
+
+#: ../src/main.py:1151
+msgid "Face Record"
+msgstr "Záznam tváre"
+
+#: ../src/main.py:1355
+msgid "Error:"
+msgstr "Chyba:"
+
+#: ../src/set_icon_page.py:127 ../src/set_icon_page.py:129
+msgid "Local picture"
+msgstr "Miestny obrázok"
+
+#: ../src/set_icon_page.py:127 ../src/set_icon_page.py:130
+msgid "Take a screeshot"
+msgstr "Urobiť snímok obrazovky"
+
+#: ../src/set_icon_page.py:131
+msgid "From camera"
+msgstr "Z kamery"
+
+#: ../src/set_icon_page.py:149
+msgid "Choose a new picture for your account"
+msgstr "Vyberte novú fotografiu pre váš účet"
+
+#: ../src/set_icon_page.py:153
+msgid "Previously used pictures"
+msgstr "Fotografia ktorá bola niekedy použitá"
+
+#: ../src/set_icon_page.py:197
+#, python-format
+msgid "Set <u>%s</u>'s picture"
+msgstr "Nastaviť obrázok pre <u>%s</u>"
+
+#: ../src/set_icon_page.py:360 ../src/set_icon_page.py:389
+#: ../src/set_icon_page.py:401
+msgid "Edit Picture"
+msgstr "Upraviť obrázok"
+
+#: ../src/search_keyword.py:28
+msgid "Create Account"
+msgstr "Vytvoriť účet"
+
+#: ../src/search_keyword.py:29
+msgid "Delete Account"
+msgstr "Vymazať účet"
+
+#: ../src/search_keyword.py:30
+msgid "Change Password"
+msgstr "Zmeniť heslo"
+
+#: ../src/search_keyword.py:32
+msgid "Account"
+msgstr "Účet"
+
+#: ../src/search_keyword.py:33
+msgid "User Accounts"
+msgstr "Používateľské účty"

@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # fri <pavelfric@seznam.cz>, 2013
 # fri <pavelfric@seznam.cz>, 2013
@@ -9,43 +9,58 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-05 15:17+0800\n"
-"PO-Revision-Date: 2013-12-24 08:53+0000\n"
-"Last-Translator: fri <pavelfric@seznam.cz>\n"
-"Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-settings/language/cs/)\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
+"PO-Revision-Date: 2014-01-02 05:44+0000\n"
+"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/cs/)\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
-#: ../src/search_keyword.py:25
-msgid "Keyboard"
-msgstr "Klávesnice"
+#: ../src/accel_entry.py:52
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key."
+msgstr ""
+"Klávesovou zkratku \"%s\" nelze použít, protože bude nemožné psát pomocí "
+"této klávesy."
 
-#: ../src/search_keyword.py:26 ../src/main.py:262
-msgid "Shortcuts"
-msgstr "Klávesové zkratky"
+#: ../src/accel_entry.py:53
+msgid "Please try with a key such as Control, Alt or Shift at the same time."
+msgstr ""
+"Zkuste, prosím, s klávesou, jako je Ctrl, Alt nebo Shift v tomtéž okamžiku."
 
-#: ../src/search_keyword.py:27 ../src/main.py:261
-msgid "Typing"
-msgstr "Psaní"
+#: ../src/accel_entry.py:56 ../src/accel_entry.py:74 ../src/main.py:772
+msgid "Cancel"
+msgstr "Zrušit"
 
-#: ../src/search_keyword.py:28
-msgid "Layout"
-msgstr "Rozvržení"
+#: ../src/accel_entry.py:67
+#, python-format
+msgid "The shortcut \"%s\" is already used for \"%s\""
+msgstr ""
 
-#: ../src/search_keyword.py:29 ../src/main.py:117
-msgid "Repeat"
-msgstr "Opakovat"
+#: ../src/accel_entry.py:69
+#, python-format
+msgid ""
+"If you reassign the shortcut to \"%s\", the \"%s\" shortcut will be disabled."
+msgstr ""
+"Pokud klávesouvou zkratku přiřadíte znovu na \"%s\", \"%s\" bude zakázána."
 
-#: ../src/search_keyword.py:30 ../src/main.py:120
-msgid "Repeat Delay"
-msgstr "Opakovat zpoždění"
+#: ../src/accel_entry.py:73
+msgid "Reassign"
+msgstr "Přiřadit znovu"
 
-#: ../src/search_keyword.py:31 ../src/main.py:123
-msgid "Repeat Interval"
-msgstr "Opakovat interval"
+#: ../src/accel_entry.py:238 ../src/accel_entry.py:426 ../src/treeitem.py:308
+msgid "disable"
+msgstr "Zakázat"
+
+#: ../src/accel_entry.py:295
+msgid "Please input new shortcuts"
+msgstr "Zadejte, prosím, nové zkratky"
 
 #: ../src/keybind_all.py:33 ../src/main.py:504
 msgid "System"
@@ -279,6 +294,18 @@ msgstr "Přesunout okno o jednu pracovní plochu dolů"
 msgid "Custom Shortcuts"
 msgstr "Vlastní klávesové zkratky"
 
+#: ../src/main.py:117 ../src/search_keyword.py:29
+msgid "Repeat"
+msgstr "Opakovat"
+
+#: ../src/main.py:120 ../src/search_keyword.py:30
+msgid "Repeat Delay"
+msgstr "Opakovat zpoždění"
+
+#: ../src/main.py:123 ../src/search_keyword.py:31
+msgid "Repeat Interval"
+msgstr "Opakovat interval"
+
 #: ../src/main.py:126 ../src/main.py:133 ../src/main.py:340 ../src/main.py:379
 msgid "Fast"
 msgstr "Rychle"
@@ -339,6 +366,14 @@ msgstr "Odstranit"
 msgid "Add"
 msgstr "Přidat"
 
+#: ../src/main.py:261 ../src/search_keyword.py:27
+msgid "Typing"
+msgstr "Psaní"
+
+#: ../src/main.py:262 ../src/search_keyword.py:26
+msgid "Shortcuts"
+msgstr "Klávesové zkratky"
+
 #: ../src/main.py:475 ../src/main.py:791 ../src/main.py:810
 #, python-format
 msgid "Current Layout: %s"
@@ -361,10 +396,6 @@ msgstr "Nynější rozvržení: %s"
 msgid "Select an input source to add"
 msgstr "Vybrat vstupní zdroj k přidání"
 
-#: ../src/main.py:772 ../src/accel_entry.py:56 ../src/accel_entry.py:74
-msgid "Cancel"
-msgstr "Zrušit"
-
 #: ../src/main.py:850
 msgid "Deleted custom hotkey"
 msgstr "Smazána vlastní horká klávesa"
@@ -382,7 +413,9 @@ msgstr "Horká klávesa pro %s je nastavena na %s"
 #: ../src/main.py:867
 msgid ""
 "Please input new shortcuts. Press Esc to cancle or press Backspace to clear."
-msgstr "Zadejte, prosím, nové zkratky. Stiskněte Esc pro zrušení nebo stiskněte Backspace pro vyprázdnění."
+msgstr ""
+"Zadejte, prosím, nové zkratky. Stiskněte Esc pro zrušení nebo stiskněte "
+"Backspace pro vyprázdnění."
 
 #: ../src/main.py:912
 msgid "Add custom hotkey"
@@ -404,35 +437,10 @@ msgstr "OK"
 msgid "Reset to default"
 msgstr "Nastavit znovu na výchozí"
 
-#: ../src/treeitem.py:308 ../src/accel_entry.py:238 ../src/accel_entry.py:426
-msgid "disable"
-msgstr "Zakázat"
+#: ../src/search_keyword.py:25
+msgid "Keyboard"
+msgstr "Klávesnice"
 
-#: ../src/accel_entry.py:52
-#, python-format
-msgid ""
-"The shortcut \"%s\" cannot be used because it will become impossible to type"
-" using this key."
-msgstr "Klávesovou zkratku \"%s\" nelze použít, protože bude nemožné psát pomocí této klávesy."
-
-#: ../src/accel_entry.py:53
-msgid "Please try with a key such as Control, Alt or Shift at the same time."
-msgstr "Zkuste, prosím, s klávesou, jako je Ctrl, Alt nebo Shift v tomtéž okamžiku."
-
-#: ../src/accel_entry.py:67
-#, python-format
-msgid "The shortcut \"%s\" is already used for\"%s\""
-msgstr "Klávesová zkratka \"%s\" se již používá pro \"%s\""
-
-#: ../src/accel_entry.py:69
-#, python-format
-msgid "If you reassign the shortcut to \"%s\", the \"%s\" shortcut will be disabled."
-msgstr "Pokud klávesouvou zkratku přiřadíte znovu na \"%s\", \"%s\" bude zakázána."
-
-#: ../src/accel_entry.py:73
-msgid "Reassign"
-msgstr "Přiřadit znovu"
-
-#: ../src/accel_entry.py:295
-msgid "Please input new shortcuts"
-msgstr "Zadejte, prosím, nové zkratky"
+#: ../src/search_keyword.py:28
+msgid "Layout"
+msgstr "Rozvržení"

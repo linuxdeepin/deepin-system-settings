@@ -1,183 +1,45 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Automatically generated, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-19 09:19+0800\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
 "PO-Revision-Date: 2013-12-16 09:46+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
-"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/deepin-system-settings/language/zh_CN/)\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/deepin-"
+"system-settings/language/zh_CN/)\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: ../src/tray_shutdown_plugin.py:53
-#, python-format
-msgid ""
-"\n"
-"<span foreground='#cc5744'>Turn off</span> your computer now? \n"
-"\n"
-"The system will shut down in %s seconds."
-msgstr "\n现在<span foreground='#cc5744'>关机</span>吗？\n\n系统将在%s秒后自动关机。"
-
-#: ../src/tray_shutdown_plugin.py:56
-#, python-format
-msgid ""
-"\n"
-"<span foreground='#cc5744'>Restart</span> your computer now?\n"
-"\n"
-"The system will restart in %s seconds."
-msgstr "\n现在<span foreground='#cc5744'>重启</span>吗？\n\n系统将在%s秒后自动重启。"
-
-#: ../src/tray_shutdown_plugin.py:59
-#, python-format
-msgid ""
-"\n"
-"<span foreground='#cc5744'>Suspend</span> your computer now?\n"
-"\n"
-"The system will suspend in %s seconds."
-msgstr "\n现在<span foreground='#cc5744'>待机</span>吗？\n\n系统将在%s秒后自动待机。"
-
-#: ../src/tray_shutdown_plugin.py:62
-#, python-format
-msgid ""
-"\n"
-"<span foreground='#cc5744'>Log out</span> of your system now?\n"
-"\n"
-"You will be automatically logged out in %s seconds."
-msgstr "\n现在<span foreground='#cc5744'>注销</span>吗？\n\n系统将在%s秒后自动注销。"
-
-#: ../src/tray_shutdown_plugin.py:65
-msgid ""
-"\n"
-"<span foreground='#cc5744'>A program is still running:</span>"
-msgstr "\n<span foreground='#cc5744'>有一个程序仍在运行中：</span>"
-
-#: ../src/tray_shutdown_plugin.py:66
-#, python-format
-msgid ""
-"\n"
-"<span foreground='#cc5744'>%s programs are still running:</span>"
-msgstr "\n<span foreground='#cc5744'>%s个程序仍在运行中：</span>"
-
-#: ../src/tray_shutdown_plugin.py:67
-msgid ""
-"Waiting for applications to terminate. Interrupting these may cause "
-"unexpected results."
-msgstr "正在等候程序结束。中断程序可能导致您的工作成果丢失。"
-
-#: ../src/tray_shutdown_plugin.py:74
-msgid ""
-"\n"
-"<span foreground='#cc5744'>The Software Center is still running.</span>"
-msgstr "\n<span foreground='#cc5744'>软件中心仍在运行中：</span>"
-
-#: ../src/tray_shutdown_plugin.py:84
-msgid ""
-"\n"
-"We have detected that the system is running on a <span foreground='#cc5744'>virtual machine</span>. It's strongly recommended that you install Linux Deepin on your hard disk to get the best experience possible."
-msgstr "\n我们注意到您的系统是在<span foreground='#cc5744'>虚拟机</span>下运行，建议您尽可能使用硬盘安装 Linux Deepin 以获得最佳性能体验。"
-
-#: ../src/tray_shutdown_plugin.py:107 ../src/tray_shutdown_gui.py:96
-#: ../src/power_view.py:62
-msgid "Shut down"
-msgstr "关机"
-
-#: ../src/tray_shutdown_plugin.py:108
-msgid "Force shut down"
-msgstr "强制关机"
-
-#: ../src/tray_shutdown_plugin.py:113 ../src/tray_shutdown_gui.py:99
-msgid "Restart"
-msgstr "重启"
-
-#: ../src/tray_shutdown_plugin.py:114
-msgid "Force restart"
-msgstr "强制重启"
-
-#: ../src/tray_shutdown_plugin.py:119 ../src/tray_shutdown_gui.py:102
-#: ../src/power_view.py:61 ../src/power_view.py:137
-msgid "Suspend"
-msgstr "待机"
-
-#: ../src/tray_shutdown_plugin.py:120
-msgid "Force suspend"
-msgstr "强制待机"
-
-#: ../src/tray_shutdown_plugin.py:125 ../src/tray_shutdown_gui.py:105
-msgid "Log out"
-msgstr "注销"
-
-#: ../src/tray_shutdown_plugin.py:126
-msgid "Force log out"
-msgstr "强制注销"
-
-#: ../src/tray_shutdown_plugin.py:309
-msgid "Don't prompt again"
-msgstr "不再提醒"
-
-#: ../src/tray_shutdown_plugin.py:309
-msgid "I see"
-msgstr "我知道了"
-
-#: ../src/search_keyword.py:29 ../src/power_view.py:74
-msgid "Power Button Settings"
-msgstr "电源按钮配置"
-
-#: ../src/search_keyword.py:30 ../src/power_view.py:82
-msgid "When I press the power button"
-msgstr "按电源按钮时"
-
-#: ../src/search_keyword.py:31 ../src/power_view.py:94
-msgid "When I close the lid"
-msgstr "合上笔记本盖子时"
-
-#: ../src/search_keyword.py:32
-msgid "When I press the sleep button"
-msgstr "按睡眠按钮时"
-
-#: ../src/search_keyword.py:33 ../src/power_view.py:107
-msgid "Power Saving Settings"
-msgstr "电源节能设置"
-
-#: ../src/search_keyword.py:34
-msgid "Hibernate"
-msgstr "进入休眠状态"
-
-#: ../src/search_keyword.py:35
-msgid "Turn off hard disk"
-msgstr "关闭硬盘"
-
-#: ../src/search_keyword.py:36 ../src/power_view.py:125
-msgid "Turn off monitor"
-msgstr "关闭显示器"
-
-#: ../src/search_keyword.py:37 ../src/power_view.py:166
-msgid "Require password when computer wakes"
-msgstr "唤醒时的密码保护"
-
-#: ../src/search_keyword.py:38 ../src/power_view.py:189
-msgid "Always show icon in the tray"
-msgstr "在系统托盘显示电池状态"
-
-#: ../src/tray_dialog.py:42
-msgid "Cancel"
-msgstr "取消"
-
-#: ../src/tray_dialog.py:43
-msgid "OK"
-msgstr "确认"
 
 #: ../src/tray_shutdown_gui.py:93
 msgid "Switch user"
 msgstr "切换用户"
+
+#: ../src/tray_shutdown_gui.py:96 ../src/power_view.py:62
+#: ../src/tray_shutdown_plugin.py:107
+msgid "Shut down"
+msgstr "关机"
+
+#: ../src/tray_shutdown_gui.py:99 ../src/tray_shutdown_plugin.py:113
+msgid "Restart"
+msgstr "重启"
+
+#: ../src/tray_shutdown_gui.py:102 ../src/power_view.py:61
+#: ../src/power_view.py:137 ../src/tray_shutdown_plugin.py:119
+msgid "Suspend"
+msgstr "待机"
+
+#: ../src/tray_shutdown_gui.py:105 ../src/tray_shutdown_plugin.py:125
+msgid "Log out"
+msgstr "注销"
 
 #: ../src/tray_shutdown_gui.py:108
 msgid "Lock"
@@ -220,13 +82,41 @@ msgstr "高性能"
 msgid "Custom"
 msgstr "自定义"
 
+#: ../src/power_view.py:74 ../src/search_keyword.py:29
+msgid "Power Button Settings"
+msgstr "电源按钮配置"
+
+#: ../src/power_view.py:82 ../src/search_keyword.py:30
+msgid "When I press the power button"
+msgstr "按电源按钮时"
+
+#: ../src/power_view.py:94 ../src/search_keyword.py:31
+msgid "When I close the lid"
+msgstr "合上笔记本盖子时"
+
+#: ../src/power_view.py:107 ../src/search_keyword.py:33
+msgid "Power Saving Settings"
+msgstr "电源节能设置"
+
 #: ../src/power_view.py:113
 msgid "Power Plan"
 msgstr "电源计划"
 
+#: ../src/power_view.py:125 ../src/search_keyword.py:36
+msgid "Turn off monitor"
+msgstr "关闭显示器"
+
 #: ../src/power_view.py:150
 msgid "Battery power remaining"
 msgstr "当前电池电量"
+
+#: ../src/power_view.py:166 ../src/search_keyword.py:37
+msgid "Require password when computer wakes"
+msgstr "唤醒时的密码保护"
+
+#: ../src/power_view.py:189 ../src/search_keyword.py:38
+msgid "Always show icon in the tray"
+msgstr "在系统托盘显示电池状态"
 
 #: ../src/power_view.py:317
 msgid "Power plan has been reset to Balanced"
@@ -272,3 +162,142 @@ msgstr "修改为在系统托盘显示电池状态"
 #: ../src/power_view.py:418
 msgid "Battery status will not be shown in the tray"
 msgstr "修改为在系统托盘隐藏电池状态"
+
+#: ../src/tray_shutdown_plugin.py:53
+#, python-format
+msgid ""
+"\n"
+"<span foreground='#cc5744'>Turn off</span> your computer now? \n"
+"\n"
+"The system will shut down in %s seconds."
+msgstr ""
+"\n"
+"现在<span foreground='#cc5744'>关机</span>吗？\n"
+"\n"
+"系统将在%s秒后自动关机。"
+
+#: ../src/tray_shutdown_plugin.py:56
+#, python-format
+msgid ""
+"\n"
+"<span foreground='#cc5744'>Restart</span> your computer now?\n"
+"\n"
+"The system will restart in %s seconds."
+msgstr ""
+"\n"
+"现在<span foreground='#cc5744'>重启</span>吗？\n"
+"\n"
+"系统将在%s秒后自动重启。"
+
+#: ../src/tray_shutdown_plugin.py:59
+#, python-format
+msgid ""
+"\n"
+"<span foreground='#cc5744'>Suspend</span> your computer now?\n"
+"\n"
+"The system will suspend in %s seconds."
+msgstr ""
+"\n"
+"现在<span foreground='#cc5744'>待机</span>吗？\n"
+"\n"
+"系统将在%s秒后自动待机。"
+
+#: ../src/tray_shutdown_plugin.py:62
+#, python-format
+msgid ""
+"\n"
+"<span foreground='#cc5744'>Log out</span> of your system now?\n"
+"\n"
+"You will be automatically logged out in %s seconds."
+msgstr ""
+"\n"
+"现在<span foreground='#cc5744'>注销</span>吗？\n"
+"\n"
+"系统将在%s秒后自动注销。"
+
+#: ../src/tray_shutdown_plugin.py:65
+msgid ""
+"\n"
+"<span foreground='#cc5744'>A program is still running:</span>"
+msgstr ""
+"\n"
+"<span foreground='#cc5744'>有一个程序仍在运行中：</span>"
+
+#: ../src/tray_shutdown_plugin.py:66
+#, python-format
+msgid ""
+"\n"
+"<span foreground='#cc5744'>%s programs are still running:</span>"
+msgstr ""
+"\n"
+"<span foreground='#cc5744'>%s个程序仍在运行中：</span>"
+
+#: ../src/tray_shutdown_plugin.py:67
+msgid ""
+"Waiting for applications to terminate. Interrupting these may cause "
+"unexpected results."
+msgstr "正在等候程序结束。中断程序可能导致您的工作成果丢失。"
+
+#: ../src/tray_shutdown_plugin.py:74
+msgid ""
+"\n"
+"<span foreground='#cc5744'>The Software Center is still running.</span>"
+msgstr ""
+"\n"
+"<span foreground='#cc5744'>软件中心仍在运行中：</span>"
+
+#: ../src/tray_shutdown_plugin.py:84
+msgid ""
+"\n"
+"We have detected that the system is running on a <span "
+"foreground='#cc5744'>virtual machine</span>. It's strongly recommended that "
+"you install Linux Deepin on your hard disk to get the best experience "
+"possible."
+msgstr ""
+"\n"
+"我们注意到您的系统是在<span foreground='#cc5744'>虚拟机</span>下运行，建议您"
+"尽可能使用硬盘安装 Linux Deepin 以获得最佳性能体验。"
+
+#: ../src/tray_shutdown_plugin.py:108
+msgid "Force shut down"
+msgstr "强制关机"
+
+#: ../src/tray_shutdown_plugin.py:114
+msgid "Force restart"
+msgstr "强制重启"
+
+#: ../src/tray_shutdown_plugin.py:120
+msgid "Force suspend"
+msgstr "强制待机"
+
+#: ../src/tray_shutdown_plugin.py:126
+msgid "Force log out"
+msgstr "强制注销"
+
+#: ../src/tray_shutdown_plugin.py:309
+msgid "Don't prompt again"
+msgstr "不再提醒"
+
+#: ../src/tray_shutdown_plugin.py:309
+msgid "I see"
+msgstr "我知道了"
+
+#: ../src/tray_dialog.py:42
+msgid "Cancel"
+msgstr "取消"
+
+#: ../src/tray_dialog.py:43
+msgid "OK"
+msgstr "确认"
+
+#: ../src/search_keyword.py:32
+msgid "When I press the sleep button"
+msgstr "按睡眠按钮时"
+
+#: ../src/search_keyword.py:34
+msgid "Hibernate"
+msgstr "进入休眠状态"
+
+#: ../src/search_keyword.py:35
+msgid "Turn off hard disk"
+msgstr "关闭硬盘"

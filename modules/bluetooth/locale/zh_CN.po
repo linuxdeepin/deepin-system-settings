@@ -1,58 +1,51 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Automatically generated, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-09 19:19+0800\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
 "PO-Revision-Date: 2013-12-16 09:09+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
-"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/deepin-system-settings/language/zh_CN/)\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/deepin-"
+"system-settings/language/zh_CN/)\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../src/tray_bluetooth_plugin.py:91 ../src/bluetooth_view.py:335
-msgid "Bluetooth Audio"
-msgstr "蓝牙音频"
+#: ../src/bluetooth_transfer.py:104
+#, python-format
+msgid "Incoming file from %s"
+msgstr "来自“%s”的文件"
 
-#: ../src/tray_bluetooth_plugin.py:92 ../src/bluetooth_view.py:336
-msgid "Successfully connected to the Bluetooth audio device."
-msgstr "成功连接到蓝牙音频设备"
+#: ../src/bluetooth_transfer.py:105
+#, python-format
+msgid "Accept incoming file %s?"
+msgstr "接收文件“%s”？"
 
-#: ../src/tray_bluetooth_plugin.py:94 ../src/tray_bluetooth_plugin.py:107
-#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
-#: ../src/bluetooth_view.py:379
-msgid "Connection Failed"
-msgstr "连接失败"
+#: ../src/bluetooth_transfer.py:108
+msgid "Accept"
+msgstr "接受"
 
-#: ../src/tray_bluetooth_plugin.py:94 ../src/tray_bluetooth_plugin.py:107
-#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
-#: ../src/bluetooth_view.py:379
-msgid "An error occured when connecting to the device."
-msgstr "连接设备出错"
+#: ../src/bluetooth_transfer.py:109
+msgid "Reject"
+msgstr "拒绝"
 
-#: ../src/tray_bluetooth_plugin.py:104 ../src/bluetooth_view.py:356
-msgid "Bluetooth Input Service"
-msgstr "蓝牙输入服务"
+#: ../src/bluetooth_transfer.py:116
+#, python-format
+msgid "Receiving file from %s"
+msgstr "正在接收来自“%s”的文件"
 
-#: ../src/tray_bluetooth_plugin.py:105 ../src/bluetooth_view.py:357
-msgid "Successfully connected to the Bluetooth input device."
-msgstr "成功连接到蓝牙输入设备"
-
-#: ../src/tray_bluetooth_plugin.py:278
-msgid "Adapter"
-msgstr "适配器"
-
-#: ../src/tray_bluetooth_plugin.py:310
-msgid "Advanced options..."
-msgstr "更多高级选项..."
+#: ../src/bluetooth_transfer.py:142
+#, python-format
+msgid "Failed to receive the file : %s"
+msgstr "接收文件失败：“%s”"
 
 #: ../src/bluetooth_view.py:85
 msgid "Pair"
@@ -77,6 +70,34 @@ msgstr "输入服务"
 #: ../src/bluetooth_view.py:323
 msgid "Send File"
 msgstr "发送文件"
+
+#: ../src/bluetooth_view.py:335 ../src/tray_bluetooth_plugin.py:91
+msgid "Bluetooth Audio"
+msgstr "蓝牙音频"
+
+#: ../src/bluetooth_view.py:336 ../src/tray_bluetooth_plugin.py:92
+msgid "Successfully connected to the Bluetooth audio device."
+msgstr "成功连接到蓝牙音频设备"
+
+#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
+#: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
+#: ../src/tray_bluetooth_plugin.py:107
+msgid "Connection Failed"
+msgstr "连接失败"
+
+#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
+#: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
+#: ../src/tray_bluetooth_plugin.py:107
+msgid "An error occured when connecting to the device."
+msgstr "连接设备出错"
+
+#: ../src/bluetooth_view.py:356 ../src/tray_bluetooth_plugin.py:104
+msgid "Bluetooth Input Service"
+msgstr "蓝牙输入服务"
+
+#: ../src/bluetooth_view.py:357 ../src/tray_bluetooth_plugin.py:105
+msgid "Successfully connected to the Bluetooth input device."
+msgstr "成功连接到蓝牙输入设备"
 
 #: ../src/bluetooth_view.py:376
 msgid "Bluetooth Headset"
@@ -120,12 +141,30 @@ msgstr "搜索"
 msgid "Discovering device"
 msgstr "正在查找设备"
 
+#: ../src/tray_bluetooth_plugin.py:285
+msgid "Adapter"
+msgstr "适配器"
+
+#: ../src/tray_bluetooth_plugin.py:317
+msgid "Advanced options..."
+msgstr "更多高级选项..."
+
+#: ../src/dialog.py:166
+msgid "OK"
+msgstr "确定"
+
+#: ../src/dialog.py:168
+msgid "Cancel"
+msgstr "取消"
+
 #: ../src/bluetooth_sender.py:51
 #, python-format
 msgid ""
 "Failed!\n"
 "error msg: %s"
-msgstr "抱歉！文件发送失败，请返回检查你的蓝牙网络设置\n错误信息: %s"
+msgstr ""
+"抱歉！文件发送失败，请返回检查你的蓝牙网络设置\n"
+"错误信息: %s"
 
 #: ../src/bluetooth_sender.py:68
 #, python-format
@@ -143,42 +182,6 @@ msgstr "选择文件"
 #: ../src/search_keyword.py:32
 msgid "Searching Device Timeout"
 msgstr "检测设备超时"
-
-#: ../src/bluetooth_transfer.py:104
-#, python-format
-msgid "Incoming file from %s"
-msgstr "来自“%s”的文件"
-
-#: ../src/bluetooth_transfer.py:105
-#, python-format
-msgid "Accept incoming file %s?"
-msgstr "接收文件“%s”？"
-
-#: ../src/bluetooth_transfer.py:108
-msgid "Accept"
-msgstr "接受"
-
-#: ../src/bluetooth_transfer.py:109
-msgid "Reject"
-msgstr "拒绝"
-
-#: ../src/bluetooth_transfer.py:116
-#, python-format
-msgid "Receiving file from %s"
-msgstr "正在接收来自“%s”的文件"
-
-#: ../src/bluetooth_transfer.py:142
-#, python-format
-msgid "Failed to receive the file : %s"
-msgstr "接收文件失败：“%s”"
-
-#: ../src/dialog.py:166
-msgid "OK"
-msgstr "确定"
-
-#: ../src/dialog.py:168
-msgid "Cancel"
-msgstr "取消"
 
 #: ../src/bt/agent.py:88
 #, python-format

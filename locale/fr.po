@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-02 10:39+0800\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
 "PO-Revision-Date: 2013-12-28 02:56+0000\n"
 "Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/deepin-system-"
@@ -18,29 +18,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: ../dss/navigate_page.py:135
+#: ../dss/navigate_page.py:134
 msgid "10"
 msgstr ""
 
-#: ../dss/foot_box.py:57
-msgid "Reset"
-msgstr ""
-
-#: ../dss/action_bar.py:95 ../dss/main.py:340 ../dss/main.py:452
+#: ../dss/main.py:339 ../dss/main.py:451 ../dss/action_bar.py:95
 msgid "System Settings"
-msgstr ""
-
-#: ../dss/bluetooth_dialog.py:63
-msgid "Cancel"
-msgstr ""
-
-#: ../dss/bluetooth_dialog.py:78
-#, python-format
-msgid "Sent %d"
-msgstr ""
-
-#: ../dss/bluetooth_dialog.py:113
-msgid "Ok"
 msgstr ""
 
 #: ../dss/constant.py:114
@@ -105,4 +88,21 @@ msgstr ""
 
 #: ../dss/constant.py:129
 msgid "System Information"
+msgstr ""
+
+#: ../dss/foot_box.py:57
+msgid "Reset"
+msgstr ""
+
+#: ../dss/bluetooth_dialog.py:63
+msgid "Cancel"
+msgstr ""
+
+#: ../dss/bluetooth_dialog.py:78
+#, python-format
+msgid "Sent %d"
+msgstr ""
+
+#: ../dss/bluetooth_dialog.py:113
+msgid "Ok"
 msgstr ""

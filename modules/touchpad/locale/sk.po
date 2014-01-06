@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# fasier <matus.ravas@outlook.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin System Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
+"PO-Revision-Date: 2014-01-03 17:30+0000\n"
+"Last-Translator: ballmet <emkohencel@gmail.com>\n"
+"Language-Team: Slovak (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/sk/)\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: ../src/main.py:104
+msgid "Custom"
+msgstr "Vlastný"
+
+#: ../src/main.py:105 ../src/search_keyword.py:26
+msgid "Pointer Speed"
+msgstr "Rýchlosť kurzora"
+
+#: ../src/main.py:106 ../src/search_keyword.py:27
+msgid "Acceleration"
+msgstr "Zrýchlenie"
+
+#: ../src/main.py:109 ../src/search_keyword.py:28
+msgid "Sensitivity"
+msgstr "Citlivosť"
+
+#: ../src/main.py:112 ../src/search_keyword.py:29
+msgid "Double-click"
+msgstr "Dvojklik"
+
+#: ../src/main.py:113 ../src/search_keyword.py:30
+msgid "Frequency"
+msgstr "Frekvencia"
+
+#: ../src/main.py:116
+msgid "Double-click on the smiley face to test your settings."
+msgstr "Kliknite dvakrát na smajlíka pre testovanie nastavení"
+
+#: ../src/main.py:118
+msgid "Drag and Drop"
+msgstr "Tiahnuť a pustiť"
+
+#: ../src/main.py:119 ../src/search_keyword.py:33
+msgid "Drag threshold"
+msgstr "Tiahnuť prah"
+
+#: ../src/main.py:122
+msgid "Relevant Settings"
+msgstr "Súvisiace nastavenia"
+
+#: ../src/main.py:125 ../src/search_keyword.py:31
+msgid "Right-handed"
+msgstr "Pravoruký"
+
+#: ../src/main.py:126 ../src/search_keyword.py:32
+msgid "Left-handed"
+msgstr "Ľavoruký"
+
+#: ../src/main.py:129
+msgid "Keyboard Settings"
+msgstr "Nastavenia klávesnice"
+
+#: ../src/main.py:132
+msgid "Mouse Settings"
+msgstr "Nastavenia myši"
+
+#: ../src/main.py:135
+msgid "Reset"
+msgstr "Reštart"
+
+#: ../src/main.py:302 ../src/main.py:352
+msgid "Slow"
+msgstr "Pomalé"
+
+#: ../src/main.py:303 ../src/main.py:353
+msgid "Fast"
+msgstr "Rýchle"
+
+#: ../src/main.py:318
+msgid "Low"
+msgstr "Nízke"
+
+#: ../src/main.py:319
+msgid "High"
+msgstr "Vysoké"
+
+#: ../src/main.py:395
+msgid "Short"
+msgstr "Krátke"
+
+#: ../src/main.py:396
+msgid "Long"
+msgstr "Dlhé"
+
+#: ../src/main.py:519
+msgid "Set to right-handed"
+msgstr "Nastaviť na pravoruký"
+
+#: ../src/main.py:521
+msgid "Set to left-handed"
+msgstr "Nastaviť na ľavoruký"
+
+#: ../src/main.py:622
+msgid "Reset to defaults"
+msgstr "Obnoviť na predvolené"
+
+#: ../src/search_keyword.py:25
+msgid "Touchpad"
+msgstr "Touchpad"

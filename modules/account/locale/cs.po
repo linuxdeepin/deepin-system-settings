@@ -1,38 +1,23 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # fri <pavelfric@seznam.cz>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-27 16:15+0800\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
 "PO-Revision-Date: 2013-12-22 00:03+0000\n"
 "Last-Translator: fri <pavelfric@seznam.cz>\n"
-"Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-settings/language/cs/)\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/cs/)\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-
-#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
-msgid "Standard"
-msgstr "Standardní"
-
-#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
-msgid "Administrator"
-msgstr "Administrátor"
-
-#: ../src/treeitem.py:176
-msgid "My Account"
-msgstr "Můj účet"
-
-#: ../src/treeitem.py:180
-msgid "Other Accounts"
-msgstr "Další účty"
 
 #: ../src/face_record_page.py:79
 msgid "Start"
@@ -57,6 +42,50 @@ msgstr "Podoba vaší tváře byla úspěšně zaznamenána"
 #: ../src/face_record_page.py:184
 msgid "Try Again"
 msgstr "Zkusit znovu"
+
+#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
+msgid "Standard"
+msgstr "Standardní"
+
+#: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
+msgid "Administrator"
+msgstr "Administrátor"
+
+#: ../src/treeitem.py:176
+msgid "My Account"
+msgstr "Můj účet"
+
+#: ../src/treeitem.py:180
+msgid "Other Accounts"
+msgstr "Další účty"
+
+#: ../src/edit_icon_page.py:85
+msgid "zoom in"
+msgstr "Přiblížit"
+
+#: ../src/edit_icon_page.py:90
+msgid "zoom out"
+msgstr "Oddálit"
+
+#: ../src/edit_icon_page.py:95
+msgid "Take a photo"
+msgstr "Udělat fotku"
+
+#: ../src/edit_icon_page.py:100
+msgid "Try again"
+msgstr "Zkusit znovu"
+
+#: ../src/edit_icon_page.py:856
+msgid "Clip"
+msgstr "Záběr"
+
+#: ../src/edit_icon_page.py:872
+msgid "Preview"
+msgstr "Náhled"
+
+#: ../src/edit_icon_page.py:924
+msgid "no picture"
+msgstr "Žádný obrázek"
 
 #: ../src/main.py:122 ../src/main.py:134
 msgid "Account type"
@@ -120,8 +149,7 @@ msgid "Cancel"
 msgstr "Zrušit"
 
 #: ../src/main.py:228
-msgid ""
-"It is possible to keep the home directory when deleting a user account."
+msgid "It is possible to keep the home directory when deleting a user account."
 msgstr "Je možné zachovat domovský adresář při smazání uživatelského účtu."
 
 #: ../src/main.py:231
@@ -191,7 +219,9 @@ msgstr "Uživatelské jméno je neplatné"
 msgid ""
 "User names can only consist of letters, numbers, underscores and begin with "
 "a letter"
-msgstr "Uživatelská jména se mohou skládat jen z písmen, čísel, podtržítek a začínat písmenem"
+msgstr ""
+"Uživatelská jména se mohou skládat jen z písmen, čísel, podtržítek a začínat "
+"písmenem"
 
 #: ../src/main.py:699
 #, python-format
@@ -299,7 +329,7 @@ msgid "Set <u>%s</u>'s picture"
 msgstr "Nastavit obrázek pro <u>%s</u>"
 
 #: ../src/set_icon_page.py:360 ../src/set_icon_page.py:389
-#: ../src/set_icon_page.py:395
+#: ../src/set_icon_page.py:401
 msgid "Edit Picture"
 msgstr "Upravit obrázek"
 
@@ -322,31 +352,3 @@ msgstr "Účet"
 #: ../src/search_keyword.py:33
 msgid "User Accounts"
 msgstr "Uživatelské účty"
-
-#: ../src/edit_icon_page.py:85
-msgid "zoom in"
-msgstr "Přiblížit"
-
-#: ../src/edit_icon_page.py:90
-msgid "zoom out"
-msgstr "Oddálit"
-
-#: ../src/edit_icon_page.py:95
-msgid "Take a photo"
-msgstr "Udělat fotku"
-
-#: ../src/edit_icon_page.py:100
-msgid "Try again"
-msgstr "Zkusit znovu"
-
-#: ../src/edit_icon_page.py:856
-msgid "Clip"
-msgstr "Záběr"
-
-#: ../src/edit_icon_page.py:872
-msgid "Preview"
-msgstr "Náhled"
-
-#: ../src/edit_icon_page.py:924
-msgid "no picture"
-msgstr "Žádný obrázek"

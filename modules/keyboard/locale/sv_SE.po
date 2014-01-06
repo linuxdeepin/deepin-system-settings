@@ -1,48 +1,59 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-05 15:17+0800\n"
-"PO-Revision-Date: 2013-12-18 02:16+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
-"Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/deepin-system-settings/language/sv_SE/)\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
+"PO-Revision-Date: 2014-01-02 05:44+0000\n"
+"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/deepin-"
+"system-settings/language/sv_SE/)\n"
+"Language: sv_SE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../src/search_keyword.py:25
-msgid "Keyboard"
+#: ../src/accel_entry.py:52
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key."
 msgstr ""
 
-#: ../src/search_keyword.py:26 ../src/main.py:262
-msgid "Shortcuts"
+#: ../src/accel_entry.py:53
+msgid "Please try with a key such as Control, Alt or Shift at the same time."
 msgstr ""
 
-#: ../src/search_keyword.py:27 ../src/main.py:261
-msgid "Typing"
+#: ../src/accel_entry.py:56 ../src/accel_entry.py:74 ../src/main.py:772
+msgid "Cancel"
 msgstr ""
 
-#: ../src/search_keyword.py:28
-msgid "Layout"
+#: ../src/accel_entry.py:67
+#, python-format
+msgid "The shortcut \"%s\" is already used for \"%s\""
 msgstr ""
 
-#: ../src/search_keyword.py:29 ../src/main.py:117
-msgid "Repeat"
+#: ../src/accel_entry.py:69
+#, python-format
+msgid ""
+"If you reassign the shortcut to \"%s\", the \"%s\" shortcut will be disabled."
 msgstr ""
 
-#: ../src/search_keyword.py:30 ../src/main.py:120
-msgid "Repeat Delay"
+#: ../src/accel_entry.py:73
+msgid "Reassign"
 msgstr ""
 
-#: ../src/search_keyword.py:31 ../src/main.py:123
-msgid "Repeat Interval"
+#: ../src/accel_entry.py:238 ../src/accel_entry.py:426 ../src/treeitem.py:308
+msgid "disable"
+msgstr ""
+
+#: ../src/accel_entry.py:295
+msgid "Please input new shortcuts"
 msgstr ""
 
 #: ../src/keybind_all.py:33 ../src/main.py:504
@@ -277,6 +288,18 @@ msgstr ""
 msgid "Custom Shortcuts"
 msgstr ""
 
+#: ../src/main.py:117 ../src/search_keyword.py:29
+msgid "Repeat"
+msgstr ""
+
+#: ../src/main.py:120 ../src/search_keyword.py:30
+msgid "Repeat Delay"
+msgstr ""
+
+#: ../src/main.py:123 ../src/search_keyword.py:31
+msgid "Repeat Interval"
+msgstr ""
+
 #: ../src/main.py:126 ../src/main.py:133 ../src/main.py:340 ../src/main.py:379
 msgid "Fast"
 msgstr ""
@@ -337,6 +360,14 @@ msgstr ""
 msgid "Add"
 msgstr ""
 
+#: ../src/main.py:261 ../src/search_keyword.py:27
+msgid "Typing"
+msgstr ""
+
+#: ../src/main.py:262 ../src/search_keyword.py:26
+msgid "Shortcuts"
+msgstr ""
+
 #: ../src/main.py:475 ../src/main.py:791 ../src/main.py:810
 #, python-format
 msgid "Current Layout: %s"
@@ -357,10 +388,6 @@ msgstr ""
 
 #: ../src/main.py:742
 msgid "Select an input source to add"
-msgstr ""
-
-#: ../src/main.py:772 ../src/accel_entry.py:56 ../src/accel_entry.py:74
-msgid "Cancel"
 msgstr ""
 
 #: ../src/main.py:850
@@ -402,35 +429,10 @@ msgstr ""
 msgid "Reset to default"
 msgstr ""
 
-#: ../src/treeitem.py:308 ../src/accel_entry.py:238 ../src/accel_entry.py:426
-msgid "disable"
+#: ../src/search_keyword.py:25
+msgid "Keyboard"
 msgstr ""
 
-#: ../src/accel_entry.py:52
-#, python-format
-msgid ""
-"The shortcut \"%s\" cannot be used because it will become impossible to type"
-" using this key."
-msgstr ""
-
-#: ../src/accel_entry.py:53
-msgid "Please try with a key such as Control, Alt or Shift at the same time."
-msgstr ""
-
-#: ../src/accel_entry.py:67
-#, python-format
-msgid "The shortcut \"%s\" is already used for\"%s\""
-msgstr ""
-
-#: ../src/accel_entry.py:69
-#, python-format
-msgid "If you reassign the shortcut to \"%s\", the \"%s\" shortcut will be disabled."
-msgstr ""
-
-#: ../src/accel_entry.py:73
-msgid "Reassign"
-msgstr ""
-
-#: ../src/accel_entry.py:295
-msgid "Please input new shortcuts"
+#: ../src/search_keyword.py:28
+msgid "Layout"
 msgstr ""

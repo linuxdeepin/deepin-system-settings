@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# fasier <matus.ravas@outlook.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin System Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
+"PO-Revision-Date: 2014-01-03 16:56+0000\n"
+"Last-Translator: ballmet <emkohencel@gmail.com>\n"
+"Language-Team: Slovak (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/sk/)\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: ../src/session_view.py:52
+msgid "Active"
+msgstr "Aktívne"
+
+#: ../src/session_view.py:52 ../src/search_keyword.py:29
+msgid "Application"
+msgstr "Aplikácia"
+
+#: ../src/session_view.py:52
+msgid "Description"
+msgstr "Popis"
+
+#: ../src/session_view.py:52
+msgid "Exec"
+msgstr "Spúšťací súbor"
+
+#: ../src/session_view.py:65
+msgid "New"
+msgstr "Nový"
+
+#: ../src/session_view.py:66
+msgid "Delete"
+msgstr "Vymazať"
+
+#: ../src/app_asso_view.py:61
+msgid "Default Applications"
+msgstr "Predvolené programy"
+
+#: ../src/app_asso_view.py:62 ../src/media_view.py:105
+msgid "AutoPlay"
+msgstr "Automaticky prehrať"
+
+#: ../src/app_asso_view.py:63 ../src/search_keyword.py:31
+msgid "Autostart"
+msgstr "Automatický štart"
+
+#: ../src/media_view.py:85
+msgid "CD"
+msgstr "CD"
+
+#: ../src/media_view.py:86
+msgid "DVD"
+msgstr "DVD"
+
+#: ../src/media_view.py:87
+msgid "Audio Player"
+msgstr "Prehrávač zvuku"
+
+#: ../src/media_view.py:88
+msgid "Camera"
+msgstr "Kamera"
+
+#: ../src/media_view.py:89
+msgid "Applications"
+msgstr "Aplikácie"
+
+#: ../src/media_view.py:90
+msgid "Automatically Mount"
+msgstr "Automaticky pripojiť"
+
+#: ../src/media_view.py:95 ../src/media_view.py:266
+msgid "Other applications"
+msgstr "Ostatné aplikácie"
+
+#: ../src/media_view.py:96 ../src/media_view.py:100
+msgid "Ask"
+msgstr "Opýtať sa"
+
+#: ../src/media_view.py:97 ../src/media_view.py:99
+msgid "Do nothing"
+msgstr "Nič nerobiť"
+
+#: ../src/media_view.py:98
+msgid "Open folder"
+msgstr "Otvoriť priečinok"
+
+#: ../src/media_view.py:101
+msgid "Mount"
+msgstr "Pripojiť"
+
+#: ../src/media_view.py:102
+msgid "Mount and open folder"
+msgstr "Pripojiť a otvoriť priečinok"
+
+#: ../src/app_view.py:42
+msgid "Web"
+msgstr "Stránka"
+
+#: ../src/app_view.py:43
+msgid "Mail"
+msgstr "Pošta"
+
+#: ../src/app_view.py:44
+msgid "Editor"
+msgstr "Editor"
+
+#: ../src/app_view.py:45
+msgid "Music"
+msgstr "Hudba"
+
+#: ../src/app_view.py:46
+msgid "Video"
+msgstr "Video"
+
+#: ../src/app_view.py:47
+msgid "Photo"
+msgstr "Fotografie"
+
+#: ../src/app_view.py:48
+msgid "Terminal"
+msgstr "Terminál"
+
+#: ../src/treeview.py:125
+msgid "No exec"
+msgstr "Žiadny spustiteľný súbor"
+
+#: ../src/treeview.py:145
+msgid "No description"
+msgstr "Bez popisu"
+
+#: ../src/widget.py:43
+msgid "Autostart app"
+msgstr "Programy spúšťané pri štarte"
+
+#: ../src/widget.py:48
+msgid "OK"
+msgstr "OK"
+
+#: ../src/widget.py:49
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: ../src/widget.py:84
+msgid "Name:"
+msgstr "Meno:"
+
+#: ../src/widget.py:86
+msgid "Exec:"
+msgstr "Spúšťací súbor:"
+
+#: ../src/widget.py:88
+msgid "Comment:"
+msgstr "Poznámka:"
+
+#: ../src/search_keyword.py:30
+msgid "Media"
+msgstr "Záznamy"
+
+#: ../src/search_keyword.py:32
+msgid "Application Associate"
+msgstr "Priradenie programov"

@@ -1,0 +1,202 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# fasier <matus.ravas@outlook.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin System Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
+"PO-Revision-Date: 2014-01-03 16:51+0000\n"
+"Last-Translator: ballmet <emkohencel@gmail.com>\n"
+"Language-Team: Slovak (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/sk/)\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: ../src/bluetooth_transfer.py:104
+#, python-format
+msgid "Incoming file from %s"
+msgstr "Prichádzajúci súbor z %s"
+
+#: ../src/bluetooth_transfer.py:105
+#, python-format
+msgid "Accept incoming file %s?"
+msgstr "Prijať prichádzajúci súbor %s?"
+
+#: ../src/bluetooth_transfer.py:108
+msgid "Accept"
+msgstr "Prijať"
+
+#: ../src/bluetooth_transfer.py:109
+msgid "Reject"
+msgstr "Odmietnuť"
+
+#: ../src/bluetooth_transfer.py:116
+#, python-format
+msgid "Receiving file from %s"
+msgstr "Prijíma sa súbor z %s"
+
+#: ../src/bluetooth_transfer.py:142
+#, python-format
+msgid "Failed to receive the file : %s"
+msgstr "Nepodarilo sa pridať súbor: %s"
+
+#: ../src/bluetooth_view.py:85
+msgid "Pair"
+msgstr "Sprárované"
+
+#: ../src/bluetooth_view.py:90
+msgid "Remove Device"
+msgstr "Vymazať zariadenie"
+
+#: ../src/bluetooth_view.py:304 ../src/bluetooth_view.py:306
+msgid "Headset"
+msgstr "Slúchadlá"
+
+#: ../src/bluetooth_view.py:311 ../src/bluetooth_view.py:313
+msgid "Audio Sink"
+msgstr "Zoslabenie zvuku"
+
+#: ../src/bluetooth_view.py:319 ../src/bluetooth_view.py:321
+msgid "Input Service"
+msgstr "Vstupná služba"
+
+#: ../src/bluetooth_view.py:323
+msgid "Send File"
+msgstr "Poslať súbor"
+
+#: ../src/bluetooth_view.py:335 ../src/tray_bluetooth_plugin.py:91
+msgid "Bluetooth Audio"
+msgstr "Zvuk Bluetooth"
+
+#: ../src/bluetooth_view.py:336 ../src/tray_bluetooth_plugin.py:92
+msgid "Successfully connected to the Bluetooth audio device."
+msgstr "Úspešne pripojené k zvukovému zariadeniu Bluetooth."
+
+#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
+#: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
+#: ../src/tray_bluetooth_plugin.py:107
+msgid "Connection Failed"
+msgstr "Spojenie sa nepodarilo"
+
+#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
+#: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
+#: ../src/tray_bluetooth_plugin.py:107
+msgid "An error occured when connecting to the device."
+msgstr "Chyba pri pripojovaní zariadenia."
+
+#: ../src/bluetooth_view.py:356 ../src/tray_bluetooth_plugin.py:104
+msgid "Bluetooth Input Service"
+msgstr "Vstupná služba Bluetooth"
+
+#: ../src/bluetooth_view.py:357 ../src/tray_bluetooth_plugin.py:105
+msgid "Successfully connected to the Bluetooth input device."
+msgstr "Úspešne pripojené k vstupnej službe Bluetooth."
+
+#: ../src/bluetooth_view.py:376
+msgid "Bluetooth Headset"
+msgstr "Bluetooth slúchadlá"
+
+#: ../src/bluetooth_view.py:377
+msgid "Successfully connected to the Bluetooth headset."
+msgstr "Úspešne pripojené k Bluetooth slúchadlám."
+
+#: ../src/bluetooth_view.py:401
+msgid "Pairing failed!"
+msgstr "Nepodarilo sa spárovať!"
+
+#: ../src/bluetooth_view.py:469 ../src/bluetooth_view.py:474
+#, python-format
+msgid "in %d seconds"
+msgstr "za %d sekúnd"
+
+#: ../src/bluetooth_view.py:503 ../src/bluetooth_view.py:507
+#: ../src/bluetooth_view.py:510
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: ../src/bluetooth_view.py:514 ../src/search_keyword.py:29
+msgid "Enable bluetooth"
+msgstr "Povoliť Bluetooth"
+
+#: ../src/bluetooth_view.py:535 ../src/search_keyword.py:30
+msgid "Device name"
+msgstr "Meno zariadenia"
+
+#: ../src/bluetooth_view.py:556 ../src/search_keyword.py:31
+msgid "Discoverable"
+msgstr "Viditeľný"
+
+#: ../src/bluetooth_view.py:589
+msgid "Search"
+msgstr "Hľadať"
+
+#: ../src/bluetooth_view.py:701 ../src/bluetooth_view.py:713
+msgid "Discovering device"
+msgstr "Objavuje sa zariadenie"
+
+#: ../src/tray_bluetooth_plugin.py:285
+msgid "Adapter"
+msgstr "Adaptér"
+
+#: ../src/tray_bluetooth_plugin.py:317
+msgid "Advanced options..."
+msgstr "Pokročilé nastavenia..."
+
+#: ../src/dialog.py:166
+msgid "OK"
+msgstr "OK"
+
+#: ../src/dialog.py:168
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: ../src/bluetooth_sender.py:51
+#, python-format
+msgid ""
+"Failed!\n"
+"error msg: %s"
+msgstr ""
+"Nepodarilo sa!\n"
+"Chybová správa: %s"
+
+#: ../src/bluetooth_sender.py:68
+#, python-format
+msgid "Sending file to %s"
+msgstr "Posielanie súboru do %s"
+
+#: ../src/bluetooth_sender.py:85
+msgid "Transfer complete!"
+msgstr "Presun dokončený"
+
+#: ../src/bluetooth_sender.py:116
+msgid "Select File"
+msgstr "Vybrať súbor"
+
+#: ../src/search_keyword.py:32
+msgid "Searching Device Timeout"
+msgstr "Hľadá sa prekročenie času zariadenia"
+
+#: ../src/bt/agent.py:88
+#, python-format
+msgid "Enter PIN code to pair with %s:"
+msgstr "Zadajte PIN kód pre párovanie so %s:"
+
+#: ../src/bt/agent.py:138
+#, python-format
+msgid "Please confirm %s pin match as below"
+msgstr "Potvrďte prosím %s zhodu PIN kódu nižšie"
+
+#: ../src/bt/agent.py:140
+msgid "Yes"
+msgstr "Áno"
+
+#: ../src/bt/agent.py:141
+msgid "No"
+msgstr "Nie"

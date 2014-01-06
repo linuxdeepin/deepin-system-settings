@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # fri <pavelfric@seznam.cz>, 2013
 # fri <pavelfric@seznam.cz>, 2013
@@ -9,51 +9,44 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-09 19:19+0800\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
 "PO-Revision-Date: 2013-12-22 18:47+0000\n"
 "Last-Translator: fri <pavelfric@seznam.cz>\n"
-"Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-settings/language/cs/)\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/cs/)\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
-#: ../src/tray_bluetooth_plugin.py:91 ../src/bluetooth_view.py:335
-msgid "Bluetooth Audio"
-msgstr "Zvuk Bluetooth"
+#: ../src/bluetooth_transfer.py:104
+#, python-format
+msgid "Incoming file from %s"
+msgstr "Příchozí soubor od %s"
 
-#: ../src/tray_bluetooth_plugin.py:92 ../src/bluetooth_view.py:336
-msgid "Successfully connected to the Bluetooth audio device."
-msgstr "Úspěšně připojeno ke zvukovému zařízení Bluetooth."
+#: ../src/bluetooth_transfer.py:105
+#, python-format
+msgid "Accept incoming file %s?"
+msgstr "Přijmout příchozí soubor %s!"
 
-#: ../src/tray_bluetooth_plugin.py:94 ../src/tray_bluetooth_plugin.py:107
-#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
-#: ../src/bluetooth_view.py:379
-msgid "Connection Failed"
-msgstr "Spojení se nezdařilo"
+#: ../src/bluetooth_transfer.py:108
+msgid "Accept"
+msgstr "Přijmout"
 
-#: ../src/tray_bluetooth_plugin.py:94 ../src/tray_bluetooth_plugin.py:107
-#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
-#: ../src/bluetooth_view.py:379
-msgid "An error occured when connecting to the device."
-msgstr "Chyba při připojování k zařízení."
+#: ../src/bluetooth_transfer.py:109
+msgid "Reject"
+msgstr "Odmítnout"
 
-#: ../src/tray_bluetooth_plugin.py:104 ../src/bluetooth_view.py:356
-msgid "Bluetooth Input Service"
-msgstr "Vstupní služba Bluetooth"
+#: ../src/bluetooth_transfer.py:116
+#, python-format
+msgid "Receiving file from %s"
+msgstr "Přijímá se soubor od %s"
 
-#: ../src/tray_bluetooth_plugin.py:105 ../src/bluetooth_view.py:357
-msgid "Successfully connected to the Bluetooth input device."
-msgstr "Úspěšně připojeno ke vstupní službě Bluetooth"
-
-#: ../src/tray_bluetooth_plugin.py:278
-msgid "Adapter"
-msgstr "Adaptér"
-
-#: ../src/tray_bluetooth_plugin.py:310
-msgid "Advanced options..."
-msgstr "Pokročilé volby..."
+#: ../src/bluetooth_transfer.py:142
+#, python-format
+msgid "Failed to receive the file : %s"
+msgstr "Nepodařilo se dostat soubor: %s"
 
 #: ../src/bluetooth_view.py:85
 msgid "Pair"
@@ -78,6 +71,34 @@ msgstr "Vstupní služba"
 #: ../src/bluetooth_view.py:323
 msgid "Send File"
 msgstr "Poslat soubor"
+
+#: ../src/bluetooth_view.py:335 ../src/tray_bluetooth_plugin.py:91
+msgid "Bluetooth Audio"
+msgstr "Zvuk Bluetooth"
+
+#: ../src/bluetooth_view.py:336 ../src/tray_bluetooth_plugin.py:92
+msgid "Successfully connected to the Bluetooth audio device."
+msgstr "Úspěšně připojeno ke zvukovému zařízení Bluetooth."
+
+#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
+#: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
+#: ../src/tray_bluetooth_plugin.py:107
+msgid "Connection Failed"
+msgstr "Spojení se nezdařilo"
+
+#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
+#: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
+#: ../src/tray_bluetooth_plugin.py:107
+msgid "An error occured when connecting to the device."
+msgstr "Chyba při připojování k zařízení."
+
+#: ../src/bluetooth_view.py:356 ../src/tray_bluetooth_plugin.py:104
+msgid "Bluetooth Input Service"
+msgstr "Vstupní služba Bluetooth"
+
+#: ../src/bluetooth_view.py:357 ../src/tray_bluetooth_plugin.py:105
+msgid "Successfully connected to the Bluetooth input device."
+msgstr "Úspěšně připojeno ke vstupní službě Bluetooth"
 
 #: ../src/bluetooth_view.py:376
 msgid "Bluetooth Headset"
@@ -121,12 +142,30 @@ msgstr "Hledat"
 msgid "Discovering device"
 msgstr "Objevuje se zařízení"
 
+#: ../src/tray_bluetooth_plugin.py:285
+msgid "Adapter"
+msgstr "Adaptér"
+
+#: ../src/tray_bluetooth_plugin.py:317
+msgid "Advanced options..."
+msgstr "Pokročilé volby..."
+
+#: ../src/dialog.py:166
+msgid "OK"
+msgstr "OK"
+
+#: ../src/dialog.py:168
+msgid "Cancel"
+msgstr "Zrušit"
+
 #: ../src/bluetooth_sender.py:51
 #, python-format
 msgid ""
 "Failed!\n"
 "error msg: %s"
-msgstr "Nepodařilo se!\nChybová zpráva: %s"
+msgstr ""
+"Nepodařilo se!\n"
+"Chybová zpráva: %s"
 
 #: ../src/bluetooth_sender.py:68
 #, python-format
@@ -144,42 +183,6 @@ msgstr "Vybrat soubor"
 #: ../src/search_keyword.py:32
 msgid "Searching Device Timeout"
 msgstr "Hledá se překročení času zařízení"
-
-#: ../src/bluetooth_transfer.py:104
-#, python-format
-msgid "Incoming file from %s"
-msgstr "Příchozí soubor od %s"
-
-#: ../src/bluetooth_transfer.py:105
-#, python-format
-msgid "Accept incoming file %s?"
-msgstr "Přijmout příchozí soubor %s!"
-
-#: ../src/bluetooth_transfer.py:108
-msgid "Accept"
-msgstr "Přijmout"
-
-#: ../src/bluetooth_transfer.py:109
-msgid "Reject"
-msgstr "Odmítnout"
-
-#: ../src/bluetooth_transfer.py:116
-#, python-format
-msgid "Receiving file from %s"
-msgstr "Přijímá se soubor od %s"
-
-#: ../src/bluetooth_transfer.py:142
-#, python-format
-msgid "Failed to receive the file : %s"
-msgstr "Nepodařilo se dostat soubor: %s"
-
-#: ../src/dialog.py:166
-msgid "OK"
-msgstr "OK"
-
-#: ../src/dialog.py:168
-msgid "Cancel"
-msgstr "Zrušit"
 
 #: ../src/bt/agent.py:88
 #, python-format

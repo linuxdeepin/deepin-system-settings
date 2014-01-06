@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-02 10:39+0800\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
 "PO-Revision-Date: 2013-12-16 07:34+0000\n"
 "Last-Translator: iceleaf916 <iceleaf916@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/deepin-"
@@ -21,30 +21,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../dss/navigate_page.py:135
+#: ../dss/navigate_page.py:134
 msgid "10"
 msgstr "21"
 
-#: ../dss/foot_box.py:57
-msgid "Reset"
-msgstr "重設"
-
-#: ../dss/action_bar.py:95 ../dss/main.py:340 ../dss/main.py:452
+#: ../dss/main.py:339 ../dss/main.py:451 ../dss/action_bar.py:95
 msgid "System Settings"
 msgstr "系統設定"
-
-#: ../dss/bluetooth_dialog.py:63
-msgid "Cancel"
-msgstr "取消"
-
-#: ../dss/bluetooth_dialog.py:78
-#, python-format
-msgid "Sent %d"
-msgstr "已傳送 %d"
-
-#: ../dss/bluetooth_dialog.py:113
-msgid "Ok"
-msgstr "確認"
 
 #: ../dss/constant.py:114
 msgid "Displays"
@@ -109,3 +92,20 @@ msgstr "預設程式"
 #: ../dss/constant.py:129
 msgid "System Information"
 msgstr "系統資訊"
+
+#: ../dss/foot_box.py:57
+msgid "Reset"
+msgstr "重設"
+
+#: ../dss/bluetooth_dialog.py:63
+msgid "Cancel"
+msgstr "取消"
+
+#: ../dss/bluetooth_dialog.py:78
+#, python-format
+msgid "Sent %d"
+msgstr "已傳送 %d"
+
+#: ../dss/bluetooth_dialog.py:113
+msgid "Ok"
+msgstr "確認"

@@ -1,40 +1,37 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Automatically generated, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-07 11:08+0800\n"
-"PO-Revision-Date: 2013-12-16 09:42+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
-"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/deepin-system-settings/language/zh_CN/)\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
+"PO-Revision-Date: 2014-01-02 05:44+0000\n"
+"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/deepin-"
+"system-settings/language/zh_CN/)\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../src/main.py:122 ../src/ui/delete_page.py:97 ../src/ui/select_page.py:357
-msgid "Delete Wallpaper"
-msgstr "删除壁纸"
-
-#: ../src/main.py:141
-msgid "Add Wallpaper"
-msgstr "添加壁纸"
+#: ../src/main.py:500
+msgid "Downloaded"
+msgstr "已下载"
 
 #: ../src/search_keyword.py:29
 msgid "Personalization"
 msgstr "个性化"
 
-#: ../src/search_keyword.py:30 ../src/ui/theme_page.py:55
+#: ../src/search_keyword.py:30
 msgid "My Themes"
 msgstr "我的主题"
 
-#: ../src/search_keyword.py:31 ../src/ui/theme_page.py:60
+#: ../src/search_keyword.py:31
 msgid "System Themes"
 msgstr "系统主题"
 
@@ -42,166 +39,6 @@ msgstr "系统主题"
 msgid "Wallpaper"
 msgstr "壁纸"
 
-#: ../src/search_keyword.py:33 ../src/ui/add_page.py:85
+#: ../src/search_keyword.py:33
 msgid "Pictures"
 msgstr "本地图片"
-
-#: ../src/theme_manager.py:420
-msgid "Untitled"
-msgstr "未命名"
-
-#: ../src/ui/add_page.py:79
-msgid "Library"
-msgstr "壁纸库"
-
-#: ../src/ui/add_page.py:80
-msgid "Internet"
-msgstr "网络壁纸"
-
-#: ../src/ui/add_page.py:84
-msgid "System"
-msgstr "系统壁纸"
-
-#: ../src/ui/add_page.py:86
-msgid "Favorites"
-msgstr "我的收藏"
-
-#: ../src/ui/add_page.py:87
-msgid "360 Wallpaper"
-msgstr "360壁纸"
-
-#: ../src/ui/add_page.py:88
-msgid "LoveWallpaper"
-msgstr "爱壁纸HD"
-
-#: ../src/ui/detail_page.py:37
-msgid "Minute"
-msgstr "分钟"
-
-#: ../src/ui/detail_page.py:37 ../src/ui/detail_page.py:38
-#: ../src/ui/detail_page.py:39 ../src/ui/detail_page.py:40
-msgid "Minutes"
-msgstr "分钟"
-
-#: ../src/ui/detail_page.py:40
-msgid "Hour"
-msgstr "小时"
-
-#: ../src/ui/detail_page.py:41 ../src/ui/detail_page.py:42
-#: ../src/ui/detail_page.py:43
-msgid "Hours"
-msgstr "小时"
-
-#: ../src/ui/detail_page.py:46
-msgid "Stretch"
-msgstr "拉伸"
-
-#: ../src/ui/detail_page.py:46
-msgid "Tile"
-msgstr "平铺"
-
-#: ../src/ui/detail_page.py:70
-msgid "Position"
-msgstr "图片位置"
-
-#: ../src/ui/detail_page.py:73
-msgid "Duration"
-msgstr "图片时间间隔"
-
-#: ../src/ui/detail_page.py:80
-msgid "Random"
-msgstr "随机播放"
-
-#: ../src/ui/detail_page.py:85 ../src/ui/detail_page.py:135
-#: ../src/ui/detail_page.py:144 ../src/ui/detail_page.py:152
-#: ../src/ui/detail_page.py:194 ../src/ui/delete_page.py:58
-#: ../src/ui/delete_page.py:81 ../src/ui/delete_page.py:89
-#: ../src/ui/delete_page.py:116 ../src/ui/select_page.py:194
-#: ../src/ui/select_page.py:223 ../src/ui/select_page.py:231
-#: ../src/ui/select_page.py:250 ../src/ui/select_page.py:274
-#: ../src/ui/select_page.py:292 ../src/ui/select_page.py:309
-#: ../src/ui/select_page.py:336 ../src/ui/select_page.py:350
-#: ../src/ui/select_page.py:354
-msgid "Select all"
-msgstr "全选"
-
-#: ../src/ui/detail_page.py:88 ../src/ui/delete_page.py:61
-#: ../src/ui/select_page.py:311
-msgid "Delete"
-msgstr "删除"
-
-#: ../src/ui/detail_page.py:133 ../src/ui/detail_page.py:142
-#: ../src/ui/detail_page.py:150 ../src/ui/detail_page.py:231
-#: ../src/ui/delete_page.py:79 ../src/ui/delete_page.py:87
-#: ../src/ui/select_page.py:221 ../src/ui/select_page.py:229
-#: ../src/ui/select_page.py:272 ../src/ui/select_page.py:290
-#: ../src/ui/select_page.py:334 ../src/ui/select_page.py:348
-msgid "Clear all"
-msgstr "取消全选"
-
-#: ../src/ui/wallpaper_view.py:57
-msgid "Apply Wallpaper"
-msgstr "设为当前壁纸"
-
-#: ../src/ui/wallpaper_item.py:1027
-msgid "Downloaded"
-msgstr "已下载"
-
-#: ../src/ui/theme_view.py:94 ../src/ui/theme_view.py:111
-#, python-format
-msgid "Changed User Theme to %s"
-msgstr "当前系统主题已设置为“%s”"
-
-#: ../src/ui/theme_view.py:130 ../src/ui/theme_view.py:256
-msgid "Save Theme As"
-msgstr "主题另存为"
-
-#: ../src/ui/theme_view.py:135
-msgid "Rename Theme"
-msgstr "主题重命名"
-
-#: ../src/ui/theme_view.py:139 ../src/ui/theme_view.py:156
-msgid "Delete Theme"
-msgstr "删除主题"
-
-#: ../src/ui/theme_view.py:140
-#, python-format
-msgid "Are you sure you want to delete the theme %s?"
-msgstr "你确定要删除%s主题？此操作不可恢复。"
-
-#: ../src/ui/theme_view.py:150 ../src/ui/theme_view.py:154
-#: ../src/ui/theme_view.py:260
-msgid "Save As"
-msgstr "主题另存为"
-
-#: ../src/ui/theme_view.py:153
-msgid "Rename"
-msgstr "重命名"
-
-#: ../src/ui/theme_view.py:232 ../src/ui/theme_view.py:241
-#, python-format
-msgid "Changed System Theme to %s"
-msgstr "当前系统主题已设置为“%s”"
-
-#: ../src/ui/cache_page.py:131 ../src/ui/delete_page.py:55
-#: ../src/ui/select_page.py:192 ../src/ui/select_page.py:248
-#: ../src/ui/select_page.py:307
-msgid "Back"
-msgstr "返回"
-
-#: ../src/ui/cache_page.py:133
-msgid "Download All"
-msgstr "全部下载"
-
-#: ../src/ui/delete_page.py:98 ../src/ui/select_page.py:358
-msgid "Are you sure delete wallpaper?"
-msgstr "你确定要删除壁纸？此操作将删除壁纸文件。"
-
-#: ../src/ui/select_page.py:196 ../src/ui/select_page.py:252
-#: ../src/ui/select_page.py:313
-msgid "Add"
-msgstr "添加"
-
-#: ../src/ui/select_page.py:282
-msgid "Your Pictures Folder is empty."
-msgstr "您的图片文件夹为空"

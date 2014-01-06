@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # 648trindade <rafaelgt.mbin@gmail.com>, 2013
 # 648trindade <rafaelgt.mbin@gmail.com>, 2013
@@ -9,51 +9,44 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-09 19:19+0800\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
 "PO-Revision-Date: 2013-12-27 18:55+0000\n"
 "Last-Translator: 648trindade <rafaelgt.mbin@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/deepin-system-settings/language/pt_BR/)\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/"
+"deepin-system-settings/language/pt_BR/)\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: ../src/tray_bluetooth_plugin.py:91 ../src/bluetooth_view.py:335
-msgid "Bluetooth Audio"
-msgstr "Áudio por Bluetooth"
+#: ../src/bluetooth_transfer.py:104
+#, python-format
+msgid "Incoming file from %s"
+msgstr "Arquivo vindo de %s"
 
-#: ../src/tray_bluetooth_plugin.py:92 ../src/bluetooth_view.py:336
-msgid "Successfully connected to the Bluetooth audio device."
-msgstr "Conectado ao dispositivo de áudio Bluetooth com sucesso."
+#: ../src/bluetooth_transfer.py:105
+#, python-format
+msgid "Accept incoming file %s?"
+msgstr "Aceitar arquivo %s?"
 
-#: ../src/tray_bluetooth_plugin.py:94 ../src/tray_bluetooth_plugin.py:107
-#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
-#: ../src/bluetooth_view.py:379
-msgid "Connection Failed"
-msgstr "Falha na Conexão"
+#: ../src/bluetooth_transfer.py:108
+msgid "Accept"
+msgstr "Aceitar"
 
-#: ../src/tray_bluetooth_plugin.py:94 ../src/tray_bluetooth_plugin.py:107
-#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
-#: ../src/bluetooth_view.py:379
-msgid "An error occured when connecting to the device."
-msgstr "Um erro ocorreu enquanto conectava-se ao dispositivo"
+#: ../src/bluetooth_transfer.py:109
+msgid "Reject"
+msgstr "Recusar"
 
-#: ../src/tray_bluetooth_plugin.py:104 ../src/bluetooth_view.py:356
-msgid "Bluetooth Input Service"
-msgstr "Serviço de Entrada Bluetooth"
+#: ../src/bluetooth_transfer.py:116
+#, python-format
+msgid "Receiving file from %s"
+msgstr "Recebendo arquivo de %s"
 
-#: ../src/tray_bluetooth_plugin.py:105 ../src/bluetooth_view.py:357
-msgid "Successfully connected to the Bluetooth input device."
-msgstr "Conectado ao dispositivo de entrada Bluetooth com sucesso."
-
-#: ../src/tray_bluetooth_plugin.py:278
-msgid "Adapter"
-msgstr "Adaptador"
-
-#: ../src/tray_bluetooth_plugin.py:310
-msgid "Advanced options..."
-msgstr "Opções avançadas..."
+#: ../src/bluetooth_transfer.py:142
+#, python-format
+msgid "Failed to receive the file : %s"
+msgstr "Falha ao receber o arquivo: %s"
 
 #: ../src/bluetooth_view.py:85
 msgid "Pair"
@@ -78,6 +71,34 @@ msgstr "Serviço de Entrada"
 #: ../src/bluetooth_view.py:323
 msgid "Send File"
 msgstr "Enviar Arquivo"
+
+#: ../src/bluetooth_view.py:335 ../src/tray_bluetooth_plugin.py:91
+msgid "Bluetooth Audio"
+msgstr "Áudio por Bluetooth"
+
+#: ../src/bluetooth_view.py:336 ../src/tray_bluetooth_plugin.py:92
+msgid "Successfully connected to the Bluetooth audio device."
+msgstr "Conectado ao dispositivo de áudio Bluetooth com sucesso."
+
+#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
+#: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
+#: ../src/tray_bluetooth_plugin.py:107
+msgid "Connection Failed"
+msgstr "Falha na Conexão"
+
+#: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
+#: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
+#: ../src/tray_bluetooth_plugin.py:107
+msgid "An error occured when connecting to the device."
+msgstr "Um erro ocorreu enquanto conectava-se ao dispositivo"
+
+#: ../src/bluetooth_view.py:356 ../src/tray_bluetooth_plugin.py:104
+msgid "Bluetooth Input Service"
+msgstr "Serviço de Entrada Bluetooth"
+
+#: ../src/bluetooth_view.py:357 ../src/tray_bluetooth_plugin.py:105
+msgid "Successfully connected to the Bluetooth input device."
+msgstr "Conectado ao dispositivo de entrada Bluetooth com sucesso."
 
 #: ../src/bluetooth_view.py:376
 msgid "Bluetooth Headset"
@@ -121,12 +142,30 @@ msgstr "rocurar"
 msgid "Discovering device"
 msgstr "Vasculhando dispositivo"
 
+#: ../src/tray_bluetooth_plugin.py:285
+msgid "Adapter"
+msgstr "Adaptador"
+
+#: ../src/tray_bluetooth_plugin.py:317
+msgid "Advanced options..."
+msgstr "Opções avançadas..."
+
+#: ../src/dialog.py:166
+msgid "OK"
+msgstr "OK"
+
+#: ../src/dialog.py:168
+msgid "Cancel"
+msgstr "Cancelar"
+
 #: ../src/bluetooth_sender.py:51
 #, python-format
 msgid ""
 "Failed!\n"
 "error msg: %s"
-msgstr "Falhou!\nmsg erro: %s"
+msgstr ""
+"Falhou!\n"
+"msg erro: %s"
 
 #: ../src/bluetooth_sender.py:68
 #, python-format
@@ -144,42 +183,6 @@ msgstr "Selecionar Arquivo"
 #: ../src/search_keyword.py:32
 msgid "Searching Device Timeout"
 msgstr "Tempo Limite de Procura de Dispositivo"
-
-#: ../src/bluetooth_transfer.py:104
-#, python-format
-msgid "Incoming file from %s"
-msgstr "Arquivo vindo de %s"
-
-#: ../src/bluetooth_transfer.py:105
-#, python-format
-msgid "Accept incoming file %s?"
-msgstr "Aceitar arquivo %s?"
-
-#: ../src/bluetooth_transfer.py:108
-msgid "Accept"
-msgstr "Aceitar"
-
-#: ../src/bluetooth_transfer.py:109
-msgid "Reject"
-msgstr "Recusar"
-
-#: ../src/bluetooth_transfer.py:116
-#, python-format
-msgid "Receiving file from %s"
-msgstr "Recebendo arquivo de %s"
-
-#: ../src/bluetooth_transfer.py:142
-#, python-format
-msgid "Failed to receive the file : %s"
-msgstr "Falha ao receber o arquivo: %s"
-
-#: ../src/dialog.py:166
-msgid "OK"
-msgstr "OK"
-
-#: ../src/dialog.py:168
-msgid "Cancel"
-msgstr "Cancelar"
 
 #: ../src/bt/agent.py:88
 #, python-format

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-05 10:42+0800\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,9 +45,8 @@ msgstr ""
 msgid "Output Volume"
 msgstr ""
 
-#: ../src/main.py:105 ../src/main.py:117 ../src/main_full.py:92
-#: ../src/main_full.py:104
-msgid "Sound Enabled"
+#: ../src/main.py:105 ../src/main.py:117
+msgid "Enable Sound"
 msgstr ""
 
 #: ../src/main.py:108 ../src/main.py:514 ../src/main.py:518 ../src/main.py:781
@@ -151,12 +150,8 @@ msgstr ""
 msgid "%d Input"
 msgstr ""
 
-#: ../src/search_keyword.py:25
-msgid "Sound"
-msgstr ""
-
-#: ../src/search_keyword.py:31
-msgid "Hardware"
+#: ../src/main_full.py:92 ../src/main_full.py:104
+msgid "Sound Enabled"
 msgstr ""
 
 #: ../src/tray_sound_gui.py:90 ../src/tray_sound_gui_small.py:91
@@ -171,10 +166,18 @@ msgstr ""
 msgid "Advanced..."
 msgstr ""
 
-#: ../src/tray_sound_gui.py:314 ../src/tray_sound_gui_small.py:356
+#: ../src/tray_sound_gui.py:314 ../src/tray_sound_gui_small.py:364
 msgid "Volume"
 msgstr ""
 
-#: ../src/tray_sound_gui.py:318 ../src/tray_sound_gui_small.py:360
+#: ../src/tray_sound_gui.py:318 ../src/tray_sound_gui_small.py:368
 msgid "Mute"
+msgstr ""
+
+#: ../src/search_keyword.py:25
+msgid "Sound"
+msgstr ""
+
+#: ../src/search_keyword.py:31
+msgid "Hardware"
 msgstr ""

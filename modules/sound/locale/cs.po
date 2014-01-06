@@ -1,21 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # fri <pavelfric@seznam.cz>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-05 10:42+0800\n"
-"PO-Revision-Date: 2013-12-21 22:24+0000\n"
-"Last-Translator: fri <pavelfric@seznam.cz>\n"
-"Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-settings/language/cs/)\n"
+"POT-Creation-Date: 2014-01-06 13:03+0800\n"
+"PO-Revision-Date: 2014-01-02 05:45+0000\n"
+"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/cs/)\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #: ../src/main.py:95 ../src/main_full.py:82 ../src/search_keyword.py:27
@@ -46,10 +47,9 @@ msgstr "Výstupní přípojka"
 msgid "Output Volume"
 msgstr "Výstupní hlasitost"
 
-#: ../src/main.py:105 ../src/main.py:117 ../src/main_full.py:92
-#: ../src/main_full.py:104
-msgid "Sound Enabled"
-msgstr "Zvuk povolen"
+#: ../src/main.py:105 ../src/main.py:117
+msgid "Enable Sound"
+msgstr ""
 
 #: ../src/main.py:108 ../src/main.py:514 ../src/main.py:518 ../src/main.py:781
 #: ../src/main.py:784 ../src/main_full.py:95 ../src/main_full.py:450
@@ -152,13 +152,9 @@ msgstr "%d vstupy"
 msgid "%d Input"
 msgstr "%d vstup"
 
-#: ../src/search_keyword.py:25
-msgid "Sound"
-msgstr "Zvuk"
-
-#: ../src/search_keyword.py:31
-msgid "Hardware"
-msgstr "Technické vybavení"
+#: ../src/main_full.py:92 ../src/main_full.py:104
+msgid "Sound Enabled"
+msgstr "Zvuk povolen"
 
 #: ../src/tray_sound_gui.py:90 ../src/tray_sound_gui_small.py:91
 msgid "Device"
@@ -172,10 +168,18 @@ msgstr "Programy"
 msgid "Advanced..."
 msgstr "Pokročilé..."
 
-#: ../src/tray_sound_gui.py:314 ../src/tray_sound_gui_small.py:356
+#: ../src/tray_sound_gui.py:314 ../src/tray_sound_gui_small.py:364
 msgid "Volume"
 msgstr "Hlasitost"
 
-#: ../src/tray_sound_gui.py:318 ../src/tray_sound_gui_small.py:360
+#: ../src/tray_sound_gui.py:318 ../src/tray_sound_gui_small.py:368
 msgid "Mute"
 msgstr "Ztlumit"
+
+#: ../src/search_keyword.py:25
+msgid "Sound"
+msgstr "Zvuk"
+
+#: ../src/search_keyword.py:31
+msgid "Hardware"
+msgstr "Technické vybavení"
