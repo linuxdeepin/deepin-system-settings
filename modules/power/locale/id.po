@@ -3,13 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# aphrxia <aphrxia@gmail.com>, 2014
+# aphrxia <aphrxia@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-22 13:12+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-09 13:50+0000\n"
+"Last-Translator: aphrxia <aphrxia@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/id/)\n"
 "Language: id\n"
@@ -20,16 +22,16 @@ msgstr ""
 
 #: ../src/tray_shutdown_gui.py:93
 msgid "Switch user"
-msgstr ""
+msgstr "Ganti pengguna"
 
 #: ../src/tray_shutdown_gui.py:96 ../src/power_view.py:62
 #: ../src/tray_shutdown_plugin.py:107
 msgid "Shut down"
-msgstr ""
+msgstr "Matikan komputer"
 
 #: ../src/tray_shutdown_gui.py:99 ../src/tray_shutdown_plugin.py:113
 msgid "Restart"
-msgstr ""
+msgstr "Restart"
 
 #: ../src/tray_shutdown_gui.py:102 ../src/power_view.py:61
 #: ../src/power_view.py:137 ../src/tray_shutdown_plugin.py:119
@@ -38,56 +40,56 @@ msgstr ""
 
 #: ../src/tray_shutdown_gui.py:105 ../src/tray_shutdown_plugin.py:125
 msgid "Log out"
-msgstr ""
+msgstr "Keluar"
 
 #: ../src/tray_shutdown_gui.py:108
 msgid "Lock"
-msgstr ""
+msgstr "Kunci"
 
 #: ../src/power_view.py:50
 msgid "Minute"
-msgstr ""
+msgstr "Menit"
 
 #: ../src/power_view.py:51 ../src/power_view.py:52 ../src/power_view.py:53
 #: ../src/power_view.py:54
 msgid "Minutes"
-msgstr ""
+msgstr "Menit"
 
 #: ../src/power_view.py:55
 msgid "Hour"
-msgstr ""
+msgstr "Jam"
 
 #: ../src/power_view.py:56
 msgid "Never"
-msgstr ""
+msgstr "Tidak pernah"
 
 #: ../src/power_view.py:60
 msgid "Do nothing"
-msgstr ""
+msgstr "Jangan lakukan apa-apa"
 
 #: ../src/power_view.py:64
 msgid "Balanced"
-msgstr ""
+msgstr "Normal"
 
 #: ../src/power_view.py:65
 msgid "Power saver"
-msgstr ""
+msgstr "Penghemat daya"
 
 #: ../src/power_view.py:66
 msgid "High performance"
-msgstr ""
+msgstr "Kinerja tinggi"
 
 #: ../src/power_view.py:67
 msgid "Custom"
-msgstr ""
+msgstr "Penyesuaian setelan"
 
 #: ../src/power_view.py:74 ../src/search_keyword.py:29
 msgid "Power Button Settings"
-msgstr ""
+msgstr "Pengaturan Tombol Daya"
 
 #: ../src/power_view.py:82 ../src/search_keyword.py:30
 msgid "When I press the power button"
-msgstr ""
+msgstr "Saat saya menekan tombol daya"
 
 #: ../src/power_view.py:94 ../src/search_keyword.py:31
 msgid "When I close the lid"
@@ -95,36 +97,36 @@ msgstr ""
 
 #: ../src/power_view.py:107 ../src/search_keyword.py:33
 msgid "Power Saving Settings"
-msgstr ""
+msgstr "Pengaturan Penghematan Daya"
 
 #: ../src/power_view.py:113
 msgid "Power Plan"
-msgstr ""
+msgstr "Pengaturan Daya"
 
 #: ../src/power_view.py:125 ../src/search_keyword.py:36
 msgid "Turn off monitor"
-msgstr ""
+msgstr "Matikan monitor"
 
 #: ../src/power_view.py:150
 msgid "Battery power remaining"
-msgstr ""
+msgstr "Daya baterai tersisa"
 
 #: ../src/power_view.py:166 ../src/search_keyword.py:37
 msgid "Require password when computer wakes"
-msgstr ""
+msgstr "Tanyakan kata sandi saat komputer hidup kembali"
 
 #: ../src/power_view.py:189 ../src/search_keyword.py:38
 msgid "Always show icon in the tray"
-msgstr ""
+msgstr "Selalu tampilkan ikon pada tray"
 
 #: ../src/power_view.py:317
 msgid "Power plan has been reset to Balanced"
-msgstr ""
+msgstr "Pengaturan daya telah diatur ulang ke Balanced"
 
 #: ../src/power_view.py:374
 #, python-format
 msgid "%s when pressing the power button"
-msgstr ""
+msgstr "%s saat menekan tombol daya"
 
 #: ../src/power_view.py:379
 #, python-format
@@ -139,28 +141,28 @@ msgstr ""
 #: ../src/power_view.py:389
 #, python-format
 msgid "Changed Suspend Status to %s"
-msgstr ""
+msgstr "Mengubah Status Suspend ke %s"
 
 #: ../src/power_view.py:397
 #, python-format
 msgid "The time before turning off monitor has been changed to %s"
-msgstr ""
+msgstr "Tenggang waktu sebelum mematikan monitor telah diubah menjadi %s"
 
 #: ../src/power_view.py:407
 msgid "You will be asked for a password when computer wakes"
-msgstr ""
+msgstr "Sistem akan meminta kata sandi saat komputer hidup kembali"
 
 #: ../src/power_view.py:409
 msgid "The system will not requrie a password after sleep"
-msgstr ""
+msgstr "Sistem tidak akan meminta kata sandi setelah sleep"
 
 #: ../src/power_view.py:416
 msgid "Battery status will be shown in the tray"
-msgstr ""
+msgstr "Status baterai akan ditampilkan pada tray"
 
 #: ../src/power_view.py:418
 msgid "Battery status will not be shown in the tray"
-msgstr ""
+msgstr "Status baterai tidak akan ditampilkan pada tray"
 
 #: ../src/tray_shutdown_plugin.py:53
 #, python-format
@@ -170,6 +172,9 @@ msgid ""
 "\n"
 "The system will shut down in %s seconds."
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Matikan</span> komputer Anda sekarang?\n"
+"Sistem akan menutup dalam %s detik."
 
 #: ../src/tray_shutdown_plugin.py:56
 #, python-format
@@ -179,6 +184,9 @@ msgid ""
 "\n"
 "The system will restart in %s seconds."
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Restart</span> komputer Anda sekarang?\n"
+"Sistem akan melakukan restart dalam %s detik."
 
 #: ../src/tray_shutdown_plugin.py:59
 #, python-format
@@ -188,6 +196,9 @@ msgid ""
 "\n"
 "The system will suspend in %s seconds."
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Suspend</span> komputer Anda sekarang?\n"
+"Sistem akan melakukan suspend dalam %s detik."
 
 #: ../src/tray_shutdown_plugin.py:62
 #, python-format
@@ -197,12 +208,17 @@ msgid ""
 "\n"
 "You will be automatically logged out in %s seconds."
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Log out</span> dari sistem Anda sekarang?\n"
+"Anda akan log out otomatis dalam %s detik."
 
 #: ../src/tray_shutdown_plugin.py:65
 msgid ""
 "\n"
 "<span foreground='#cc5744'>A program is still running:</span>"
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Masih ada program yang berjalan:</span>"
 
 #: ../src/tray_shutdown_plugin.py:66
 #, python-format
@@ -210,18 +226,24 @@ msgid ""
 "\n"
 "<span foreground='#cc5744'>%s programs are still running:</span>"
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>%s program masih berjalan:</span>"
 
 #: ../src/tray_shutdown_plugin.py:67
 msgid ""
 "Waiting for applications to terminate. Interrupting these may cause "
 "unexpected results."
 msgstr ""
+"Menunggu aplikasi dihentikan. Interupsi terhadap proses ini dapat "
+"menyebabkan kesalahan sistem."
 
 #: ../src/tray_shutdown_plugin.py:74
 msgid ""
 "\n"
 "<span foreground='#cc5744'>The Software Center is still running.</span>"
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Pusat Aplikasi belum dimatikan.</span>"
 
 #: ../src/tray_shutdown_plugin.py:84
 msgid ""
@@ -231,14 +253,19 @@ msgid ""
 "you install Linux Deepin on your hard disk to get the best experience "
 "possible."
 msgstr ""
+"\n"
+"Kami mendeteksi bahwa sistem dijalankan pada <span "
+"foreground='#cc5744'>mesin virtual</span>. Sangat direkomendasikan agar Anda "
+"menginstall Linux Deepin ke hard disk untuk mendapatkan performa yang lebih "
+"baik."
 
 #: ../src/tray_shutdown_plugin.py:108
 msgid "Force shut down"
-msgstr ""
+msgstr "Matikan paksa komputer"
 
 #: ../src/tray_shutdown_plugin.py:114
 msgid "Force restart"
-msgstr ""
+msgstr "Restart paksa"
 
 #: ../src/tray_shutdown_plugin.py:120
 msgid "Force suspend"
@@ -246,32 +273,32 @@ msgstr ""
 
 #: ../src/tray_shutdown_plugin.py:126
 msgid "Force log out"
-msgstr ""
+msgstr "Keluar paksa"
 
 #: ../src/tray_shutdown_plugin.py:309
 msgid "Don't prompt again"
-msgstr ""
+msgstr "Jangan bertanya lagi"
 
 #: ../src/tray_shutdown_plugin.py:309
 msgid "I see"
-msgstr ""
+msgstr "Saya mengerti"
 
 #: ../src/tray_dialog.py:42
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #: ../src/tray_dialog.py:43
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../src/search_keyword.py:32
 msgid "When I press the sleep button"
-msgstr ""
+msgstr "Saat saya menekan tombol Sleep"
 
 #: ../src/search_keyword.py:34
 msgid "Hibernate"
-msgstr ""
+msgstr "Hibernasi"
 
 #: ../src/search_keyword.py:35
 msgid "Turn off hard disk"
-msgstr ""
+msgstr "Matikan hard disk"

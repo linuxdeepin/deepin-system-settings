@@ -4,12 +4,13 @@
 #
 # Translators:
 # fri <pavelfric@seznam.cz>, 2013
+# fri <pavelfric@seznam.cz>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-21 22:46+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: fri <pavelfric@seznam.cz>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/cs/)\n"
@@ -157,7 +158,7 @@ msgstr "Nastavit čas"
 
 #: ../src/date_time_view.py:305
 msgid "Hour"
-msgstr "Hodina"
+msgstr "hodin"
 
 #: ../src/date_time_view.py:319 ../src/search_keyword.py:30
 msgid "Time Zone"
@@ -191,7 +192,7 @@ msgstr "Čas bude ukázán ve 12 hodinovém formátu"
 #: ../src/date_time_view.py:517
 #, python-format
 msgid "Changed time to %02d:%02d:%02d"
-msgstr "Čas změněn %02d:%02d:%02d"
+msgstr "Čas změněn na %02d:%02d:%02d"
 
 #: ../src/date_time_view.py:542
 #, python-format

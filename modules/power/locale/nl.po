@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# jasper580 <jasperweyne@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-20 09:06+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-09 14:50+0000\n"
+"Last-Translator: jasper580 <jasperweyne@gmail.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/nl/)\n"
 "Language: nl\n"
@@ -25,24 +26,24 @@ msgstr ""
 #: ../src/tray_shutdown_gui.py:96 ../src/power_view.py:62
 #: ../src/tray_shutdown_plugin.py:107
 msgid "Shut down"
-msgstr ""
+msgstr "Afsluiten"
 
 #: ../src/tray_shutdown_gui.py:99 ../src/tray_shutdown_plugin.py:113
 msgid "Restart"
-msgstr ""
+msgstr "Herstarten"
 
 #: ../src/tray_shutdown_gui.py:102 ../src/power_view.py:61
 #: ../src/power_view.py:137 ../src/tray_shutdown_plugin.py:119
 msgid "Suspend"
-msgstr ""
+msgstr "Slaapstand"
 
 #: ../src/tray_shutdown_gui.py:105 ../src/tray_shutdown_plugin.py:125
 msgid "Log out"
-msgstr ""
+msgstr "Uitloggen"
 
 #: ../src/tray_shutdown_gui.py:108
 msgid "Lock"
-msgstr ""
+msgstr "Op slot doen"
 
 #: ../src/power_view.py:50
 msgid "Minute"
@@ -103,7 +104,7 @@ msgstr ""
 
 #: ../src/power_view.py:125 ../src/search_keyword.py:36
 msgid "Turn off monitor"
-msgstr ""
+msgstr "Sluit beeldscherm af"
 
 #: ../src/power_view.py:150
 msgid "Battery power remaining"
@@ -170,6 +171,10 @@ msgid ""
 "\n"
 "The system will shut down in %s seconds."
 msgstr ""
+"\n"
+"Nu uw computer <span foreground='#cc5744'>Afsluiten</span>? \n"
+"\n"
+"Het systeem zal afsluiten over %s seconden."
 
 #: ../src/tray_shutdown_plugin.py:56
 #, python-format
@@ -179,6 +184,10 @@ msgid ""
 "\n"
 "The system will restart in %s seconds."
 msgstr ""
+"\n"
+"Nu uw computer <span foreground='#cc5744'>Herstarten</span>?\n"
+"\n"
+"Het systeem zal herstarten over %s seconden."
 
 #: ../src/tray_shutdown_plugin.py:59
 #, python-format
@@ -188,6 +197,10 @@ msgid ""
 "\n"
 "The system will suspend in %s seconds."
 msgstr ""
+"\n"
+"Nu uw computer zetten in <span foreground='#cc5744'>Slaapstand</span>?\n"
+"\n"
+"Het systeem zal sluimeren over %s seconden."
 
 #: ../src/tray_shutdown_plugin.py:62
 #, python-format
@@ -197,12 +210,18 @@ msgid ""
 "\n"
 "You will be automatically logged out in %s seconds."
 msgstr ""
+"\n"
+"Nu uw computer <span foreground='#cc5744'>Uitloggen</span>?\n"
+"\n"
+"U zal automatisch uitgelogd worden over %s seconden."
 
 #: ../src/tray_shutdown_plugin.py:65
 msgid ""
 "\n"
 "<span foreground='#cc5744'>A program is still running:</span>"
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Een programma is nog geopend:</span>"
 
 #: ../src/tray_shutdown_plugin.py:66
 #, python-format
@@ -210,18 +229,24 @@ msgid ""
 "\n"
 "<span foreground='#cc5744'>%s programs are still running:</span>"
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>%s programma's zijn nog geopend:</span>"
 
 #: ../src/tray_shutdown_plugin.py:67
 msgid ""
 "Waiting for applications to terminate. Interrupting these may cause "
 "unexpected results."
 msgstr ""
+"Wachten op programma's om af te breken. Onderbreken kan onverwachte "
+"resultaten geven."
 
 #: ../src/tray_shutdown_plugin.py:74
 msgid ""
 "\n"
 "<span foreground='#cc5744'>The Software Center is still running.</span>"
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Software Center is nog geopend.</span>"
 
 #: ../src/tray_shutdown_plugin.py:84
 msgid ""
@@ -231,26 +256,30 @@ msgid ""
 "you install Linux Deepin on your hard disk to get the best experience "
 "possible."
 msgstr ""
+"\n"
+"We detecteren dat dit systeem draait op een <span "
+"foreground='#cc5744'>virtuele machine</span>. Het is aanbevolen dat u Linux "
+"Deepin installeert op uw harde schijf voor de beste ervaring."
 
 #: ../src/tray_shutdown_plugin.py:108
 msgid "Force shut down"
-msgstr ""
+msgstr "Forceer afsluiten"
 
 #: ../src/tray_shutdown_plugin.py:114
 msgid "Force restart"
-msgstr ""
+msgstr "Forceer herstarten"
 
 #: ../src/tray_shutdown_plugin.py:120
 msgid "Force suspend"
-msgstr ""
+msgstr "Forceer slaapstand"
 
 #: ../src/tray_shutdown_plugin.py:126
 msgid "Force log out"
-msgstr ""
+msgstr "Forceer uitloggen"
 
 #: ../src/tray_shutdown_plugin.py:309
 msgid "Don't prompt again"
-msgstr ""
+msgstr "Niet opnieuw vragen"
 
 #: ../src/tray_shutdown_plugin.py:309
 msgid "I see"
@@ -258,7 +287,7 @@ msgstr ""
 
 #: ../src/tray_dialog.py:42
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 #: ../src/tray_dialog.py:43
 msgid "OK"
@@ -270,8 +299,8 @@ msgstr ""
 
 #: ../src/search_keyword.py:34
 msgid "Hibernate"
-msgstr ""
+msgstr "Sluimeren"
 
 #: ../src/search_keyword.py:35
 msgid "Turn off hard disk"
-msgstr ""
+msgstr "Sluit harde schijf af"

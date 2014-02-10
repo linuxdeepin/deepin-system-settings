@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-27 01:24+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/it/)\n"
@@ -25,16 +25,16 @@ msgstr ""
 #: ../src/tray_shutdown_gui.py:96 ../src/power_view.py:62
 #: ../src/tray_shutdown_plugin.py:107
 msgid "Shut down"
-msgstr ""
+msgstr "Arresta"
 
 #: ../src/tray_shutdown_gui.py:99 ../src/tray_shutdown_plugin.py:113
 msgid "Restart"
-msgstr ""
+msgstr "Riavvia"
 
 #: ../src/tray_shutdown_gui.py:102 ../src/power_view.py:61
 #: ../src/power_view.py:137 ../src/tray_shutdown_plugin.py:119
 msgid "Suspend"
-msgstr ""
+msgstr "Sospendi"
 
 #: ../src/tray_shutdown_gui.py:105 ../src/tray_shutdown_plugin.py:125
 msgid "Log out"
@@ -42,24 +42,24 @@ msgstr ""
 
 #: ../src/tray_shutdown_gui.py:108
 msgid "Lock"
-msgstr ""
+msgstr "Blocca"
 
 #: ../src/power_view.py:50
 msgid "Minute"
-msgstr ""
+msgstr "Minuto"
 
 #: ../src/power_view.py:51 ../src/power_view.py:52 ../src/power_view.py:53
 #: ../src/power_view.py:54
 msgid "Minutes"
-msgstr ""
+msgstr "Minuti"
 
 #: ../src/power_view.py:55
 msgid "Hour"
-msgstr ""
+msgstr "Ora"
 
 #: ../src/power_view.py:56
 msgid "Never"
-msgstr ""
+msgstr "Mai"
 
 #: ../src/power_view.py:60
 msgid "Do nothing"
@@ -75,11 +75,11 @@ msgstr ""
 
 #: ../src/power_view.py:66
 msgid "High performance"
-msgstr ""
+msgstr "Performance elevate"
 
 #: ../src/power_view.py:67
 msgid "Custom"
-msgstr ""
+msgstr "Personalizzato"
 
 #: ../src/power_view.py:74 ../src/search_keyword.py:29
 msgid "Power Button Settings"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: ../src/power_view.py:125 ../src/search_keyword.py:36
 msgid "Turn off monitor"
-msgstr ""
+msgstr "Spegni lo schermo"
 
 #: ../src/power_view.py:150
 msgid "Battery power remaining"
@@ -258,11 +258,11 @@ msgstr ""
 
 #: ../src/tray_dialog.py:42
 msgid "Cancel"
-msgstr ""
+msgstr "Cancella"
 
 #: ../src/tray_dialog.py:43
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../src/search_keyword.py:32
 msgid "When I press the sleep button"

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-18 02:16+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/sv_SE/)\n"
@@ -25,24 +25,24 @@ msgstr ""
 #: ../src/tray_shutdown_gui.py:96 ../src/power_view.py:62
 #: ../src/tray_shutdown_plugin.py:107
 msgid "Shut down"
-msgstr ""
+msgstr "Stäng av"
 
 #: ../src/tray_shutdown_gui.py:99 ../src/tray_shutdown_plugin.py:113
 msgid "Restart"
-msgstr ""
+msgstr "Starta om"
 
 #: ../src/tray_shutdown_gui.py:102 ../src/power_view.py:61
 #: ../src/power_view.py:137 ../src/tray_shutdown_plugin.py:119
 msgid "Suspend"
-msgstr ""
+msgstr "Vänteläge"
 
 #: ../src/tray_shutdown_gui.py:105 ../src/tray_shutdown_plugin.py:125
 msgid "Log out"
-msgstr ""
+msgstr "Logga ut"
 
 #: ../src/tray_shutdown_gui.py:108
 msgid "Lock"
-msgstr ""
+msgstr "Lås"
 
 #: ../src/power_view.py:50
 msgid "Minute"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../src/power_view.py:55
 msgid "Hour"
-msgstr ""
+msgstr "Tid"
 
 #: ../src/power_view.py:56
 msgid "Never"
@@ -67,19 +67,19 @@ msgstr ""
 
 #: ../src/power_view.py:64
 msgid "Balanced"
-msgstr ""
+msgstr "Balanserad"
 
 #: ../src/power_view.py:65
 msgid "Power saver"
-msgstr ""
+msgstr "Strömsparare"
 
 #: ../src/power_view.py:66
 msgid "High performance"
-msgstr ""
+msgstr "Högpresterande"
 
 #: ../src/power_view.py:67
 msgid "Custom"
-msgstr ""
+msgstr "Anpassad"
 
 #: ../src/power_view.py:74 ../src/search_keyword.py:29
 msgid "Power Button Settings"
@@ -258,11 +258,11 @@ msgstr ""
 
 #: ../src/tray_dialog.py:42
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #: ../src/tray_dialog.py:43
 msgid "OK"
-msgstr ""
+msgstr "Okej"
 
 #: ../src/search_keyword.py:32
 msgid "When I press the sleep button"

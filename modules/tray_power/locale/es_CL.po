@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 08:51+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Spanish (Chile) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/es_CL/)\n"
@@ -43,7 +43,7 @@ msgstr ""
 
 #: ../src/tray_power_gui.py:45
 msgid "Power"
-msgstr ""
+msgstr "Energía"
 
 #: ../src/tray_power_gui.py:54
 msgid "Balanced"
@@ -59,7 +59,7 @@ msgstr ""
 
 #: ../src/tray_power_gui.py:57
 msgid "Custom"
-msgstr ""
+msgstr "Personalizado"
 
 #: ../src/tray_power_gui.py:72
 msgid "Advanced..."

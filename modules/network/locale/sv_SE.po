@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-27 02:35+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/sv_SE/)\n"
@@ -53,7 +53,7 @@ msgstr ""
 #: ../src/mobile_config.py:281 ../src/dsl_config.py:102
 #: ../src/vpn_config.py:126 ../src/vpn_config.py:353 ../src/wlan_config.py:288
 msgid "Advanced"
-msgstr ""
+msgstr "Advancerad"
 
 #: ../src/lan_config.py:109 ../src/mobile_config.py:223
 #: ../src/ipsettings.py:41 ../src/dsl_config.py:119 ../src/vpn_config.py:142
@@ -89,11 +89,11 @@ msgstr ""
 
 #: ../src/widgets.py:97
 msgid "OK"
-msgstr ""
+msgstr "Okej"
 
 #: ../src/widgets.py:98
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #: ../src/main.py:48 ../src/vpn_config.py:27 ../src/search_keyword.py:32
 msgid "VPN"
@@ -141,7 +141,7 @@ msgstr ""
 
 #: ../src/mobile_config.py:288
 msgid "Type:"
-msgstr ""
+msgstr "Typ:"
 
 #: ../src/mobile_config.py:291
 msgid "PIN:"
@@ -328,7 +328,7 @@ msgstr ""
 
 #: ../src/tray_ui.py:70
 msgid "Advanced..."
-msgstr ""
+msgstr "Advancerad..."
 
 #: ../src/tray_ui.py:485
 #, python-format
@@ -377,11 +377,11 @@ msgstr ""
 
 #: ../src/foot_box_ui.py:69
 msgid "Delete"
-msgstr ""
+msgstr "Ta bort"
 
 #: ../src/foot_box_ui.py:96
 msgid "Save"
-msgstr ""
+msgstr "Spara"
 
 #: ../src/foot_box_ui.py:140
 msgid "Tip:"

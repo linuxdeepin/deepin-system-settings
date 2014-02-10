@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# toolband25 <castilloluis2005@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 08:34+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-27 00:40+0000\n"
+"Last-Translator: toolband25 <castilloluis2005@gmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/es/)\n"
 "Language: es\n"
@@ -20,84 +21,84 @@ msgstr ""
 
 #: ../src/main.py:85
 msgid "Custom"
-msgstr ""
+msgstr "Personalizado"
 
 #: ../src/main.py:86 ../src/search_keyword.py:26
 msgid "Pointer Speed"
-msgstr ""
+msgstr "Velocidad del Puntero"
 
 #: ../src/main.py:87 ../src/search_keyword.py:27
 msgid "Acceleration"
-msgstr ""
+msgstr "Aceleración"
 
 #: ../src/main.py:90 ../src/main.py:101 ../src/main.py:278 ../src/main.py:325
 msgid "Fast"
-msgstr ""
+msgstr "Rapido "
 
 #: ../src/main.py:91 ../src/main.py:102 ../src/main.py:277 ../src/main.py:324
 msgid "Slow"
-msgstr ""
+msgstr "Lento"
 
 #: ../src/main.py:92 ../src/search_keyword.py:28
 msgid "Sensitivity"
-msgstr ""
+msgstr "Sensibilidad"
 
 #: ../src/main.py:95 ../src/main.py:292
 msgid "Low"
-msgstr ""
+msgstr "Bajo"
 
 #: ../src/main.py:96 ../src/main.py:293
 msgid "High"
-msgstr ""
+msgstr "Alto"
 
 #: ../src/main.py:97 ../src/search_keyword.py:29
 msgid "Double-click"
-msgstr ""
+msgstr "Doble Clic"
 
 #: ../src/main.py:98 ../src/search_keyword.py:30
 msgid "Frequency"
-msgstr ""
+msgstr "Frecuencia"
 
 #: ../src/main.py:103
 msgid "Double-click on the smiley face to test your settings."
-msgstr ""
+msgstr "Doble clic a la carita feliz para comprobar tu configuración"
 
 #: ../src/main.py:105
 msgid "Relevant Settings"
-msgstr ""
+msgstr "Configuraciones Relevantes"
 
 #: ../src/main.py:108 ../src/search_keyword.py:31
 msgid "Right-handed"
-msgstr ""
+msgstr "Derecho"
 
 #: ../src/main.py:109 ../src/search_keyword.py:32
 msgid "Left-handed"
-msgstr ""
+msgstr "Zurdo"
 
 #: ../src/main.py:112
 msgid "Keyboard Settings"
-msgstr ""
+msgstr "Configuración del Teclado"
 
 #: ../src/main.py:115
 msgid "TouchPad Settings"
-msgstr ""
+msgstr "Configuración del TouchPad"
 
 #: ../src/main.py:118
 msgid "Reset"
-msgstr ""
+msgstr "Reiniciar"
 
 #: ../src/main.py:436
 msgid "Set to left-handed"
-msgstr ""
+msgstr "Fijar a Zurdo"
 
 #: ../src/main.py:438
 msgid "Set to right-handed"
-msgstr ""
+msgstr "Fijar a derecho"
 
 #: ../src/main.py:525
 msgid "Reset to defaults"
-msgstr ""
+msgstr "Restaurar valores por defecto "
 
 #: ../src/search_keyword.py:25
 msgid "Mouse"
-msgstr ""
+msgstr "Raton "

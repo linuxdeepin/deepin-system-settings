@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-01 14:05+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: 胡家润 <hujiadfr@126.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/de_DE/)\n"
@@ -172,6 +172,10 @@ msgid ""
 "\n"
 "The system will shut down in %s seconds."
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Ausschalten</span> Jetzt Ihrem Computer?\n"
+"\n"
+"Das System wird in %s Sekunden heruntergefahren."
 
 #: ../src/tray_shutdown_plugin.py:56
 #, python-format
@@ -181,6 +185,10 @@ msgid ""
 "\n"
 "The system will restart in %s seconds."
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Restart</span> Jetzt Ihrem Computer?\n"
+"\n"
+"Das System wird in %s Sekunden neu gestartet wird."
 
 #: ../src/tray_shutdown_plugin.py:59
 #, python-format
@@ -190,6 +198,10 @@ msgid ""
 "\n"
 "The system will suspend in %s seconds."
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Suspend</span> Jetzt Ihrem Computer?\n"
+"\n"
+"Das System wird in %s Sekunden auszusetzen."
 
 #: ../src/tray_shutdown_plugin.py:62
 #, python-format
@@ -199,12 +211,18 @@ msgid ""
 "\n"
 "You will be automatically logged out in %s seconds."
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Abmelden</span> des Systems jetzt?\n"
+"\n"
+"Sie werden automatisch in %s Sekunden geloggt werden."
 
 #: ../src/tray_shutdown_plugin.py:65
 msgid ""
 "\n"
 "<span foreground='#cc5744'>A program is still running:</span>"
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Ein Programm noch läuft:</span>"
 
 #: ../src/tray_shutdown_plugin.py:66
 #, python-format
@@ -212,6 +230,8 @@ msgid ""
 "\n"
 "<span foreground='#cc5744'>%s programs are still running:</span>"
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>%s Programme laufen noch:</span>"
 
 #: ../src/tray_shutdown_plugin.py:67
 msgid ""
@@ -226,6 +246,8 @@ msgid ""
 "\n"
 "<span foreground='#cc5744'>The Software Center is still running.</span>"
 msgstr ""
+"\n"
+"span foreground='#cc5744'>Das Software Center läuft noch.</span>"
 
 #: ../src/tray_shutdown_plugin.py:84
 msgid ""
@@ -235,6 +257,11 @@ msgid ""
 "you install Linux Deepin on your hard disk to get the best experience "
 "possible."
 msgstr ""
+"\n"
+"Wir haben festgestellt, dass das System für ein läuft <span "
+"foreground='#cc5744'>virtual machine</span>. Es wird dringend empfohlen, "
+"dass Sie Linux Deepin auf Ihrer Festplatte zu installieren, um die "
+"bestmögliche Erfahrung zu bekommen."
 
 #: ../src/tray_shutdown_plugin.py:108
 msgid "Force shut down"

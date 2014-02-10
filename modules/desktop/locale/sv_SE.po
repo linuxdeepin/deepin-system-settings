@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-18 02:16+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/sv_SE/)\n"
@@ -56,11 +56,11 @@ msgstr ""
 
 #: ../src/desktop_view.py:79
 msgid "Launcher"
-msgstr ""
+msgstr "Startare"
 
 #: ../src/desktop_view.py:80
 msgid "Maximize"
-msgstr ""
+msgstr "Maximera"
 
 #: ../src/desktop_view.py:86 ../src/search_keyword.py:29
 msgid "Desktop Icon"
@@ -68,19 +68,19 @@ msgstr ""
 
 #: ../src/desktop_view.py:94
 msgid "Computer"
-msgstr ""
+msgstr "Dator"
 
 #: ../src/desktop_view.py:97
 msgid "Home"
-msgstr ""
+msgstr "Hem"
 
 #: ../src/desktop_view.py:100
 msgid "Trash"
-msgstr ""
+msgstr "Papperskorg"
 
 #: ../src/desktop_view.py:103
 msgid "Software Center"
-msgstr ""
+msgstr "Programcentral"
 
 #: ../src/desktop_view.py:118 ../src/search_keyword.py:30
 msgid "Dock"
@@ -136,7 +136,7 @@ msgstr ""
 
 #: ../src/desktop_view.py:273 ../src/desktop_view.py:289
 msgid "Select"
-msgstr ""
+msgstr "Välj"
 
 #: ../src/desktop_view.py:284
 msgid "Lock Page"

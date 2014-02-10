@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
-# CasperLi_HK <li_waikin@hotmail.com>, 2013
+# CasperLi_HK <casper.hk@hotmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-18 07:20+0000\n"
-"Last-Translator: CasperLi_HK <li_waikin@hotmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"Last-Translator: CasperLi_HK <casper.hk@hotmail.com>\n"
 "Language-Team: Chinese (Hong Kong) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/zh_HK/)\n"
 "Language: zh_HK\n"
@@ -37,15 +37,15 @@ msgstr ""
 
 #: ../src/display_view.py:244
 msgid "Normal"
-msgstr ""
+msgstr "恢復"
 
 #: ../src/display_view.py:245
 msgid "Right"
-msgstr ""
+msgstr "右對齊"
 
 #: ../src/display_view.py:246
 msgid "Left"
-msgstr ""
+msgstr "左對齊"
 
 #: ../src/display_view.py:247
 msgid "Inverted"
@@ -53,21 +53,21 @@ msgstr ""
 
 #: ../src/display_view.py:248
 msgid "Minute"
-msgstr ""
+msgstr "分"
 
 #: ../src/display_view.py:249 ../src/display_view.py:250
 #: ../src/display_view.py:251 ../src/display_view.py:252
 #: ../src/display_view.py:253
 msgid "Minutes"
-msgstr ""
+msgstr "分"
 
 #: ../src/display_view.py:254
 msgid "Hour"
-msgstr ""
+msgstr "時"
 
 #: ../src/display_view.py:255
 msgid "Never"
-msgstr ""
+msgstr "永不"
 
 #: ../src/display_view.py:292 ../src/search_keyword.py:29
 msgid "Display"
@@ -75,11 +75,11 @@ msgstr ""
 
 #: ../src/display_view.py:299 ../src/search_keyword.py:30
 msgid "Monitor"
-msgstr ""
+msgstr "監視器"
 
 #: ../src/display_view.py:312
 msgid "Relevant Settings"
-msgstr ""
+msgstr "關聯設定值"
 
 #: ../src/display_view.py:318
 #, python-format
@@ -93,7 +93,7 @@ msgstr ""
 
 #: ../src/display_view.py:344 ../src/search_keyword.py:31
 msgid "Resolution"
-msgstr ""
+msgstr "解析度"
 
 #: ../src/display_view.py:359 ../src/search_keyword.py:32
 msgid "Rotation"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: ../src/display_view.py:513
 msgid "Reset to default value"
-msgstr ""
+msgstr "重設為預設值"
 
 #: ../src/display_view.py:604
 #, python-format

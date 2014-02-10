@@ -3,13 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# Karim Oulad Chalha <herr.linux88@gmail.com>, 2014
+# Mohd <mo-hd@windowslive.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-30 01:55+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-09 21:10+0000\n"
+"Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
 "Language: ar\n"
@@ -21,160 +23,160 @@ msgstr ""
 
 #: ../src/desktop_view.py:70
 msgid "Default Style"
-msgstr ""
+msgstr "النمط الأفتراضي"
 
 #: ../src/desktop_view.py:71
 msgid "Auto Hide"
-msgstr ""
+msgstr "أخفاء تلقائي"
 
 #: ../src/desktop_view.py:72
 msgid "Invisible"
-msgstr ""
+msgstr "مخفي"
 
 #: ../src/desktop_view.py:73
 msgid "Buttom"
-msgstr ""
+msgstr "منتصف"
 
 #: ../src/desktop_view.py:74
 msgid "Top"
-msgstr ""
+msgstr "أعلى"
 
 #: ../src/desktop_view.py:75
 msgid "Default Icon"
-msgstr ""
+msgstr "أيقونة افتراضية"
 
 #: ../src/desktop_view.py:76
 msgid "Small"
-msgstr ""
+msgstr "صغير"
 
 #: ../src/desktop_view.py:77 ../src/desktop_view.py:80
 msgid "Nothing"
-msgstr ""
+msgstr "لا شيء"
 
 #: ../src/desktop_view.py:78
 msgid "Opening Window"
-msgstr ""
+msgstr "فتح نافذة"
 
 #: ../src/desktop_view.py:79
 msgid "Launcher"
-msgstr ""
+msgstr "مُطلق"
 
 #: ../src/desktop_view.py:80
 msgid "Maximize"
-msgstr ""
+msgstr "تكبير"
 
 #: ../src/desktop_view.py:86 ../src/search_keyword.py:29
 msgid "Desktop Icon"
-msgstr ""
+msgstr "أيقونة سطح المكتب"
 
 #: ../src/desktop_view.py:94
 msgid "Computer"
-msgstr ""
+msgstr "الكمبيوتر"
 
 #: ../src/desktop_view.py:97
 msgid "Home"
-msgstr ""
+msgstr "المنزل"
 
 #: ../src/desktop_view.py:100
 msgid "Trash"
-msgstr ""
+msgstr "المهملات"
 
 #: ../src/desktop_view.py:103
 msgid "Software Center"
-msgstr ""
+msgstr "مركز البرمجيات"
 
 #: ../src/desktop_view.py:118 ../src/search_keyword.py:30
 msgid "Dock"
-msgstr ""
+msgstr "منصة"
 
 #: ../src/desktop_view.py:124
 msgid "Display Style"
-msgstr ""
+msgstr "نمط العرض"
 
 #: ../src/desktop_view.py:144
 msgid "Place Style"
-msgstr ""
+msgstr "نمط المكان"
 
 #: ../src/desktop_view.py:156
 msgid "Icon Size"
-msgstr ""
+msgstr "حجم الأيقونة"
 
 #: ../src/desktop_view.py:170
 msgid "Preview"
-msgstr ""
+msgstr "معاينة"
 
 #: ../src/desktop_view.py:178 ../src/search_keyword.py:31
 msgid "Hot Zone"
-msgstr ""
+msgstr "المنطقة الساخنة"
 
 #: ../src/desktop_view.py:181
 msgid "Top Left"
-msgstr ""
+msgstr "أعلى اليسار"
 
 #: ../src/desktop_view.py:200
 msgid "Bottom Right"
-msgstr ""
+msgstr "أسفل اليمين"
 
 #: ../src/desktop_view.py:221
 msgid "Top Edge"
-msgstr ""
+msgstr "أعلى الحد"
 
 #: ../src/desktop_view.py:233
 msgid "Left Edge"
-msgstr ""
+msgstr "يسار الحد"
 
 #: ../src/desktop_view.py:245
 msgid "Right Edge"
-msgstr ""
+msgstr "يمين الحد"
 
 #: ../src/desktop_view.py:260
 msgid "Login &amp;&amp; Lock"
-msgstr ""
+msgstr "دخول &amp;&amp; قفل"
 
 #: ../src/desktop_view.py:268
 msgid "Login Page"
-msgstr ""
+msgstr "صفحة الدخول"
 
 #: ../src/desktop_view.py:273 ../src/desktop_view.py:289
 msgid "Select"
-msgstr ""
+msgstr "اختيار"
 
 #: ../src/desktop_view.py:284
 msgid "Lock Page"
-msgstr ""
+msgstr "قفل الصفحة"
 
 #: ../src/desktop_view.py:344
 msgid "Show computer icon"
-msgstr ""
+msgstr "أظهار أيقونة الكمبيوتر"
 
 #: ../src/desktop_view.py:346
 msgid "Hide computer icon"
-msgstr ""
+msgstr "إخفاء أيقونة الكمبيوتر"
 
 #: ../src/desktop_view.py:352
 msgid "Show home icon"
-msgstr ""
+msgstr "أظهار أيقونة المنزل"
 
 #: ../src/desktop_view.py:354
 msgid "Hide home icon"
-msgstr ""
+msgstr "إخفاء أيقونة المنزل"
 
 #: ../src/desktop_view.py:360
 msgid "Show trash icon"
-msgstr ""
+msgstr "أظهار أيقونة المهملات"
 
 #: ../src/desktop_view.py:362
 msgid "Hide trash icon"
-msgstr ""
+msgstr "إخفاء أيقونة المهملات"
 
 #: ../src/desktop_view.py:368
 msgid "Show deepin software center icon"
-msgstr ""
+msgstr "أظهار أيقونة دييبن لمركز البرمجيات"
 
 #: ../src/desktop_view.py:370
 msgid "Hide deepin software conter icon"
-msgstr ""
+msgstr "إخفاء أيقونة دييبن لمركز البرمجيات"
 
 #: ../src/desktop_view.py:468
 msgid "Reset to default value"
-msgstr ""
+msgstr "إعادة تعيين إلى القيمة الافتراضية"

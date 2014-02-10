@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-20 09:07+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-09 14:30+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/nl/)\n"
@@ -48,7 +48,7 @@ msgstr ""
 
 #: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
 msgid "Administrator"
-msgstr ""
+msgstr "Administrator"
 
 #: ../src/treeitem.py:176
 msgid "My Account"
@@ -80,7 +80,7 @@ msgstr ""
 
 #: ../src/edit_icon_page.py:872
 msgid "Preview"
-msgstr ""
+msgstr "Voorbeeld"
 
 #: ../src/edit_icon_page.py:924
 msgid "no picture"
@@ -137,7 +137,7 @@ msgstr ""
 
 #: ../src/main.py:178
 msgid "Delete"
-msgstr ""
+msgstr "Verwijderen"
 
 #: ../src/main.py:179
 msgid "Create"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: ../src/main.py:180 ../src/main.py:233 ../src/main.py:239 ../src/main.py:971
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 #: ../src/main.py:228
 msgid "It is possible to keep the home directory when deleting a user account."

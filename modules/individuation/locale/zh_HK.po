@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-27 17:04+0800\n"
-"PO-Revision-Date: 2014-01-02 05:44+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
 "Language-Team: Chinese (Hong Kong) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/zh_HK/)\n"
@@ -25,7 +25,7 @@ msgstr "已下載"
 
 #: ../src/theme_manager.py:427
 msgid "Untitled"
-msgstr ""
+msgstr "未命名"
 
 #: ../src/main.py:81
 msgid "Image files"
@@ -51,181 +51,138 @@ msgstr "桌布"
 msgid "Pictures"
 msgstr "圖片"
 
-#: ../src/ui/detail_page.py:37
-msgid "Minute"
-msgstr ""
-
-#: ../src/ui/detail_page.py:37 ../src/ui/detail_page.py:38
-#: ../src/ui/detail_page.py:39 ../src/ui/detail_page.py:40
-msgid "Minutes"
-msgstr ""
-
-#: ../src/ui/detail_page.py:40
-msgid "Hour"
-msgstr ""
-
-#: ../src/ui/detail_page.py:41 ../src/ui/detail_page.py:42
-#: ../src/ui/detail_page.py:43
-msgid "Hours"
-msgstr ""
-
-#: ../src/ui/detail_page.py:46
-msgid "Stretch"
-msgstr ""
-
-#: ../src/ui/detail_page.py:46
-msgid "Tile"
-msgstr ""
-
-#: ../src/ui/detail_page.py:70
-#, fuzzy
-msgid "Position"
-msgstr "個人化"
-
-#: ../src/ui/detail_page.py:73
-msgid "Duration"
-msgstr ""
-
-#: ../src/ui/detail_page.py:80
-msgid "Random"
-msgstr ""
-
-#: ../src/ui/detail_page.py:85 ../src/ui/detail_page.py:135
-#: ../src/ui/detail_page.py:144 ../src/ui/detail_page.py:152
-#: ../src/ui/detail_page.py:194 ../src/ui/delete_page.py:58
-#: ../src/ui/delete_page.py:81 ../src/ui/delete_page.py:89
-#: ../src/ui/delete_page.py:116
-msgid "Select all"
-msgstr ""
-
-#: ../src/ui/detail_page.py:88 ../src/ui/delete_page.py:61
-#: ../src/ui/select_page.py:87 ../src/ui/select_page.py:228
-msgid "Delete"
-msgstr ""
-
-#: ../src/ui/detail_page.py:133 ../src/ui/detail_page.py:142
-#: ../src/ui/detail_page.py:150 ../src/ui/detail_page.py:231
-#: ../src/ui/delete_page.py:79 ../src/ui/delete_page.py:87
-msgid "Clear all"
-msgstr ""
-
-#: ../src/ui/theme_view.py:97 ../src/ui/theme_view.py:114
-#, python-format
-msgid "Changed User Theme to %s"
-msgstr ""
-
-#: ../src/ui/theme_view.py:133 ../src/ui/theme_view.py:264
-#, fuzzy
-msgid "Save Theme As"
-msgstr "系統主題"
-
-#: ../src/ui/theme_view.py:137
-#, fuzzy
-msgid "Rename Theme"
-msgstr "系統主題"
-
-#: ../src/ui/theme_view.py:141 ../src/ui/theme_view.py:158
-#, fuzzy
-msgid "Delete Theme"
-msgstr "系統主題"
-
-#: ../src/ui/theme_view.py:142
-#, python-format
-msgid "Are you sure you want to delete the theme %s?"
-msgstr ""
-
-#: ../src/ui/theme_view.py:152 ../src/ui/theme_view.py:156
-#: ../src/ui/theme_view.py:268
-msgid "Save As"
-msgstr ""
-
-#: ../src/ui/theme_view.py:155
-msgid "Rename"
-msgstr ""
-
-#: ../src/ui/theme_view.py:240 ../src/ui/theme_view.py:249
-#, fuzzy, python-format
-msgid "Changed System Theme to %s"
-msgstr "系統主題"
-
 #: ../src/ui/add_page.py:79 ../src/ui/local_page.py:88
 msgid "Library"
-msgstr ""
+msgstr "本地音樂"
 
 #: ../src/ui/add_page.py:80 ../src/ui/local_page.py:89
 msgid "Internet"
-msgstr ""
+msgstr "網際網路"
 
 #: ../src/ui/add_page.py:84
-#, fuzzy
 msgid "System"
-msgstr "系統主題"
+msgstr "系統"
 
 #: ../src/ui/add_page.py:86
 msgid "Favorites"
-msgstr ""
+msgstr "我的收藏"
 
 #: ../src/ui/add_page.py:87 ../src/ui/local_page.py:98
-#, fuzzy
 msgid "360 Wallpaper"
-msgstr "桌布"
+msgstr "360 桌布"
 
 #: ../src/ui/add_page.py:88 ../src/ui/local_page.py:99
-#, fuzzy
 msgid "LoveWallpaper"
-msgstr "桌布"
+msgstr "愛桌布"
 
 #: ../src/ui/delete_page.py:55 ../src/ui/cache_page.py:131
 msgid "Back"
-msgstr ""
+msgstr "返回"
+
+#: ../src/ui/delete_page.py:58 ../src/ui/delete_page.py:81
+#: ../src/ui/delete_page.py:89 ../src/ui/delete_page.py:116
+#: ../src/ui/detail_page.py:85 ../src/ui/detail_page.py:135
+#: ../src/ui/detail_page.py:144 ../src/ui/detail_page.py:152
+#: ../src/ui/detail_page.py:194
+msgid "Select all"
+msgstr "選取全部"
+
+#: ../src/ui/delete_page.py:61 ../src/ui/detail_page.py:88
+#: ../src/ui/select_page.py:87 ../src/ui/select_page.py:228
+msgid "Delete"
+msgstr "刪除"
+
+#: ../src/ui/delete_page.py:79 ../src/ui/delete_page.py:87
+#: ../src/ui/detail_page.py:133 ../src/ui/detail_page.py:142
+#: ../src/ui/detail_page.py:150 ../src/ui/detail_page.py:231
+msgid "Clear all"
+msgstr "清除所有"
 
 #: ../src/ui/delete_page.py:97 ../src/ui/select_page.py:166
 #: ../src/ui/select_page.py:296
-#, fuzzy
 msgid "Delete Wallpaper"
-msgstr "桌布"
+msgstr "刪除桌布"
 
 #: ../src/ui/delete_page.py:98 ../src/ui/select_page.py:167
 #: ../src/ui/select_page.py:297
 msgid "Are you sure delete wallpaper?"
-msgstr ""
+msgstr "你確定要刪除此桌布？"
 
-#: ../src/ui/wallpaper_view.py:57
-#, fuzzy
-msgid "Apply Wallpaper"
-msgstr "桌布"
+#: ../src/ui/cache_page.py:133
+msgid "Download All"
+msgstr "下載所有"
 
 #: ../src/ui/local_page.py:46
 msgid "My Favorites"
 msgstr ""
 
 #: ../src/ui/local_page.py:47
-#, fuzzy
 msgid "Local Wallpapers"
-msgstr "桌布"
+msgstr ""
+
+#: ../src/ui/detail_page.py:37
+msgid "Minute"
+msgstr "分"
+
+#: ../src/ui/detail_page.py:37 ../src/ui/detail_page.py:38
+#: ../src/ui/detail_page.py:39 ../src/ui/detail_page.py:40
+msgid "Minutes"
+msgstr "分"
+
+#: ../src/ui/detail_page.py:40
+msgid "Hour"
+msgstr "時"
+
+#: ../src/ui/detail_page.py:41 ../src/ui/detail_page.py:42
+#: ../src/ui/detail_page.py:43
+msgid "Hours"
+msgstr "時"
+
+#: ../src/ui/detail_page.py:46
+msgid "Stretch"
+msgstr "延伸"
+
+#: ../src/ui/detail_page.py:46
+msgid "Tile"
+msgstr "標題"
+
+#: ../src/ui/detail_page.py:70
+msgid "Position"
+msgstr "姿勢"
+
+#: ../src/ui/detail_page.py:73
+msgid "Duration"
+msgstr "時長"
+
+#: ../src/ui/detail_page.py:80
+msgid "Random"
+msgstr "隨機排序"
+
+#: ../src/ui/wallpaper_view.py:57
+msgid "Apply Wallpaper"
+msgstr "套用桌布"
 
 #: ../src/ui/select_page.py:75
 msgid "Your Local Pictures folder is empty"
 msgstr ""
 
 #: ../src/ui/select_page.py:81 ../src/ui/select_page.py:225
-#, fuzzy
 msgid "Set as wallpaper"
-msgstr "桌布"
+msgstr ""
 
 #: ../src/ui/select_page.py:84
 msgid "Add to Favorites"
-msgstr ""
+msgstr "添加到收藏"
 
 #: ../src/ui/select_page.py:118 ../src/ui/select_page.py:258
-#, fuzzy, python-format
+#, python-format
 msgid "%s pictures are set as wallpaper"
-msgstr "桌布"
+msgstr ""
 
 #: ../src/ui/select_page.py:120 ../src/ui/select_page.py:260
-#, fuzzy, python-format
+#, python-format
 msgid "%s picture is set as wallpaper"
-msgstr "桌布"
+msgstr ""
 
 #: ../src/ui/select_page.py:147
 #, python-format
@@ -265,7 +222,38 @@ msgstr ""
 msgid "Add from Local Pictures"
 msgstr ""
 
-#: ../src/ui/cache_page.py:133
-#, fuzzy
-msgid "Download All"
-msgstr "已下載"
+#: ../src/ui/theme_view.py:97 ../src/ui/theme_view.py:114
+#, python-format
+msgid "Changed User Theme to %s"
+msgstr "更改用戶主題成 %s"
+
+#: ../src/ui/theme_view.py:133 ../src/ui/theme_view.py:264
+msgid "Save Theme As"
+msgstr "另存主題"
+
+#: ../src/ui/theme_view.py:137
+msgid "Rename Theme"
+msgstr "重新命名主題"
+
+#: ../src/ui/theme_view.py:141 ../src/ui/theme_view.py:158
+msgid "Delete Theme"
+msgstr "刪除主題"
+
+#: ../src/ui/theme_view.py:142
+#, python-format
+msgid "Are you sure you want to delete the theme %s?"
+msgstr "您確定要刪除的主題 %s？"
+
+#: ../src/ui/theme_view.py:152 ../src/ui/theme_view.py:156
+#: ../src/ui/theme_view.py:268
+msgid "Save As"
+msgstr "另存新檔"
+
+#: ../src/ui/theme_view.py:155
+msgid "Rename"
+msgstr "重命名"
+
+#: ../src/ui/theme_view.py:240 ../src/ui/theme_view.py:249
+#, python-format
+msgid "Changed System Theme to %s"
+msgstr "更改系統主題成 %s"

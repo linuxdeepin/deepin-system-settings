@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
-# CasperLi_HK <li_waikin@hotmail.com>, 2013
+# CasperLi_HK <casper.hk@hotmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-18 07:06+0000\n"
-"Last-Translator: CasperLi_HK <li_waikin@hotmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
+"Last-Translator: CasperLi_HK <casper.hk@hotmail.com>\n"
 "Language-Team: Chinese (Hong Kong) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/zh_HK/)\n"
 "Language: zh_HK\n"
@@ -61,7 +61,7 @@ msgstr "啟動器"
 
 #: ../src/desktop_view.py:80
 msgid "Maximize"
-msgstr ""
+msgstr "最大化"
 
 #: ../src/desktop_view.py:86 ../src/search_keyword.py:29
 msgid "Desktop Icon"
@@ -69,7 +69,7 @@ msgstr "桌面圖示"
 
 #: ../src/desktop_view.py:94
 msgid "Computer"
-msgstr ""
+msgstr "電腦"
 
 #: ../src/desktop_view.py:97
 msgid "Home"
@@ -101,7 +101,7 @@ msgstr ""
 
 #: ../src/desktop_view.py:170
 msgid "Preview"
-msgstr ""
+msgstr "照片預覽"
 
 #: ../src/desktop_view.py:178 ../src/search_keyword.py:31
 msgid "Hot Zone"
@@ -137,7 +137,7 @@ msgstr ""
 
 #: ../src/desktop_view.py:273 ../src/desktop_view.py:289
 msgid "Select"
-msgstr ""
+msgstr "選擇"
 
 #: ../src/desktop_view.py:284
 msgid "Lock Page"
@@ -177,4 +177,4 @@ msgstr "隱藏深度軟件中心圖示"
 
 #: ../src/desktop_view.py:468
 msgid "Reset to default value"
-msgstr ""
+msgstr "重設為預設值"

@@ -4,14 +4,14 @@
 #
 # Translators:
 # Automatically generated, 2012
-# CasperLi_HK <li_waikin@hotmail.com>, 2013
+# CasperLi_HK <casper.hk@hotmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-18 07:04+0000\n"
-"Last-Translator: CasperLi_HK <li_waikin@hotmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"Last-Translator: CasperLi_HK <casper.hk@hotmail.com>\n"
 "Language-Team: Chinese (Hong Kong) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/zh_HK/)\n"
 "Language: zh_HK\n"

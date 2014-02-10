@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-26 01:21+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-02 15:50+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/pt_PT/)\n"
@@ -72,7 +72,7 @@ msgstr ""
 
 #: ../src/edit_icon_page.py:100
 msgid "Try again"
-msgstr ""
+msgstr "Tente novamente"
 
 #: ../src/edit_icon_page.py:856
 msgid "Clip"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: ../src/main.py:180 ../src/main.py:233 ../src/main.py:239 ../src/main.py:971
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: ../src/main.py:228
 msgid "It is possible to keep the home directory when deleting a user account."
@@ -265,7 +265,7 @@ msgstr ""
 
 #: ../src/main.py:972
 msgid "Change"
-msgstr ""
+msgstr "Alterar"
 
 #: ../src/main.py:1017
 msgid "Password did not match."

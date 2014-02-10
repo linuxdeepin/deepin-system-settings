@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# Mohd <mo-hd@windowslive.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-30 01:55+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-10 00:33+0000\n"
+"Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
 "Language: ar\n"
@@ -21,36 +22,36 @@ msgstr ""
 
 #: ../src/main.py:59
 msgid "Wuhan Deepin Technology Co.Ltd, All rights reserved"
-msgstr ""
+msgstr "جميع الحقوق محفوظة لـ ووهان دييبن التكنولوجيا المحدودة"
 
 #: ../src/main.py:61
 msgid "Version"
-msgstr ""
+msgstr "الإصدار"
 
 #: ../src/main.py:62 ../src/search_keyword.py:25
 msgid "CPU"
-msgstr ""
+msgstr "المعالج"
 
 #: ../src/main.py:63 ../src/search_keyword.py:26
 msgid "Memory"
-msgstr ""
+msgstr "الذاكرة"
 
 #: ../src/main.py:64 ../src/search_keyword.py:27
 msgid "OS Type"
-msgstr ""
+msgstr "نوع نظام التشغيل"
 
 #: ../src/main.py:65 ../src/search_keyword.py:28
 msgid "Disk"
-msgstr ""
+msgstr "القرص الصلب"
 
 #: ../src/main.py:154
 msgid "bit"
-msgstr ""
+msgstr "بت"
 
 #: ../src/search_keyword.py:29
 msgid "System"
-msgstr ""
+msgstr "نظام"
 
 #: ../src/search_keyword.py:30
 msgid "System information"
-msgstr ""
+msgstr "معلومات النظام"

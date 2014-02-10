@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 08:05+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/pl_PL/)\n"
@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../src/bluetooth_view.py:589
 msgid "Search"
-msgstr ""
+msgstr "Szukaj"
 
 #: ../src/bluetooth_view.py:701 ../src/bluetooth_view.py:713
 msgid "Discovering device"
@@ -151,11 +151,11 @@ msgstr ""
 
 #: ../src/dialog.py:166
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../src/dialog.py:168
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 #: ../src/bluetooth_sender.py:51
 #, python-format

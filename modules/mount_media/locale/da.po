@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Snubbi <carl@manjaro.dk>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin System Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-12 18:32+0000\n"
+"Last-Translator: Snubbi <carl@manjaro.dk>\n"
+"Language-Team: Danish (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/da/)\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../src/tray_mount_gui.py:170 ../src/tray_mount_gui.py:394
+#: ../src/tray_mount_gui.py:410 ../src/tray_mount_gui.py:415
+msgid "Storage Device"
+msgstr "Lagermedie"
+
+#: ../src/tray_mount_gui.py:395
+#, python-format
+msgid "Mount and open device \"%s\"?"
+msgstr "Mount og åbn medie \"%s\"?"
+
+#: ../src/tray_mount_gui.py:410
+#, python-format
+msgid "Removable media \"%s\" has been removed"
+msgstr "Flytbar medie \"%s\" er blevet fjernet"
+
+#: ../src/tray_mount_gui.py:415
+#, python-format
+msgid "Found new removable media \"%s\""
+msgstr "Fandt nyt flytbar medie \"%s\""
+
+#: ../src/tray_mount_plugin.py:64
+msgid "Mount Failed"
+msgstr "Mount Fejlede"
+
+#: ../src/tray_mount_plugin.py:65
+#, python-format
+msgid "Mount '%s' error."
+msgstr "Mount '%s' fejl."
+
+#: ../src/tray_mount_plugin.py:68
+msgid "Unmount Failed"
+msgstr "Unmount Fejlede"
+
+#: ../src/tray_mount_plugin.py:70
+#, python-format
+msgid "Unmount '%s' error. Please unmount it in file manager"
+msgstr "Unmount '%s' fejl. Unmount det venligst i filhåndteren"

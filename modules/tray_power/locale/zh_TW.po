@@ -4,13 +4,15 @@
 #
 # Translators:
 # Automatically generated, 2013
+# freddy4212 <freddy4212@gmail.com>, 2014
+# PeterDaveHello <hsu@peterdavehello.org>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 09:06+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-28 14:50+0000\n"
+"Last-Translator: PeterDaveHello <hsu@peterdavehello.org>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/zh_TW/)\n"
 "Language: zh_TW\n"
@@ -36,7 +38,7 @@ msgstr "剩餘電量「%s」"
 #: ../src/tray_power_plugin.py:203
 #, python-format
 msgid "Low power(%s%%)"
-msgstr "電量較低(%s%%)"
+msgstr "電量較低「%s%%」"
 
 #: ../src/tray_power_plugin.py:204
 msgid "Your battery is running low, please charge!"
@@ -52,11 +54,11 @@ msgstr "平衡"
 
 #: ../src/tray_power_gui.py:55
 msgid "Power saver"
-msgstr "節省"
+msgstr "節能"
 
 #: ../src/tray_power_gui.py:56
 msgid "High performance"
-msgstr "高性能"
+msgstr "高效能"
 
 #: ../src/tray_power_gui.py:57
 msgid "Custom"

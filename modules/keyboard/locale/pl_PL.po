@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:44+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/pl_PL/)\n"
@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../src/accel_entry.py:56 ../src/accel_entry.py:74 ../src/main.py:772
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 #: ../src/accel_entry.py:67
 #, python-format
@@ -55,11 +55,11 @@ msgstr ""
 
 #: ../src/accel_entry.py:295
 msgid "Please input new shortcuts"
-msgstr ""
+msgstr "Wprowadź nowe skróty"
 
 #: ../src/keybind_all.py:33 ../src/main.py:504
 msgid "System"
-msgstr ""
+msgstr "System"
 
 #: ../src/keybind_all.py:34
 msgid "Launcher"
@@ -219,7 +219,7 @@ msgstr ""
 
 #: ../src/keybind_all.py:83 ../src/main.py:507
 msgid "Workspace"
-msgstr ""
+msgstr "Przestrzeń robocza"
 
 #: ../src/keybind_all.py:84
 msgid "Switch to workspace 1"
@@ -347,7 +347,7 @@ msgstr ""
 
 #: ../src/main.py:160
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 #: ../src/main.py:208 ../src/main.py:770
 msgid "Replace"
@@ -359,7 +359,7 @@ msgstr ""
 
 #: ../src/main.py:226
 msgid "Add"
-msgstr ""
+msgstr "Dodaj"
 
 #: ../src/main.py:261 ../src/search_keyword.py:27
 msgid "Typing"
@@ -424,7 +424,7 @@ msgstr ""
 
 #: ../src/main.py:936
 msgid "Ok"
-msgstr ""
+msgstr "OK"
 
 #: ../src/main.py:1009
 msgid "Reset to default"

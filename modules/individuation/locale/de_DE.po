@@ -4,12 +4,13 @@
 #
 # Translators:
 # corEr <baracus.de@gmail.com>, 2013
+# 胡家润 <hujiadfr@126.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-27 17:04+0800\n"
-"PO-Revision-Date: 2014-01-02 05:44+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/de_DE/)\n"
@@ -21,11 +22,11 @@ msgstr ""
 
 #: ../src/main.new.py:500 ../src/ui/wallpaper_item.py:1028
 msgid "Downloaded"
-msgstr ""
+msgstr "Runtergeladen"
 
 #: ../src/theme_manager.py:427
 msgid "Untitled"
-msgstr ""
+msgstr "Unbenannt"
 
 #: ../src/main.py:81
 msgid "Image files"
@@ -51,181 +52,138 @@ msgstr "Hintergrundbild"
 msgid "Pictures"
 msgstr "Bilder"
 
-#: ../src/ui/detail_page.py:37
-msgid "Minute"
-msgstr ""
-
-#: ../src/ui/detail_page.py:37 ../src/ui/detail_page.py:38
-#: ../src/ui/detail_page.py:39 ../src/ui/detail_page.py:40
-msgid "Minutes"
-msgstr ""
-
-#: ../src/ui/detail_page.py:40
-msgid "Hour"
-msgstr ""
-
-#: ../src/ui/detail_page.py:41 ../src/ui/detail_page.py:42
-#: ../src/ui/detail_page.py:43
-msgid "Hours"
-msgstr ""
-
-#: ../src/ui/detail_page.py:46
-msgid "Stretch"
-msgstr ""
-
-#: ../src/ui/detail_page.py:46
-msgid "Tile"
-msgstr ""
-
-#: ../src/ui/detail_page.py:70
-#, fuzzy
-msgid "Position"
-msgstr "Personalisierung"
-
-#: ../src/ui/detail_page.py:73
-msgid "Duration"
-msgstr ""
-
-#: ../src/ui/detail_page.py:80
-msgid "Random"
-msgstr ""
-
-#: ../src/ui/detail_page.py:85 ../src/ui/detail_page.py:135
-#: ../src/ui/detail_page.py:144 ../src/ui/detail_page.py:152
-#: ../src/ui/detail_page.py:194 ../src/ui/delete_page.py:58
-#: ../src/ui/delete_page.py:81 ../src/ui/delete_page.py:89
-#: ../src/ui/delete_page.py:116
-msgid "Select all"
-msgstr ""
-
-#: ../src/ui/detail_page.py:88 ../src/ui/delete_page.py:61
-#: ../src/ui/select_page.py:87 ../src/ui/select_page.py:228
-msgid "Delete"
-msgstr ""
-
-#: ../src/ui/detail_page.py:133 ../src/ui/detail_page.py:142
-#: ../src/ui/detail_page.py:150 ../src/ui/detail_page.py:231
-#: ../src/ui/delete_page.py:79 ../src/ui/delete_page.py:87
-msgid "Clear all"
-msgstr ""
-
-#: ../src/ui/theme_view.py:97 ../src/ui/theme_view.py:114
-#, python-format
-msgid "Changed User Theme to %s"
-msgstr ""
-
-#: ../src/ui/theme_view.py:133 ../src/ui/theme_view.py:264
-#, fuzzy
-msgid "Save Theme As"
-msgstr "System Themen"
-
-#: ../src/ui/theme_view.py:137
-#, fuzzy
-msgid "Rename Theme"
-msgstr "System Themen"
-
-#: ../src/ui/theme_view.py:141 ../src/ui/theme_view.py:158
-#, fuzzy
-msgid "Delete Theme"
-msgstr "System Themen"
-
-#: ../src/ui/theme_view.py:142
-#, python-format
-msgid "Are you sure you want to delete the theme %s?"
-msgstr ""
-
-#: ../src/ui/theme_view.py:152 ../src/ui/theme_view.py:156
-#: ../src/ui/theme_view.py:268
-msgid "Save As"
-msgstr ""
-
-#: ../src/ui/theme_view.py:155
-msgid "Rename"
-msgstr ""
-
-#: ../src/ui/theme_view.py:240 ../src/ui/theme_view.py:249
-#, fuzzy, python-format
-msgid "Changed System Theme to %s"
-msgstr "System Themen"
-
 #: ../src/ui/add_page.py:79 ../src/ui/local_page.py:88
 msgid "Library"
-msgstr ""
+msgstr "lokal"
 
 #: ../src/ui/add_page.py:80 ../src/ui/local_page.py:89
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #: ../src/ui/add_page.py:84
-#, fuzzy
 msgid "System"
-msgstr "System Themen"
+msgstr "System"
 
 #: ../src/ui/add_page.py:86
 msgid "Favorites"
-msgstr ""
+msgstr "Favoriten"
 
 #: ../src/ui/add_page.py:87 ../src/ui/local_page.py:98
-#, fuzzy
 msgid "360 Wallpaper"
-msgstr "Hintergrundbild"
+msgstr "360 Hintergrundbild"
 
 #: ../src/ui/add_page.py:88 ../src/ui/local_page.py:99
-#, fuzzy
 msgid "LoveWallpaper"
-msgstr "Hintergrundbild"
+msgstr "Liebe Hintergrundbild"
 
 #: ../src/ui/delete_page.py:55 ../src/ui/cache_page.py:131
 msgid "Back"
+msgstr "Zurück"
+
+#: ../src/ui/delete_page.py:58 ../src/ui/delete_page.py:81
+#: ../src/ui/delete_page.py:89 ../src/ui/delete_page.py:116
+#: ../src/ui/detail_page.py:85 ../src/ui/detail_page.py:135
+#: ../src/ui/detail_page.py:144 ../src/ui/detail_page.py:152
+#: ../src/ui/detail_page.py:194
+msgid "Select all"
+msgstr "Alles auswählen"
+
+#: ../src/ui/delete_page.py:61 ../src/ui/detail_page.py:88
+#: ../src/ui/select_page.py:87 ../src/ui/select_page.py:228
+msgid "Delete"
+msgstr "Delete"
+
+#: ../src/ui/delete_page.py:79 ../src/ui/delete_page.py:87
+#: ../src/ui/detail_page.py:133 ../src/ui/detail_page.py:142
+#: ../src/ui/detail_page.py:150 ../src/ui/detail_page.py:231
+msgid "Clear all"
 msgstr ""
 
 #: ../src/ui/delete_page.py:97 ../src/ui/select_page.py:166
 #: ../src/ui/select_page.py:296
-#, fuzzy
 msgid "Delete Wallpaper"
-msgstr "Hintergrundbild"
+msgstr "Hintergrundbild löschen"
 
 #: ../src/ui/delete_page.py:98 ../src/ui/select_page.py:167
 #: ../src/ui/select_page.py:297
 msgid "Are you sure delete wallpaper?"
 msgstr ""
 
-#: ../src/ui/wallpaper_view.py:57
-#, fuzzy
-msgid "Apply Wallpaper"
-msgstr "Hintergrundbild"
+#: ../src/ui/cache_page.py:133
+msgid "Download All"
+msgstr ""
 
 #: ../src/ui/local_page.py:46
 msgid "My Favorites"
 msgstr ""
 
 #: ../src/ui/local_page.py:47
-#, fuzzy
 msgid "Local Wallpapers"
-msgstr "Hintergrundbild"
+msgstr ""
+
+#: ../src/ui/detail_page.py:37
+msgid "Minute"
+msgstr "Minute"
+
+#: ../src/ui/detail_page.py:37 ../src/ui/detail_page.py:38
+#: ../src/ui/detail_page.py:39 ../src/ui/detail_page.py:40
+msgid "Minutes"
+msgstr "Minuten"
+
+#: ../src/ui/detail_page.py:40
+msgid "Hour"
+msgstr "Stunde"
+
+#: ../src/ui/detail_page.py:41 ../src/ui/detail_page.py:42
+#: ../src/ui/detail_page.py:43
+msgid "Hours"
+msgstr "Stunden"
+
+#: ../src/ui/detail_page.py:46
+msgid "Stretch"
+msgstr "Strecken"
+
+#: ../src/ui/detail_page.py:46
+msgid "Tile"
+msgstr ""
+
+#: ../src/ui/detail_page.py:70
+msgid "Position"
+msgstr ""
+
+#: ../src/ui/detail_page.py:73
+msgid "Duration"
+msgstr "Dauer"
+
+#: ../src/ui/detail_page.py:80
+msgid "Random"
+msgstr "Zufällig."
+
+#: ../src/ui/wallpaper_view.py:57
+msgid "Apply Wallpaper"
+msgstr ""
 
 #: ../src/ui/select_page.py:75
 msgid "Your Local Pictures folder is empty"
 msgstr ""
 
 #: ../src/ui/select_page.py:81 ../src/ui/select_page.py:225
-#, fuzzy
 msgid "Set as wallpaper"
-msgstr "Hintergrundbild"
+msgstr ""
 
 #: ../src/ui/select_page.py:84
 msgid "Add to Favorites"
-msgstr ""
+msgstr "Zu Favoriten hinzufügen"
 
 #: ../src/ui/select_page.py:118 ../src/ui/select_page.py:258
-#, fuzzy, python-format
+#, python-format
 msgid "%s pictures are set as wallpaper"
-msgstr "Hintergrundbild"
+msgstr ""
 
 #: ../src/ui/select_page.py:120 ../src/ui/select_page.py:260
-#, fuzzy, python-format
+#, python-format
 msgid "%s picture is set as wallpaper"
-msgstr "Hintergrundbild"
+msgstr ""
 
 #: ../src/ui/select_page.py:147
 #, python-format
@@ -265,6 +223,38 @@ msgstr ""
 msgid "Add from Local Pictures"
 msgstr ""
 
-#: ../src/ui/cache_page.py:133
-msgid "Download All"
+#: ../src/ui/theme_view.py:97 ../src/ui/theme_view.py:114
+#, python-format
+msgid "Changed User Theme to %s"
+msgstr ""
+
+#: ../src/ui/theme_view.py:133 ../src/ui/theme_view.py:264
+msgid "Save Theme As"
+msgstr ""
+
+#: ../src/ui/theme_view.py:137
+msgid "Rename Theme"
+msgstr ""
+
+#: ../src/ui/theme_view.py:141 ../src/ui/theme_view.py:158
+msgid "Delete Theme"
+msgstr "Thema löschen"
+
+#: ../src/ui/theme_view.py:142
+#, python-format
+msgid "Are you sure you want to delete the theme %s?"
+msgstr ""
+
+#: ../src/ui/theme_view.py:152 ../src/ui/theme_view.py:156
+#: ../src/ui/theme_view.py:268
+msgid "Save As"
+msgstr "Speichern als"
+
+#: ../src/ui/theme_view.py:155
+msgid "Rename"
+msgstr "Umbenennen"
+
+#: ../src/ui/theme_view.py:240 ../src/ui/theme_view.py:249
+#, python-format
+msgid "Changed System Theme to %s"
 msgstr ""

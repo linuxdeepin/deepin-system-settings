@@ -4,15 +4,16 @@
 #
 # Translators:
 # electricface <songwentai@linuxdeepin.com>, 2014
+# freddy4212 <freddy4212@gmail.com>, 2014
 # freddy4212 <freddy4212@gmail.com>, 2013
 # Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-06 05:01+0000\n"
-"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"Last-Translator: freddy4212 <freddy4212@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/zh_TW/)\n"
 "Language: zh_TW\n"
@@ -34,7 +35,7 @@ msgstr "密碼："
 
 #: ../src/settings_widget.py:618
 msgid "Active"
-msgstr "使用"
+msgstr "啟用"
 
 #: ../src/helper.py:112
 #, python-format
@@ -62,11 +63,11 @@ msgstr "進階設定"
 #: ../src/ipsettings.py:41 ../src/dsl_config.py:119 ../src/vpn_config.py:142
 #: ../src/wlan_config.py:216
 msgid "IPv4 settings"
-msgstr "Ipv4 設定"
+msgstr "IPv4 設定"
 
 #: ../src/lan_config.py:110 ../src/ipsettings.py:314 ../src/wlan_config.py:217
 msgid "IPv6 settings"
-msgstr "Ipv6 設定"
+msgstr "IPv6 設定"
 
 #: ../src/lan_config.py:152 ../src/dsl_config.py:144 ../src/wlan_config.py:612
 msgid "Device Mac Address:"
@@ -92,7 +93,7 @@ msgstr "顯示密碼"
 
 #: ../src/widgets.py:97
 msgid "OK"
-msgstr "確認"
+msgstr "確定"
 
 #: ../src/widgets.py:98
 msgid "Cancel"
@@ -110,7 +111,7 @@ msgstr "行動網路"
 #: ../src/mobile_config.py:217 ../src/mobile_config.py:262
 #: ../src/dsl_config.py:100 ../src/vpn_config.py:124 ../src/wlan_config.py:199
 msgid "Basic"
-msgstr "基本設定值"
+msgstr "基本設定"
 
 #: ../src/mobile_config.py:222 ../src/mobile_config.py:252
 msgid "Broadband"
@@ -157,7 +158,7 @@ msgstr "如果家庭網路無法使用，允許使用漫遊"
 #: ../src/mobile_config.py:472 ../src/dsl_config.py:387
 #: ../src/vpn_config.py:373
 msgid "Configure Method"
-msgstr "設定方法"
+msgstr "設定連線方法"
 
 #: ../src/mobile_config.py:474 ../src/dsl_config.py:393
 #: ../src/vpn_config.py:377
@@ -222,7 +223,7 @@ msgstr "允許 Deflate 資料壓縮"
 #: ../src/mobile_config.py:524 ../src/dsl_config.py:418
 #: ../src/vpn_config.py:429
 msgid "Use TCP header compression"
-msgstr "使用 TCP 標頭壓縮"
+msgstr "使用 TCP 擡頭壓縮"
 
 #: ../src/mobile_config.py:527 ../src/dsl_config.py:422
 #: ../src/vpn_config.py:433
@@ -364,7 +365,7 @@ msgstr "自動"
 
 #: ../src/proxy_config.py:88
 msgid "Configuration url"
-msgstr "設定 URL"
+msgstr "設定網址"
 
 #: ../src/proxy_config.py:102
 msgid "Apply"
@@ -454,7 +455,7 @@ msgstr "IPSec 設定值"
 
 #: ../src/vpn_config.py:461
 msgid "Enable IPSec tunnel to l2tp host"
-msgstr "針對 l2tp 主機啟用 IPSec 穿隧"
+msgstr "針對 L2TP 主機啟用 IPSec 穿隧"
 
 #: ../src/vpn_config.py:464
 msgid "Group Name:"

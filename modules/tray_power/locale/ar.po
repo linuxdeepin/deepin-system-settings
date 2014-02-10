@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# Mohd <mo-hd@windowslive.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-30 01:55+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-09 19:50+0000\n"
+"Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
 "Language: ar\n"
@@ -21,47 +22,47 @@ msgstr ""
 
 #: ../src/tray_power_plugin.py:165 ../src/tray_power_plugin.py:196
 msgid "Fully charged"
-msgstr ""
+msgstr "تم الشحن"
 
 #: ../src/tray_power_plugin.py:168
 #, python-format
 msgid "Charging, %s remaining"
-msgstr ""
+msgstr "جاري الشحن, %s المتبقي"
 
 #: ../src/tray_power_plugin.py:194
 #, python-format
 msgid "%s remaining"
-msgstr ""
+msgstr "%s المتبقي"
 
 #: ../src/tray_power_plugin.py:203
 #, python-format
 msgid "Low power(%s%%)"
-msgstr ""
+msgstr "الطاقة منخفضة(%s%%)"
 
 #: ../src/tray_power_plugin.py:204
 msgid "Your battery is running low, please charge!"
-msgstr ""
+msgstr "!أوشكت البطارية على النفاذ ، يرجى الشحن"
 
 #: ../src/tray_power_gui.py:45
 msgid "Power"
-msgstr ""
+msgstr "الطاقة"
 
 #: ../src/tray_power_gui.py:54
 msgid "Balanced"
-msgstr ""
+msgstr "متوازن"
 
 #: ../src/tray_power_gui.py:55
 msgid "Power saver"
-msgstr ""
+msgstr "توفر الطاقة"
 
 #: ../src/tray_power_gui.py:56
 msgid "High performance"
-msgstr ""
+msgstr "أداء عالي"
 
 #: ../src/tray_power_gui.py:57
 msgid "Custom"
-msgstr ""
+msgstr "مخصص"
 
 #: ../src/tray_power_gui.py:72
 msgid "Advanced..."
-msgstr ""
+msgstr "...متقدم"

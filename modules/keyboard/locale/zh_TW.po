@@ -4,15 +4,16 @@
 #
 # Translators:
 # electricface <songwentai@linuxdeepin.com>, 2014
+# freddy4212 <freddy4212@gmail.com>, 2014
 # freddy4212 <freddy4212@gmail.com>, 2013
 # Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-06 04:58+0000\n"
-"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"Last-Translator: freddy4212 <freddy4212@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/zh_TW/)\n"
 "Language: zh_TW\n"
@@ -121,7 +122,7 @@ msgstr "終端機"
 
 #: ../src/keybind_all.py:57
 msgid "Deepin terminal quake mode"
-msgstr "深度終端機Quake模式"
+msgstr "深度終端機雷神模式"
 
 #: ../src/keybind_all.py:59
 msgid "Log out"
@@ -329,7 +330,7 @@ msgstr "打字時停用觸控板"
 
 #: ../src/main.py:138
 msgid "Keyboard Layout"
-msgstr "鍵盤配置"
+msgstr "鍵盤設定"
 
 #: ../src/main.py:142
 msgid "Relevant Settings"
@@ -374,7 +375,7 @@ msgstr "捷徑鍵"
 #: ../src/main.py:475 ../src/main.py:791 ../src/main.py:810
 #, python-format
 msgid "Current Layout: %s"
-msgstr "目前配置：%s"
+msgstr "目前設定：%s"
 
 #: ../src/main.py:628
 msgid "Disabled touchpad while typing"
@@ -387,7 +388,7 @@ msgstr "打字時啟用觸控板"
 #: ../src/main.py:720
 #, python-format
 msgid "Current Layout is: %s"
-msgstr "目前鍵盤配置為: %s"
+msgstr "目前鍵盤的設定為: %s"
 
 #: ../src/main.py:742
 msgid "Select an input source to add"
@@ -426,11 +427,11 @@ msgstr "動作"
 
 #: ../src/main.py:936
 msgid "Ok"
-msgstr "確認"
+msgstr "確定"
 
 #: ../src/main.py:1009
 msgid "Reset to default"
-msgstr "重設為預設值"
+msgstr "重設"
 
 #: ../src/search_keyword.py:25
 msgid "Keyboard"
@@ -438,4 +439,4 @@ msgstr "鍵盤"
 
 #: ../src/search_keyword.py:28
 msgid "Layout"
-msgstr "鍵盤配置"
+msgstr "鍵盤佈局"

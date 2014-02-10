@@ -4,13 +4,15 @@
 #
 # Translators:
 # fri <pavelfric@seznam.cz>, 2013
+# fri <pavelfric@seznam.cz>, 2014
+# Tajnymag <tajnymag@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:45+0000\n"
-"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-25 23:40+0000\n"
+"Last-Translator: fri <pavelfric@seznam.cz>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/cs/)\n"
 "Language: cs\n"
@@ -49,11 +51,11 @@ msgstr "Klepněte na smějící se obličej dvakrát pro vyzkoušení nastavení
 
 #: ../src/main.py:118
 msgid "Drag and Drop"
-msgstr "Táhnout a pustit"
+msgstr "Tažení a upuštění"
 
 #: ../src/main.py:119 ../src/search_keyword.py:33
 msgid "Drag threshold"
-msgstr "Táhnout práh"
+msgstr "Práh tažení"
 
 #: ../src/main.py:122
 msgid "Relevant Settings"
@@ -77,7 +79,7 @@ msgstr "Nastavení myši"
 
 #: ../src/main.py:135
 msgid "Reset"
-msgstr ""
+msgstr "Resetovat"
 
 #: ../src/main.py:302 ../src/main.py:352
 msgid "Slow"
@@ -89,19 +91,19 @@ msgstr "Rychle"
 
 #: ../src/main.py:318
 msgid "Low"
-msgstr "Nízký"
+msgstr "Nízká"
 
 #: ../src/main.py:319
 msgid "High"
-msgstr "Vysoký"
+msgstr "Vysoká"
 
 #: ../src/main.py:395
 msgid "Short"
-msgstr "Krátký"
+msgstr "Krátce"
 
 #: ../src/main.py:396
 msgid "Long"
-msgstr "Dlouhý"
+msgstr "Dlouze"
 
 #: ../src/main.py:519
 msgid "Set to right-handed"

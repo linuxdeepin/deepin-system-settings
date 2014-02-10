@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# aphrxia <aphrxia@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-22 13:12+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-30 13:40+0000\n"
+"Last-Translator: aphrxia <aphrxia@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/id/)\n"
 "Language: id\n"
@@ -20,89 +21,89 @@ msgstr ""
 
 #: ../dss/navigate_page.py:134
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ../dss/main.py:339 ../dss/main.py:451 ../dss/action_bar.py:95
 msgid "System Settings"
-msgstr ""
+msgstr "Pengaturan Sistem"
 
 #: ../dss/constant.py:114
 msgid "Displays"
-msgstr ""
+msgstr "Tampilan Layar"
 
 #: ../dss/constant.py:115
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 #: ../dss/constant.py:116
 msgid "Personalization"
-msgstr ""
+msgstr "Personalisasi"
 
 #: ../dss/constant.py:117
 msgid "Sound"
-msgstr ""
+msgstr "Suara"
 
 #: ../dss/constant.py:118
 msgid "Date &amp; Time"
-msgstr ""
+msgstr "Tanggal &amp; Waktu"
 
 #: ../dss/constant.py:119
 msgid "Power"
-msgstr ""
+msgstr "Daya"
 
 #: ../dss/constant.py:120
 msgid "Keyboard"
-msgstr ""
+msgstr "Papan ketik"
 
 #: ../dss/constant.py:121
 msgid "Mouse"
-msgstr ""
+msgstr "Mouse"
 
 #: ../dss/constant.py:122
 msgid "Touchpad"
-msgstr ""
+msgstr "Touchpad"
 
 #: ../dss/constant.py:123
 msgid "Printers"
-msgstr ""
+msgstr "Pencetak"
 
 #: ../dss/constant.py:124
 msgid "Network"
-msgstr ""
+msgstr "Jaringan"
 
 #: ../dss/constant.py:125
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../dss/constant.py:126
 msgid "Additional Drivers"
-msgstr ""
+msgstr "Driver tambahan"
 
 #: ../dss/constant.py:127
 msgid "User Accounts"
-msgstr ""
+msgstr "Akun Pengguna"
 
 #: ../dss/constant.py:128
 msgid "Default Applications"
-msgstr ""
+msgstr "Aplikasi Tetap"
 
 #: ../dss/constant.py:129
 msgid "System Information"
-msgstr ""
+msgstr "Informasi Sistem"
 
 #: ../dss/foot_box.py:57
 msgid "Reset"
-msgstr ""
+msgstr "Atur ulang"
 
 #: ../dss/bluetooth_dialog.py:63
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #: ../dss/bluetooth_dialog.py:78
 #, python-format
 msgid "Sent %d"
-msgstr ""
+msgstr "Terkirim %d"
 
 #: ../dss/bluetooth_dialog.py:113
 msgid "Ok"
-msgstr ""
+msgstr "Ok"

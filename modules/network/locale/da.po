@@ -1,0 +1,573 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Snubbi <carl@manjaro.dk>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin System Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"Last-Translator: Snubbi <carl@manjaro.dk>\n"
+"Language-Team: Danish (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/da/)\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../src/settings_widget.py:610 ../src/lists.py:488 ../src/wlan_config.py:332
+#: ../src/wlan_config.py:583
+msgid "SSID:"
+msgstr "SSID:"
+
+#: ../src/settings_widget.py:614 ../src/lists.py:522
+#: ../src/mobile_config.py:269 ../src/dsl_config.py:280
+#: ../src/vpn_config.py:180 ../src/wlan_config.py:263
+msgid "Password:"
+msgstr "Password:"
+
+#: ../src/settings_widget.py:618
+msgid "Active"
+msgstr "Aktiv"
+
+#: ../src/helper.py:112
+#, python-format
+msgid "%s deleted"
+msgstr "%s slettet"
+
+#: ../src/lists.py:560
+msgid "active"
+msgstr "aktiv"
+
+#: ../src/lan_config.py:39 ../src/lan_config.py:94 ../src/lan_config.py:124
+#: ../src/main_ui.py:219 ../src/tray_ui.py:61 ../src/dsl_config.py:118
+#: ../src/dsl_config.py:134 ../src/vpn_config.py:128
+#: ../src/search_keyword.py:29
+msgid "Wired"
+msgstr "Trådet"
+
+#: ../src/lan_config.py:95 ../src/mobile_config.py:219
+#: ../src/mobile_config.py:281 ../src/dsl_config.py:102
+#: ../src/vpn_config.py:126 ../src/vpn_config.py:353 ../src/wlan_config.py:288
+msgid "Advanced"
+msgstr "Avanceret"
+
+#: ../src/lan_config.py:109 ../src/mobile_config.py:223
+#: ../src/ipsettings.py:41 ../src/dsl_config.py:119 ../src/vpn_config.py:142
+#: ../src/wlan_config.py:216
+msgid "IPv4 settings"
+msgstr "IPv4 indstillinger"
+
+#: ../src/lan_config.py:110 ../src/ipsettings.py:314 ../src/wlan_config.py:217
+msgid "IPv6 settings"
+msgstr "IPv6 indstillinger"
+
+#: ../src/lan_config.py:152 ../src/dsl_config.py:144 ../src/wlan_config.py:612
+msgid "Device Mac Address:"
+msgstr "Enhed Mac Adresse:"
+
+#: ../src/lan_config.py:153 ../src/dsl_config.py:152 ../src/wlan_config.py:616
+msgid "Cloned Mac Address:"
+msgstr "Klonede Mac Adresse:"
+
+#: ../src/lan_config.py:154 ../src/wlan_config.py:621
+msgid "MTU:"
+msgstr "MTU:"
+
+#: ../src/widgets.py:50 ../src/widgets.py:64
+#, python-format
+msgid "Please input password for %s"
+msgstr "Indtast venligst password for %s"
+
+#: ../src/widgets.py:85 ../src/mobile_config.py:276 ../src/elements.py:248
+#: ../src/wlan_config.py:277
+msgid "Show password"
+msgstr "Vis password"
+
+#: ../src/widgets.py:97
+msgid "OK"
+msgstr "OK"
+
+#: ../src/widgets.py:98
+msgid "Cancel"
+msgstr "Anullere"
+
+#: ../src/main.py:48 ../src/vpn_config.py:27 ../src/search_keyword.py:32
+msgid "VPN"
+msgstr "VPN"
+
+#: ../src/mobile_config.py:38 ../src/main_ui.py:1097 ../src/tray_ui.py:63
+#: ../src/search_keyword.py:33
+msgid "Mobile Network"
+msgstr "Mobilt Netværk"
+
+#: ../src/mobile_config.py:217 ../src/mobile_config.py:262
+#: ../src/dsl_config.py:100 ../src/vpn_config.py:124 ../src/wlan_config.py:199
+msgid "Basic"
+msgstr "Grunlæggende"
+
+#: ../src/mobile_config.py:222 ../src/mobile_config.py:252
+msgid "Broadband"
+msgstr "Bredbånd"
+
+#: ../src/mobile_config.py:224 ../src/mobile_config.py:461
+#: ../src/dsl_config.py:120 ../src/dsl_config.py:379
+msgid "PPP"
+msgstr "PPP"
+
+#: ../src/mobile_config.py:263
+msgid "Code:"
+msgstr "Kode:"
+
+#: ../src/mobile_config.py:266 ../src/dsl_config.py:268
+#: ../src/vpn_config.py:176
+msgid "Username:"
+msgstr "Brugernavn:"
+
+#: ../src/mobile_config.py:277
+msgid "Regions setting"
+msgstr "Regioner indstillinger"
+
+#: ../src/mobile_config.py:282
+msgid "APN:"
+msgstr "APN:"
+
+#: ../src/mobile_config.py:285
+msgid "Network ID:"
+msgstr "Netværk ID:"
+
+#: ../src/mobile_config.py:288
+msgid "Type:"
+msgstr "Type:"
+
+#: ../src/mobile_config.py:291
+msgid "PIN:"
+msgstr "PIN:"
+
+#: ../src/mobile_config.py:303
+msgid "Allow roaming if home network is not available"
+msgstr "Tillad  roaming hvis hjemmenetværk ikke er tilgængelig"
+
+#: ../src/mobile_config.py:472 ../src/dsl_config.py:387
+#: ../src/vpn_config.py:373
+msgid "Configure Method"
+msgstr "Konfigurer Metode"
+
+#: ../src/mobile_config.py:474 ../src/dsl_config.py:393
+#: ../src/vpn_config.py:377
+msgid "EAP"
+msgstr "EAP"
+
+#: ../src/mobile_config.py:477 ../src/dsl_config.py:394
+#: ../src/vpn_config.py:380
+msgid "PAP"
+msgstr "PAP"
+
+#: ../src/mobile_config.py:480 ../src/dsl_config.py:395
+#: ../src/vpn_config.py:383
+msgid "CHAP"
+msgstr "CHAP"
+
+#: ../src/mobile_config.py:483 ../src/dsl_config.py:396
+#: ../src/vpn_config.py:386
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+#: ../src/mobile_config.py:486 ../src/dsl_config.py:397
+#: ../src/vpn_config.py:389
+msgid "MSCHAP v2"
+msgstr "MSCHAP v2"
+
+#: ../src/mobile_config.py:500 ../src/dsl_config.py:400
+#: ../src/vpn_config.py:403
+msgid "Compression"
+msgstr "Kompression"
+
+#: ../src/mobile_config.py:504 ../src/dsl_config.py:404
+#: ../src/vpn_config.py:408
+msgid "Echo"
+msgstr "Echo"
+
+#: ../src/mobile_config.py:509 ../src/dsl_config.py:413
+#: ../src/vpn_config.py:414
+msgid "Use point-to-point encryption(mppe)"
+msgstr "Brug point-to-point kryptering(mppe)"
+
+#: ../src/mobile_config.py:512 ../src/dsl_config.py:414
+#: ../src/vpn_config.py:417
+msgid "Require 128-bit encryption"
+msgstr "Kræver 128-bit kryptering"
+
+#: ../src/mobile_config.py:515 ../src/dsl_config.py:415
+#: ../src/vpn_config.py:420
+msgid "Use stateful MPPE"
+msgstr "Brug stateful MPPE"
+
+#: ../src/mobile_config.py:518 ../src/dsl_config.py:416
+#: ../src/vpn_config.py:423
+msgid "Allow BSD data Compression"
+msgstr "Tillad BSD datakompression"
+
+#: ../src/mobile_config.py:521 ../src/dsl_config.py:417
+#: ../src/vpn_config.py:426
+msgid "Allow Deflate data compression"
+msgstr "Tillad Punkter datakompression"
+
+#: ../src/mobile_config.py:524 ../src/dsl_config.py:418
+#: ../src/vpn_config.py:429
+msgid "Use TCP header compression"
+msgstr "Brug TCP headerkompression"
+
+#: ../src/mobile_config.py:527 ../src/dsl_config.py:422
+#: ../src/vpn_config.py:433
+msgid "Send PPP echo packets"
+msgstr "Send PPP echo pakker"
+
+#: ../src/ipsettings.py:51 ../src/ipsettings.py:322
+msgid "Link-Local Only"
+msgstr "Link kun lokalt"
+
+#: ../src/ipsettings.py:53 ../src/ipsettings.py:323
+msgid "Automatic IP address"
+msgstr "Automatisk  IP adresse"
+
+#: ../src/ipsettings.py:57 ../src/ipsettings.py:327
+msgid "IP Address:"
+msgstr "IP adresse:"
+
+#: ../src/ipsettings.py:58
+msgid "Subnet Mask:"
+msgstr "Subnet Mask:"
+
+#: ../src/ipsettings.py:59 ../src/ipsettings.py:329 ../src/vpn_config.py:172
+msgid "Gateway:"
+msgstr "Gateway:"
+
+#: ../src/ipsettings.py:67 ../src/ipsettings.py:338
+msgid "Automatic DNS server address"
+msgstr "Automatisk DNS server adresse"
+
+#: ../src/ipsettings.py:71 ../src/ipsettings.py:342
+msgid "Primary DNS server address:"
+msgstr "Primær DNS server adresse:"
+
+#: ../src/ipsettings.py:72 ../src/ipsettings.py:343
+msgid "Slave DNS server address:"
+msgstr "Sekundær DNS server adresse:"
+
+#: ../src/ipsettings.py:185
+msgid "IPv4"
+msgstr "IPv4"
+
+#: ../src/ipsettings.py:185
+msgid "Subnet Mask"
+msgstr "Subnet Mask"
+
+#: ../src/ipsettings.py:185
+msgid "Gateway"
+msgstr "Gateway"
+
+#: ../src/ipsettings.py:190
+#, python-format
+msgid "Valid %s address."
+msgstr "Gyldig %s adresse."
+
+#: ../src/ipsettings.py:193
+#, python-format
+msgid "Invalid %s address."
+msgstr "Ugyldig %s adresse."
+
+#: ../src/ipsettings.py:328
+msgid "Prefix:"
+msgstr "Præfiks:"
+
+#: ../src/main_ui.py:397 ../src/tray_ui.py:62 ../src/wlan_config.py:215
+#: ../src/wlan_config.py:575 ../src/search_keyword.py:30
+msgid "Wireless"
+msgstr "Trådløs"
+
+#: ../src/main_ui.py:398
+msgid "Set up a hidden wireless connection"
+msgstr "Opsæt en skjult trådløs forbindelse"
+
+#: ../src/main_ui.py:599
+msgid "Hotspot"
+msgstr "Hotspot"
+
+#: ../src/main_ui.py:733 ../src/tray_ui.py:66 ../src/dsl_config.py:37
+#: ../src/dsl_config.py:253 ../src/search_keyword.py:31
+msgid "DSL"
+msgstr "DSL"
+
+#: ../src/main_ui.py:734
+msgid "Create a DSL connection"
+msgstr "Opret en DSL forbindelse"
+
+#: ../src/main_ui.py:883 ../src/tray_ui.py:65
+msgid "VPN Network"
+msgstr "VPN Netværk"
+
+#: ../src/main_ui.py:884
+msgid "Create a VPN connection"
+msgstr "Opret en VPN forbindelse"
+
+#: ../src/main_ui.py:1098
+msgid "Mobile Configuration"
+msgstr "Mobil Konfiguration"
+
+#: ../src/main_ui.py:1166 ../src/main_ui.py:1204 ../src/search_keyword.py:34
+msgid "Proxy"
+msgstr "Proxy"
+
+#: ../src/main_ui.py:1186
+msgid "Proxy Configuration"
+msgstr "Proxy Konfiguration"
+
+#: ../src/tray_ui.py:70
+msgid "Advanced..."
+msgstr "Avanceret..."
+
+#: ../src/tray_ui.py:485
+#, python-format
+msgid "card %d"
+msgstr "kort %d"
+
+#: ../src/proxy_config.py:80
+msgid "Manual"
+msgstr "Manual"
+
+#: ../src/proxy_config.py:81
+msgid "Http Proxy"
+msgstr "Http Proxy"
+
+#: ../src/proxy_config.py:82
+msgid "Https Proxy"
+msgstr "Https Proxy"
+
+#: ../src/proxy_config.py:83
+msgid "FTP Proxy"
+msgstr "FTP Proxy"
+
+#: ../src/proxy_config.py:84
+msgid "Socks Proxy"
+msgstr "Socks Proxy"
+
+#: ../src/proxy_config.py:87 ../src/wlan_config.py:599
+msgid "Automatic"
+msgstr "Automatisk"
+
+#: ../src/proxy_config.py:88
+msgid "Configuration url"
+msgstr "Konfigurations-url"
+
+#: ../src/proxy_config.py:102
+msgid "Apply"
+msgstr "Anvend"
+
+#: ../src/sidebar_ui.py:46
+msgid "New Connection"
+msgstr "Ny Forbindelse"
+
+#: ../src/sidebar_ui.py:92 ../src/wlan_config.py:121
+msgid "Hidden network"
+msgstr "Skjult netværk"
+
+#: ../src/foot_box_ui.py:69
+msgid "Delete"
+msgstr "Slet"
+
+#: ../src/foot_box_ui.py:96
+msgid "Save"
+msgstr "Gem"
+
+#: ../src/foot_box_ui.py:140
+msgid "Tip:"
+msgstr "Tip:"
+
+#: ../src/dsl_config.py:182
+msgid "Default Setting"
+msgstr "Standard Indstilling"
+
+#: ../src/dsl_config.py:262 ../src/vpn_config.py:168
+msgid "Connection Name:"
+msgstr "Forbindelse Navn:"
+
+#: ../src/dsl_config.py:275
+msgid "Service:"
+msgstr "Service:"
+
+#: ../src/dsl_config.py:301 ../src/vpn_config.py:213
+msgid "Show Password"
+msgstr "Vis Password"
+
+#: ../src/regions.py:71
+msgid "Country or Region:"
+msgstr "Land eller Region:"
+
+#: ../src/regions.py:89
+msgid "Provider:"
+msgstr "Udbyder:"
+
+#: ../src/regions.py:104
+msgid ""
+"Tips:This assistant helps you easily set up a mobile broadband connection to "
+"a cellular network."
+msgstr ""
+"Tips: Denne assistent hjælper dig nemt til at opsætte en mobil "
+"bredbåndsforbindelse til et cellulært netværk."
+
+#: ../src/regions.py:213
+msgid "Region"
+msgstr "Region"
+
+#: ../src/vpn_config.py:144
+msgid "PPP settings"
+msgstr "PPP indstillinger"
+
+#: ../src/vpn_config.py:156 ../src/vpn_config.py:189
+msgid "PPTP"
+msgstr "PPTP"
+
+#: ../src/vpn_config.py:184
+msgid "NT Domain:"
+msgstr "NT Domæne:"
+
+#: ../src/vpn_config.py:190
+msgid "L2TP"
+msgstr "L2TP"
+
+#: ../src/vpn_config.py:436
+msgid "Use protocal field compression negotiation"
+msgstr "Brug  feltkompression behandlingsprotokol"
+
+#: ../src/vpn_config.py:439
+msgid "Use Address/Control compression"
+msgstr "Brug Adresse/Kontrolkompression"
+
+#: ../src/vpn_config.py:457
+msgid "IPSec Setting"
+msgstr "IPSec Indstillinger"
+
+#: ../src/vpn_config.py:461
+msgid "Enable IPSec tunnel to l2tp host"
+msgstr "Aktiver IPSec tunnel til l2tp host"
+
+#: ../src/vpn_config.py:464
+msgid "Group Name:"
+msgstr "Gruppe Navn:"
+
+#: ../src/vpn_config.py:467
+msgid "Gateway ID:"
+msgstr "Gateway ID:"
+
+#: ../src/vpn_config.py:470
+msgid "Pre_Shared_key"
+msgstr "Præ_Fælles_nøgle"
+
+#: ../src/wlan_config.py:231
+msgid "Security"
+msgstr "Sikkerhed"
+
+#: ../src/wlan_config.py:250
+msgid "Security:"
+msgstr "Sikkerhed:"
+
+#: ../src/wlan_config.py:253
+msgid "Key:"
+msgstr "Nøgle:"
+
+#: ../src/wlan_config.py:256
+msgid "Wep index:"
+msgstr "Wep index:"
+
+#: ../src/wlan_config.py:260
+msgid "Authentication:"
+msgstr "Bekræftelse af identitet:"
+
+#: ../src/wlan_config.py:267
+msgid "None"
+msgstr "Ingen"
+
+#: ../src/wlan_config.py:268
+msgid "WEP (Hex or ASCII)"
+msgstr "WEP (Hex eller ASCII)"
+
+#: ../src/wlan_config.py:269
+msgid "WEP 104/128-bit Passphrase"
+msgstr "WEP 104/128-bit Adgangskode"
+
+#: ../src/wlan_config.py:270
+msgid "WPA WPA2 Personal"
+msgstr "WPA WPA2 Personlig"
+
+#: ../src/wlan_config.py:281
+msgid "Shared Key"
+msgstr "Fælles Nøgle"
+
+#: ../src/wlan_config.py:282
+msgid "Open System"
+msgstr "Åbent system"
+
+#: ../src/wlan_config.py:589
+msgid "Mode:"
+msgstr "Tilstand:"
+
+#: ../src/wlan_config.py:592
+msgid "Infrastructure"
+msgstr "Infrastruktur"
+
+#: ../src/wlan_config.py:592
+msgid "Ad-hoc"
+msgstr "Ad-hoc"
+
+#: ../src/wlan_config.py:595
+msgid "Band:"
+msgstr "Bånd:"
+
+#: ../src/wlan_config.py:603
+msgid "Channel:"
+msgstr "Kanal:"
+
+#: ../src/wlan_config.py:608
+msgid "BSSID:"
+msgstr "BSSID:"
+
+#: ../src/wlan_config.py:650
+msgid "Default Settings"
+msgstr "Standard Indstillinger"
+
+#: ../src/search_keyword.py:35
+msgid "Network"
+msgstr "Netværk"
+
+#: ../src/nmlib/nm_remote_settings.py:202
+msgid "Wired config"
+msgstr "Trådet Konfiguration"
+
+#: ../src/nmlib/nm_remote_settings.py:205
+msgid "Wireless config"
+msgstr "Trådløs Konfiguration"
+
+#: ../src/nmlib/nm_remote_settings.py:208
+msgid "Dsl config"
+msgstr "Dsl Konfiguration"
+
+#: ../src/nmlib/nm_remote_settings.py:211
+msgid "VPN config"
+msgstr "VPN Konfiguration"
+
+#: ../src/nmlib/nm_remote_settings.py:214
+msgid "CDMA config"
+msgstr "CDMA Konfiguration"
+
+#: ../src/nmlib/nm_remote_settings.py:217
+msgid "GSM config"
+msgstr "GSM Konfiguration"
+
+#: ../src/nmlib/nm_remote_settings.py:219
+msgid "Config"
+msgstr "Konfiguration"

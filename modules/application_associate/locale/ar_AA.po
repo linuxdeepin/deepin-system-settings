@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin System Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-09 07:03+0000\n"
+"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"Language-Team: Arabic (Unitag) (http://www.transifex.com/projects/p/deepin-"
+"system-settings/language/ar_AA/)\n"
+"Language: ar_AA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: ../src/session_view.py:52
+msgid "Active"
+msgstr ""
+
+#: ../src/session_view.py:52 ../src/search_keyword.py:29
+msgid "Application"
+msgstr ""
+
+#: ../src/session_view.py:52
+msgid "Description"
+msgstr ""
+
+#: ../src/session_view.py:52
+msgid "Exec"
+msgstr ""
+
+#: ../src/session_view.py:65
+msgid "New"
+msgstr ""
+
+#: ../src/session_view.py:66
+msgid "Delete"
+msgstr ""
+
+#: ../src/app_asso_view.py:61
+msgid "Default Applications"
+msgstr ""
+
+#: ../src/app_asso_view.py:62 ../src/media_view.py:105
+msgid "AutoPlay"
+msgstr ""
+
+#: ../src/app_asso_view.py:63 ../src/search_keyword.py:31
+msgid "Autostart"
+msgstr ""
+
+#: ../src/media_view.py:85
+msgid "CD"
+msgstr ""
+
+#: ../src/media_view.py:86
+msgid "DVD"
+msgstr ""
+
+#: ../src/media_view.py:87
+msgid "Audio Player"
+msgstr ""
+
+#: ../src/media_view.py:88
+msgid "Camera"
+msgstr ""
+
+#: ../src/media_view.py:89
+msgid "Applications"
+msgstr ""
+
+#: ../src/media_view.py:90
+msgid "Automatically Mount"
+msgstr ""
+
+#: ../src/media_view.py:95 ../src/media_view.py:266
+msgid "Other applications"
+msgstr ""
+
+#: ../src/media_view.py:96 ../src/media_view.py:100
+msgid "Ask"
+msgstr ""
+
+#: ../src/media_view.py:97 ../src/media_view.py:99
+msgid "Do nothing"
+msgstr ""
+
+#: ../src/media_view.py:98
+msgid "Open folder"
+msgstr ""
+
+#: ../src/media_view.py:101
+msgid "Mount"
+msgstr ""
+
+#: ../src/media_view.py:102
+msgid "Mount and open folder"
+msgstr ""
+
+#: ../src/app_view.py:42
+msgid "Web"
+msgstr ""
+
+#: ../src/app_view.py:43
+msgid "Mail"
+msgstr ""
+
+#: ../src/app_view.py:44
+msgid "Editor"
+msgstr ""
+
+#: ../src/app_view.py:45
+msgid "Music"
+msgstr ""
+
+#: ../src/app_view.py:46
+msgid "Video"
+msgstr ""
+
+#: ../src/app_view.py:47
+msgid "Photo"
+msgstr ""
+
+#: ../src/app_view.py:48
+msgid "Terminal"
+msgstr ""
+
+#: ../src/treeview.py:125
+msgid "No exec"
+msgstr ""
+
+#: ../src/treeview.py:145
+msgid "No description"
+msgstr ""
+
+#: ../src/widget.py:43
+msgid "Autostart app"
+msgstr ""
+
+#: ../src/widget.py:48
+msgid "OK"
+msgstr ""
+
+#: ../src/widget.py:49
+msgid "Cancel"
+msgstr ""
+
+#: ../src/widget.py:84
+msgid "Name:"
+msgstr ""
+
+#: ../src/widget.py:86
+msgid "Exec:"
+msgstr ""
+
+#: ../src/widget.py:88
+msgid "Comment:"
+msgstr ""
+
+#: ../src/search_keyword.py:30
+msgid "Media"
+msgstr ""
+
+#: ../src/search_keyword.py:32
+msgid "Application Associate"
+msgstr ""

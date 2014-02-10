@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 07:28+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: iceleaf916 <iceleaf916@gmail.com>\n"
 "Language-Team: Chinese (Hong Kong) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/zh_HK/)\n"
@@ -25,7 +25,7 @@ msgstr "21"
 
 #: ../dss/main.py:339 ../dss/main.py:451 ../dss/action_bar.py:95
 msgid "System Settings"
-msgstr ""
+msgstr "系統設定"
 
 #: ../dss/constant.py:114
 msgid "Displays"
@@ -33,15 +33,15 @@ msgstr ""
 
 #: ../dss/constant.py:115
 msgid "Desktop"
-msgstr ""
+msgstr "桌面歌詞"
 
 #: ../dss/constant.py:116
 msgid "Personalization"
-msgstr ""
+msgstr "個人化"
 
 #: ../dss/constant.py:117
 msgid "Sound"
-msgstr ""
+msgstr "音效"
 
 #: ../dss/constant.py:118
 msgid "Date &amp; Time"
@@ -49,19 +49,19 @@ msgstr ""
 
 #: ../dss/constant.py:119
 msgid "Power"
-msgstr ""
+msgstr "電源"
 
 #: ../dss/constant.py:120
 msgid "Keyboard"
-msgstr ""
+msgstr "鍵盤"
 
 #: ../dss/constant.py:121
 msgid "Mouse"
-msgstr ""
+msgstr "滑鼠"
 
 #: ../dss/constant.py:122
 msgid "Touchpad"
-msgstr ""
+msgstr "觸控板"
 
 #: ../dss/constant.py:123
 msgid "Printers"
@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../dss/constant.py:124
 msgid "Network"
-msgstr ""
+msgstr "網路"
 
 #: ../dss/constant.py:125
 msgid "Bluetooth"
@@ -81,11 +81,11 @@ msgstr ""
 
 #: ../dss/constant.py:127
 msgid "User Accounts"
-msgstr ""
+msgstr "使用者帳號"
 
 #: ../dss/constant.py:128
 msgid "Default Applications"
-msgstr ""
+msgstr "預設應用程式"
 
 #: ../dss/constant.py:129
 msgid "System Information"
@@ -93,11 +93,11 @@ msgstr ""
 
 #: ../dss/foot_box.py:57
 msgid "Reset"
-msgstr ""
+msgstr "重設"
 
 #: ../dss/bluetooth_dialog.py:63
 msgid "Cancel"
-msgstr ""
+msgstr "取消螢幕截圖"
 
 #: ../dss/bluetooth_dialog.py:78
 #, python-format
@@ -106,4 +106,4 @@ msgstr ""
 
 #: ../dss/bluetooth_dialog.py:113
 msgid "Ok"
-msgstr ""
+msgstr "確認"

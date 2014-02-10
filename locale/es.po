@@ -3,15 +3,16 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# toolband25 <castilloluis2005@gmail.com>, 2014
 # kazzike <jeancarlosrivas@gmail.com>, 2013
 # kazzike <jeancarlosrivas@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 07:28+0000\n"
-"Last-Translator: iceleaf916 <iceleaf916@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-28 00:20+0000\n"
+"Last-Translator: toolband25 <castilloluis2005@gmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/es/)\n"
 "Language: es\n"
@@ -30,67 +31,67 @@ msgstr "Configuración del Sistema"
 
 #: ../dss/constant.py:114
 msgid "Displays"
-msgstr ""
+msgstr "Pantallas"
 
 #: ../dss/constant.py:115
 msgid "Desktop"
-msgstr ""
+msgstr "Escritorio"
 
 #: ../dss/constant.py:116
 msgid "Personalization"
-msgstr ""
+msgstr "Personalización"
 
 #: ../dss/constant.py:117
 msgid "Sound"
-msgstr ""
+msgstr "Sonido"
 
 #: ../dss/constant.py:118
 msgid "Date &amp; Time"
-msgstr ""
+msgstr "Fecha &amp; Tiempo"
 
 #: ../dss/constant.py:119
 msgid "Power"
-msgstr ""
+msgstr "Encendido"
 
 #: ../dss/constant.py:120
 msgid "Keyboard"
-msgstr ""
+msgstr "Teclado"
 
 #: ../dss/constant.py:121
 msgid "Mouse"
-msgstr ""
+msgstr "Raton "
 
 #: ../dss/constant.py:122
 msgid "Touchpad"
-msgstr ""
+msgstr "Touchpad"
 
 #: ../dss/constant.py:123
 msgid "Printers"
-msgstr ""
+msgstr "Impresoras"
 
 #: ../dss/constant.py:124
 msgid "Network"
-msgstr ""
+msgstr "Redes e Internet"
 
 #: ../dss/constant.py:125
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../dss/constant.py:126
 msgid "Additional Drivers"
-msgstr ""
+msgstr "Controladores Adicionales"
 
 #: ../dss/constant.py:127
 msgid "User Accounts"
-msgstr ""
+msgstr "Cuentas de Usuario"
 
 #: ../dss/constant.py:128
 msgid "Default Applications"
-msgstr ""
+msgstr "Aplicaciones por Defecto"
 
 #: ../dss/constant.py:129
 msgid "System Information"
-msgstr ""
+msgstr "Informacion del Sistema"
 
 #: ../dss/foot_box.py:57
 msgid "Reset"

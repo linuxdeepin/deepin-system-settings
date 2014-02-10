@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-18 02:16+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/sv_SE/)\n"
@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../dss/constant.py:115
 msgid "Desktop"
-msgstr ""
+msgstr "Skrivbord"
 
 #: ../dss/constant.py:116
 msgid "Personalization"
@@ -48,11 +48,11 @@ msgstr ""
 
 #: ../dss/constant.py:119
 msgid "Power"
-msgstr ""
+msgstr "Styrka"
 
 #: ../dss/constant.py:120
 msgid "Keyboard"
-msgstr ""
+msgstr "Tangentbord"
 
 #: ../dss/constant.py:121
 msgid "Mouse"
@@ -92,11 +92,11 @@ msgstr ""
 
 #: ../dss/foot_box.py:57
 msgid "Reset"
-msgstr ""
+msgstr "Återställ"
 
 #: ../dss/bluetooth_dialog.py:63
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #: ../dss/bluetooth_dialog.py:78
 #, python-format
@@ -105,4 +105,4 @@ msgstr ""
 
 #: ../dss/bluetooth_dialog.py:113
 msgid "Ok"
-msgstr ""
+msgstr "Okej"

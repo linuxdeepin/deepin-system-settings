@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:44+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
 "Language-Team: Spanish (Chile) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/es_CL/)\n"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../src/accel_entry.py:56 ../src/accel_entry.py:74 ../src/main.py:772
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: ../src/accel_entry.py:67
 #, python-format
@@ -54,15 +54,15 @@ msgstr ""
 
 #: ../src/accel_entry.py:295
 msgid "Please input new shortcuts"
-msgstr ""
+msgstr "Por favor ingrese el nuevo acceso rápido"
 
 #: ../src/keybind_all.py:33 ../src/main.py:504
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 #: ../src/keybind_all.py:34
 msgid "Launcher"
-msgstr ""
+msgstr "Lanzador"
 
 #: ../src/keybind_all.py:35
 msgid "Show desktop"
@@ -74,7 +74,7 @@ msgstr ""
 
 #: ../src/keybind_all.py:38
 msgid "File manager"
-msgstr ""
+msgstr "Administrador de archivos"
 
 #: ../src/keybind_all.py:39
 msgid "Switch applications"
@@ -102,11 +102,11 @@ msgstr ""
 
 #: ../src/keybind_all.py:49
 msgid "Take a screenshot of full screen"
-msgstr ""
+msgstr "Tomar pantallazo de la pantalla completa"
 
 #: ../src/keybind_all.py:51
 msgid "Take a screenshot of a window"
-msgstr ""
+msgstr "Tomar pantallazo de una ventana"
 
 #: ../src/keybind_all.py:53
 msgid "Take a screenshot delayed"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: ../src/keybind_all.py:56
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: ../src/keybind_all.py:57
 msgid "Deepin terminal quake mode"
@@ -122,7 +122,7 @@ msgstr ""
 
 #: ../src/keybind_all.py:59
 msgid "Log out"
-msgstr ""
+msgstr "Cerrar sesión"
 
 #: ../src/keybind_all.py:60 ../src/main.py:505
 msgid "Sound and Media"
@@ -154,7 +154,7 @@ msgstr ""
 
 #: ../src/keybind_all.py:67
 msgid "Stop playback"
-msgstr ""
+msgstr "Detener la reproducción"
 
 #: ../src/keybind_all.py:68
 msgid "Volume mute"
@@ -346,11 +346,11 @@ msgstr ""
 
 #: ../src/main.py:160
 msgid "Reset"
-msgstr ""
+msgstr "Reinicializar"
 
 #: ../src/main.py:208 ../src/main.py:770
 msgid "Replace"
-msgstr ""
+msgstr "Reemplazar"
 
 #: ../src/main.py:209 ../src/main.py:227
 msgid "Remove"
@@ -358,7 +358,7 @@ msgstr ""
 
 #: ../src/main.py:226
 msgid "Add"
-msgstr ""
+msgstr "Añadir"
 
 #: ../src/main.py:261 ../src/search_keyword.py:27
 msgid "Typing"
@@ -423,7 +423,7 @@ msgstr ""
 
 #: ../src/main.py:936
 msgid "Ok"
-msgstr ""
+msgstr "Aceptar"
 
 #: ../src/main.py:1009
 msgid "Reset to default"
@@ -431,7 +431,7 @@ msgstr ""
 
 #: ../src/search_keyword.py:25
 msgid "Keyboard"
-msgstr ""
+msgstr "Teclado"
 
 #: ../src/search_keyword.py:28
 msgid "Layout"

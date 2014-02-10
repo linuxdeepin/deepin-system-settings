@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:45+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
 "Language-Team: Spanish (Chile) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/es_CL/)\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../src/main.py:104
 msgid "Custom"
-msgstr ""
+msgstr "Personalizado"
 
 #: ../src/main.py:105 ../src/search_keyword.py:26
 msgid "Pointer Speed"
@@ -76,7 +76,7 @@ msgstr ""
 
 #: ../src/main.py:135
 msgid "Reset"
-msgstr ""
+msgstr "Reinicializar"
 
 #: ../src/main.py:302 ../src/main.py:352
 msgid "Slow"
@@ -116,4 +116,4 @@ msgstr ""
 
 #: ../src/search_keyword.py:25
 msgid "Touchpad"
-msgstr ""
+msgstr "Touchpad"

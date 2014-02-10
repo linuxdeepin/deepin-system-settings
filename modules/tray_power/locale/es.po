@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# toolband25 <castilloluis2005@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 08:51+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-27 16:20+0000\n"
+"Last-Translator: toolband25 <castilloluis2005@gmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/es/)\n"
 "Language: es\n"
@@ -20,47 +21,47 @@ msgstr ""
 
 #: ../src/tray_power_plugin.py:165 ../src/tray_power_plugin.py:196
 msgid "Fully charged"
-msgstr ""
+msgstr "Batería cargada"
 
 #: ../src/tray_power_plugin.py:168
 #, python-format
 msgid "Charging, %s remaining"
-msgstr ""
+msgstr "Cargando, %s restante"
 
 #: ../src/tray_power_plugin.py:194
 #, python-format
 msgid "%s remaining"
-msgstr ""
+msgstr "%s restante"
 
 #: ../src/tray_power_plugin.py:203
 #, python-format
 msgid "Low power(%s%%)"
-msgstr ""
+msgstr "Baja energia(%s%%)"
 
 #: ../src/tray_power_plugin.py:204
 msgid "Your battery is running low, please charge!"
-msgstr ""
+msgstr "Bateria baja, por favor carguela!"
 
 #: ../src/tray_power_gui.py:45
 msgid "Power"
-msgstr ""
+msgstr "Energia"
 
 #: ../src/tray_power_gui.py:54
 msgid "Balanced"
-msgstr ""
+msgstr "Balanceado"
 
 #: ../src/tray_power_gui.py:55
 msgid "Power saver"
-msgstr ""
+msgstr "Ahorrador de energia"
 
 #: ../src/tray_power_gui.py:56
 msgid "High performance"
-msgstr ""
+msgstr "Alto rendimiento"
 
 #: ../src/tray_power_gui.py:57
 msgid "Custom"
-msgstr ""
+msgstr "Personalizado"
 
 #: ../src/tray_power_gui.py:72
 msgid "Advanced..."
-msgstr ""
+msgstr "Avanzado..."

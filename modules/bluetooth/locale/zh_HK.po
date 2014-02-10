@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
-# CasperLi_HK <li_waikin@hotmail.com>, 2013
+# CasperLi_HK <casper.hk@hotmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-18 07:26+0000\n"
-"Last-Translator: CasperLi_HK <li_waikin@hotmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
+"Last-Translator: CasperLi_HK <casper.hk@hotmail.com>\n"
 "Language-Team: Chinese (Hong Kong) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/zh_HK/)\n"
 "Language: zh_HK\n"
@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../src/bluetooth_view.py:589
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: ../src/bluetooth_view.py:701 ../src/bluetooth_view.py:713
 msgid "Discovering device"
@@ -151,11 +151,11 @@ msgstr ""
 
 #: ../src/dialog.py:166
 msgid "OK"
-msgstr ""
+msgstr "確定"
 
 #: ../src/dialog.py:168
 msgid "Cancel"
-msgstr ""
+msgstr "取消螢幕截圖"
 
 #: ../src/bluetooth_sender.py:51
 #, python-format

@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# aphrxia <aphrxia@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:45+0000\n"
-"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-30 17:31+0000\n"
+"Last-Translator: aphrxia <aphrxia@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/id/)\n"
 "Language: id\n"
@@ -20,165 +21,165 @@ msgstr ""
 
 #: ../src/main.py:95 ../src/main_full.py:82 ../src/search_keyword.py:27
 msgid "Speaker"
-msgstr ""
+msgstr "Speaker"
 
 #: ../src/main.py:96 ../src/main_full.py:83 ../src/search_keyword.py:28
 msgid "Microphone"
-msgstr ""
+msgstr "Mikrofon"
 
 #: ../src/main.py:97 ../src/main.py:324 ../src/main_full.py:84
 #: ../src/main_full.py:257
 msgid "Left"
-msgstr ""
+msgstr "Kiri"
 
 #: ../src/main.py:98 ../src/main.py:325 ../src/main_full.py:85
 #: ../src/main_full.py:258
 msgid "Right"
-msgstr ""
+msgstr "Kanan"
 
 #: ../src/main.py:99 ../src/main_full.py:86
 msgid "Output Port"
-msgstr ""
+msgstr "Port Output"
 
 #: ../src/main.py:102 ../src/main.py:513 ../src/main.py:517 ../src/main.py:780
 #: ../src/main.py:783 ../src/main_full.py:89 ../src/main_full.py:449
 #: ../src/main_full.py:453
 msgid "Output Volume"
-msgstr ""
+msgstr "Volume Output"
 
 #: ../src/main.py:105 ../src/main.py:117
 msgid "Enable Sound"
-msgstr ""
+msgstr "Hidupkan Suara"
 
 #: ../src/main.py:108 ../src/main.py:514 ../src/main.py:518 ../src/main.py:781
 #: ../src/main.py:784 ../src/main_full.py:95 ../src/main_full.py:450
 #: ../src/main_full.py:454 ../src/search_keyword.py:26
 msgid "Balance"
-msgstr ""
+msgstr "Balance"
 
 #: ../src/main.py:111 ../src/main_full.py:98
 msgid "Input Port"
-msgstr ""
+msgstr "Port Input"
 
 #: ../src/main.py:114 ../src/main.py:532 ../src/main.py:535 ../src/main.py:835
 #: ../src/main.py:837 ../src/main_full.py:101 ../src/main_full.py:467
 #: ../src/main_full.py:470
 msgid "Input Volume"
-msgstr ""
+msgstr "Volume Input"
 
 #: ../src/main.py:120
 msgid "Input Level"
-msgstr ""
+msgstr "Level Input"
 
 #: ../src/main.py:139 ../src/main.py:742 ../src/main_full.py:123
 #: ../src/main_full.py:631
 msgid "Advanced"
-msgstr ""
+msgstr "Setelan tingkat lanjut..."
 
 #: ../src/main.py:192 ../src/main_full.py:174
 msgid "Choose a device for sound output:"
-msgstr ""
+msgstr "Pilih piranti untuk output suara:"
 
 #: ../src/main.py:193 ../src/main_full.py:175
 msgid "Choose a device for sound input:"
-msgstr ""
+msgstr "Pilih piranti untuk input suara:"
 
 #: ../src/main.py:194 ../src/main_full.py:176
 msgid "Choose a device to configure:"
-msgstr ""
+msgstr "Pilih piranti yang akan dikonfigurasi:"
 
 #: ../src/main.py:280 ../src/main_full.py:213 ../src/search_keyword.py:30
 msgid "Input"
-msgstr ""
+msgstr "Input"
 
 #: ../src/main.py:281 ../src/main_full.py:214 ../src/search_keyword.py:29
 msgid "Output"
-msgstr ""
+msgstr "Output"
 
 #: ../src/main.py:515 ../src/main_full.py:451
 msgid "Muted output"
-msgstr ""
+msgstr "Output suara yang sementara dimatikan"
 
 #: ../src/main.py:519 ../src/main_full.py:455
 msgid "Unmuted output"
-msgstr ""
+msgstr "Output suara yang sementara aktif"
 
 #: ../src/main.py:533 ../src/main_full.py:468
 msgid "Muted input"
-msgstr ""
+msgstr "Input suara yang sementara dimatikan"
 
 #: ../src/main.py:536 ../src/main_full.py:471
 msgid "Unmuted input"
-msgstr ""
+msgstr "Input suara yang sementara aktif"
 
 #: ../src/main.py:577 ../src/main_full.py:503
 #, python-format
 msgid "Set output port to %s"
-msgstr ""
+msgstr "Set port output ke %s"
 
 #: ../src/main.py:586 ../src/main_full.py:512
 #, python-format
 msgid "Set input port to %s"
-msgstr ""
+msgstr "Set port input ke %s"
 
 #: ../src/main.py:601 ../src/main_full.py:527
 #, python-format
 msgid "Output device %s selected"
-msgstr ""
+msgstr "Piranti output %s dipilih"
 
 #: ../src/main.py:607 ../src/main_full.py:533
 #, python-format
 msgid "Input device %s selected"
-msgstr ""
+msgstr "Piranti input %s dipilih"
 
 #: ../src/main.py:898 ../src/main_full.py:781
 #, python-format
 msgid "%d Outputs"
-msgstr ""
+msgstr "%d Output"
 
 #: ../src/main.py:900 ../src/main_full.py:783
 #, python-format
 msgid "%d Output"
-msgstr ""
+msgstr "%d Output"
 
 #: ../src/main.py:902 ../src/main_full.py:785
 #, python-format
 msgid "%d Inputs"
-msgstr ""
+msgstr "%d Input"
 
 #: ../src/main.py:904 ../src/main_full.py:787
 #, python-format
 msgid "%d Input"
-msgstr ""
+msgstr "%d Input"
 
 #: ../src/main_full.py:92 ../src/main_full.py:104
 msgid "Sound Enabled"
-msgstr ""
+msgstr "Suara diaktifkan"
 
 #: ../src/tray_sound_gui.py:90 ../src/tray_sound_gui_small.py:91
 msgid "Device"
-msgstr ""
+msgstr "Piranti"
 
 #: ../src/tray_sound_gui.py:123 ../src/tray_sound_gui_small.py:124
 msgid "Applications"
-msgstr ""
+msgstr "Aplikasi"
 
 #: ../src/tray_sound_gui.py:134 ../src/tray_sound_gui_small.py:135
 msgid "Advanced..."
-msgstr ""
+msgstr "Setelan tingkat lanjut..."
 
 #: ../src/tray_sound_gui.py:314 ../src/tray_sound_gui_small.py:364
 msgid "Volume"
-msgstr ""
+msgstr "Volume"
 
 #: ../src/tray_sound_gui.py:318 ../src/tray_sound_gui_small.py:368
 msgid "Mute"
-msgstr ""
+msgstr "Matikan Suara"
 
 #: ../src/search_keyword.py:25
 msgid "Sound"
-msgstr ""
+msgstr "Suara"
 
 #: ../src/search_keyword.py:31
 msgid "Hardware"
-msgstr ""
+msgstr "Perangkat Keras"

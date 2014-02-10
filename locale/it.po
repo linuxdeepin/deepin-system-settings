@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-27 01:24+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/it/)\n"
@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../dss/constant.py:115
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 #: ../dss/constant.py:116
 msgid "Personalization"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../dss/constant.py:117
 msgid "Sound"
-msgstr ""
+msgstr "Suono"
 
 #: ../dss/constant.py:118
 msgid "Date &amp; Time"
@@ -48,7 +48,7 @@ msgstr ""
 
 #: ../dss/constant.py:119
 msgid "Power"
-msgstr ""
+msgstr "Energia"
 
 #: ../dss/constant.py:120
 msgid "Keyboard"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: ../dss/constant.py:121
 msgid "Mouse"
-msgstr ""
+msgstr "Mouse"
 
 #: ../dss/constant.py:122
 msgid "Touchpad"
@@ -68,11 +68,11 @@ msgstr ""
 
 #: ../dss/constant.py:124
 msgid "Network"
-msgstr ""
+msgstr "Network"
 
 #: ../dss/constant.py:125
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../dss/constant.py:126
 msgid "Additional Drivers"
@@ -92,11 +92,11 @@ msgstr ""
 
 #: ../dss/foot_box.py:57
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 #: ../dss/bluetooth_dialog.py:63
 msgid "Cancel"
-msgstr ""
+msgstr "Cancella"
 
 #: ../dss/bluetooth_dialog.py:78
 #, python-format

@@ -3,15 +3,16 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# freddy4212 <freddy4212@gmail.com>, 2014
 # freddy4212 <freddy4212@gmail.com>, 2013
 # Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 09:57+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"Last-Translator: freddy4212 <freddy4212@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/zh_TW/)\n"
 "Language: zh_TW\n"
@@ -26,11 +27,11 @@ msgstr "開始錄製"
 
 #: ../src/face_record_page.py:83
 msgid "Please plug in or enable your camera"
-msgstr "煩請插入或者開啟照相機"
+msgstr "請連接或者開啟視訊鏡頭"
 
 #: ../src/face_record_page.py:84
 msgid "Please keep still for 5 seconds"
-msgstr "請保持5秒不要動"
+msgstr "請保持靜止5秒鐘"
 
 #: ../src/face_record_page.py:86
 msgid "Failed to record your face"
@@ -42,7 +43,7 @@ msgstr "成功錄製人臉"
 
 #: ../src/face_record_page.py:184
 msgid "Try Again"
-msgstr "再次錄製"
+msgstr "重新錄製"
 
 #: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
 msgid "Standard"
@@ -70,11 +71,11 @@ msgstr "拉遠"
 
 #: ../src/edit_icon_page.py:95
 msgid "Take a photo"
-msgstr "照相"
+msgstr "拍照"
 
 #: ../src/edit_icon_page.py:100
 msgid "Try again"
-msgstr "再次照相"
+msgstr "再次拍照"
 
 #: ../src/edit_icon_page.py:856
 msgid "Clip"
@@ -86,7 +87,7 @@ msgstr "照片預覽"
 
 #: ../src/edit_icon_page.py:924
 msgid "no picture"
-msgstr "沒有照片"
+msgstr "沒有圖片"
 
 #: ../src/main.py:122 ../src/main.py:134
 msgid "Account type"
@@ -110,7 +111,7 @@ msgstr "深度帳號"
 
 #: ../src/main.py:132 ../src/main.py:136
 msgid "Unbound"
-msgstr "未繫結"
+msgstr "未連結"
 
 #: ../src/main.py:133 ../src/search_keyword.py:27
 msgid "Account Name"
@@ -259,7 +260,7 @@ msgstr "新密碼"
 
 #: ../src/main.py:944
 msgid "Confirm new password"
-msgstr "確認密碼"
+msgstr "確認新密碼"
 
 #: ../src/main.py:958
 msgid "Show password"
@@ -271,11 +272,11 @@ msgstr "變更"
 
 #: ../src/main.py:1017
 msgid "Password did not match."
-msgstr "兩次密碼不相符"
+msgstr "兩次輸入的密碼不相同"
 
 #: ../src/main.py:1033 ../src/main.py:1058
 msgid "password unchanged"
-msgstr "密碼未被變更"
+msgstr "密碼未變更"
 
 #: ../src/main.py:1035
 msgid "authentication token manipulation error"
@@ -292,7 +293,7 @@ msgstr "%s 的密碼變更完成"
 
 #: ../src/main.py:1133 ../src/search_keyword.py:31
 msgid "Set Picture"
-msgstr "設定帳號照片"
+msgstr "設定帳號圖片"
 
 #: ../src/main.py:1151
 msgid "Face Record"
@@ -304,7 +305,7 @@ msgstr "錯誤："
 
 #: ../src/set_icon_page.py:127 ../src/set_icon_page.py:129
 msgid "Local picture"
-msgstr "本機檔案"
+msgstr "從本機檔案"
 
 #: ../src/set_icon_page.py:127 ../src/set_icon_page.py:130
 msgid "Take a screeshot"
@@ -312,25 +313,25 @@ msgstr "使用深度截圖"
 
 #: ../src/set_icon_page.py:131
 msgid "From camera"
-msgstr "使用照相機"
+msgstr "使用視訊鏡頭"
 
 #: ../src/set_icon_page.py:149
 msgid "Choose a new picture for your account"
-msgstr "選擇帳號照片"
+msgstr "選擇帳號圖片"
 
 #: ../src/set_icon_page.py:153
 msgid "Previously used pictures"
-msgstr "曾經使用的照片"
+msgstr "曾經用過的圖片"
 
 #: ../src/set_icon_page.py:197
 #, python-format
 msgid "Set <u>%s</u>'s picture"
-msgstr "設定 <u>%s</u> 的照片"
+msgstr "設定 <u>%s</u> 的帳號圖片"
 
 #: ../src/set_icon_page.py:360 ../src/set_icon_page.py:389
 #: ../src/set_icon_page.py:401
 msgid "Edit Picture"
-msgstr "編輯照片"
+msgstr "編輯圖片"
 
 #: ../src/search_keyword.py:28
 msgid "Create Account"

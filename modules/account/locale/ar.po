@@ -3,13 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# Mohd <mo-hd@windowslive.com>, 2014
+# sa3paleasm <sa3paleasm@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-30 01:55+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-10 01:00+0000\n"
+"Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
 "Language: ar\n"
@@ -21,332 +23,332 @@ msgstr ""
 
 #: ../src/face_record_page.py:79
 msgid "Start"
-msgstr ""
+msgstr "بداية"
 
 #: ../src/face_record_page.py:83
 msgid "Please plug in or enable your camera"
-msgstr ""
+msgstr "الرجاء قم بإدخل أو تفعيل الكاميرا"
 
 #: ../src/face_record_page.py:84
 msgid "Please keep still for 5 seconds"
-msgstr ""
+msgstr "الرجاء الثبات لمدة 5 ثواني"
 
 #: ../src/face_record_page.py:86
 msgid "Failed to record your face"
-msgstr ""
+msgstr "فشل في تسجيل الوجه"
 
 #: ../src/face_record_page.py:94
 msgid "Your face has been successfully recorded"
-msgstr ""
+msgstr "تم حفظ وجهك بنجاح"
 
 #: ../src/face_record_page.py:184
 msgid "Try Again"
-msgstr ""
+msgstr "حاول مرة أخرى"
 
 #: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
 msgid "Standard"
-msgstr ""
+msgstr "قياسي"
 
 #: ../src/treeitem.py:88 ../src/main.py:149 ../src/main.py:181
 msgid "Administrator"
-msgstr ""
+msgstr "مسؤول"
 
 #: ../src/treeitem.py:176
 msgid "My Account"
-msgstr ""
+msgstr "حسابي"
 
 #: ../src/treeitem.py:180
 msgid "Other Accounts"
-msgstr ""
+msgstr "حسابات أخرى"
 
 #: ../src/edit_icon_page.py:85
 msgid "zoom in"
-msgstr ""
+msgstr "تكبير"
 
 #: ../src/edit_icon_page.py:90
 msgid "zoom out"
-msgstr ""
+msgstr "تصغير"
 
 #: ../src/edit_icon_page.py:95
 msgid "Take a photo"
-msgstr ""
+msgstr "أخذ صورة"
 
 #: ../src/edit_icon_page.py:100
 msgid "Try again"
-msgstr ""
+msgstr "حاول مرة آخرى"
 
 #: ../src/edit_icon_page.py:856
 msgid "Clip"
-msgstr ""
+msgstr "قصاصة"
 
 #: ../src/edit_icon_page.py:872
 msgid "Preview"
-msgstr ""
+msgstr "معاينة"
 
 #: ../src/edit_icon_page.py:924
 msgid "no picture"
-msgstr ""
+msgstr "بدون صورة"
 
 #: ../src/main.py:122 ../src/main.py:134
 msgid "Account type"
-msgstr ""
+msgstr "نوع الحساب"
 
 #: ../src/main.py:124
 msgid "Password"
-msgstr ""
+msgstr "كلمة المرور"
 
 #: ../src/main.py:127 ../src/search_keyword.py:25
 msgid "Automatic login"
-msgstr ""
+msgstr "دخول تلقائي"
 
 #: ../src/main.py:129
 msgid "Log in without a password"
-msgstr ""
+msgstr "دخول بدون كلمة المرور"
 
 #: ../src/main.py:131 ../src/main.py:135 ../src/search_keyword.py:26
 msgid "Deepin Account"
-msgstr ""
+msgstr "حساب دييبن"
 
 #: ../src/main.py:132 ../src/main.py:136
 msgid "Unbound"
-msgstr ""
+msgstr "غير مقيد"
 
 #: ../src/main.py:133 ../src/search_keyword.py:27
 msgid "Account Name"
-msgstr ""
+msgstr "أسم الحساب"
 
 #: ../src/main.py:139
 msgid "Facial recognition"
-msgstr ""
+msgstr "التعرف على الوجه"
 
 #: ../src/main.py:162
 msgid "Record"
-msgstr ""
+msgstr "تسجيل"
 
 #: ../src/main.py:163
 msgid "Test"
-msgstr ""
+msgstr "تجربة"
 
 #: ../src/main.py:176 ../src/main.py:613 ../src/main.py:761
 #: ../src/main.py:1200
 msgid "Enable"
-msgstr ""
+msgstr "تفعيل"
 
 #: ../src/main.py:177
 msgid "Add"
-msgstr ""
+msgstr "أضف"
 
 #: ../src/main.py:178
 msgid "Delete"
-msgstr ""
+msgstr "حذف"
 
 #: ../src/main.py:179
 msgid "Create"
-msgstr ""
+msgstr "انشاء"
 
 #: ../src/main.py:180 ../src/main.py:233 ../src/main.py:239 ../src/main.py:971
 msgid "Cancel"
-msgstr ""
+msgstr "إلغاء"
 
 #: ../src/main.py:228
 msgid "It is possible to keep the home directory when deleting a user account."
-msgstr ""
+msgstr ".من الممكن الأحتفاظ بالدليل الرئيسي حينما تقوم بحذف حاسب مستخدم"
 
 #: ../src/main.py:231
 msgid "Delete Files"
-msgstr ""
+msgstr "الملفات المحذوفة"
 
 #: ../src/main.py:232
 msgid "Keep Files"
-msgstr ""
+msgstr "احتفظ بالملفات"
 
 #: ../src/main.py:240
 msgid "Save"
-msgstr ""
+msgstr "حفظ"
 
 #: ../src/main.py:244
 msgid "Back"
-msgstr ""
+msgstr "رجوع"
 
 #: ../src/main.py:245
 msgid "Experience"
-msgstr ""
+msgstr "تجربة"
 
 #: ../src/main.py:562
 #, python-format
 msgid "Enabled auto-login for %s"
-msgstr ""
+msgstr "تفعيل الدخول التلقائي لـ %s"
 
 #: ../src/main.py:564
 #, python-format
 msgid "Disabled auto-login for %s"
-msgstr ""
+msgstr "الغاء الدخول التلقائي لـ %s"
 
 #: ../src/main.py:586
 #, python-format
 msgid "Enabled passwordless login for %s"
-msgstr ""
+msgstr "الغاء الدخول التلقائي لـ %s"
 
 #: ../src/main.py:593
 #, python-format
 msgid "Disabled passwordless login for %s"
-msgstr ""
+msgstr "الغاء الدخول التلقائي لـ %s"
 
 #: ../src/main.py:609
 #, python-format
 msgid "Enable %s"
-msgstr ""
+msgstr "تفعيل %s"
 
 #: ../src/main.py:610 ../src/main.py:763 ../src/main.py:1202
 msgid "Disable"
-msgstr ""
+msgstr "الغاء"
 
 #: ../src/main.py:612
 #, python-format
 msgid "Disable %s"
-msgstr ""
+msgstr "الغاء %s"
 
 #: ../src/main.py:659
 #, python-format
 msgid "%s has been created"
-msgstr ""
+msgstr "تم إنشائه %s"
 
 #: ../src/main.py:665
 msgid "The user name is invalid"
-msgstr ""
+msgstr "أسم المستخدم غير صالح"
 
 #: ../src/main.py:680
 msgid ""
 "User names can only consist of letters, numbers, underscores and begin with "
 "a letter"
-msgstr ""
+msgstr "أسم المستخدم يجب أن يبدأ بحرف ويتألف من حروف ، أرقام و حروف صغير.  "
 
 #: ../src/main.py:699
 #, python-format
 msgid "%s has been deleted"
-msgstr ""
+msgstr "%s تم حذفه"
 
 #: ../src/main.py:716
 #, python-format
 msgid "Do you want to keep <u>%s</u>'s files?"
-msgstr ""
+msgstr "هل تريد الأحتفاظ بملفات <u>%s</u> ?"
 
 #: ../src/main.py:744 ../src/main.py:1184
 msgid "Account disabled"
-msgstr ""
+msgstr "الحساب ملغي"
 
 #: ../src/main.py:746 ../src/main.py:1186
 msgid "To be set at next login"
-msgstr ""
+msgstr "سيتم تعيينه في تسجيل الدخول المقبل"
 
 #: ../src/main.py:748 ../src/main.py:1188
 msgid "None"
-msgstr ""
+msgstr "لا شيء"
 
 #: ../src/main.py:823
 #, python-format
 msgid "%s's account type has been set as %s"
-msgstr ""
+msgstr "%s تم ضبط نوع الحساب الى %s"
 
 #: ../src/main.py:940
 msgid "Current password"
-msgstr ""
+msgstr "كلمة المرور الحالية"
 
 #: ../src/main.py:942
 msgid "New password"
-msgstr ""
+msgstr "كلمة المرور الجديدة"
 
 #: ../src/main.py:944
 msgid "Confirm new password"
-msgstr ""
+msgstr "تأكيد كلمة المرور الجديدة"
 
 #: ../src/main.py:958
 msgid "Show password"
-msgstr ""
+msgstr "أظهار كلمة المرور"
 
 #: ../src/main.py:972
 msgid "Change"
-msgstr ""
+msgstr "تغيير"
 
 #: ../src/main.py:1017
 msgid "Password did not match."
-msgstr ""
+msgstr ".كلمة المرور لا تتطابق"
 
 #: ../src/main.py:1033 ../src/main.py:1058
 msgid "password unchanged"
-msgstr ""
+msgstr "كلمة المرور لم تتغير"
 
 #: ../src/main.py:1035
 msgid "authentication token manipulation error"
-msgstr ""
+msgstr "........"
 
 #: ../src/main.py:1037
 msgid "new and old password are too similar"
-msgstr ""
+msgstr "كلمة المرور الجديدة والقديمة متشابهة"
 
 #: ../src/main.py:1051 ../src/main.py:1105
 #, python-format
 msgid "%s's password has been changed"
-msgstr ""
+msgstr "%s غير كلمة المرور"
 
 #: ../src/main.py:1133 ../src/search_keyword.py:31
 msgid "Set Picture"
-msgstr ""
+msgstr "تعيين صورة"
 
 #: ../src/main.py:1151
 msgid "Face Record"
-msgstr ""
+msgstr "سجل الوجه"
 
 #: ../src/main.py:1355
 msgid "Error:"
-msgstr ""
+msgstr ": خطأ"
 
 #: ../src/set_icon_page.py:127 ../src/set_icon_page.py:129
 msgid "Local picture"
-msgstr ""
+msgstr "الصورة المحلية"
 
 #: ../src/set_icon_page.py:127 ../src/set_icon_page.py:130
 msgid "Take a screeshot"
-msgstr ""
+msgstr "التقط صورة"
 
 #: ../src/set_icon_page.py:131
 msgid "From camera"
-msgstr ""
+msgstr "من الكاميرا"
 
 #: ../src/set_icon_page.py:149
 msgid "Choose a new picture for your account"
-msgstr ""
+msgstr "اختار صورة جديدة لحسابك"
 
 #: ../src/set_icon_page.py:153
 msgid "Previously used pictures"
-msgstr ""
+msgstr "الصور المستخدمة مسبقاً"
 
 #: ../src/set_icon_page.py:197
 #, python-format
 msgid "Set <u>%s</u>'s picture"
-msgstr ""
+msgstr "ضبط <u>%s</u>الصور"
 
 #: ../src/set_icon_page.py:360 ../src/set_icon_page.py:389
 #: ../src/set_icon_page.py:401
 msgid "Edit Picture"
-msgstr ""
+msgstr "تحرير الصورة"
 
 #: ../src/search_keyword.py:28
 msgid "Create Account"
-msgstr ""
+msgstr "إنشاء حساب"
 
 #: ../src/search_keyword.py:29
 msgid "Delete Account"
-msgstr ""
+msgstr "حذف حساب"
 
 #: ../src/search_keyword.py:30
 msgid "Change Password"
-msgstr ""
+msgstr "تغيير كلمة المرور"
 
 #: ../src/search_keyword.py:32
 msgid "Account"
-msgstr ""
+msgstr "الحساب"
 
 #: ../src/search_keyword.py:33
 msgid "User Accounts"
-msgstr ""
+msgstr "حسابات المستخدمين"

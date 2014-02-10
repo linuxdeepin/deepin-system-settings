@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# aphrxia <aphrxia@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:44+0000\n"
-"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 17:10+0000\n"
+"Last-Translator: aphrxia <aphrxia@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/id/)\n"
 "Language: id\n"
@@ -24,97 +25,103 @@ msgid ""
 "The shortcut \"%s\" cannot be used because it will become impossible to type "
 "using this key."
 msgstr ""
+"Pintasan \"%s\" tidak dapat digunakan sebab kunci yang dipilih tidak dapat "
+"digunakan dalam pengetikan."
 
 #: ../src/accel_entry.py:53
 msgid "Please try with a key such as Control, Alt or Shift at the same time."
 msgstr ""
+"Silahkan coba kunci seperti Control, Alt atau Shift pada waktu yang "
+"bersamaan."
 
 #: ../src/accel_entry.py:56 ../src/accel_entry.py:74 ../src/main.py:772
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #: ../src/accel_entry.py:67
 #, python-format
 msgid "The shortcut \"%s\" is already used for \"%s\""
-msgstr ""
+msgstr "Pintasan \"%s\" telah digunakan untuk \"%s\""
 
 #: ../src/accel_entry.py:69
 #, python-format
 msgid ""
 "If you reassign the shortcut to \"%s\", the \"%s\" shortcut will be disabled."
 msgstr ""
+"Jika Anda mengatur ulang pintasan ke \"%s\", pintasan \"%s\" akan dinon-"
+"aktifkan."
 
 #: ../src/accel_entry.py:73
 msgid "Reassign"
-msgstr ""
+msgstr "Tugaskan ulang"
 
 #: ../src/accel_entry.py:238 ../src/accel_entry.py:426 ../src/treeitem.py:308
 msgid "disable"
-msgstr ""
+msgstr "matikan"
 
 #: ../src/accel_entry.py:295
 msgid "Please input new shortcuts"
-msgstr ""
+msgstr "Silahkan masukan pintasan baru"
 
 #: ../src/keybind_all.py:33 ../src/main.py:504
 msgid "System"
-msgstr ""
+msgstr "Sistem"
 
 #: ../src/keybind_all.py:34
 msgid "Launcher"
-msgstr ""
+msgstr "Launcher"
 
 #: ../src/keybind_all.py:35
 msgid "Show desktop"
-msgstr ""
+msgstr "Tunjukkan desktop"
 
 #: ../src/keybind_all.py:37
 msgid "Lock screen"
-msgstr ""
+msgstr "Kunci Monitor"
 
 #: ../src/keybind_all.py:38
 msgid "File manager"
-msgstr ""
+msgstr "Manajer berkas"
 
 #: ../src/keybind_all.py:39
 msgid "Switch applications"
-msgstr ""
+msgstr "Pindah aplikasi"
 
 #: ../src/keybind_all.py:40
 msgid "Reverse switch applications"
-msgstr ""
+msgstr "Balik urutan pindah aplikasi"
 
 #: ../src/keybind_all.py:41
 msgid "Switch applications with 3D effect"
-msgstr ""
+msgstr "Efek 3D saat berpindah aplikasi"
 
 #: ../src/keybind_all.py:42
 msgid "Reverse switch applications with 3D effect"
-msgstr ""
+msgstr "Balik urutan pindah aplikasi dengan efek 3D"
 
 #: ../src/keybind_all.py:43
 msgid "Show/Hide the dock temporarily"
-msgstr ""
+msgstr "Tampilkan/Sembunyikan dock secara temporer"
 
 #: ../src/keybind_all.py:47
 msgid "Take a screenshot"
-msgstr ""
+msgstr "Ambil gambar"
 
 #: ../src/keybind_all.py:49
 msgid "Take a screenshot of full screen"
-msgstr ""
+msgstr "Ambil gambar layar penuh"
 
 #: ../src/keybind_all.py:51
 msgid "Take a screenshot of a window"
-msgstr ""
+msgstr "Ambil gambar jendela"
 
 #: ../src/keybind_all.py:53
 msgid "Take a screenshot delayed"
-msgstr ""
+msgstr "Ambil gambar dalam tempo"
 
 #: ../src/keybind_all.py:56
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: ../src/keybind_all.py:57
 msgid "Deepin terminal quake mode"
@@ -122,91 +129,91 @@ msgstr ""
 
 #: ../src/keybind_all.py:59
 msgid "Log out"
-msgstr ""
+msgstr "Keluar"
 
 #: ../src/keybind_all.py:60 ../src/main.py:505
 msgid "Sound and Media"
-msgstr ""
+msgstr "Suara dan Media"
 
 #: ../src/keybind_all.py:61
 msgid "Launch calculator"
-msgstr ""
+msgstr "Buka kalkulator"
 
 #: ../src/keybind_all.py:62
 msgid "Launch email client"
-msgstr ""
+msgstr "Buka klien email"
 
 #: ../src/keybind_all.py:63
 msgid "Launch web browser"
-msgstr ""
+msgstr "Buka browser web"
 
 #: ../src/keybind_all.py:64
 msgid "Launch media player"
-msgstr ""
+msgstr "Buka pemutar media"
 
 #: ../src/keybind_all.py:65
 msgid "Play (or play/pause)"
-msgstr ""
+msgstr "Mainkan (atau mainkan/pause)"
 
 #: ../src/keybind_all.py:66
 msgid "Pause playback"
-msgstr ""
+msgstr "Pause"
 
 #: ../src/keybind_all.py:67
 msgid "Stop playback"
-msgstr ""
+msgstr "Stop"
 
 #: ../src/keybind_all.py:68
 msgid "Volume mute"
-msgstr ""
+msgstr "Matikan volume"
 
 #: ../src/keybind_all.py:69
 msgid "Volume down"
-msgstr ""
+msgstr "Turunkan volume"
 
 #: ../src/keybind_all.py:70
 msgid "Volume up"
-msgstr ""
+msgstr "Naikkan volume"
 
 #: ../src/keybind_all.py:71
 msgid "Previous track"
-msgstr ""
+msgstr "Track sebelumnya"
 
 #: ../src/keybind_all.py:72
 msgid "Next track"
-msgstr ""
+msgstr "Track berikutnya"
 
 #: ../src/keybind_all.py:73
 msgid "Eject"
-msgstr ""
+msgstr "Keluarkan"
 
 #: ../src/keybind_all.py:74 ../src/main.py:506
 msgid "Windows"
-msgstr ""
+msgstr "Jendela"
 
 #: ../src/keybind_all.py:75
 msgid "Close window"
-msgstr ""
+msgstr "Tutup jendela"
 
 #: ../src/keybind_all.py:76
 msgid "Maximize window"
-msgstr ""
+msgstr "Perbesar jendela"
 
 #: ../src/keybind_all.py:77
 msgid "Restore window"
-msgstr ""
+msgstr "Restore jendela"
 
 #: ../src/keybind_all.py:78
 msgid "Minimize window"
-msgstr ""
+msgstr "Perkecil jendela"
 
 #: ../src/keybind_all.py:79
 msgid "Move window"
-msgstr ""
+msgstr "Pindahkan jendela"
 
 #: ../src/keybind_all.py:80
 msgid "Resize window"
-msgstr ""
+msgstr "Ubah ukuran jendela"
 
 #: ../src/keybind_all.py:81
 msgid "Toggle shaded state"
@@ -214,79 +221,79 @@ msgstr ""
 
 #: ../src/keybind_all.py:82
 msgid "Activate the window menu"
-msgstr ""
+msgstr "Aktifkan menu jendela"
 
 #: ../src/keybind_all.py:83 ../src/main.py:507
 msgid "Workspace"
-msgstr ""
+msgstr "Area kerja"
 
 #: ../src/keybind_all.py:84
 msgid "Switch to workspace 1"
-msgstr ""
+msgstr "Pindah ke area kerja 1"
 
 #: ../src/keybind_all.py:85
 msgid "Switch to workspace 2"
-msgstr ""
+msgstr "Pindah ke area kerja 2"
 
 #: ../src/keybind_all.py:86
 msgid "Switch to workspace 3"
-msgstr ""
+msgstr "Pindah ke area kerja 3"
 
 #: ../src/keybind_all.py:87
 msgid "Switch to workspace 4"
-msgstr ""
+msgstr "Pindah ke area kerja 4"
 
 #: ../src/keybind_all.py:88
 msgid "Switch to workspace left"
-msgstr ""
+msgstr "Pindah ke area kerja kiri"
 
 #: ../src/keybind_all.py:89
 msgid "Switch to workspace right"
-msgstr ""
+msgstr "Pindah ke area kerja kanan"
 
 #: ../src/keybind_all.py:90
 msgid "Switch to workspace above"
-msgstr ""
+msgstr "Pindah ke area kerja atas"
 
 #: ../src/keybind_all.py:91
 msgid "Switch to workspace below"
-msgstr ""
+msgstr "Pindah ke area kerja bawah"
 
 #: ../src/keybind_all.py:92
 msgid "Move window to workspace 1"
-msgstr ""
+msgstr "Pindahkan jendela ke area kerja 1"
 
 #: ../src/keybind_all.py:93
 msgid "Move window to workspace 2"
-msgstr ""
+msgstr "Pindahkan jendela ke area kerja 2"
 
 #: ../src/keybind_all.py:94
 msgid "Move window to workspace 3"
-msgstr ""
+msgstr "Pindahkan jendela ke area kerja 3"
 
 #: ../src/keybind_all.py:95
 msgid "Move window to workspace 4"
-msgstr ""
+msgstr "Pindahkan jendela ke area kerja 4"
 
 #: ../src/keybind_all.py:100
 msgid "Move window one workspace to the left"
-msgstr ""
+msgstr "Pindahkan jendela ke area kerja pertama sebelah kiri"
 
 #: ../src/keybind_all.py:101
 msgid "Move window one workspace to the right"
-msgstr ""
+msgstr "Pindahkan jendela ke area kerja pertama sebelah kanan"
 
 #: ../src/keybind_all.py:102
 msgid "Move window one workspace up"
-msgstr ""
+msgstr "Pindahkan jendela ke area kerja pertama sebelah atas"
 
 #: ../src/keybind_all.py:103
 msgid "Move window one workspace down"
-msgstr ""
+msgstr "Pindahkan jendela ke area kerja pertama sebelah bawah"
 
 #: ../src/main.py:78 ../src/main.py:508 ../src/main.py:914
 msgid "Custom Shortcuts"
-msgstr ""
+msgstr "Pintasan Buatan"
 
 #: ../src/main.py:117 ../src/search_keyword.py:29
 msgid "Repeat"
@@ -302,35 +309,35 @@ msgstr ""
 
 #: ../src/main.py:126 ../src/main.py:133 ../src/main.py:340 ../src/main.py:379
 msgid "Fast"
-msgstr ""
+msgstr "Cepat"
 
 #: ../src/main.py:127 ../src/main.py:134 ../src/main.py:338 ../src/main.py:377
 msgid "Slow"
-msgstr ""
+msgstr "Lambat"
 
 #: ../src/main.py:128 ../src/main.py:323
 msgid "Long"
-msgstr ""
+msgstr "Panjang"
 
 #: ../src/main.py:129 ../src/main.py:325
 msgid "Short"
-msgstr ""
+msgstr "Pendek"
 
 #: ../src/main.py:130
 msgid "Cursor Blink"
-msgstr ""
+msgstr "Kepidan Kursor"
 
 #: ../src/main.py:135
 msgid "Disable touchpad while typing"
-msgstr ""
+msgstr "Matikan touchpad saat sedang mengetik"
 
 #: ../src/main.py:138
 msgid "Keyboard Layout"
-msgstr ""
+msgstr "Tata Letak Papan Ketik"
 
 #: ../src/main.py:142
 msgid "Relevant Settings"
-msgstr ""
+msgstr "Pengaturan yang berkaitan"
 
 #: ../src/main.py:147 ../src/main.py:663
 msgid "Test Repeat Interval"
@@ -338,57 +345,57 @@ msgstr ""
 
 #: ../src/main.py:154
 msgid "Mouse Settings"
-msgstr ""
+msgstr "Pengaturan Mouse"
 
 #: ../src/main.py:157
 msgid "TouchPad Settings"
-msgstr ""
+msgstr "Pengaturan TouchPad"
 
 #: ../src/main.py:160
 msgid "Reset"
-msgstr ""
+msgstr "Atur ulang"
 
 #: ../src/main.py:208 ../src/main.py:770
 msgid "Replace"
-msgstr ""
+msgstr "Ganti"
 
 #: ../src/main.py:209 ../src/main.py:227
 msgid "Remove"
-msgstr ""
+msgstr "Buang"
 
 #: ../src/main.py:226
 msgid "Add"
-msgstr ""
+msgstr "Tambah"
 
 #: ../src/main.py:261 ../src/search_keyword.py:27
 msgid "Typing"
-msgstr ""
+msgstr "Pengetikan"
 
 #: ../src/main.py:262 ../src/search_keyword.py:26
 msgid "Shortcuts"
-msgstr ""
+msgstr "Pintasan"
 
 #: ../src/main.py:475 ../src/main.py:791 ../src/main.py:810
 #, python-format
 msgid "Current Layout: %s"
-msgstr ""
+msgstr "Tata letak sementara: %s"
 
 #: ../src/main.py:628
 msgid "Disabled touchpad while typing"
-msgstr ""
+msgstr "Matikan touchpad pada saat mengetik"
 
 #: ../src/main.py:630
 msgid "Enabled touchpad while typing"
-msgstr ""
+msgstr "Hidupkan touchpad pada saat mengetik"
 
 #: ../src/main.py:720
 #, python-format
 msgid "Current Layout is: %s"
-msgstr ""
+msgstr "Tata letak sementara adalah: %s"
 
 #: ../src/main.py:742
 msgid "Select an input source to add"
-msgstr ""
+msgstr "Pilih sumber input untuk ditambahkan"
 
 #: ../src/main.py:850
 msgid "Deleted custom hotkey"
@@ -397,42 +404,44 @@ msgstr ""
 #: ../src/main.py:861
 #, python-format
 msgid "Disabled hotkey for %s"
-msgstr ""
+msgstr "Matikan hotkey untuk %s"
 
 #: ../src/main.py:863
 #, python-format
 msgid "The hotkey for %s is set to %s"
-msgstr ""
+msgstr "Hotkey untuk %s telah diset untuk %s"
 
 #: ../src/main.py:867
 msgid ""
 "Please input new shortcuts. Press Esc to cancle or press Backspace to clear."
 msgstr ""
+"Silahkan masukan pintasan baru. Tekan Esc untuk membatalkan atau Backspace "
+"untuk menghapus."
 
 #: ../src/main.py:912
 msgid "Add custom hotkey"
-msgstr ""
+msgstr "Tambahkan hotkey buatan"
 
 #: ../src/main.py:921
 msgid "name"
-msgstr ""
+msgstr "nama"
 
 #: ../src/main.py:923
 msgid "action"
-msgstr ""
+msgstr "aksi"
 
 #: ../src/main.py:936
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: ../src/main.py:1009
 msgid "Reset to default"
-msgstr ""
+msgstr "Atur ulang ke setingan awal"
 
 #: ../src/search_keyword.py:25
 msgid "Keyboard"
-msgstr ""
+msgstr "Papan ketik"
 
 #: ../src/search_keyword.py:28
 msgid "Layout"
-msgstr ""
+msgstr "Tata letak"

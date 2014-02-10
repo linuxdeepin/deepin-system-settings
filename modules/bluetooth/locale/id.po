@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# aphrxia <aphrxia@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-22 13:12+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 17:00+0000\n"
+"Last-Translator: aphrxia <aphrxia@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/id/)\n"
 "Language: id\n"
@@ -21,42 +22,42 @@ msgstr ""
 #: ../src/bluetooth_transfer.py:104
 #, python-format
 msgid "Incoming file from %s"
-msgstr ""
+msgstr "Berkas dikirimkan oleh %s"
 
 #: ../src/bluetooth_transfer.py:105
 #, python-format
 msgid "Accept incoming file %s?"
-msgstr ""
+msgstr "Terima berkas %s?"
 
 #: ../src/bluetooth_transfer.py:108
 msgid "Accept"
-msgstr ""
+msgstr "Terima"
 
 #: ../src/bluetooth_transfer.py:109
 msgid "Reject"
-msgstr ""
+msgstr "Tolak"
 
 #: ../src/bluetooth_transfer.py:116
 #, python-format
 msgid "Receiving file from %s"
-msgstr ""
+msgstr "Menerima berkas dari %s"
 
 #: ../src/bluetooth_transfer.py:142
 #, python-format
 msgid "Failed to receive the file : %s"
-msgstr ""
+msgstr "Gagal menerima berkas: %s"
 
 #: ../src/bluetooth_view.py:85
 msgid "Pair"
-msgstr ""
+msgstr "Pair"
 
 #: ../src/bluetooth_view.py:90
 msgid "Remove Device"
-msgstr ""
+msgstr "Lepaskan piranti"
 
 #: ../src/bluetooth_view.py:304 ../src/bluetooth_view.py:306
 msgid "Headset"
-msgstr ""
+msgstr "Headset"
 
 #: ../src/bluetooth_view.py:311 ../src/bluetooth_view.py:313
 msgid "Audio Sink"
@@ -64,97 +65,97 @@ msgstr ""
 
 #: ../src/bluetooth_view.py:319 ../src/bluetooth_view.py:321
 msgid "Input Service"
-msgstr ""
+msgstr "Input Service"
 
 #: ../src/bluetooth_view.py:323
 msgid "Send File"
-msgstr ""
+msgstr "Kirim Berkas"
 
 #: ../src/bluetooth_view.py:335 ../src/tray_bluetooth_plugin.py:91
 msgid "Bluetooth Audio"
-msgstr ""
+msgstr "Bluetooth Audio"
 
 #: ../src/bluetooth_view.py:336 ../src/tray_bluetooth_plugin.py:92
 msgid "Successfully connected to the Bluetooth audio device."
-msgstr ""
+msgstr "Sukses menghubungkan ke piranti audio Bluetooth."
 
 #: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
 #: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
 #: ../src/tray_bluetooth_plugin.py:107
 msgid "Connection Failed"
-msgstr ""
+msgstr "Koneksi Gagal"
 
 #: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
 #: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
 #: ../src/tray_bluetooth_plugin.py:107
 msgid "An error occured when connecting to the device."
-msgstr ""
+msgstr "Terjadi kesalahan saat menghubungkan ke piranti."
 
 #: ../src/bluetooth_view.py:356 ../src/tray_bluetooth_plugin.py:104
 msgid "Bluetooth Input Service"
-msgstr ""
+msgstr "Bluetooth Input Service"
 
 #: ../src/bluetooth_view.py:357 ../src/tray_bluetooth_plugin.py:105
 msgid "Successfully connected to the Bluetooth input device."
-msgstr ""
+msgstr "Sukses menghubungkan ke piranti input Bluetooth."
 
 #: ../src/bluetooth_view.py:376
 msgid "Bluetooth Headset"
-msgstr ""
+msgstr "Headset Bluetooth"
 
 #: ../src/bluetooth_view.py:377
 msgid "Successfully connected to the Bluetooth headset."
-msgstr ""
+msgstr "Sukses menghubungkan ke headset Bluetooth."
 
 #: ../src/bluetooth_view.py:401
 msgid "Pairing failed!"
-msgstr ""
+msgstr "Pairing gagal!"
 
 #: ../src/bluetooth_view.py:469 ../src/bluetooth_view.py:474
 #, python-format
 msgid "in %d seconds"
-msgstr ""
+msgstr "dalam %d detik"
 
 #: ../src/bluetooth_view.py:503 ../src/bluetooth_view.py:507
 #: ../src/bluetooth_view.py:510
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../src/bluetooth_view.py:514 ../src/search_keyword.py:29
 msgid "Enable bluetooth"
-msgstr ""
+msgstr "Perbolehkan bluetooth"
 
 #: ../src/bluetooth_view.py:535 ../src/search_keyword.py:30
 msgid "Device name"
-msgstr ""
+msgstr "Nama piranti"
 
 #: ../src/bluetooth_view.py:556 ../src/search_keyword.py:31
 msgid "Discoverable"
-msgstr ""
+msgstr "Dapat ditemukan"
 
 #: ../src/bluetooth_view.py:589
 msgid "Search"
-msgstr ""
+msgstr "Cari"
 
 #: ../src/bluetooth_view.py:701 ../src/bluetooth_view.py:713
 msgid "Discovering device"
-msgstr ""
+msgstr "Menemukan piranti"
 
 #: ../src/tray_bluetooth_plugin.py:285
 msgid "Adapter"
-msgstr ""
+msgstr "Adapter"
 
 #: ../src/tray_bluetooth_plugin.py:317
 msgid "Advanced options..."
-msgstr ""
+msgstr "Setelan tingkat lanjut..."
 
 #: ../src/dialog.py:166
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../src/dialog.py:168
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #: ../src/bluetooth_sender.py:51
 #, python-format
@@ -162,38 +163,40 @@ msgid ""
 "Failed!\n"
 "error msg: %s"
 msgstr ""
+"Gagal!\n"
+"Pesan kesalahan: %s"
 
 #: ../src/bluetooth_sender.py:68
 #, python-format
 msgid "Sending file to %s"
-msgstr ""
+msgstr "Mengirimkan berkas ke %s"
 
 #: ../src/bluetooth_sender.py:85
 msgid "Transfer complete!"
-msgstr ""
+msgstr "Transfer selesai!"
 
 #: ../src/bluetooth_sender.py:116
 msgid "Select File"
-msgstr ""
+msgstr "Pilih Berkas"
 
 #: ../src/search_keyword.py:32
 msgid "Searching Device Timeout"
-msgstr ""
+msgstr "Timeout ketika mencari piranti"
 
 #: ../src/bt/agent.py:88
 #, python-format
 msgid "Enter PIN code to pair with %s:"
-msgstr ""
+msgstr "Masukan kode PIN untuk melakukan pair dengan %s:"
 
 #: ../src/bt/agent.py:138
 #, python-format
 msgid "Please confirm %s pin match as below"
-msgstr ""
+msgstr "Mohon konfirmasikan kecocokan pin %s seperti di bawah"
 
 #: ../src/bt/agent.py:140
 msgid "Yes"
-msgstr ""
+msgstr "Ya"
 
 #: ../src/bt/agent.py:141
 msgid "No"
-msgstr ""
+msgstr "Tidak"

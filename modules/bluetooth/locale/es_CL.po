@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# joe_unix <joejsph.19@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 08:05+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
+"Last-Translator: joe_unix <joejsph.19@gmail.com>\n"
 "Language-Team: Spanish (Chile) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/es_CL/)\n"
 "Language: es_CL\n"
@@ -30,11 +31,11 @@ msgstr ""
 
 #: ../src/bluetooth_transfer.py:108
 msgid "Accept"
-msgstr ""
+msgstr "Aceptar"
 
 #: ../src/bluetooth_transfer.py:109
 msgid "Reject"
-msgstr ""
+msgstr "Extraer"
 
 #: ../src/bluetooth_transfer.py:116
 #, python-format
@@ -48,15 +49,15 @@ msgstr ""
 
 #: ../src/bluetooth_view.py:85
 msgid "Pair"
-msgstr ""
+msgstr "Emparejar"
 
 #: ../src/bluetooth_view.py:90
 msgid "Remove Device"
-msgstr ""
+msgstr "Quitar dispositivo."
 
 #: ../src/bluetooth_view.py:304 ../src/bluetooth_view.py:306
 msgid "Headset"
-msgstr ""
+msgstr "Auricular"
 
 #: ../src/bluetooth_view.py:311 ../src/bluetooth_view.py:313
 msgid "Audio Sink"
@@ -68,27 +69,27 @@ msgstr ""
 
 #: ../src/bluetooth_view.py:323
 msgid "Send File"
-msgstr ""
+msgstr "Enviar archivo"
 
 #: ../src/bluetooth_view.py:335 ../src/tray_bluetooth_plugin.py:91
 msgid "Bluetooth Audio"
-msgstr ""
+msgstr "Dispositivo audio bluetooth. "
 
 #: ../src/bluetooth_view.py:336 ../src/tray_bluetooth_plugin.py:92
 msgid "Successfully connected to the Bluetooth audio device."
-msgstr ""
+msgstr "Se conectó exitosamete con el dispositivo audio Bluetooth"
 
 #: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
 #: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
 #: ../src/tray_bluetooth_plugin.py:107
 msgid "Connection Failed"
-msgstr ""
+msgstr "La conexión falló."
 
 #: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
 #: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
 #: ../src/tray_bluetooth_plugin.py:107
 msgid "An error occured when connecting to the device."
-msgstr ""
+msgstr "Ocurrió un error al intentar conectarse con el dispositivo. "
 
 #: ../src/bluetooth_view.py:356 ../src/tray_bluetooth_plugin.py:104
 msgid "Bluetooth Input Service"
@@ -100,7 +101,7 @@ msgstr ""
 
 #: ../src/bluetooth_view.py:376
 msgid "Bluetooth Headset"
-msgstr ""
+msgstr "Auricular bluetooth. "
 
 #: ../src/bluetooth_view.py:377
 msgid "Successfully connected to the Bluetooth headset."
@@ -108,7 +109,7 @@ msgstr ""
 
 #: ../src/bluetooth_view.py:401
 msgid "Pairing failed!"
-msgstr ""
+msgstr "El emparejamiento falló!"
 
 #: ../src/bluetooth_view.py:469 ../src/bluetooth_view.py:474
 #, python-format
@@ -118,27 +119,27 @@ msgstr ""
 #: ../src/bluetooth_view.py:503 ../src/bluetooth_view.py:507
 #: ../src/bluetooth_view.py:510
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../src/bluetooth_view.py:514 ../src/search_keyword.py:29
 msgid "Enable bluetooth"
-msgstr ""
+msgstr "Encender bluethooth"
 
 #: ../src/bluetooth_view.py:535 ../src/search_keyword.py:30
 msgid "Device name"
-msgstr ""
+msgstr "Nombre del dispositivo"
 
 #: ../src/bluetooth_view.py:556 ../src/search_keyword.py:31
 msgid "Discoverable"
-msgstr ""
+msgstr "Visible"
 
 #: ../src/bluetooth_view.py:589
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: ../src/bluetooth_view.py:701 ../src/bluetooth_view.py:713
 msgid "Discovering device"
-msgstr ""
+msgstr "Buscando dispositivo"
 
 #: ../src/tray_bluetooth_plugin.py:285
 msgid "Adapter"
@@ -150,11 +151,11 @@ msgstr ""
 
 #: ../src/dialog.py:166
 msgid "OK"
-msgstr ""
+msgstr "Aceptar"
 
 #: ../src/dialog.py:168
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: ../src/bluetooth_sender.py:51
 #, python-format
@@ -166,15 +167,15 @@ msgstr ""
 #: ../src/bluetooth_sender.py:68
 #, python-format
 msgid "Sending file to %s"
-msgstr ""
+msgstr "Enviando archivo al dispositivo %s"
 
 #: ../src/bluetooth_sender.py:85
 msgid "Transfer complete!"
-msgstr ""
+msgstr "Envío completado"
 
 #: ../src/bluetooth_sender.py:116
 msgid "Select File"
-msgstr ""
+msgstr "Seleccionar archivo."
 
 #: ../src/search_keyword.py:32
 msgid "Searching Device Timeout"
@@ -183,7 +184,7 @@ msgstr ""
 #: ../src/bt/agent.py:88
 #, python-format
 msgid "Enter PIN code to pair with %s:"
-msgstr ""
+msgstr "Ingrese el código para emparejar con %s:"
 
 #: ../src/bt/agent.py:138
 #, python-format
@@ -192,8 +193,8 @@ msgstr ""
 
 #: ../src/bt/agent.py:140
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 #: ../src/bt/agent.py:141
 msgid "No"
-msgstr ""
+msgstr "No"

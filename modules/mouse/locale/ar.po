@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# Mohd <mo-hd@windowslive.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-30 01:55+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-10 00:40+0000\n"
+"Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
 "Language: ar\n"
@@ -21,84 +22,84 @@ msgstr ""
 
 #: ../src/main.py:85
 msgid "Custom"
-msgstr ""
+msgstr "مخصص"
 
 #: ../src/main.py:86 ../src/search_keyword.py:26
 msgid "Pointer Speed"
-msgstr ""
+msgstr "سرعة المؤشر"
 
 #: ../src/main.py:87 ../src/search_keyword.py:27
 msgid "Acceleration"
-msgstr ""
+msgstr "التسارع"
 
 #: ../src/main.py:90 ../src/main.py:101 ../src/main.py:278 ../src/main.py:325
 msgid "Fast"
-msgstr ""
+msgstr "سريع"
 
 #: ../src/main.py:91 ../src/main.py:102 ../src/main.py:277 ../src/main.py:324
 msgid "Slow"
-msgstr ""
+msgstr "بطيء"
 
 #: ../src/main.py:92 ../src/search_keyword.py:28
 msgid "Sensitivity"
-msgstr ""
+msgstr "الأستشعار"
 
 #: ../src/main.py:95 ../src/main.py:292
 msgid "Low"
-msgstr ""
+msgstr "منخفض"
 
 #: ../src/main.py:96 ../src/main.py:293
 msgid "High"
-msgstr ""
+msgstr "عالي"
 
 #: ../src/main.py:97 ../src/search_keyword.py:29
 msgid "Double-click"
-msgstr ""
+msgstr "نقر مزدوج"
 
 #: ../src/main.py:98 ../src/search_keyword.py:30
 msgid "Frequency"
-msgstr ""
+msgstr "التردد"
 
 #: ../src/main.py:103
 msgid "Double-click on the smiley face to test your settings."
-msgstr ""
+msgstr ".أنقر نقر مزدوج على الوجه المبتسم لتجربة الأعدادات"
 
 #: ../src/main.py:105
 msgid "Relevant Settings"
-msgstr ""
+msgstr "إعدادات ذات صلة"
 
 #: ../src/main.py:108 ../src/search_keyword.py:31
 msgid "Right-handed"
-msgstr ""
+msgstr "مستخدم لليد اليمين"
 
 #: ../src/main.py:109 ../src/search_keyword.py:32
 msgid "Left-handed"
-msgstr ""
+msgstr "مستخدم لليد اليسار"
 
 #: ../src/main.py:112
 msgid "Keyboard Settings"
-msgstr ""
+msgstr "إعدادات لوحة المفاتيح"
 
 #: ../src/main.py:115
 msgid "TouchPad Settings"
-msgstr ""
+msgstr "إعدادات لوحة اللمس"
 
 #: ../src/main.py:118
 msgid "Reset"
-msgstr ""
+msgstr "إعادة ضبط"
 
 #: ../src/main.py:436
 msgid "Set to left-handed"
-msgstr ""
+msgstr "تحديد الى مستخدم لليد اليسار"
 
 #: ../src/main.py:438
 msgid "Set to right-handed"
-msgstr ""
+msgstr "تحديد الى مستخدم لليد اليمين"
 
 #: ../src/main.py:525
 msgid "Reset to defaults"
-msgstr ""
+msgstr "إعادة تعيين إلى الإعدادات الافتراضية"
 
 #: ../src/search_keyword.py:25
 msgid "Mouse"
-msgstr ""
+msgstr "الماوس"

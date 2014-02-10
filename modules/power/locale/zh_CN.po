@@ -4,13 +4,14 @@
 #
 # Translators:
 # Automatically generated, 2012
+# iceleaf916 <iceleaf916@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 09:46+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"Last-Translator: iceleaf916 <iceleaf916@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/zh_CN/)\n"
 "Language: zh_CN\n"
@@ -130,7 +131,7 @@ msgstr "修改按电源按钮为%s"
 #: ../src/power_view.py:379
 #, python-format
 msgid "%s when closing the lid"
-msgstr "修改合上笔记本盖子为%s"
+msgstr "修改合上笔记本盖子为 %s"
 
 #: ../src/power_view.py:384
 #, python-format

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-27 02:35+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-09 14:10+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/nl/)\n"
@@ -93,7 +93,7 @@ msgstr ""
 
 #: ../src/widgets.py:98
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 #: ../src/main.py:48 ../src/vpn_config.py:27 ../src/search_keyword.py:32
 msgid "VPN"
@@ -141,7 +141,7 @@ msgstr ""
 
 #: ../src/mobile_config.py:288
 msgid "Type:"
-msgstr ""
+msgstr "Type:"
 
 #: ../src/mobile_config.py:291
 msgid "PIN:"
@@ -377,7 +377,7 @@ msgstr ""
 
 #: ../src/foot_box_ui.py:69
 msgid "Delete"
-msgstr ""
+msgstr "Verwijderen"
 
 #: ../src/foot_box_ui.py:96
 msgid "Save"

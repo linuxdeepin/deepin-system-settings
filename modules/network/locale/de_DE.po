@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-27 02:35+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/de_DE/)\n"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../src/settings_widget.py:618
 msgid "Active"
-msgstr ""
+msgstr "Aktiv"
 
 #: ../src/helper.py:112
 #, python-format
@@ -53,7 +53,7 @@ msgstr ""
 #: ../src/mobile_config.py:281 ../src/dsl_config.py:102
 #: ../src/vpn_config.py:126 ../src/vpn_config.py:353 ../src/wlan_config.py:288
 msgid "Advanced"
-msgstr ""
+msgstr "Erweitert"
 
 #: ../src/lan_config.py:109 ../src/mobile_config.py:223
 #: ../src/ipsettings.py:41 ../src/dsl_config.py:119 ../src/vpn_config.py:142
@@ -85,15 +85,15 @@ msgstr ""
 #: ../src/widgets.py:85 ../src/mobile_config.py:276 ../src/elements.py:248
 #: ../src/wlan_config.py:277
 msgid "Show password"
-msgstr ""
+msgstr "Zeigen vergessen"
 
 #: ../src/widgets.py:97
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../src/widgets.py:98
 msgid "Cancel"
-msgstr ""
+msgstr "Aufheben"
 
 #: ../src/main.py:48 ../src/vpn_config.py:27 ../src/search_keyword.py:32
 msgid "VPN"
@@ -328,7 +328,7 @@ msgstr ""
 
 #: ../src/tray_ui.py:70
 msgid "Advanced..."
-msgstr ""
+msgstr "Erweitert..."
 
 #: ../src/tray_ui.py:485
 #, python-format
@@ -377,11 +377,11 @@ msgstr ""
 
 #: ../src/foot_box_ui.py:69
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 #: ../src/foot_box_ui.py:96
 msgid "Save"
-msgstr ""
+msgstr "Sparen"
 
 #: ../src/foot_box_ui.py:140
 msgid "Tip:"
@@ -419,7 +419,7 @@ msgstr ""
 
 #: ../src/regions.py:213
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 #: ../src/vpn_config.py:144
 msgid "PPP settings"
@@ -487,7 +487,7 @@ msgstr ""
 
 #: ../src/wlan_config.py:267
 msgid "None"
-msgstr ""
+msgstr "keiner"
 
 #: ../src/wlan_config.py:268
 msgid "WEP (Hex or ASCII)"
@@ -539,7 +539,7 @@ msgstr ""
 
 #: ../src/search_keyword.py:35
 msgid "Network"
-msgstr ""
+msgstr "Netzwerk"
 
 #: ../src/nmlib/nm_remote_settings.py:202
 msgid "Wired config"

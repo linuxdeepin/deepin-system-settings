@@ -4,12 +4,13 @@
 #
 # Translators:
 # fri <pavelfric@seznam.cz>, 2013
+# fri <pavelfric@seznam.cz>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-21 23:48+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: fri <pavelfric@seznam.cz>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/cs/)\n"
@@ -21,11 +22,11 @@ msgstr ""
 
 #: ../src/display_view.py:240
 msgid "Copy Display"
-msgstr "Kopírovat zobrazení"
+msgstr "Kopírovat obrazovku"
 
 #: ../src/display_view.py:241
 msgid "Extend Display"
-msgstr "Roztáhnout zobrazení"
+msgstr "Roztáhnout obrazovku"
 
 #: ../src/display_view.py:242
 msgid "Only shown in display 1"
@@ -71,7 +72,7 @@ msgstr "Nikdy"
 
 #: ../src/display_view.py:292 ../src/search_keyword.py:29
 msgid "Display"
-msgstr "Zobrazit"
+msgstr "Zobrazení"
 
 #: ../src/display_view.py:299 ../src/search_keyword.py:30
 msgid "Monitor"
@@ -84,7 +85,7 @@ msgstr "Související nastavení"
 #: ../src/display_view.py:318
 #, python-format
 msgid "<span foreground=\"%s\" underline=\"single\">Personalization</span>"
-msgstr "<span foreground=\"%s\" underline=\"single\">Osobní úpravy</span>"
+msgstr "<span foreground=\"%s\" underline=\"single\">Přizpůsobení</span>"
 
 #: ../src/display_view.py:326
 #, python-format
@@ -119,11 +120,11 @@ msgstr "Vypnout obrazovku"
 #: ../src/display_view.py:441 ../src/display_view.py:462
 #: ../src/search_keyword.py:37
 msgid "Lock Screen"
-msgstr "Uzamknout obrazovku"
+msgstr "Uzamknutí obrazovky"
 
 #: ../src/display_view.py:447 ../src/search_keyword.py:36
 msgid "Lock screen automatically"
-msgstr "Uzamknout obrazovku automaticky"
+msgstr "Uzamknout automaticky"
 
 #: ../src/display_view.py:513
 msgid "Reset to default value"

@@ -4,12 +4,13 @@
 #
 # Translators:
 # fri <pavelfric@seznam.cz>, 2013
+# fri <pavelfric@seznam.cz>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-21 23:50+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-25 22:10+0000\n"
 "Last-Translator: fri <pavelfric@seznam.cz>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/cs/)\n"
@@ -48,11 +49,11 @@ msgstr "Energie"
 
 #: ../src/tray_power_gui.py:54
 msgid "Balanced"
-msgstr "Vyvážený"
+msgstr "Vyvážený přístup"
 
 #: ../src/tray_power_gui.py:55
 msgid "Power saver"
-msgstr "Šetřič energie"
+msgstr "Šetření energií"
 
 #: ../src/tray_power_gui.py:56
 msgid "High performance"

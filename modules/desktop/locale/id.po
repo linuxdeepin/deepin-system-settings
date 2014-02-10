@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# aphrxia <aphrxia@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-22 13:12+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 17:00+0000\n"
+"Last-Translator: aphrxia <aphrxia@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/id/)\n"
 "Language: id\n"
@@ -20,75 +21,75 @@ msgstr ""
 
 #: ../src/desktop_view.py:70
 msgid "Default Style"
-msgstr ""
+msgstr "Gaya Awal"
 
 #: ../src/desktop_view.py:71
 msgid "Auto Hide"
-msgstr ""
+msgstr "Sembunyi Otomatis"
 
 #: ../src/desktop_view.py:72
 msgid "Invisible"
-msgstr ""
+msgstr "Tidak terlihat"
 
 #: ../src/desktop_view.py:73
 msgid "Buttom"
-msgstr ""
+msgstr "Bawah"
 
 #: ../src/desktop_view.py:74
 msgid "Top"
-msgstr ""
+msgstr "Atas"
 
 #: ../src/desktop_view.py:75
 msgid "Default Icon"
-msgstr ""
+msgstr "Ikon Asli"
 
 #: ../src/desktop_view.py:76
 msgid "Small"
-msgstr ""
+msgstr "Kecil"
 
 #: ../src/desktop_view.py:77 ../src/desktop_view.py:80
 msgid "Nothing"
-msgstr ""
+msgstr "Tidak ada"
 
 #: ../src/desktop_view.py:78
 msgid "Opening Window"
-msgstr ""
+msgstr "Membuka Jendela"
 
 #: ../src/desktop_view.py:79
 msgid "Launcher"
-msgstr ""
+msgstr "Launcher"
 
 #: ../src/desktop_view.py:80
 msgid "Maximize"
-msgstr ""
+msgstr "Perbesar"
 
 #: ../src/desktop_view.py:86 ../src/search_keyword.py:29
 msgid "Desktop Icon"
-msgstr ""
+msgstr "Ikon Desktop"
 
 #: ../src/desktop_view.py:94
 msgid "Computer"
-msgstr ""
+msgstr "Komputer"
 
 #: ../src/desktop_view.py:97
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: ../src/desktop_view.py:100
 msgid "Trash"
-msgstr ""
+msgstr "Sampah"
 
 #: ../src/desktop_view.py:103
 msgid "Software Center"
-msgstr ""
+msgstr "Pusat Aplikasi"
 
 #: ../src/desktop_view.py:118 ../src/search_keyword.py:30
 msgid "Dock"
-msgstr ""
+msgstr "Dock"
 
 #: ../src/desktop_view.py:124
 msgid "Display Style"
-msgstr ""
+msgstr "Gaya Tampilan"
 
 #: ../src/desktop_view.py:144
 msgid "Place Style"
@@ -96,84 +97,84 @@ msgstr ""
 
 #: ../src/desktop_view.py:156
 msgid "Icon Size"
-msgstr ""
+msgstr "Ukuran ikon"
 
 #: ../src/desktop_view.py:170
 msgid "Preview"
-msgstr ""
+msgstr "Pratinjau"
 
 #: ../src/desktop_view.py:178 ../src/search_keyword.py:31
 msgid "Hot Zone"
-msgstr ""
+msgstr "Hot Zone"
 
 #: ../src/desktop_view.py:181
 msgid "Top Left"
-msgstr ""
+msgstr "Kiri Atas"
 
 #: ../src/desktop_view.py:200
 msgid "Bottom Right"
-msgstr ""
+msgstr "Kanan Bawah"
 
 #: ../src/desktop_view.py:221
 msgid "Top Edge"
-msgstr ""
+msgstr "Tepi Atas"
 
 #: ../src/desktop_view.py:233
 msgid "Left Edge"
-msgstr ""
+msgstr "Tepi Kiri"
 
 #: ../src/desktop_view.py:245
 msgid "Right Edge"
-msgstr ""
+msgstr "Tepi Kanan"
 
 #: ../src/desktop_view.py:260
 msgid "Login &amp;&amp; Lock"
-msgstr ""
+msgstr "Login &amp;&amp; Kunci"
 
 #: ../src/desktop_view.py:268
 msgid "Login Page"
-msgstr ""
+msgstr "Halaman Login"
 
 #: ../src/desktop_view.py:273 ../src/desktop_view.py:289
 msgid "Select"
-msgstr ""
+msgstr "Pilih"
 
 #: ../src/desktop_view.py:284
 msgid "Lock Page"
-msgstr ""
+msgstr "Kunci Halaman"
 
 #: ../src/desktop_view.py:344
 msgid "Show computer icon"
-msgstr ""
+msgstr "Tampilkan ikon komputer"
 
 #: ../src/desktop_view.py:346
 msgid "Hide computer icon"
-msgstr ""
+msgstr "Sembunyikan ikon komputer"
 
 #: ../src/desktop_view.py:352
 msgid "Show home icon"
-msgstr ""
+msgstr "Tampilkan ikon home"
 
 #: ../src/desktop_view.py:354
 msgid "Hide home icon"
-msgstr ""
+msgstr "Sembunyikan ikon home"
 
 #: ../src/desktop_view.py:360
 msgid "Show trash icon"
-msgstr ""
+msgstr "Tampilkan ikon tong sampah"
 
 #: ../src/desktop_view.py:362
 msgid "Hide trash icon"
-msgstr ""
+msgstr "Sembunyikan ikon tong sampah"
 
 #: ../src/desktop_view.py:368
 msgid "Show deepin software center icon"
-msgstr ""
+msgstr "Tampilkan ikon pusat aplikasi Deepin"
 
 #: ../src/desktop_view.py:370
 msgid "Hide deepin software conter icon"
-msgstr ""
+msgstr "Sembunyikan ikon pusat aplikasi Deepin"
 
 #: ../src/desktop_view.py:468
 msgid "Reset to default value"
-msgstr ""
+msgstr "Atur ulang ke pengaturan awal"

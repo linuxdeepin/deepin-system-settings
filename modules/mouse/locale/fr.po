@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# lexross <its4moi@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-28 02:56+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-09 17:52+0000\n"
+"Last-Translator: lexross <its4moi@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/fr/)\n"
 "Language: fr\n"
@@ -20,84 +21,84 @@ msgstr ""
 
 #: ../src/main.py:85
 msgid "Custom"
-msgstr ""
+msgstr "Personnalisé"
 
 #: ../src/main.py:86 ../src/search_keyword.py:26
 msgid "Pointer Speed"
-msgstr ""
+msgstr "Vitesse du pointeur"
 
 #: ../src/main.py:87 ../src/search_keyword.py:27
 msgid "Acceleration"
-msgstr ""
+msgstr "Accélération"
 
 #: ../src/main.py:90 ../src/main.py:101 ../src/main.py:278 ../src/main.py:325
 msgid "Fast"
-msgstr ""
+msgstr "Rapide"
 
 #: ../src/main.py:91 ../src/main.py:102 ../src/main.py:277 ../src/main.py:324
 msgid "Slow"
-msgstr ""
+msgstr "Lent"
 
 #: ../src/main.py:92 ../src/search_keyword.py:28
 msgid "Sensitivity"
-msgstr ""
+msgstr "Sensibilité"
 
 #: ../src/main.py:95 ../src/main.py:292
 msgid "Low"
-msgstr ""
+msgstr "Diminuer"
 
 #: ../src/main.py:96 ../src/main.py:293
 msgid "High"
-msgstr ""
+msgstr "Élevée"
 
 #: ../src/main.py:97 ../src/search_keyword.py:29
 msgid "Double-click"
-msgstr ""
+msgstr "Double-clic"
 
 #: ../src/main.py:98 ../src/search_keyword.py:30
 msgid "Frequency"
-msgstr ""
+msgstr "Fréquence"
 
 #: ../src/main.py:103
 msgid "Double-click on the smiley face to test your settings."
-msgstr ""
+msgstr "Double-cliquez sur le smiley pour tester vos réglages. "
 
 #: ../src/main.py:105
 msgid "Relevant Settings"
-msgstr ""
+msgstr "Paramètres pertinents"
 
 #: ../src/main.py:108 ../src/search_keyword.py:31
 msgid "Right-handed"
-msgstr ""
+msgstr "Droitier"
 
 #: ../src/main.py:109 ../src/search_keyword.py:32
 msgid "Left-handed"
-msgstr ""
+msgstr "Gaucher"
 
 #: ../src/main.py:112
 msgid "Keyboard Settings"
-msgstr ""
+msgstr "Paramètres du clavier"
 
 #: ../src/main.py:115
 msgid "TouchPad Settings"
-msgstr ""
+msgstr "Paramètres du pavé tactile"
 
 #: ../src/main.py:118
 msgid "Reset"
-msgstr ""
+msgstr "Réinitialiser "
 
 #: ../src/main.py:436
 msgid "Set to left-handed"
-msgstr ""
+msgstr "Paramétrer pour les gauchers"
 
 #: ../src/main.py:438
 msgid "Set to right-handed"
-msgstr ""
+msgstr "Paramétrer pour les droitiers"
 
 #: ../src/main.py:525
 msgid "Reset to defaults"
-msgstr ""
+msgstr "Réinitialiser aux valeurs par défaut"
 
 #: ../src/search_keyword.py:25
 msgid "Mouse"
-msgstr ""
+msgstr "Souris"

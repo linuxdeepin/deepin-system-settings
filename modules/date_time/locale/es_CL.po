@@ -4,13 +4,14 @@
 #
 # Translators:
 # gamjachib <drios9420@gmail.com>, 2013
+# joe_unix <joejsph.19@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-17 03:49+0000\n"
-"Last-Translator: gamjachib <drios9420@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"Last-Translator: joe_unix <joejsph.19@gmail.com>\n"
 "Language-Team: Spanish (Chile) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/es_CL/)\n"
 "Language: es_CL\n"
@@ -153,7 +154,7 @@ msgstr ""
 
 #: ../src/date_time_view.py:285
 msgid "Set Time"
-msgstr ""
+msgstr "Configurar hora. "
 
 #: ../src/date_time_view.py:305
 msgid "Hour"
@@ -174,19 +175,19 @@ msgstr ""
 
 #: ../src/date_time_view.py:489
 msgid "Time will be synchronized with an Internet time server"
-msgstr ""
+msgstr "Actualizar hora en base a un servidor en internet. "
 
 #: ../src/date_time_view.py:493
 msgid "Time will not be synchronized with an Internet time server"
-msgstr ""
+msgstr "Manual"
 
 #: ../src/date_time_view.py:503
 msgid "Time will be shown in 24 hour format"
-msgstr ""
+msgstr "Formato de 24 horas. "
 
 #: ../src/date_time_view.py:505
 msgid "Time will be shown in 12 hour format"
-msgstr ""
+msgstr "Formato de 12 horas. "
 
 #: ../src/date_time_view.py:517
 #, python-format

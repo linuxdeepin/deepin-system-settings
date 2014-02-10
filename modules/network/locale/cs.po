@@ -4,13 +4,13 @@
 #
 # Translators:
 # fri <pavelfric@seznam.cz>, 2013
-# fri <pavelfric@seznam.cz>, 2013
+# fri <pavelfric@seznam.cz>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-27 09:06+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: fri <pavelfric@seznam.cz>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/cs/)\n"
@@ -49,7 +49,7 @@ msgstr "Činné"
 #: ../src/dsl_config.py:134 ../src/vpn_config.py:128
 #: ../src/search_keyword.py:29
 msgid "Wired"
-msgstr "Drátové"
+msgstr "Drátová"
 
 #: ../src/lan_config.py:95 ../src/mobile_config.py:219
 #: ../src/mobile_config.py:281 ../src/dsl_config.py:102
@@ -549,11 +549,11 @@ msgstr "Síť"
 
 #: ../src/nmlib/nm_remote_settings.py:202
 msgid "Wired config"
-msgstr "Nastavení drátové"
+msgstr "Nastavení drátového připojení"
 
 #: ../src/nmlib/nm_remote_settings.py:205
 msgid "Wireless config"
-msgstr "Nastavení bezdrátové"
+msgstr "Nastavení bezdrátového připojení"
 
 #: ../src/nmlib/nm_remote_settings.py:208
 msgid "Dsl config"

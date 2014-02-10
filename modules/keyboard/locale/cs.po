@@ -4,14 +4,15 @@
 #
 # Translators:
 # fri <pavelfric@seznam.cz>, 2013
-# fri <pavelfric@seznam.cz>, 2013
+# fri <pavelfric@seznam.cz>, 2013-2014
+# Tajnymag <tajnymag@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:44+0000\n"
-"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"Last-Translator: fri <pavelfric@seznam.cz>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/cs/)\n"
 "Language: cs\n"
@@ -41,7 +42,7 @@ msgstr "Zrušit"
 #: ../src/accel_entry.py:67
 #, python-format
 msgid "The shortcut \"%s\" is already used for \"%s\""
-msgstr ""
+msgstr "Klávesová zkratka \"%s\" se již používá pro \"%s\""
 
 #: ../src/accel_entry.py:69
 #, python-format
@@ -296,15 +297,15 @@ msgstr "Vlastní klávesové zkratky"
 
 #: ../src/main.py:117 ../src/search_keyword.py:29
 msgid "Repeat"
-msgstr "Opakovat"
+msgstr "Opakování"
 
 #: ../src/main.py:120 ../src/search_keyword.py:30
 msgid "Repeat Delay"
-msgstr "Opakovat zpoždění"
+msgstr "Zpoždění opakování"
 
 #: ../src/main.py:123 ../src/search_keyword.py:31
 msgid "Repeat Interval"
-msgstr "Opakovat interval"
+msgstr "Interval opakování"
 
 #: ../src/main.py:126 ../src/main.py:133 ../src/main.py:340 ../src/main.py:379
 msgid "Fast"
@@ -340,7 +341,7 @@ msgstr "Související nastavení"
 
 #: ../src/main.py:147 ../src/main.py:663
 msgid "Test Repeat Interval"
-msgstr "Interval zopakování zkoušky"
+msgstr "Interval zkoušení opakování"
 
 #: ../src/main.py:154
 msgid "Mouse Settings"

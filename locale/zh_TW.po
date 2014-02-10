@@ -4,15 +4,15 @@
 #
 # Translators:
 # freddy4212 <freddy4212@gmail.com>, 2013
-# freddy4212 <freddy4212@gmail.com>, 2013
+# freddy4212 <freddy4212@gmail.com>, 2013-2014
 # Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 07:34+0000\n"
-"Last-Translator: iceleaf916 <iceleaf916@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-28 04:10+0000\n"
+"Last-Translator: freddy4212 <freddy4212@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/zh_TW/)\n"
 "Language: zh_TW\n"
@@ -47,7 +47,7 @@ msgstr "聲音"
 
 #: ../dss/constant.py:118
 msgid "Date &amp; Time"
-msgstr "日期和時間"
+msgstr "日期與時間"
 
 #: ../dss/constant.py:119
 msgid "Power"
@@ -108,4 +108,4 @@ msgstr "已傳送 %d"
 
 #: ../dss/bluetooth_dialog.py:113
 msgid "Ok"
-msgstr "確認"
+msgstr "確定"

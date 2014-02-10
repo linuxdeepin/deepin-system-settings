@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# Arreyu <massi_gi@hotmail.it>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:45+0000\n"
-"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
+"Last-Translator: Arreyu <massi_gi@hotmail.it>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/it/)\n"
 "Language: it\n"
@@ -20,21 +21,21 @@ msgstr ""
 
 #: ../src/main.py:95 ../src/main_full.py:82 ../src/search_keyword.py:27
 msgid "Speaker"
-msgstr ""
+msgstr "Altoparlante"
 
 #: ../src/main.py:96 ../src/main_full.py:83 ../src/search_keyword.py:28
 msgid "Microphone"
-msgstr ""
+msgstr "Microfono"
 
 #: ../src/main.py:97 ../src/main.py:324 ../src/main_full.py:84
 #: ../src/main_full.py:257
 msgid "Left"
-msgstr ""
+msgstr "Sinistra"
 
 #: ../src/main.py:98 ../src/main.py:325 ../src/main_full.py:85
 #: ../src/main_full.py:258
 msgid "Right"
-msgstr ""
+msgstr "Destra"
 
 #: ../src/main.py:99 ../src/main_full.py:86
 msgid "Output Port"
@@ -48,7 +49,7 @@ msgstr ""
 
 #: ../src/main.py:105 ../src/main.py:117
 msgid "Enable Sound"
-msgstr ""
+msgstr "Abilita il Suono"
 
 #: ../src/main.py:108 ../src/main.py:514 ../src/main.py:518 ../src/main.py:781
 #: ../src/main.py:784 ../src/main_full.py:95 ../src/main_full.py:450
@@ -73,19 +74,19 @@ msgstr ""
 #: ../src/main.py:139 ../src/main.py:742 ../src/main_full.py:123
 #: ../src/main_full.py:631
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzato"
 
 #: ../src/main.py:192 ../src/main_full.py:174
 msgid "Choose a device for sound output:"
-msgstr ""
+msgstr "Scegli un dispositivo audio di uscita:"
 
 #: ../src/main.py:193 ../src/main_full.py:175
 msgid "Choose a device for sound input:"
-msgstr ""
+msgstr "Scegli un dispositivo audio di entrata:"
 
 #: ../src/main.py:194 ../src/main_full.py:176
 msgid "Choose a device to configure:"
-msgstr ""
+msgstr "Scegli un dispositivo da configurare:"
 
 #: ../src/main.py:280 ../src/main_full.py:213 ../src/search_keyword.py:30
 msgid "Input"
@@ -153,32 +154,32 @@ msgstr ""
 
 #: ../src/main_full.py:92 ../src/main_full.py:104
 msgid "Sound Enabled"
-msgstr ""
+msgstr "Suono Abilitato"
 
 #: ../src/tray_sound_gui.py:90 ../src/tray_sound_gui_small.py:91
 msgid "Device"
-msgstr ""
+msgstr "Dispositivo"
 
 #: ../src/tray_sound_gui.py:123 ../src/tray_sound_gui_small.py:124
 msgid "Applications"
-msgstr ""
+msgstr "Applicazioni"
 
 #: ../src/tray_sound_gui.py:134 ../src/tray_sound_gui_small.py:135
 msgid "Advanced..."
-msgstr ""
+msgstr "Avanzate..."
 
 #: ../src/tray_sound_gui.py:314 ../src/tray_sound_gui_small.py:364
 msgid "Volume"
-msgstr ""
+msgstr "Volume"
 
 #: ../src/tray_sound_gui.py:318 ../src/tray_sound_gui_small.py:368
 msgid "Mute"
-msgstr ""
+msgstr "Muto"
 
 #: ../src/search_keyword.py:25
 msgid "Sound"
-msgstr ""
+msgstr "Suono"
 
 #: ../src/search_keyword.py:31
 msgid "Hardware"
-msgstr ""
+msgstr "Hardware"

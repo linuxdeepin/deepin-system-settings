@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:44+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/pt_PT/)\n"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../src/accel_entry.py:56 ../src/accel_entry.py:74 ../src/main.py:772
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: ../src/accel_entry.py:67
 #, python-format
@@ -58,7 +58,7 @@ msgstr ""
 
 #: ../src/keybind_all.py:33 ../src/main.py:504
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 #: ../src/keybind_all.py:34
 msgid "Launcher"
@@ -74,7 +74,7 @@ msgstr ""
 
 #: ../src/keybind_all.py:38
 msgid "File manager"
-msgstr ""
+msgstr "Gestor de ficheiros"
 
 #: ../src/keybind_all.py:39
 msgid "Switch applications"

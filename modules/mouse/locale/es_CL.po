@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 08:34+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Spanish (Chile) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/es_CL/)\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../src/main.py:85
 msgid "Custom"
-msgstr ""
+msgstr "Personalizado"
 
 #: ../src/main.py:86 ../src/search_keyword.py:26
 msgid "Pointer Speed"
@@ -84,7 +84,7 @@ msgstr ""
 
 #: ../src/main.py:118
 msgid "Reset"
-msgstr ""
+msgstr "Reinicializar"
 
 #: ../src/main.py:436
 msgid "Set to left-handed"
@@ -100,4 +100,4 @@ msgstr ""
 
 #: ../src/search_keyword.py:25
 msgid "Mouse"
-msgstr ""
+msgstr "Ratón"

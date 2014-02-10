@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# evilscorpio <scorpkillerx@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 07:39+0000\n"
-"Last-Translator: iceleaf916 <iceleaf916@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 10:10+0000\n"
+"Last-Translator: evilscorpio <scorpkillerx@gmail.com>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ru/)\n"
 "Language: ru\n"
@@ -21,83 +22,83 @@ msgstr ""
 
 #: ../dss/navigate_page.py:134
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ../dss/main.py:339 ../dss/main.py:451 ../dss/action_bar.py:95
 msgid "System Settings"
-msgstr ""
+msgstr "Настройки системы"
 
 #: ../dss/constant.py:114
 msgid "Displays"
-msgstr ""
+msgstr "Дисплей"
 
 #: ../dss/constant.py:115
 msgid "Desktop"
-msgstr ""
+msgstr "Рабочий стол"
 
 #: ../dss/constant.py:116
 msgid "Personalization"
-msgstr ""
+msgstr "Персонализация"
 
 #: ../dss/constant.py:117
 msgid "Sound"
-msgstr ""
+msgstr "Звук"
 
 #: ../dss/constant.py:118
 msgid "Date &amp; Time"
-msgstr ""
+msgstr "Дата и время"
 
 #: ../dss/constant.py:119
 msgid "Power"
-msgstr ""
+msgstr "Питание"
 
 #: ../dss/constant.py:120
 msgid "Keyboard"
-msgstr ""
+msgstr "Клавиатура"
 
 #: ../dss/constant.py:121
 msgid "Mouse"
-msgstr ""
+msgstr "Мышь"
 
 #: ../dss/constant.py:122
 msgid "Touchpad"
-msgstr ""
+msgstr "Тачпад"
 
 #: ../dss/constant.py:123
 msgid "Printers"
-msgstr ""
+msgstr "Принтеры"
 
 #: ../dss/constant.py:124
 msgid "Network"
-msgstr ""
+msgstr "Сеть"
 
 #: ../dss/constant.py:125
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../dss/constant.py:126
 msgid "Additional Drivers"
-msgstr ""
+msgstr "Дополнительные драйверы"
 
 #: ../dss/constant.py:127
 msgid "User Accounts"
-msgstr ""
+msgstr "Учетные записи"
 
 #: ../dss/constant.py:128
 msgid "Default Applications"
-msgstr ""
+msgstr "Приложения по умолчанию"
 
 #: ../dss/constant.py:129
 msgid "System Information"
-msgstr ""
+msgstr "Информация о системе"
 
 #: ../dss/foot_box.py:57
 msgid "Reset"
-msgstr ""
+msgstr "Сброс"
 
 #: ../dss/bluetooth_dialog.py:63
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 #: ../dss/bluetooth_dialog.py:78
 #, python-format

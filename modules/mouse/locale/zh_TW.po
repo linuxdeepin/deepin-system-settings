@@ -3,15 +3,16 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# freddy4212 <freddy4212@gmail.com>, 2014
 # freddy4212 <freddy4212@gmail.com>, 2013
 # Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 09:37+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 08:41+0000\n"
+"Last-Translator: freddy4212 <freddy4212@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/zh_TW/)\n"
 "Language: zh_TW\n"
@@ -62,7 +63,7 @@ msgstr "點擊頻率"
 
 #: ../src/main.py:103
 msgid "Double-click on the smiley face to test your settings."
-msgstr "雙擊笑臉來測試點擊頻率設定值。"
+msgstr "雙擊笑臉即可測試點擊頻率設定值。"
 
 #: ../src/main.py:105
 msgid "Relevant Settings"
@@ -98,7 +99,7 @@ msgstr "設定為「慣用右手」"
 
 #: ../src/main.py:525
 msgid "Reset to defaults"
-msgstr "重設為預設值"
+msgstr "重設"
 
 #: ../src/search_keyword.py:25
 msgid "Mouse"

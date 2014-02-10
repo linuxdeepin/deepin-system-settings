@@ -3,13 +3,16 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# 3shaqA6air <3shaqA6air@gmail.com>, 2014
+# Mohd <mo-hd@windowslive.com>, 2014
+# sa3paleasm <sa3paleasm@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-30 01:55+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-09 20:20+0000\n"
+"Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
 "Language: ar\n"
@@ -22,140 +25,140 @@ msgstr ""
 #: ../src/bluetooth_transfer.py:104
 #, python-format
 msgid "Incoming file from %s"
-msgstr ""
+msgstr "ملف قادم من %s"
 
 #: ../src/bluetooth_transfer.py:105
 #, python-format
 msgid "Accept incoming file %s?"
-msgstr ""
+msgstr "هل توافق على قبول الملف %s?"
 
 #: ../src/bluetooth_transfer.py:108
 msgid "Accept"
-msgstr ""
+msgstr "قبول"
 
 #: ../src/bluetooth_transfer.py:109
 msgid "Reject"
-msgstr ""
+msgstr "رفض"
 
 #: ../src/bluetooth_transfer.py:116
 #, python-format
 msgid "Receiving file from %s"
-msgstr ""
+msgstr "يتم استقبال الملف من %s"
 
 #: ../src/bluetooth_transfer.py:142
 #, python-format
 msgid "Failed to receive the file : %s"
-msgstr ""
+msgstr "فشل في استلام الملف : %s"
 
 #: ../src/bluetooth_view.py:85
 msgid "Pair"
-msgstr ""
+msgstr "زوجي"
 
 #: ../src/bluetooth_view.py:90
 msgid "Remove Device"
-msgstr ""
+msgstr "إزالة جهاز"
 
 #: ../src/bluetooth_view.py:304 ../src/bluetooth_view.py:306
 msgid "Headset"
-msgstr ""
+msgstr "سماعة"
 
 #: ../src/bluetooth_view.py:311 ../src/bluetooth_view.py:313
 msgid "Audio Sink"
-msgstr ""
+msgstr "مخرج الصوت"
 
 #: ../src/bluetooth_view.py:319 ../src/bluetooth_view.py:321
 msgid "Input Service"
-msgstr ""
+msgstr "خدمة الأدخال"
 
 #: ../src/bluetooth_view.py:323
 msgid "Send File"
-msgstr ""
+msgstr "إرسال ملف"
 
 #: ../src/bluetooth_view.py:335 ../src/tray_bluetooth_plugin.py:91
 msgid "Bluetooth Audio"
-msgstr ""
+msgstr "بلوتوث صوتى"
 
 #: ../src/bluetooth_view.py:336 ../src/tray_bluetooth_plugin.py:92
 msgid "Successfully connected to the Bluetooth audio device."
-msgstr ""
+msgstr "تم الاتصال بنجاح مع مشغل الصوت"
 
 #: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
 #: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
 #: ../src/tray_bluetooth_plugin.py:107
 msgid "Connection Failed"
-msgstr ""
+msgstr "فشل الأتصال"
 
 #: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
 #: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
 #: ../src/tray_bluetooth_plugin.py:107
 msgid "An error occured when connecting to the device."
-msgstr ""
+msgstr "حدث خطأ عند محاولة توصيل الجهاز"
 
 #: ../src/bluetooth_view.py:356 ../src/tray_bluetooth_plugin.py:104
 msgid "Bluetooth Input Service"
-msgstr ""
+msgstr "خدمة ادخال البلوتوث"
 
 #: ../src/bluetooth_view.py:357 ../src/tray_bluetooth_plugin.py:105
 msgid "Successfully connected to the Bluetooth input device."
-msgstr ""
+msgstr ".تم توصيل الجهاز عن طريق البلوتوث بنجاح"
 
 #: ../src/bluetooth_view.py:376
 msgid "Bluetooth Headset"
-msgstr ""
+msgstr "سماعة البلوتوث"
 
 #: ../src/bluetooth_view.py:377
 msgid "Successfully connected to the Bluetooth headset."
-msgstr ""
+msgstr ".تم الأتصال بسماعة البلوتوث بنجاح"
 
 #: ../src/bluetooth_view.py:401
 msgid "Pairing failed!"
-msgstr ""
+msgstr "!فشل الأقتران "
 
 #: ../src/bluetooth_view.py:469 ../src/bluetooth_view.py:474
 #, python-format
 msgid "in %d seconds"
-msgstr ""
+msgstr "في %d ثواني"
 
 #: ../src/bluetooth_view.py:503 ../src/bluetooth_view.py:507
 #: ../src/bluetooth_view.py:510
 msgid "Bluetooth"
-msgstr ""
+msgstr "البلوتوث"
 
 #: ../src/bluetooth_view.py:514 ../src/search_keyword.py:29
 msgid "Enable bluetooth"
-msgstr ""
+msgstr "تفعيل البلوتوث"
 
 #: ../src/bluetooth_view.py:535 ../src/search_keyword.py:30
 msgid "Device name"
-msgstr ""
+msgstr "أسم الجهاز"
 
 #: ../src/bluetooth_view.py:556 ../src/search_keyword.py:31
 msgid "Discoverable"
-msgstr ""
+msgstr "ظاهر للجميع"
 
 #: ../src/bluetooth_view.py:589
 msgid "Search"
-msgstr ""
+msgstr "بحث"
 
 #: ../src/bluetooth_view.py:701 ../src/bluetooth_view.py:713
 msgid "Discovering device"
-msgstr ""
+msgstr "جهاز مكتشف"
 
 #: ../src/tray_bluetooth_plugin.py:285
 msgid "Adapter"
-msgstr ""
+msgstr "المحول"
 
 #: ../src/tray_bluetooth_plugin.py:317
 msgid "Advanced options..."
-msgstr ""
+msgstr "...إعدادات متقدمة"
 
 #: ../src/dialog.py:166
 msgid "OK"
-msgstr ""
+msgstr "موافق"
 
 #: ../src/dialog.py:168
 msgid "Cancel"
-msgstr ""
+msgstr "إلغاء"
 
 #: ../src/bluetooth_sender.py:51
 #, python-format
@@ -163,38 +166,40 @@ msgid ""
 "Failed!\n"
 "error msg: %s"
 msgstr ""
+"!فشل \n"
+"رسالة الخطأ: %s"
 
 #: ../src/bluetooth_sender.py:68
 #, python-format
 msgid "Sending file to %s"
-msgstr ""
+msgstr "يتم إرسال الملف الى %s"
 
 #: ../src/bluetooth_sender.py:85
 msgid "Transfer complete!"
-msgstr ""
+msgstr "!أكتمل النقل"
 
 #: ../src/bluetooth_sender.py:116
 msgid "Select File"
-msgstr ""
+msgstr "أختر ملف"
 
 #: ../src/search_keyword.py:32
 msgid "Searching Device Timeout"
-msgstr ""
+msgstr "انتهت مهلة البحث عن الجهاز"
 
 #: ../src/bt/agent.py:88
 #, python-format
 msgid "Enter PIN code to pair with %s:"
-msgstr ""
+msgstr "أدخل رمز التحقق فى ازواج مع %s:"
 
 #: ../src/bt/agent.py:138
 #, python-format
 msgid "Please confirm %s pin match as below"
-msgstr ""
+msgstr "رجاءاً تأكد من تطابق رمز تحقق  %s كما هو موجود بالأسفل"
 
 #: ../src/bt/agent.py:140
 msgid "Yes"
-msgstr ""
+msgstr "نعم"
 
 #: ../src/bt/agent.py:141
 msgid "No"
-msgstr ""
+msgstr "لا"

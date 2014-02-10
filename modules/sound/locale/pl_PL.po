@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:45+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/pl_PL/)\n"
@@ -30,12 +30,12 @@ msgstr ""
 #: ../src/main.py:97 ../src/main.py:324 ../src/main_full.py:84
 #: ../src/main_full.py:257
 msgid "Left"
-msgstr ""
+msgstr "Do lewej"
 
 #: ../src/main.py:98 ../src/main.py:325 ../src/main_full.py:85
 #: ../src/main_full.py:258
 msgid "Right"
-msgstr ""
+msgstr "Do prawej"
 
 #: ../src/main.py:99 ../src/main_full.py:86
 msgid "Output Port"
@@ -74,7 +74,7 @@ msgstr ""
 #: ../src/main.py:139 ../src/main.py:742 ../src/main_full.py:123
 #: ../src/main_full.py:631
 msgid "Advanced"
-msgstr ""
+msgstr "Zaawansowane"
 
 #: ../src/main.py:192 ../src/main_full.py:174
 msgid "Choose a device for sound output:"
@@ -170,11 +170,11 @@ msgstr ""
 
 #: ../src/tray_sound_gui.py:314 ../src/tray_sound_gui_small.py:364
 msgid "Volume"
-msgstr ""
+msgstr "Głośność"
 
 #: ../src/tray_sound_gui.py:318 ../src/tray_sound_gui_small.py:368
 msgid "Mute"
-msgstr ""
+msgstr "Wycisz"
 
 #: ../src/search_keyword.py:25
 msgid "Sound"

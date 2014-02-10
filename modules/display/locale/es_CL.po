@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 08:19+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Spanish (Chile) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/es_CL/)\n"
@@ -40,11 +40,11 @@ msgstr ""
 
 #: ../src/display_view.py:245
 msgid "Right"
-msgstr ""
+msgstr "Derecho"
 
 #: ../src/display_view.py:246
 msgid "Left"
-msgstr ""
+msgstr "Izquierdo"
 
 #: ../src/display_view.py:247
 msgid "Inverted"
@@ -62,7 +62,7 @@ msgstr ""
 
 #: ../src/display_view.py:254
 msgid "Hour"
-msgstr ""
+msgstr "Hora"
 
 #: ../src/display_view.py:255
 msgid "Never"
@@ -74,7 +74,7 @@ msgstr ""
 
 #: ../src/display_view.py:299 ../src/search_keyword.py:30
 msgid "Monitor"
-msgstr ""
+msgstr "Monitor"
 
 #: ../src/display_view.py:312
 msgid "Relevant Settings"
@@ -126,7 +126,7 @@ msgstr ""
 
 #: ../src/display_view.py:513
 msgid "Reset to default value"
-msgstr ""
+msgstr "Reinicializar los valores predeterminados"
 
 #: ../src/display_view.py:604
 #, python-format

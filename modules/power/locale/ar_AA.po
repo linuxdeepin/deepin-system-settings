@@ -1,0 +1,278 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin System Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-09 07:03+0000\n"
+"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"Language-Team: Arabic (Unitag) (http://www.transifex.com/projects/p/deepin-"
+"system-settings/language/ar_AA/)\n"
+"Language: ar_AA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: ../src/tray_shutdown_gui.py:93
+msgid "Switch user"
+msgstr ""
+
+#: ../src/tray_shutdown_gui.py:96 ../src/power_view.py:62
+#: ../src/tray_shutdown_plugin.py:107
+msgid "Shut down"
+msgstr ""
+
+#: ../src/tray_shutdown_gui.py:99 ../src/tray_shutdown_plugin.py:113
+msgid "Restart"
+msgstr ""
+
+#: ../src/tray_shutdown_gui.py:102 ../src/power_view.py:61
+#: ../src/power_view.py:137 ../src/tray_shutdown_plugin.py:119
+msgid "Suspend"
+msgstr ""
+
+#: ../src/tray_shutdown_gui.py:105 ../src/tray_shutdown_plugin.py:125
+msgid "Log out"
+msgstr ""
+
+#: ../src/tray_shutdown_gui.py:108
+msgid "Lock"
+msgstr ""
+
+#: ../src/power_view.py:50
+msgid "Minute"
+msgstr ""
+
+#: ../src/power_view.py:51 ../src/power_view.py:52 ../src/power_view.py:53
+#: ../src/power_view.py:54
+msgid "Minutes"
+msgstr ""
+
+#: ../src/power_view.py:55
+msgid "Hour"
+msgstr ""
+
+#: ../src/power_view.py:56
+msgid "Never"
+msgstr ""
+
+#: ../src/power_view.py:60
+msgid "Do nothing"
+msgstr ""
+
+#: ../src/power_view.py:64
+msgid "Balanced"
+msgstr ""
+
+#: ../src/power_view.py:65
+msgid "Power saver"
+msgstr ""
+
+#: ../src/power_view.py:66
+msgid "High performance"
+msgstr ""
+
+#: ../src/power_view.py:67
+msgid "Custom"
+msgstr ""
+
+#: ../src/power_view.py:74 ../src/search_keyword.py:29
+msgid "Power Button Settings"
+msgstr ""
+
+#: ../src/power_view.py:82 ../src/search_keyword.py:30
+msgid "When I press the power button"
+msgstr ""
+
+#: ../src/power_view.py:94 ../src/search_keyword.py:31
+msgid "When I close the lid"
+msgstr ""
+
+#: ../src/power_view.py:107 ../src/search_keyword.py:33
+msgid "Power Saving Settings"
+msgstr ""
+
+#: ../src/power_view.py:113
+msgid "Power Plan"
+msgstr ""
+
+#: ../src/power_view.py:125 ../src/search_keyword.py:36
+msgid "Turn off monitor"
+msgstr ""
+
+#: ../src/power_view.py:150
+msgid "Battery power remaining"
+msgstr ""
+
+#: ../src/power_view.py:166 ../src/search_keyword.py:37
+msgid "Require password when computer wakes"
+msgstr ""
+
+#: ../src/power_view.py:189 ../src/search_keyword.py:38
+msgid "Always show icon in the tray"
+msgstr ""
+
+#: ../src/power_view.py:317
+msgid "Power plan has been reset to Balanced"
+msgstr ""
+
+#: ../src/power_view.py:374
+#, python-format
+msgid "%s when pressing the power button"
+msgstr ""
+
+#: ../src/power_view.py:379
+#, python-format
+msgid "%s when closing the lid"
+msgstr ""
+
+#: ../src/power_view.py:384
+#, python-format
+msgid "Power plan has been changed to %s"
+msgstr ""
+
+#: ../src/power_view.py:389
+#, python-format
+msgid "Changed Suspend Status to %s"
+msgstr ""
+
+#: ../src/power_view.py:397
+#, python-format
+msgid "The time before turning off monitor has been changed to %s"
+msgstr ""
+
+#: ../src/power_view.py:407
+msgid "You will be asked for a password when computer wakes"
+msgstr ""
+
+#: ../src/power_view.py:409
+msgid "The system will not requrie a password after sleep"
+msgstr ""
+
+#: ../src/power_view.py:416
+msgid "Battery status will be shown in the tray"
+msgstr ""
+
+#: ../src/power_view.py:418
+msgid "Battery status will not be shown in the tray"
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:53
+#, python-format
+msgid ""
+"\n"
+"<span foreground='#cc5744'>Turn off</span> your computer now? \n"
+"\n"
+"The system will shut down in %s seconds."
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:56
+#, python-format
+msgid ""
+"\n"
+"<span foreground='#cc5744'>Restart</span> your computer now?\n"
+"\n"
+"The system will restart in %s seconds."
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:59
+#, python-format
+msgid ""
+"\n"
+"<span foreground='#cc5744'>Suspend</span> your computer now?\n"
+"\n"
+"The system will suspend in %s seconds."
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:62
+#, python-format
+msgid ""
+"\n"
+"<span foreground='#cc5744'>Log out</span> of your system now?\n"
+"\n"
+"You will be automatically logged out in %s seconds."
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:65
+msgid ""
+"\n"
+"<span foreground='#cc5744'>A program is still running:</span>"
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:66
+#, python-format
+msgid ""
+"\n"
+"<span foreground='#cc5744'>%s programs are still running:</span>"
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:67
+msgid ""
+"Waiting for applications to terminate. Interrupting these may cause "
+"unexpected results."
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:74
+msgid ""
+"\n"
+"<span foreground='#cc5744'>The Software Center is still running.</span>"
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:84
+msgid ""
+"\n"
+"We have detected that the system is running on a <span "
+"foreground='#cc5744'>virtual machine</span>. It's strongly recommended that "
+"you install Linux Deepin on your hard disk to get the best experience "
+"possible."
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:108
+msgid "Force shut down"
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:114
+msgid "Force restart"
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:120
+msgid "Force suspend"
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:126
+msgid "Force log out"
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:309
+msgid "Don't prompt again"
+msgstr ""
+
+#: ../src/tray_shutdown_plugin.py:309
+msgid "I see"
+msgstr ""
+
+#: ../src/tray_dialog.py:42
+msgid "Cancel"
+msgstr ""
+
+#: ../src/tray_dialog.py:43
+msgid "OK"
+msgstr ""
+
+#: ../src/search_keyword.py:32
+msgid "When I press the sleep button"
+msgstr ""
+
+#: ../src/search_keyword.py:34
+msgid "Hibernate"
+msgstr ""
+
+#: ../src/search_keyword.py:35
+msgid "Turn off hard disk"
+msgstr ""

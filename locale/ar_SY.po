@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin System Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-09 07:02+0000\n"
+"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"Language-Team: Arabic (Syria) (http://www.transifex.com/projects/p/deepin-"
+"system-settings/language/ar_SY/)\n"
+"Language: ar_SY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: ../dss/navigate_page.py:134
+msgid "10"
+msgstr ""
+
+#: ../dss/main.py:339 ../dss/main.py:451 ../dss/action_bar.py:95
+msgid "System Settings"
+msgstr ""
+
+#: ../dss/constant.py:114
+msgid "Displays"
+msgstr ""
+
+#: ../dss/constant.py:115
+msgid "Desktop"
+msgstr ""
+
+#: ../dss/constant.py:116
+msgid "Personalization"
+msgstr ""
+
+#: ../dss/constant.py:117
+msgid "Sound"
+msgstr ""
+
+#: ../dss/constant.py:118
+msgid "Date &amp; Time"
+msgstr ""
+
+#: ../dss/constant.py:119
+msgid "Power"
+msgstr ""
+
+#: ../dss/constant.py:120
+msgid "Keyboard"
+msgstr ""
+
+#: ../dss/constant.py:121
+msgid "Mouse"
+msgstr ""
+
+#: ../dss/constant.py:122
+msgid "Touchpad"
+msgstr ""
+
+#: ../dss/constant.py:123
+msgid "Printers"
+msgstr ""
+
+#: ../dss/constant.py:124
+msgid "Network"
+msgstr ""
+
+#: ../dss/constant.py:125
+msgid "Bluetooth"
+msgstr ""
+
+#: ../dss/constant.py:126
+msgid "Additional Drivers"
+msgstr ""
+
+#: ../dss/constant.py:127
+msgid "User Accounts"
+msgstr ""
+
+#: ../dss/constant.py:128
+msgid "Default Applications"
+msgstr ""
+
+#: ../dss/constant.py:129
+msgid "System Information"
+msgstr ""
+
+#: ../dss/foot_box.py:57
+msgid "Reset"
+msgstr ""
+
+#: ../dss/bluetooth_dialog.py:63
+msgid "Cancel"
+msgstr ""
+
+#: ../dss/bluetooth_dialog.py:78
+#, python-format
+msgid "Sent %d"
+msgstr ""
+
+#: ../dss/bluetooth_dialog.py:113
+msgid "Ok"
+msgstr ""

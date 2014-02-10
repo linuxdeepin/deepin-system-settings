@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 08:41+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/pl_PL/)\n"
@@ -80,7 +80,7 @@ msgstr ""
 
 #: ../src/power_view.py:67
 msgid "Custom"
-msgstr ""
+msgstr "Własny"
 
 #: ../src/power_view.py:74 ../src/search_keyword.py:29
 msgid "Power Button Settings"
@@ -259,11 +259,11 @@ msgstr ""
 
 #: ../src/tray_dialog.py:42
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 #: ../src/tray_dialog.py:43
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../src/search_keyword.py:32
 msgid "When I press the sleep button"

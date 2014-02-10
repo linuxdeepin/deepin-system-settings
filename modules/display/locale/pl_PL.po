@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 08:19+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/pl_PL/)\n"
@@ -37,15 +37,15 @@ msgstr ""
 
 #: ../src/display_view.py:244
 msgid "Normal"
-msgstr ""
+msgstr "Normalnie"
 
 #: ../src/display_view.py:245
 msgid "Right"
-msgstr ""
+msgstr "Do prawej"
 
 #: ../src/display_view.py:246
 msgid "Left"
-msgstr ""
+msgstr "Do lewej"
 
 #: ../src/display_view.py:247
 msgid "Inverted"

@@ -3,15 +3,16 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# freddy4212 <freddy4212@gmail.com>, 2014
 # freddy4212 <freddy4212@gmail.com>, 2013
 # Wang Dianjin <wangdianjin@linuxdeepin.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 09:26+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-29 02:30+0000\n"
+"Last-Translator: freddy4212 <freddy4212@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/zh_TW/)\n"
 "Language: zh_TW\n"
@@ -118,15 +119,15 @@ msgstr "右下角"
 
 #: ../src/desktop_view.py:221
 msgid "Top Edge"
-msgstr "頂部邊界"
+msgstr "頂部"
 
 #: ../src/desktop_view.py:233
 msgid "Left Edge"
-msgstr "左邊邊界"
+msgstr "左側"
 
 #: ../src/desktop_view.py:245
 msgid "Right Edge"
-msgstr "右邊邊界"
+msgstr "右側"
 
 #: ../src/desktop_view.py:260
 msgid "Login &amp;&amp; Lock"
@@ -178,4 +179,4 @@ msgstr "隱藏「軟體中心」圖示"
 
 #: ../src/desktop_view.py:468
 msgid "Reset to default value"
-msgstr "重設為預設值"
+msgstr "重設"

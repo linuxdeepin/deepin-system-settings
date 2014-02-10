@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-26 01:21+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-01 22:20+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/pt_PT/)\n"
@@ -68,7 +68,7 @@ msgstr ""
 
 #: ../dss/constant.py:124
 msgid "Network"
-msgstr ""
+msgstr "Rede"
 
 #: ../dss/constant.py:125
 msgid "Bluetooth"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: ../dss/bluetooth_dialog.py:63
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: ../dss/bluetooth_dialog.py:78
 #, python-format

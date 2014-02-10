@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 07:57+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/pl_PL/)\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../src/face_record_page.py:79
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 #: ../src/face_record_page.py:83
 msgid "Please plug in or enable your camera"
@@ -134,11 +134,11 @@ msgstr ""
 
 #: ../src/main.py:177
 msgid "Add"
-msgstr ""
+msgstr "Dodaj"
 
 #: ../src/main.py:178
 msgid "Delete"
-msgstr ""
+msgstr "Usuń"
 
 #: ../src/main.py:179
 msgid "Create"
@@ -146,7 +146,7 @@ msgstr ""
 
 #: ../src/main.py:180 ../src/main.py:233 ../src/main.py:239 ../src/main.py:971
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 #: ../src/main.py:228
 msgid "It is possible to keep the home directory when deleting a user account."
@@ -162,11 +162,11 @@ msgstr ""
 
 #: ../src/main.py:240
 msgid "Save"
-msgstr ""
+msgstr "Zapisz"
 
 #: ../src/main.py:244
 msgid "Back"
-msgstr ""
+msgstr "Wstecz"
 
 #: ../src/main.py:245
 msgid "Experience"

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:44+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/it/)\n"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../src/accel_entry.py:56 ../src/accel_entry.py:74 ../src/main.py:772
 msgid "Cancel"
-msgstr ""
+msgstr "Cancella"
 
 #: ../src/accel_entry.py:67
 #, python-format
@@ -54,7 +54,7 @@ msgstr ""
 
 #: ../src/accel_entry.py:295
 msgid "Please input new shortcuts"
-msgstr ""
+msgstr "Si prega di inserire nuove scorciatoie"
 
 #: ../src/keybind_all.py:33 ../src/main.py:504
 msgid "System"
@@ -154,7 +154,7 @@ msgstr ""
 
 #: ../src/keybind_all.py:67
 msgid "Stop playback"
-msgstr ""
+msgstr "Interrompi il playback"
 
 #: ../src/keybind_all.py:68
 msgid "Volume mute"
@@ -302,11 +302,11 @@ msgstr ""
 
 #: ../src/main.py:126 ../src/main.py:133 ../src/main.py:340 ../src/main.py:379
 msgid "Fast"
-msgstr ""
+msgstr "Veloce"
 
 #: ../src/main.py:127 ../src/main.py:134 ../src/main.py:338 ../src/main.py:377
 msgid "Slow"
-msgstr ""
+msgstr "Lento"
 
 #: ../src/main.py:128 ../src/main.py:323
 msgid "Long"
@@ -330,7 +330,7 @@ msgstr ""
 
 #: ../src/main.py:142
 msgid "Relevant Settings"
-msgstr ""
+msgstr "Impostazioni Rilevanti"
 
 #: ../src/main.py:147 ../src/main.py:663
 msgid "Test Repeat Interval"
@@ -342,15 +342,15 @@ msgstr ""
 
 #: ../src/main.py:157
 msgid "TouchPad Settings"
-msgstr ""
+msgstr "Impostazioni TouchPad"
 
 #: ../src/main.py:160
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 #: ../src/main.py:208 ../src/main.py:770
 msgid "Replace"
-msgstr ""
+msgstr "Sostituisci"
 
 #: ../src/main.py:209 ../src/main.py:227
 msgid "Remove"

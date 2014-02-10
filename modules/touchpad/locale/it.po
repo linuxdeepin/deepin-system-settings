@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:45+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/it/)\n"
@@ -20,31 +20,32 @@ msgstr ""
 
 #: ../src/main.py:104
 msgid "Custom"
-msgstr ""
+msgstr "Personalizzato"
 
 #: ../src/main.py:105 ../src/search_keyword.py:26
 msgid "Pointer Speed"
-msgstr ""
+msgstr "Velocità del Puntatore"
 
 #: ../src/main.py:106 ../src/search_keyword.py:27
 msgid "Acceleration"
-msgstr ""
+msgstr "Accelerazione"
 
 #: ../src/main.py:109 ../src/search_keyword.py:28
 msgid "Sensitivity"
-msgstr ""
+msgstr "Sensibilità"
 
 #: ../src/main.py:112 ../src/search_keyword.py:29
 msgid "Double-click"
-msgstr ""
+msgstr "Doppio-click"
 
 #: ../src/main.py:113 ../src/search_keyword.py:30
 msgid "Frequency"
-msgstr ""
+msgstr "Frequenza"
 
 #: ../src/main.py:116
 msgid "Double-click on the smiley face to test your settings."
 msgstr ""
+"Clicca due volte sulla faccia sorridente per testare le tue impostazioni."
 
 #: ../src/main.py:118
 msgid "Drag and Drop"
@@ -56,19 +57,19 @@ msgstr ""
 
 #: ../src/main.py:122
 msgid "Relevant Settings"
-msgstr ""
+msgstr "Impostazioni Rilevanti"
 
 #: ../src/main.py:125 ../src/search_keyword.py:31
 msgid "Right-handed"
-msgstr ""
+msgstr "Mano destra"
 
 #: ../src/main.py:126 ../src/search_keyword.py:32
 msgid "Left-handed"
-msgstr ""
+msgstr "Mano sinistra"
 
 #: ../src/main.py:129
 msgid "Keyboard Settings"
-msgstr ""
+msgstr "Impostazioni Tastiera"
 
 #: ../src/main.py:132
 msgid "Mouse Settings"
@@ -76,23 +77,23 @@ msgstr ""
 
 #: ../src/main.py:135
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 #: ../src/main.py:302 ../src/main.py:352
 msgid "Slow"
-msgstr ""
+msgstr "Lento"
 
 #: ../src/main.py:303 ../src/main.py:353
 msgid "Fast"
-msgstr ""
+msgstr "Veloce"
 
 #: ../src/main.py:318
 msgid "Low"
-msgstr ""
+msgstr "Basso"
 
 #: ../src/main.py:319
 msgid "High"
-msgstr ""
+msgstr "Alto"
 
 #: ../src/main.py:395
 msgid "Short"
@@ -104,15 +105,15 @@ msgstr ""
 
 #: ../src/main.py:519
 msgid "Set to right-handed"
-msgstr ""
+msgstr "Imposta su Mano-destra"
 
 #: ../src/main.py:521
 msgid "Set to left-handed"
-msgstr ""
+msgstr "Imposta su Mano-sinistra"
 
 #: ../src/main.py:622
 msgid "Reset to defaults"
-msgstr ""
+msgstr "Resetta ai valori di default"
 
 #: ../src/search_keyword.py:25
 msgid "Touchpad"

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2014-01-02 05:44+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 05:20+0000\n"
 "Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/nl/)\n"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../src/accel_entry.py:56 ../src/accel_entry.py:74 ../src/main.py:772
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 #: ../src/accel_entry.py:67
 #, python-format
@@ -62,7 +62,7 @@ msgstr ""
 
 #: ../src/keybind_all.py:34
 msgid "Launcher"
-msgstr ""
+msgstr "Launcher"
 
 #: ../src/keybind_all.py:35
 msgid "Show desktop"
@@ -122,7 +122,7 @@ msgstr ""
 
 #: ../src/keybind_all.py:59
 msgid "Log out"
-msgstr ""
+msgstr "Uitloggen"
 
 #: ../src/keybind_all.py:60 ../src/main.py:505
 msgid "Sound and Media"
@@ -346,11 +346,11 @@ msgstr ""
 
 #: ../src/main.py:160
 msgid "Reset"
-msgstr ""
+msgstr "Opnieuw instellen"
 
 #: ../src/main.py:208 ../src/main.py:770
 msgid "Replace"
-msgstr ""
+msgstr "Verplaatsen"
 
 #: ../src/main.py:209 ../src/main.py:227
 msgid "Remove"

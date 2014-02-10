@@ -4,13 +4,13 @@
 #
 # Translators:
 # fri <pavelfric@seznam.cz>, 2013
-# fri <pavelfric@seznam.cz>, 2013
+# fri <pavelfric@seznam.cz>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-22 18:49+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-25 22:50+0000\n"
 "Last-Translator: fri <pavelfric@seznam.cz>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/cs/)\n"
@@ -34,11 +34,11 @@ msgstr "Obrazovky"
 
 #: ../dss/constant.py:115
 msgid "Desktop"
-msgstr "Pracovní prostředí"
+msgstr "Pracovní plocha"
 
 #: ../dss/constant.py:116
 msgid "Personalization"
-msgstr "Osobní úpravy"
+msgstr "Přizpůsobení"
 
 #: ../dss/constant.py:117
 msgid "Sound"
@@ -78,7 +78,7 @@ msgstr "Bluetooth"
 
 #: ../dss/constant.py:126
 msgid "Additional Drivers"
-msgstr "Další ovladače"
+msgstr "Dodatečné ovladače"
 
 #: ../dss/constant.py:127
 msgid "User Accounts"

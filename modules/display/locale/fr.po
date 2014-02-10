@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# lexross <its4moi@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-28 02:56+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"Last-Translator: lexross <its4moi@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/fr/)\n"
 "Language: fr\n"
@@ -20,161 +21,161 @@ msgstr ""
 
 #: ../src/display_view.py:240
 msgid "Copy Display"
-msgstr ""
+msgstr "Copier l'affichage"
 
 #: ../src/display_view.py:241
 msgid "Extend Display"
-msgstr ""
+msgstr "Étendre l'affichage"
 
 #: ../src/display_view.py:242
 msgid "Only shown in display 1"
-msgstr ""
+msgstr "Afficher uniquement à l'écran 1"
 
 #: ../src/display_view.py:243
 msgid "Only shown in display 2"
-msgstr ""
+msgstr "Afficher uniquement à l'écran 2"
 
 #: ../src/display_view.py:244
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: ../src/display_view.py:245
 msgid "Right"
-msgstr ""
+msgstr "Droite"
 
 #: ../src/display_view.py:246
 msgid "Left"
-msgstr ""
+msgstr "Gauche"
 
 #: ../src/display_view.py:247
 msgid "Inverted"
-msgstr ""
+msgstr "Inverser"
 
 #: ../src/display_view.py:248
 msgid "Minute"
-msgstr ""
+msgstr "Minute"
 
 #: ../src/display_view.py:249 ../src/display_view.py:250
 #: ../src/display_view.py:251 ../src/display_view.py:252
 #: ../src/display_view.py:253
 msgid "Minutes"
-msgstr ""
+msgstr "minutes"
 
 #: ../src/display_view.py:254
 msgid "Hour"
-msgstr ""
+msgstr "Heure"
 
 #: ../src/display_view.py:255
 msgid "Never"
-msgstr ""
+msgstr "Jamais"
 
 #: ../src/display_view.py:292 ../src/search_keyword.py:29
 msgid "Display"
-msgstr ""
+msgstr "Affichage"
 
 #: ../src/display_view.py:299 ../src/search_keyword.py:30
 msgid "Monitor"
-msgstr ""
+msgstr "Écran"
 
 #: ../src/display_view.py:312
 msgid "Relevant Settings"
-msgstr ""
+msgstr "Paramètres "
 
 #: ../src/display_view.py:318
 #, python-format
 msgid "<span foreground=\"%s\" underline=\"single\">Personalization</span>"
-msgstr ""
+msgstr "<span foreground=\"%s\" underline=\"single\">Personalization</span>"
 
 #: ../src/display_view.py:326
 #, python-format
 msgid "<span foreground=\"%s\" underline=\"single\">Power</span>"
-msgstr ""
+msgstr "<span foreground=\"%s\" underline=\"single\">Power</span>"
 
 #: ../src/display_view.py:344 ../src/search_keyword.py:31
 msgid "Resolution"
-msgstr ""
+msgstr "Résolution"
 
 #: ../src/display_view.py:359 ../src/search_keyword.py:32
 msgid "Rotation"
-msgstr ""
+msgstr "Rotation"
 
 #: ../src/display_view.py:372
 msgid "Multi-Monitor"
-msgstr ""
+msgstr "Moniteurs multiples"
 
 #: ../src/display_view.py:387 ../src/display_view.py:396
 #: ../src/search_keyword.py:33
 msgid "Brightness"
-msgstr ""
+msgstr "Luminosité"
 
 #: ../src/display_view.py:414 ../src/search_keyword.py:34
 msgid "Auto-Brightness"
-msgstr ""
+msgstr "Luminosité automatique"
 
 #: ../src/display_view.py:428 ../src/search_keyword.py:35
 msgid "Turn off monitor"
-msgstr ""
+msgstr "Éteindre l'écran "
 
 #: ../src/display_view.py:441 ../src/display_view.py:462
 #: ../src/search_keyword.py:37
 msgid "Lock Screen"
-msgstr ""
+msgstr "Verrouiller l'écran"
 
 #: ../src/display_view.py:447 ../src/search_keyword.py:36
 msgid "Lock screen automatically"
-msgstr ""
+msgstr "Verrouiller l'écran automatiquement"
 
 #: ../src/display_view.py:513
 msgid "Reset to default value"
-msgstr ""
+msgstr "Réinitialiser à la valeur par défaut"
 
 #: ../src/display_view.py:604
 #, python-format
 msgid "Changed brightness to %d%%"
-msgstr ""
+msgstr "Modification de la luminosité à %d%%"
 
 #: ../src/display_view.py:630
 msgid "Changed to manual adjustment"
-msgstr ""
+msgstr "Basculer vers changements manuels "
 
 #: ../src/display_view.py:633
 msgid "Changed to automatic adjustment"
-msgstr ""
+msgstr "Basculer vers changements automatiques"
 
 #: ../src/display_view.py:639
 msgid "Changed to manual lock"
-msgstr ""
+msgstr "Basculer vers blocage manuel"
 
 #: ../src/display_view.py:642
 msgid "Changed to automatic lock"
-msgstr ""
+msgstr "Basculer vers blocage automatique "
 
 #: ../src/display_view.py:647
 #, python-format
 msgid "Changed current output to %s"
-msgstr ""
+msgstr "Changer la sortie actuelle vers %s"
 
 #: ../src/display_view.py:653
 #, python-format
 msgid "Changed resolution to %s"
-msgstr ""
+msgstr "Changer la résolution à %s"
 
 #: ../src/display_view.py:658
 #, python-format
 msgid "Changed rotation to %s"
-msgstr ""
+msgstr "Changer la rotation à %s"
 
 #: ../src/display_view.py:663
 #, python-format
 msgid "Changed multi-monitor mode to %s"
-msgstr ""
+msgstr "Changer le mode multi-écrans à %s"
 
 #: ../src/display_view.py:668
 #, python-format
 msgid "Idle time before turning off display has been changed to to %s"
-msgstr ""
+msgstr "Temps d'inactivité avant la mise en veille a été changé à %s"
 
 #: ../src/display_view.py:673
 #, python-format
 msgid "Idle time before locking display has been changed to %s"
-msgstr ""
+msgstr "Temps d'inactivité avant l'extinction de l'écran a été changé à %s"

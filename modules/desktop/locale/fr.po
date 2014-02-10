@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# lexross <its4moi@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-28 02:56+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-09 17:52+0000\n"
+"Last-Translator: lexross <its4moi@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/fr/)\n"
 "Language: fr\n"
@@ -20,160 +21,160 @@ msgstr ""
 
 #: ../src/desktop_view.py:70
 msgid "Default Style"
-msgstr ""
+msgstr "Style par défaut"
 
 #: ../src/desktop_view.py:71
 msgid "Auto Hide"
-msgstr ""
+msgstr "Cacher automatiquement"
 
 #: ../src/desktop_view.py:72
 msgid "Invisible"
-msgstr ""
+msgstr "Invisible"
 
 #: ../src/desktop_view.py:73
 msgid "Buttom"
-msgstr ""
+msgstr "Bas"
 
 #: ../src/desktop_view.py:74
 msgid "Top"
-msgstr ""
+msgstr "Haut"
 
 #: ../src/desktop_view.py:75
 msgid "Default Icon"
-msgstr ""
+msgstr "Icône par défaut"
 
 #: ../src/desktop_view.py:76
 msgid "Small"
-msgstr ""
+msgstr "Petit"
 
 #: ../src/desktop_view.py:77 ../src/desktop_view.py:80
 msgid "Nothing"
-msgstr ""
+msgstr "Rien"
 
 #: ../src/desktop_view.py:78
 msgid "Opening Window"
-msgstr ""
+msgstr "Ouvrir la fenêtre "
 
 #: ../src/desktop_view.py:79
 msgid "Launcher"
-msgstr ""
+msgstr "Lanceur "
 
 #: ../src/desktop_view.py:80
 msgid "Maximize"
-msgstr ""
+msgstr "Agrandir"
 
 #: ../src/desktop_view.py:86 ../src/search_keyword.py:29
 msgid "Desktop Icon"
-msgstr ""
+msgstr "Icône du bureau"
 
 #: ../src/desktop_view.py:94
 msgid "Computer"
-msgstr ""
+msgstr "Ordinateur "
 
 #: ../src/desktop_view.py:97
 msgid "Home"
-msgstr ""
+msgstr "Dossier personnel "
 
 #: ../src/desktop_view.py:100
 msgid "Trash"
-msgstr ""
+msgstr "Corbeille"
 
 #: ../src/desktop_view.py:103
 msgid "Software Center"
-msgstr ""
+msgstr "Logithèque "
 
 #: ../src/desktop_view.py:118 ../src/search_keyword.py:30
 msgid "Dock"
-msgstr ""
+msgstr "Dock"
 
 #: ../src/desktop_view.py:124
 msgid "Display Style"
-msgstr ""
+msgstr "Style d'affichage"
 
 #: ../src/desktop_view.py:144
 msgid "Place Style"
-msgstr ""
+msgstr "Style"
 
 #: ../src/desktop_view.py:156
 msgid "Icon Size"
-msgstr ""
+msgstr "Taille des icônes"
 
 #: ../src/desktop_view.py:170
 msgid "Preview"
-msgstr ""
+msgstr "Aperçu"
 
 #: ../src/desktop_view.py:178 ../src/search_keyword.py:31
 msgid "Hot Zone"
-msgstr ""
+msgstr "Zone active"
 
 #: ../src/desktop_view.py:181
 msgid "Top Left"
-msgstr ""
+msgstr "Haut à gauche"
 
 #: ../src/desktop_view.py:200
 msgid "Bottom Right"
-msgstr ""
+msgstr "En bas, à droite"
 
 #: ../src/desktop_view.py:221
 msgid "Top Edge"
-msgstr ""
+msgstr "Bordure supérieure"
 
 #: ../src/desktop_view.py:233
 msgid "Left Edge"
-msgstr ""
+msgstr "Bordure gauche"
 
 #: ../src/desktop_view.py:245
 msgid "Right Edge"
-msgstr ""
+msgstr "Bordure droite"
 
 #: ../src/desktop_view.py:260
 msgid "Login &amp;&amp; Lock"
-msgstr ""
+msgstr "Connexion &amp;&amp; Bloquée"
 
 #: ../src/desktop_view.py:268
 msgid "Login Page"
-msgstr ""
+msgstr "Page de connexion"
 
 #: ../src/desktop_view.py:273 ../src/desktop_view.py:289
 msgid "Select"
-msgstr ""
+msgstr "Choisir"
 
 #: ../src/desktop_view.py:284
 msgid "Lock Page"
-msgstr ""
+msgstr "Verrouiller la page"
 
 #: ../src/desktop_view.py:344
 msgid "Show computer icon"
-msgstr ""
+msgstr "Afficher l'icône de l'ordinateur"
 
 #: ../src/desktop_view.py:346
 msgid "Hide computer icon"
-msgstr ""
+msgstr "Masquer l'icône de l'ordinateur"
 
 #: ../src/desktop_view.py:352
 msgid "Show home icon"
-msgstr ""
+msgstr "Afficher l'icône du dossier personnel"
 
 #: ../src/desktop_view.py:354
 msgid "Hide home icon"
-msgstr ""
+msgstr "Masquer l'icône du dossier personnel"
 
 #: ../src/desktop_view.py:360
 msgid "Show trash icon"
-msgstr ""
+msgstr "Afficher l'icône de la corbeille"
 
 #: ../src/desktop_view.py:362
 msgid "Hide trash icon"
-msgstr ""
+msgstr "Masquer l'icône de la corbeille"
 
 #: ../src/desktop_view.py:368
 msgid "Show deepin software center icon"
-msgstr ""
+msgstr "Afficher l'icône de la logithèque deepin"
 
 #: ../src/desktop_view.py:370
 msgid "Hide deepin software conter icon"
-msgstr ""
+msgstr "Masquer l'icône de la logithèque deepin"
 
 #: ../src/desktop_view.py:468
 msgid "Reset to default value"
-msgstr ""
+msgstr "Réinitialiser à la valeur par défaut"

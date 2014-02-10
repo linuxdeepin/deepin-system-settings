@@ -3,13 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# Mohd <mo-hd@windowslive.com>, 2014
+# sa3paleasm <sa3paleasm@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-30 01:55+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-10 00:30+0000\n"
+"Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
 "Language: ar\n"
@@ -21,161 +23,161 @@ msgstr ""
 
 #: ../src/display_view.py:240
 msgid "Copy Display"
-msgstr ""
+msgstr "نسخ الشاشة"
 
 #: ../src/display_view.py:241
 msgid "Extend Display"
-msgstr ""
+msgstr "توسيع الشاشة"
 
 #: ../src/display_view.py:242
 msgid "Only shown in display 1"
-msgstr ""
+msgstr "أظهر فقط في الشاشة 1"
 
 #: ../src/display_view.py:243
 msgid "Only shown in display 2"
-msgstr ""
+msgstr "أظهر فقط في الشاشة 2"
 
 #: ../src/display_view.py:244
 msgid "Normal"
-msgstr ""
+msgstr "عادي"
 
 #: ../src/display_view.py:245
 msgid "Right"
-msgstr ""
+msgstr "يمين"
 
 #: ../src/display_view.py:246
 msgid "Left"
-msgstr ""
+msgstr "يسار"
 
 #: ../src/display_view.py:247
 msgid "Inverted"
-msgstr ""
+msgstr "مأخوذ"
 
 #: ../src/display_view.py:248
 msgid "Minute"
-msgstr ""
+msgstr "دقيقة"
 
 #: ../src/display_view.py:249 ../src/display_view.py:250
 #: ../src/display_view.py:251 ../src/display_view.py:252
 #: ../src/display_view.py:253
 msgid "Minutes"
-msgstr ""
+msgstr "دقائق"
 
 #: ../src/display_view.py:254
 msgid "Hour"
-msgstr ""
+msgstr "الوقت"
 
 #: ../src/display_view.py:255
 msgid "Never"
-msgstr ""
+msgstr "أبداً"
 
 #: ../src/display_view.py:292 ../src/search_keyword.py:29
 msgid "Display"
-msgstr ""
+msgstr "العرض"
 
 #: ../src/display_view.py:299 ../src/search_keyword.py:30
 msgid "Monitor"
-msgstr ""
+msgstr "الشاشة"
 
 #: ../src/display_view.py:312
 msgid "Relevant Settings"
-msgstr ""
+msgstr "إعدادات ذات صلة"
 
 #: ../src/display_view.py:318
 #, python-format
 msgid "<span foreground=\"%s\" underline=\"single\">Personalization</span>"
-msgstr ""
+msgstr "<span foreground=\"%s\" underline=\"single\">التخصيص</span>"
 
 #: ../src/display_view.py:326
 #, python-format
 msgid "<span foreground=\"%s\" underline=\"single\">Power</span>"
-msgstr ""
+msgstr "<span foreground=\"%s\" underline=\"single\">الطاقة</span>"
 
 #: ../src/display_view.py:344 ../src/search_keyword.py:31
 msgid "Resolution"
-msgstr ""
+msgstr "الأبعاد"
 
 #: ../src/display_view.py:359 ../src/search_keyword.py:32
 msgid "Rotation"
-msgstr ""
+msgstr "دوارن"
 
 #: ../src/display_view.py:372
 msgid "Multi-Monitor"
-msgstr ""
+msgstr "شاشات متعددة"
 
 #: ../src/display_view.py:387 ../src/display_view.py:396
 #: ../src/search_keyword.py:33
 msgid "Brightness"
-msgstr ""
+msgstr "السطوع"
 
 #: ../src/display_view.py:414 ../src/search_keyword.py:34
 msgid "Auto-Brightness"
-msgstr ""
+msgstr "سطوع تلقائي"
 
 #: ../src/display_view.py:428 ../src/search_keyword.py:35
 msgid "Turn off monitor"
-msgstr ""
+msgstr "إغلاق الشاشة"
 
 #: ../src/display_view.py:441 ../src/display_view.py:462
 #: ../src/search_keyword.py:37
 msgid "Lock Screen"
-msgstr ""
+msgstr "قفل الشاشة"
 
 #: ../src/display_view.py:447 ../src/search_keyword.py:36
 msgid "Lock screen automatically"
-msgstr ""
+msgstr "قفل الشاشة بشكل تلقائي"
 
 #: ../src/display_view.py:513
 msgid "Reset to default value"
-msgstr ""
+msgstr "إعادة تعيين إلى القيمة الافتراضية"
 
 #: ../src/display_view.py:604
 #, python-format
 msgid "Changed brightness to %d%%"
-msgstr ""
+msgstr "تغير السطوع الى %d%%"
 
 #: ../src/display_view.py:630
 msgid "Changed to manual adjustment"
-msgstr ""
+msgstr "تم التغيير الى التعديل اليدوي"
 
 #: ../src/display_view.py:633
 msgid "Changed to automatic adjustment"
-msgstr ""
+msgstr "تم التغيير الى التعديل التلقائي"
 
 #: ../src/display_view.py:639
 msgid "Changed to manual lock"
-msgstr ""
+msgstr "تم التغيير الى القفل اليدوي"
 
 #: ../src/display_view.py:642
 msgid "Changed to automatic lock"
-msgstr ""
+msgstr "تم التغيير الى القفل التلقائي"
 
 #: ../src/display_view.py:647
 #, python-format
 msgid "Changed current output to %s"
-msgstr ""
+msgstr "تم تغيير الأنتاج الحالي الى %s"
 
 #: ../src/display_view.py:653
 #, python-format
 msgid "Changed resolution to %s"
-msgstr ""
+msgstr "تم تغيير الأبعاد الى %s"
 
 #: ../src/display_view.py:658
 #, python-format
 msgid "Changed rotation to %s"
-msgstr ""
+msgstr "تم تغيير الدوران الى %s"
 
 #: ../src/display_view.py:663
 #, python-format
 msgid "Changed multi-monitor mode to %s"
-msgstr ""
+msgstr "تم تغيير وضع الشاشات المتعددة الى %s"
 
 #: ../src/display_view.py:668
 #, python-format
 msgid "Idle time before turning off display has been changed to to %s"
-msgstr ""
+msgstr "تم تغيير وضع الخمول قبل إيقاف شاشة العرض الى %s"
 
 #: ../src/display_view.py:673
 #, python-format
 msgid "Idle time before locking display has been changed to %s"
-msgstr ""
+msgstr "تم تغيير وضع الخمول قبل قفل شاشة العرض الى %s"

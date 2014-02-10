@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# evilscorpio <scorpkillerx@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 08:51+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-24 10:10+0000\n"
+"Last-Translator: evilscorpio <scorpkillerx@gmail.com>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ru/)\n"
 "Language: ru\n"
@@ -21,47 +22,47 @@ msgstr ""
 
 #: ../src/tray_power_plugin.py:165 ../src/tray_power_plugin.py:196
 msgid "Fully charged"
-msgstr ""
+msgstr "Полностью заряжена"
 
 #: ../src/tray_power_plugin.py:168
 #, python-format
 msgid "Charging, %s remaining"
-msgstr ""
+msgstr "Заряжается, осталось %s"
 
 #: ../src/tray_power_plugin.py:194
 #, python-format
 msgid "%s remaining"
-msgstr ""
+msgstr "%s осталось"
 
 #: ../src/tray_power_plugin.py:203
 #, python-format
 msgid "Low power(%s%%)"
-msgstr ""
+msgstr "Низкий заряд батареи(%s%%)"
 
 #: ../src/tray_power_plugin.py:204
 msgid "Your battery is running low, please charge!"
-msgstr ""
+msgstr "Заряд низкий, зарядите батарею!"
 
 #: ../src/tray_power_gui.py:45
 msgid "Power"
-msgstr ""
+msgstr "Питание"
 
 #: ../src/tray_power_gui.py:54
 msgid "Balanced"
-msgstr ""
+msgstr "Сбалансированный"
 
 #: ../src/tray_power_gui.py:55
 msgid "Power saver"
-msgstr ""
+msgstr "Экономичный"
 
 #: ../src/tray_power_gui.py:56
 msgid "High performance"
-msgstr ""
+msgstr "Высокая производительность"
 
 #: ../src/tray_power_gui.py:57
 msgid "Custom"
-msgstr ""
+msgstr "Пользовательский"
 
 #: ../src/tray_power_gui.py:72
 msgid "Advanced..."
-msgstr ""
+msgstr "Дополнительно"

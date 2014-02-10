@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# joe_unix <joejsph.19@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-16 08:14+0000\n"
-"Last-Translator: lihongwu <lihongwu1987@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"Last-Translator: joe_unix <joejsph.19@gmail.com>\n"
 "Language-Team: Spanish (Chile) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/es_CL/)\n"
 "Language: es_CL\n"
@@ -40,11 +41,11 @@ msgstr ""
 
 #: ../src/session_view.py:66
 msgid "Delete"
-msgstr ""
+msgstr "Borrar"
 
 #: ../src/app_asso_view.py:61
 msgid "Default Applications"
-msgstr ""
+msgstr "Aplicaciones predeterminadas"
 
 #: ../src/app_asso_view.py:62 ../src/media_view.py:105
 msgid "AutoPlay"
@@ -116,19 +117,19 @@ msgstr ""
 
 #: ../src/app_view.py:45
 msgid "Music"
-msgstr ""
+msgstr "Música"
 
 #: ../src/app_view.py:46
 msgid "Video"
-msgstr ""
+msgstr "Videos"
 
 #: ../src/app_view.py:47
 msgid "Photo"
-msgstr ""
+msgstr "Imágenes"
 
 #: ../src/app_view.py:48
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: ../src/treeview.py:125
 msgid "No exec"
@@ -144,15 +145,15 @@ msgstr ""
 
 #: ../src/widget.py:48
 msgid "OK"
-msgstr ""
+msgstr "Aceptar"
 
 #: ../src/widget.py:49
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: ../src/widget.py:84
 msgid "Name:"
-msgstr ""
+msgstr "Nombre:"
 
 #: ../src/widget.py:86
 msgid "Exec:"

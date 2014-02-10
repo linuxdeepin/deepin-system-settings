@@ -1,0 +1,180 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin System Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-10 02:18+0000\n"
+"Last-Translator: cxbii <mycxbii@gmail.com>\n"
+"Language-Team: Hungarian (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/hu/)\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../src/display_view.py:240
+msgid "Copy Display"
+msgstr ""
+
+#: ../src/display_view.py:241
+msgid "Extend Display"
+msgstr ""
+
+#: ../src/display_view.py:242
+msgid "Only shown in display 1"
+msgstr ""
+
+#: ../src/display_view.py:243
+msgid "Only shown in display 2"
+msgstr ""
+
+#: ../src/display_view.py:244
+msgid "Normal"
+msgstr ""
+
+#: ../src/display_view.py:245
+msgid "Right"
+msgstr ""
+
+#: ../src/display_view.py:246
+msgid "Left"
+msgstr ""
+
+#: ../src/display_view.py:247
+msgid "Inverted"
+msgstr ""
+
+#: ../src/display_view.py:248
+msgid "Minute"
+msgstr ""
+
+#: ../src/display_view.py:249 ../src/display_view.py:250
+#: ../src/display_view.py:251 ../src/display_view.py:252
+#: ../src/display_view.py:253
+msgid "Minutes"
+msgstr ""
+
+#: ../src/display_view.py:254
+msgid "Hour"
+msgstr ""
+
+#: ../src/display_view.py:255
+msgid "Never"
+msgstr ""
+
+#: ../src/display_view.py:292 ../src/search_keyword.py:29
+msgid "Display"
+msgstr ""
+
+#: ../src/display_view.py:299 ../src/search_keyword.py:30
+msgid "Monitor"
+msgstr ""
+
+#: ../src/display_view.py:312
+msgid "Relevant Settings"
+msgstr ""
+
+#: ../src/display_view.py:318
+#, python-format
+msgid "<span foreground=\"%s\" underline=\"single\">Personalization</span>"
+msgstr ""
+
+#: ../src/display_view.py:326
+#, python-format
+msgid "<span foreground=\"%s\" underline=\"single\">Power</span>"
+msgstr ""
+
+#: ../src/display_view.py:344 ../src/search_keyword.py:31
+msgid "Resolution"
+msgstr ""
+
+#: ../src/display_view.py:359 ../src/search_keyword.py:32
+msgid "Rotation"
+msgstr ""
+
+#: ../src/display_view.py:372
+msgid "Multi-Monitor"
+msgstr ""
+
+#: ../src/display_view.py:387 ../src/display_view.py:396
+#: ../src/search_keyword.py:33
+msgid "Brightness"
+msgstr ""
+
+#: ../src/display_view.py:414 ../src/search_keyword.py:34
+msgid "Auto-Brightness"
+msgstr ""
+
+#: ../src/display_view.py:428 ../src/search_keyword.py:35
+msgid "Turn off monitor"
+msgstr ""
+
+#: ../src/display_view.py:441 ../src/display_view.py:462
+#: ../src/search_keyword.py:37
+msgid "Lock Screen"
+msgstr ""
+
+#: ../src/display_view.py:447 ../src/search_keyword.py:36
+msgid "Lock screen automatically"
+msgstr ""
+
+#: ../src/display_view.py:513
+msgid "Reset to default value"
+msgstr ""
+
+#: ../src/display_view.py:604
+#, python-format
+msgid "Changed brightness to %d%%"
+msgstr ""
+
+#: ../src/display_view.py:630
+msgid "Changed to manual adjustment"
+msgstr ""
+
+#: ../src/display_view.py:633
+msgid "Changed to automatic adjustment"
+msgstr ""
+
+#: ../src/display_view.py:639
+msgid "Changed to manual lock"
+msgstr ""
+
+#: ../src/display_view.py:642
+msgid "Changed to automatic lock"
+msgstr ""
+
+#: ../src/display_view.py:647
+#, python-format
+msgid "Changed current output to %s"
+msgstr ""
+
+#: ../src/display_view.py:653
+#, python-format
+msgid "Changed resolution to %s"
+msgstr ""
+
+#: ../src/display_view.py:658
+#, python-format
+msgid "Changed rotation to %s"
+msgstr ""
+
+#: ../src/display_view.py:663
+#, python-format
+msgid "Changed multi-monitor mode to %s"
+msgstr ""
+
+#: ../src/display_view.py:668
+#, python-format
+msgid "Idle time before turning off display has been changed to to %s"
+msgstr ""
+
+#: ../src/display_view.py:673
+#, python-format
+msgid "Idle time before locking display has been changed to %s"
+msgstr ""

@@ -3,13 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# Zyzto <Forever.game.x@gmail.com>, 2014
+# Mohd <mo-hd@windowslive.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-30 01:55+0000\n"
-"Last-Translator: liuwenhuan <liuwenhuan@gmail.com>\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-07 12:50+0000\n"
+"Last-Translator: Zyzto <Forever.game.x@gmail.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
 "Language: ar\n"
@@ -22,37 +24,37 @@ msgstr ""
 #: ../src/tray_mount_gui.py:170 ../src/tray_mount_gui.py:394
 #: ../src/tray_mount_gui.py:410 ../src/tray_mount_gui.py:415
 msgid "Storage Device"
-msgstr ""
+msgstr "جهاز التخزين"
 
 #: ../src/tray_mount_gui.py:395
 #, python-format
 msgid "Mount and open device \"%s\"?"
-msgstr ""
+msgstr "فتح وتركيب جهاز %s ؟"
 
 #: ../src/tray_mount_gui.py:410
 #, python-format
 msgid "Removable media \"%s\" has been removed"
-msgstr ""
+msgstr "الجهاز الخارجي \"%s\" تم إزالته"
 
 #: ../src/tray_mount_gui.py:415
 #, python-format
 msgid "Found new removable media \"%s\""
-msgstr ""
+msgstr "تم إيجاد جهاز خارجي \"%s\""
 
 #: ../src/tray_mount_plugin.py:64
 msgid "Mount Failed"
-msgstr ""
+msgstr "فشل التثبيت"
 
 #: ../src/tray_mount_plugin.py:65
 #, python-format
 msgid "Mount '%s' error."
-msgstr ""
+msgstr "خطأ في إدخال '%s'"
 
 #: ../src/tray_mount_plugin.py:68
 msgid "Unmount Failed"
-msgstr ""
+msgstr "فشل إزالة تثبيت"
 
 #: ../src/tray_mount_plugin.py:70
 #, python-format
 msgid "Unmount '%s' error. Please unmount it in file manager"
-msgstr ""
+msgstr "خطأ في إخراج '%s' . الرجاء إخراجه من مدير الملفات"

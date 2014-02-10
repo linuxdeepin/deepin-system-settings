@@ -4,12 +4,13 @@
 #
 # Translators:
 # fri <pavelfric@seznam.cz>, 2013
+# fri <pavelfric@seznam.cz>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-21 23:06+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-01-25 23:30+0000\n"
 "Last-Translator: fri <pavelfric@seznam.cz>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/cs/)\n"
@@ -27,7 +28,7 @@ msgstr "Ukládací zařízení"
 #: ../src/tray_mount_gui.py:395
 #, python-format
 msgid "Mount and open device \"%s\"?"
-msgstr "Připojit a otevřít zařízení (médium) \"%s\"?"
+msgstr "Připojit a otevřít zařízení \"%s\"?"
 
 #: ../src/tray_mount_gui.py:410
 #, python-format
@@ -37,7 +38,7 @@ msgstr "Odstranitelné zařízení \"%s\" bylo odstraněno"
 #: ../src/tray_mount_gui.py:415
 #, python-format
 msgid "Found new removable media \"%s\""
-msgstr "Nalezeno nové odstranitelné zařízení (médium) \"%s\""
+msgstr "Nalezeno nové odstranitelné zařízení \"%s\""
 
 #: ../src/tray_mount_plugin.py:64
 msgid "Mount Failed"

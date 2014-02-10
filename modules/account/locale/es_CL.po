@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 13:03+0800\n"
-"PO-Revision-Date: 2013-12-17 03:36+0000\n"
+"POT-Creation-Date: 2014-02-10 14:20+0800\n"
+"PO-Revision-Date: 2014-02-08 03:50+0000\n"
 "Last-Translator: gamjachib <drios9420@gmail.com>\n"
 "Language-Team: Spanish (Chile) (http://www.transifex.com/projects/p/deepin-"
 "system-settings/language/es_CL/)\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../src/face_record_page.py:79
 msgid "Start"
-msgstr ""
+msgstr "Iniciar"
 
 #: ../src/face_record_page.py:83
 msgid "Please plug in or enable your camera"
