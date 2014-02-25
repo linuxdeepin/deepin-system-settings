@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
-# 648trindade <rafaelgt.mbin@gmail.com>, 2013
+# 648trindade <rafaelgt.mbin@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-24 11:29+0000\n"
 "Last-Translator: 648trindade <rafaelgt.mbin@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/pt_BR/)\n"
@@ -96,7 +96,7 @@ msgstr "Quando eu fecho a tampa"
 
 #: ../src/power_view.py:107 ../src/search_keyword.py:33
 msgid "Power Saving Settings"
-msgstr ""
+msgstr "Configurações de Economia de Energia"
 
 #: ../src/power_view.py:113
 msgid "Power Plan"
@@ -112,56 +112,56 @@ msgstr "Energia da bateria restante"
 
 #: ../src/power_view.py:166 ../src/search_keyword.py:37
 msgid "Require password when computer wakes"
-msgstr ""
+msgstr "Requisitar senha quando a sessão é restaurada"
 
 #: ../src/power_view.py:189 ../src/search_keyword.py:38
 msgid "Always show icon in the tray"
-msgstr ""
+msgstr "Sempre mostrar o ícone na barra"
 
 #: ../src/power_view.py:317
 msgid "Power plan has been reset to Balanced"
-msgstr ""
+msgstr "Plano de Energia foi redefinido para Balanceado"
 
 #: ../src/power_view.py:374
 #, python-format
 msgid "%s when pressing the power button"
-msgstr ""
+msgstr "%s quando pressionado o botão de energia"
 
 #: ../src/power_view.py:379
 #, python-format
 msgid "%s when closing the lid"
-msgstr ""
+msgstr "%s quando fechado a tampa"
 
 #: ../src/power_view.py:384
 #, python-format
 msgid "Power plan has been changed to %s"
-msgstr ""
+msgstr "Plano de energia foi redefinido para %s"
 
 #: ../src/power_view.py:389
 #, python-format
 msgid "Changed Suspend Status to %s"
-msgstr ""
+msgstr "Status de Suspensão alterado para %s"
 
 #: ../src/power_view.py:397
 #, python-format
 msgid "The time before turning off monitor has been changed to %s"
-msgstr ""
+msgstr "O tempo antes de desligar o monitor foi alterado para %s"
 
 #: ../src/power_view.py:407
 msgid "You will be asked for a password when computer wakes"
-msgstr ""
+msgstr "Será requisitada uma senha quando a sessão for restaurada"
 
 #: ../src/power_view.py:409
 msgid "The system will not requrie a password after sleep"
-msgstr ""
+msgstr "O sistema não pedirá uma senha depois de suspenso"
 
 #: ../src/power_view.py:416
 msgid "Battery status will be shown in the tray"
-msgstr ""
+msgstr "Status da bateria será exibido na barra"
 
 #: ../src/power_view.py:418
 msgid "Battery status will not be shown in the tray"
-msgstr ""
+msgstr "Status da bateria não será exibido na barra"
 
 #: ../src/tray_shutdown_plugin.py:53
 #, python-format
@@ -197,6 +197,10 @@ msgid ""
 "\n"
 "The system will suspend in %s seconds."
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Suspender</span> seu computador agora?\n"
+"\n"
+"O sistema será suspenso em %s segundos."
 
 #: ../src/tray_shutdown_plugin.py:62
 #, python-format
@@ -206,12 +210,18 @@ msgid ""
 "\n"
 "You will be automatically logged out in %s seconds."
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Sair</span> do seu sistema agora?\n"
+"\n"
+"Você sairá automaticamente em %s segundos."
 
 #: ../src/tray_shutdown_plugin.py:65
 msgid ""
 "\n"
 "<span foreground='#cc5744'>A program is still running:</span>"
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>Um programa ainda está em execução:</span>"
 
 #: ../src/tray_shutdown_plugin.py:66
 #, python-format
@@ -219,18 +229,24 @@ msgid ""
 "\n"
 "<span foreground='#cc5744'>%s programs are still running:</span>"
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>%s programas ainda estão em execução:</span>"
 
 #: ../src/tray_shutdown_plugin.py:67
 msgid ""
 "Waiting for applications to terminate. Interrupting these may cause "
 "unexpected results."
 msgstr ""
+"Esperando pela finalização das aplicações. Interrompê-las pode causar "
+"resultados inesperados."
 
 #: ../src/tray_shutdown_plugin.py:74
 msgid ""
 "\n"
 "<span foreground='#cc5744'>The Software Center is still running.</span>"
 msgstr ""
+"\n"
+"<span foreground='#cc5744'>O Software Center ainda está em execução.</span>"
 
 #: ../src/tray_shutdown_plugin.py:84
 msgid ""
@@ -240,6 +256,11 @@ msgid ""
 "you install Linux Deepin on your hard disk to get the best experience "
 "possible."
 msgstr ""
+"\n"
+"Nós detectamos que o sistema está rodando em uma <span "
+"foreground='#cc5744'>máquina virtual</span>. é fortemente recomendado que "
+"você instale Linux Deepin no seu disco rígido para obter a melhor "
+"experiência possível."
 
 #: ../src/tray_shutdown_plugin.py:108
 msgid "Force shut down"

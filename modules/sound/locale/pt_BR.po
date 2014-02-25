@@ -4,14 +4,14 @@
 #
 # Translators:
 # 648trindade <rafaelgt.mbin@gmail.com>, 2013
-# 648trindade <rafaelgt.mbin@gmail.com>, 2013
+# 648trindade <rafaelgt.mbin@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-01-02 05:45+0000\n"
-"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-24 11:29+0000\n"
+"Last-Translator: 648trindade <rafaelgt.mbin@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/pt_BR/)\n"
 "Language: pt_BR\n"
@@ -50,7 +50,7 @@ msgstr "Volume de Saída"
 
 #: ../src/main.py:105 ../src/main.py:117
 msgid "Enable Sound"
-msgstr ""
+msgstr "Ativar Som"
 
 #: ../src/main.py:108 ../src/main.py:514 ../src/main.py:518 ../src/main.py:781
 #: ../src/main.py:784 ../src/main_full.py:95 ../src/main_full.py:450

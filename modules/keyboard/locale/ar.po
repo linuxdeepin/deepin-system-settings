@@ -10,9 +10,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-09 21:20+0000\n"
-"Last-Translator: sa3paleasm <sa3paleasm@gmail.com>\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-16 01:12+0000\n"
+"Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
 "Language: ar\n"
@@ -29,7 +29,7 @@ msgid ""
 "using this key."
 msgstr ""
 "الأختصار \"%s\" لايمكن استخدامه لانه سيبصح من المستحيل الكتابة بإستخدام هذا "
-"المفتاح"
+"المفتاح."
 
 #: ../src/accel_entry.py:53
 msgid "Please try with a key such as Control, Alt or Shift at the same time."
@@ -48,7 +48,7 @@ msgstr "هذا المفتاح \"%s\" مستخدم بالفعل لأجل \"%s\""
 #, python-format
 msgid ""
 "If you reassign the shortcut to \"%s\", the \"%s\" shortcut will be disabled."
-msgstr "اذا ضبط المفتاح إلى \"%s\",الاختصار \"%s\" سوف يتوقف"
+msgstr "اذا ضبط المفتاح إلى \"%s\",الاختصار \"%s\" سيتم الغائه."
 
 #: ../src/accel_entry.py:73
 msgid "Reassign"
@@ -224,71 +224,71 @@ msgstr "تفعيل قائمة النافذة"
 
 #: ../src/keybind_all.py:83 ../src/main.py:507
 msgid "Workspace"
-msgstr "منطقة عمل"
+msgstr "ورشة العمل"
 
 #: ../src/keybind_all.py:84
 msgid "Switch to workspace 1"
-msgstr "الأنتقال الى منطقة عمل 1"
+msgstr "الأنتقال الى ورشة العمل 1"
 
 #: ../src/keybind_all.py:85
 msgid "Switch to workspace 2"
-msgstr "الأنتقال الى منطقة عمل 2"
+msgstr "الأنتقال الى ورشة العمل 2"
 
 #: ../src/keybind_all.py:86
 msgid "Switch to workspace 3"
-msgstr "الأنتقال الى منطقة عمل 3"
+msgstr "الأنتقال الى ورشة العمل 3"
 
 #: ../src/keybind_all.py:87
 msgid "Switch to workspace 4"
-msgstr "الأنتقال الى منطقة عمل 4"
+msgstr "الأنتقال الى ورشة العمل 4"
 
 #: ../src/keybind_all.py:88
 msgid "Switch to workspace left"
-msgstr "الأنتقال الى منطقة عمل في جهة اليسار"
+msgstr "الأنتقال الى ورشة العمل في جهة اليسار"
 
 #: ../src/keybind_all.py:89
 msgid "Switch to workspace right"
-msgstr "الأنتقال الى منطقة عمل في جهة اليمين"
+msgstr "الأنتقال الى ورشة العمل في جهة اليمين"
 
 #: ../src/keybind_all.py:90
 msgid "Switch to workspace above"
-msgstr "الأنتقال الى منطقة عمل في الأعلى"
+msgstr "الأنتقال الى ورشة العمل في الأعلى"
 
 #: ../src/keybind_all.py:91
 msgid "Switch to workspace below"
-msgstr "الأنتقال الى منطقة عمل في الأسفل"
+msgstr "الأنتقال الى ورشة العمل في الأسفل"
 
 #: ../src/keybind_all.py:92
 msgid "Move window to workspace 1"
-msgstr "نقل النافذة الى منطقة عمل 1"
+msgstr "نقل النافذة الى ورشة العمل 1"
 
 #: ../src/keybind_all.py:93
 msgid "Move window to workspace 2"
-msgstr "نقل النافذة الى منطقة عمل 2"
+msgstr "نقل النافذة الى ورشة العمل 2"
 
 #: ../src/keybind_all.py:94
 msgid "Move window to workspace 3"
-msgstr "نقل النافذة الى منطقة عمل 3"
+msgstr "نقل النافذة الى ورشة العمل 3"
 
 #: ../src/keybind_all.py:95
 msgid "Move window to workspace 4"
-msgstr "نقل النافذة الى منطقة عمل 4"
+msgstr "نقل النافذة الى ورشة العمل 4"
 
 #: ../src/keybind_all.py:100
 msgid "Move window one workspace to the left"
-msgstr "نقل النافذة الأولى الى منطقة عمل في جهة اليسار"
+msgstr "نقل النافذة الأولى الى ورشة العمل في جهة اليسار"
 
 #: ../src/keybind_all.py:101
 msgid "Move window one workspace to the right"
-msgstr "نقل النافذة الأولى الى منطقة عمل في جهة اليمين"
+msgstr "نقل النافذة الأولى الى ورشة العمل في جهة اليمين"
 
 #: ../src/keybind_all.py:102
 msgid "Move window one workspace up"
-msgstr "نقل النافذة الأولى الى منطقة عمل في الأعلى"
+msgstr "نقل النافذة الأولى الى ورشة العمل في الأعلى"
 
 #: ../src/keybind_all.py:103
 msgid "Move window one workspace down"
-msgstr "نقل النافذة الأولى الى منطقة عمل في الأسفل"
+msgstr "نقل النافذة الأولى الى ورشة العمل في الأسفل"
 
 #: ../src/main.py:78 ../src/main.py:508 ../src/main.py:914
 msgid "Custom Shortcuts"

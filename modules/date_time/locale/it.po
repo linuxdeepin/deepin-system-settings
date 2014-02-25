@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# Gianmario Nava <gianmario.nava@gmail.com>, 2014
 # Arreyu <massi_gi@hotmail.it>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-08 03:50+0000\n"
-"Last-Translator: Arreyu <massi_gi@hotmail.it>\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-19 21:40+0000\n"
+"Last-Translator: Gianmario Nava <gianmario.nava@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/it/)\n"
 "Language: it\n"
@@ -57,7 +58,7 @@ msgstr "(UTC-03:00)Groenlandia, Brasilia, Fortaleza"
 
 #: ../src/date_time_view.py:139
 msgid "(UTC-02:00)Mid-Atlantic"
-msgstr ""
+msgstr "(UTC-02:00)Atlantico medio"
 
 #: ../src/date_time_view.py:140
 msgid "(UTC-01:00)Cape Verde Islands, Azores"
@@ -149,7 +150,7 @@ msgstr "Orario Attuale: %s %02d:%02d:%02d (%d Ora)"
 
 #: ../src/date_time_view.py:268
 msgid "NTP"
-msgstr ""
+msgstr "NTP"
 
 #: ../src/date_time_view.py:285
 msgid "Set Time"

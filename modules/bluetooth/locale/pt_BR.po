@@ -4,13 +4,13 @@
 #
 # Translators:
 # 648trindade <rafaelgt.mbin@gmail.com>, 2013
-# 648trindade <rafaelgt.mbin@gmail.com>, 2013
+# 648trindade <rafaelgt.mbin@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2013-12-27 18:55+0000\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-24 11:28+0000\n"
 "Last-Translator: 648trindade <rafaelgt.mbin@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/pt_BR/)\n"
@@ -62,7 +62,7 @@ msgstr "Fones de Ouvido"
 
 #: ../src/bluetooth_view.py:311 ../src/bluetooth_view.py:313
 msgid "Audio Sink"
-msgstr ""
+msgstr "Áudio Sink"
 
 #: ../src/bluetooth_view.py:319 ../src/bluetooth_view.py:321
 msgid "Input Service"

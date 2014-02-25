@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-10 01:00+0000\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-16 01:20+0000\n"
 "Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
@@ -187,12 +187,12 @@ msgstr "الغاء الدخول التلقائي لـ %s"
 #: ../src/main.py:586
 #, python-format
 msgid "Enabled passwordless login for %s"
-msgstr "الغاء الدخول التلقائي لـ %s"
+msgstr "Enabled passwordless login for %s"
 
 #: ../src/main.py:593
 #, python-format
 msgid "Disabled passwordless login for %s"
-msgstr "الغاء الدخول التلقائي لـ %s"
+msgstr "Disabled passwordless login for %s"
 
 #: ../src/main.py:609
 #, python-format
@@ -221,7 +221,7 @@ msgstr "أسم المستخدم غير صالح"
 msgid ""
 "User names can only consist of letters, numbers, underscores and begin with "
 "a letter"
-msgstr "أسم المستخدم يجب أن يبدأ بحرف ويتألف من حروف ، أرقام و حروف صغير.  "
+msgstr "أسم المستخدم يجب أن يبدأ بحرف ويتألف من حروف ، أرقام و حروف صغير"
 
 #: ../src/main.py:699
 #, python-format
@@ -231,7 +231,7 @@ msgstr "%s تم حذفه"
 #: ../src/main.py:716
 #, python-format
 msgid "Do you want to keep <u>%s</u>'s files?"
-msgstr "هل تريد الأحتفاظ بملفات <u>%s</u> ?"
+msgstr "هل تريد الأحتفاظ بملفات <u>%s</u> ؟"
 
 #: ../src/main.py:744 ../src/main.py:1184
 msgid "Account disabled"
@@ -301,7 +301,7 @@ msgstr "سجل الوجه"
 
 #: ../src/main.py:1355
 msgid "Error:"
-msgstr ": خطأ"
+msgstr "خطأ :"
 
 #: ../src/set_icon_page.py:127 ../src/set_icon_page.py:129
 msgid "Local picture"

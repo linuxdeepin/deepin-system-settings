@@ -4,12 +4,13 @@
 #
 # Translators:
 # 648trindade <rafaelgt.mbin@gmail.com>, 2013
+# 648trindade <rafaelgt.mbin@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-24 11:28+0000\n"
 "Last-Translator: 648trindade <rafaelgt.mbin@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/pt_BR/)\n"
@@ -49,7 +50,7 @@ msgstr "Aplicativos Padrão"
 
 #: ../src/app_asso_view.py:62 ../src/media_view.py:105
 msgid "AutoPlay"
-msgstr ""
+msgstr "AutoExecutar"
 
 #: ../src/app_asso_view.py:63 ../src/search_keyword.py:31
 msgid "Autostart"

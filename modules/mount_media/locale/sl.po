@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# kloki <klokimass@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin System Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-24 22:20+0000\n"
+"Last-Translator: kloki <klokimass@gmail.com>\n"
+"Language-Team: Slovenian (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/sl/)\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+
+#: ../src/tray_mount_gui.py:170 ../src/tray_mount_gui.py:394
+#: ../src/tray_mount_gui.py:410 ../src/tray_mount_gui.py:415
+msgid "Storage Device"
+msgstr "Naprava za shranjevanje"
+
+#: ../src/tray_mount_gui.py:395
+#, python-format
+msgid "Mount and open device \"%s\"?"
+msgstr "Priklopim in odprem napravo \"%s\"?"
+
+#: ../src/tray_mount_gui.py:410
+#, python-format
+msgid "Removable media \"%s\" has been removed"
+msgstr "Removable media \"%s\" has been removed"
+
+#: ../src/tray_mount_gui.py:415
+#, python-format
+msgid "Found new removable media \"%s\""
+msgstr "Najdeni novi odstranljivi mediji \"%s\""
+
+#: ../src/tray_mount_plugin.py:64
+msgid "Mount Failed"
+msgstr "Priklapljanje ni upelo"
+
+#: ../src/tray_mount_plugin.py:65
+#, python-format
+msgid "Mount '%s' error."
+msgstr "Napaka pri priklapljanju '%s'."
+
+#: ../src/tray_mount_plugin.py:68
+msgid "Unmount Failed"
+msgstr "Odklapljanje ni uspelo"
+
+#: ../src/tray_mount_plugin.py:70
+#, python-format
+msgid "Unmount '%s' error. Please unmount it in file manager"
+msgstr ""
+"Napaka pri odklapljanju '%s'. Prosim, da napravo odklopite v upravitelju "
+"datotek."

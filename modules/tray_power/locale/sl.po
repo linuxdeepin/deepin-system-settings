@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# kloki <klokimass@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin System Settings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-24 22:10+0000\n"
+"Last-Translator: kloki <klokimass@gmail.com>\n"
+"Language-Team: Slovenian (http://www.transifex.com/projects/p/deepin-system-"
+"settings/language/sl/)\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+
+#: ../src/tray_power_plugin.py:165 ../src/tray_power_plugin.py:196
+msgid "Fully charged"
+msgstr "Popolnoma napolnjen"
+
+#: ../src/tray_power_plugin.py:168
+#, python-format
+msgid "Charging, %s remaining"
+msgstr "Polnenje, preostali čas %s"
+
+#: ../src/tray_power_plugin.py:194
+#, python-format
+msgid "%s remaining"
+msgstr "Preostali čas %s"
+
+#: ../src/tray_power_plugin.py:203
+#, python-format
+msgid "Low power(%s%%)"
+msgstr "Prazen akumulator(%s%%)"
+
+#: ../src/tray_power_plugin.py:204
+msgid "Your battery is running low, please charge!"
+msgstr "Akumulator je skoraj prazen, prosim napolni!"
+
+#: ../src/tray_power_gui.py:45
+msgid "Power"
+msgstr "Napajanje"
+
+#: ../src/tray_power_gui.py:54
+msgid "Balanced"
+msgstr "Uravnoteženo"
+
+#: ../src/tray_power_gui.py:55
+msgid "Power saver"
+msgstr "Varčevanje z energijo"
+
+#: ../src/tray_power_gui.py:56
+msgid "High performance"
+msgstr "Visoka zmogljivost"
+
+#: ../src/tray_power_gui.py:57
+msgid "Custom"
+msgstr "Po meri"
+
+#: ../src/tray_power_gui.py:72
+msgid "Advanced..."
+msgstr "Napredno..."

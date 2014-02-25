@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-24 11:29+0000\n"
 "Last-Translator: 648trindade <rafaelgt.mbin@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/pt_BR/)\n"
@@ -229,7 +229,7 @@ msgstr "Enviar pacotes PPP echo"
 
 #: ../src/ipsettings.py:51 ../src/ipsettings.py:322
 msgid "Link-Local Only"
-msgstr ""
+msgstr "Apenas Link-Local"
 
 #: ../src/ipsettings.py:53 ../src/ipsettings.py:323
 msgid "Automatic IP address"
@@ -466,7 +466,7 @@ msgstr "ID do Gateway:"
 
 #: ../src/vpn_config.py:470
 msgid "Pre_Shared_key"
-msgstr ""
+msgstr "Pre_Shared_key"
 
 #: ../src/wlan_config.py:231
 msgid "Security"

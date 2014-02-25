@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-10 03:29+0000\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-17 07:51+0000\n"
 "Last-Translator: cxbii <mycxbii@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ro/)\n"
@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../src/accel_entry.py:56 ../src/accel_entry.py:74 ../src/main.py:772
 msgid "Cancel"
-msgstr ""
+msgstr "Anulare"
 
 #: ../src/accel_entry.py:67
 #, python-format
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../src/keybind_all.py:34
 msgid "Launcher"
-msgstr ""
+msgstr "Lansator"
 
 #: ../src/keybind_all.py:35
 msgid "Show desktop"
@@ -123,7 +123,7 @@ msgstr ""
 
 #: ../src/keybind_all.py:59
 msgid "Log out"
-msgstr ""
+msgstr "Ieșire"
 
 #: ../src/keybind_all.py:60 ../src/main.py:505
 msgid "Sound and Media"
@@ -347,11 +347,11 @@ msgstr ""
 
 #: ../src/main.py:160
 msgid "Reset"
-msgstr ""
+msgstr "Reinițializare"
 
 #: ../src/main.py:208 ../src/main.py:770
 msgid "Replace"
-msgstr ""
+msgstr "Înlocuiește"
 
 #: ../src/main.py:209 ../src/main.py:227
 msgid "Remove"

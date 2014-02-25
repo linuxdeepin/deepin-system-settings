@@ -9,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-08 20:20+0000\n"
-"Last-Translator: sa3paleasm <sa3paleasm@gmail.com>\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-16 00:50+0000\n"
+"Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
 "Language: ar\n"
@@ -27,7 +27,7 @@ msgstr "(UTC-11:00)ساموا"
 
 #: ../src/date_time_view.py:131
 msgid "(UTC-10:00)Hawaii"
-msgstr "(UTC-10:00)هاواى"
+msgstr "(UTC-10:00)هاواي"
 
 #: ../src/date_time_view.py:132
 msgid "(UTC-09:00)Alaska"
@@ -125,7 +125,7 @@ msgstr "التقويم"
 #: ../src/date_time_view.py:440
 #, python-format
 msgid "Current Date: %d-%d-%d"
-msgstr "التاريخ الحالي: %d-%d-%d"
+msgstr "التاريخ الحالي : %d-%d-%d"
 
 #: ../src/date_time_view.py:195
 msgid "Change Date"
@@ -147,7 +147,7 @@ msgstr "الوقت"
 #: ../src/date_time_view.py:404
 #, python-format
 msgid "Current Time: %s %02d:%02d:%02d (%d Hour)"
-msgstr "الوقت الحالي: %s %02d:%02d:%02d (%d ساعة)"
+msgstr "الوقت الحالي : %s %02d:%02d:%02d (%d ساعة)"
 
 #: ../src/date_time_view.py:268
 msgid "NTP"

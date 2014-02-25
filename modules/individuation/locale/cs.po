@@ -9,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-08 03:50+0000\n"
-"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-14 23:00+0000\n"
+"Last-Translator: fri <pavelfric@seznam.cz>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/cs/)\n"
 "Language: cs\n"
@@ -30,7 +30,7 @@ msgstr "Bez názvu"
 
 #: ../src/main.py:81
 msgid "Image files"
-msgstr ""
+msgstr "Obrázkové soubory"
 
 #: ../src/search_keyword.py:29
 msgid "Personalization"
@@ -115,11 +115,11 @@ msgstr "Stáhnout vše"
 
 #: ../src/ui/local_page.py:46
 msgid "My Favorites"
-msgstr ""
+msgstr "Moje oblíbené"
 
 #: ../src/ui/local_page.py:47
 msgid "Local Wallpapers"
-msgstr ""
+msgstr "Místní pozadí plochy"
 
 #: ../src/ui/detail_page.py:37
 msgid "Minute"
@@ -165,11 +165,11 @@ msgstr "Použít pozadí plochy"
 
 #: ../src/ui/select_page.py:75
 msgid "Your Local Pictures folder is empty"
-msgstr ""
+msgstr "Složka s vašimi místními obrázky je prázdná"
 
 #: ../src/ui/select_page.py:81 ../src/ui/select_page.py:225
 msgid "Set as wallpaper"
-msgstr ""
+msgstr "Nastavit jako pozadí plochy"
 
 #: ../src/ui/select_page.py:84
 msgid "Add to Favorites"
@@ -178,50 +178,50 @@ msgstr "Přidat do oblíbených"
 #: ../src/ui/select_page.py:118 ../src/ui/select_page.py:258
 #, python-format
 msgid "%s pictures are set as wallpaper"
-msgstr ""
+msgstr "%s obrázků je nastaveno jako pozadí plochy"
 
 #: ../src/ui/select_page.py:120 ../src/ui/select_page.py:260
 #, python-format
 msgid "%s picture is set as wallpaper"
-msgstr ""
+msgstr "%s obrázek je nastaven jako pozadí plochy"
 
 #: ../src/ui/select_page.py:147
 #, python-format
 msgid "add %s pictures to Favorites"
-msgstr ""
+msgstr "Přidat %s obrázků do oblíbených"
 
 #: ../src/ui/select_page.py:149
 #, python-format
 msgid "add %s picture to Favorites"
-msgstr ""
+msgstr "Přidat %s obrázek do oblíbených"
 
 #: ../src/ui/select_page.py:157 ../src/ui/select_page.py:287
 #, python-format
 msgid "delete %s pictures"
-msgstr ""
+msgstr "Smazat %s obrázků"
 
 #: ../src/ui/select_page.py:159 ../src/ui/select_page.py:289
 #, python-format
 msgid "delete %s picture"
-msgstr ""
+msgstr "Smazat %s obrázek"
 
 #: ../src/ui/select_page.py:180 ../src/ui/select_page.py:310
 #, python-format
 msgid "choose %s pictures"
-msgstr ""
+msgstr "Vybrat %s obrázků"
 
 #: ../src/ui/select_page.py:182 ../src/ui/select_page.py:312
 #, python-format
 msgid "choose %s picture"
-msgstr ""
+msgstr "Vybrat %s obrázek"
 
 #: ../src/ui/select_page.py:211
 msgid "Your Favorites folder is empty."
-msgstr ""
+msgstr "Složka s vašimi oblíbenými obrázky je prázdná."
 
 #: ../src/ui/select_page.py:214
 msgid "Add from Local Pictures"
-msgstr ""
+msgstr "Přidat z místních obrázků"
 
 #: ../src/ui/theme_view.py:97 ../src/ui/theme_view.py:114
 #, python-format

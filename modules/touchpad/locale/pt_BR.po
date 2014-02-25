@@ -4,13 +4,14 @@
 #
 # Translators:
 # 648trindade <rafaelgt.mbin@gmail.com>, 2013
+# 648trindade <rafaelgt.mbin@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-01-24 05:20+0000\n"
-"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-24 11:29+0000\n"
+"Last-Translator: 648trindade <rafaelgt.mbin@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/pt_BR/)\n"
 "Language: pt_BR\n"
@@ -53,7 +54,7 @@ msgstr "Arrastar e Soltar"
 
 #: ../src/main.py:119 ../src/search_keyword.py:33
 msgid "Drag threshold"
-msgstr ""
+msgstr "Arrastar limite"
 
 #: ../src/main.py:122
 msgid "Relevant Settings"

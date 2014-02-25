@@ -4,13 +4,14 @@
 #
 # Translators:
 # 648trindade <rafaelgt.mbin@gmail.com>, 2013
+# 648trindade <rafaelgt.mbin@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-08 03:50+0000\n"
-"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-24 11:29+0000\n"
+"Last-Translator: 648trindade <rafaelgt.mbin@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/"
 "deepin-system-settings/language/pt_BR/)\n"
 "Language: pt_BR\n"
@@ -29,7 +30,7 @@ msgstr "Sem título"
 
 #: ../src/main.py:81
 msgid "Image files"
-msgstr ""
+msgstr "Arquivos de imagem"
 
 #: ../src/search_keyword.py:29
 msgid "Personalization"
@@ -69,11 +70,11 @@ msgstr "Favoritos"
 
 #: ../src/ui/add_page.py:87 ../src/ui/local_page.py:98
 msgid "360 Wallpaper"
-msgstr ""
+msgstr "360 Wallpaper"
 
 #: ../src/ui/add_page.py:88 ../src/ui/local_page.py:99
 msgid "LoveWallpaper"
-msgstr ""
+msgstr "LoveWallpaper"
 
 #: ../src/ui/delete_page.py:55 ../src/ui/cache_page.py:131
 msgid "Back"
@@ -114,11 +115,11 @@ msgstr "Baixar Tudo"
 
 #: ../src/ui/local_page.py:46
 msgid "My Favorites"
-msgstr ""
+msgstr "Meus Favoritos"
 
 #: ../src/ui/local_page.py:47
 msgid "Local Wallpapers"
-msgstr ""
+msgstr "Wallpapers Locais"
 
 #: ../src/ui/detail_page.py:37
 msgid "Minute"
@@ -144,7 +145,7 @@ msgstr "Estender"
 
 #: ../src/ui/detail_page.py:46
 msgid "Tile"
-msgstr ""
+msgstr "Azulejo"
 
 #: ../src/ui/detail_page.py:70
 msgid "Position"
@@ -164,11 +165,11 @@ msgstr "Aplicar Papel de parede"
 
 #: ../src/ui/select_page.py:75
 msgid "Your Local Pictures folder is empty"
-msgstr ""
+msgstr "Sua pasta de fotos local está vazia"
 
 #: ../src/ui/select_page.py:81 ../src/ui/select_page.py:225
 msgid "Set as wallpaper"
-msgstr ""
+msgstr "Definir como papel de parede"
 
 #: ../src/ui/select_page.py:84
 msgid "Add to Favorites"
@@ -177,50 +178,50 @@ msgstr "Adicionar aos Favoritos"
 #: ../src/ui/select_page.py:118 ../src/ui/select_page.py:258
 #, python-format
 msgid "%s pictures are set as wallpaper"
-msgstr ""
+msgstr "%s imagens definidas como papéis de parede"
 
 #: ../src/ui/select_page.py:120 ../src/ui/select_page.py:260
 #, python-format
 msgid "%s picture is set as wallpaper"
-msgstr ""
+msgstr "%s imagem definida como papel de parede"
 
 #: ../src/ui/select_page.py:147
 #, python-format
 msgid "add %s pictures to Favorites"
-msgstr ""
+msgstr "adicionar %s imagens aos Favoritos"
 
 #: ../src/ui/select_page.py:149
 #, python-format
 msgid "add %s picture to Favorites"
-msgstr ""
+msgstr "adicionar %s imagem aos Favoritos"
 
 #: ../src/ui/select_page.py:157 ../src/ui/select_page.py:287
 #, python-format
 msgid "delete %s pictures"
-msgstr ""
+msgstr "excluir %s imagens"
 
 #: ../src/ui/select_page.py:159 ../src/ui/select_page.py:289
 #, python-format
 msgid "delete %s picture"
-msgstr ""
+msgstr "excluir %s imagem"
 
 #: ../src/ui/select_page.py:180 ../src/ui/select_page.py:310
 #, python-format
 msgid "choose %s pictures"
-msgstr ""
+msgstr "escolher %s imagens"
 
 #: ../src/ui/select_page.py:182 ../src/ui/select_page.py:312
 #, python-format
 msgid "choose %s picture"
-msgstr ""
+msgstr "escolher %s imagem"
 
 #: ../src/ui/select_page.py:211
 msgid "Your Favorites folder is empty."
-msgstr ""
+msgstr "Sua pasta de Favoritos está vazia."
 
 #: ../src/ui/select_page.py:214
 msgid "Add from Local Pictures"
-msgstr ""
+msgstr "Adicionar de Imagens Locais"
 
 #: ../src/ui/theme_view.py:97 ../src/ui/theme_view.py:114
 #, python-format

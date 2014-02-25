@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-09 21:10+0000\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-16 00:50+0000\n"
 "Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
@@ -27,7 +27,7 @@ msgstr "النمط الأفتراضي"
 
 #: ../src/desktop_view.py:71
 msgid "Auto Hide"
-msgstr "أخفاء تلقائي"
+msgstr "إخفاء تلقائي"
 
 #: ../src/desktop_view.py:72
 msgid "Invisible"

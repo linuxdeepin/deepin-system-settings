@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# Gianmario Nava <gianmario.nava@gmail.com>, 2014
 # Arreyu <massi_gi@hotmail.it>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-01-24 05:20+0000\n"
-"Last-Translator: Arreyu <massi_gi@hotmail.it>\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-19 21:31+0000\n"
+"Last-Translator: Gianmario Nava <gianmario.nava@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/it/)\n"
 "Language: it\n"
@@ -39,13 +40,13 @@ msgstr "Destra"
 
 #: ../src/main.py:99 ../src/main_full.py:86
 msgid "Output Port"
-msgstr ""
+msgstr "Uscita"
 
 #: ../src/main.py:102 ../src/main.py:513 ../src/main.py:517 ../src/main.py:780
 #: ../src/main.py:783 ../src/main_full.py:89 ../src/main_full.py:449
 #: ../src/main_full.py:453
 msgid "Output Volume"
-msgstr ""
+msgstr "Volume di uscita"
 
 #: ../src/main.py:105 ../src/main.py:117
 msgid "Enable Sound"
@@ -55,21 +56,21 @@ msgstr "Abilita il Suono"
 #: ../src/main.py:784 ../src/main_full.py:95 ../src/main_full.py:450
 #: ../src/main_full.py:454 ../src/search_keyword.py:26
 msgid "Balance"
-msgstr ""
+msgstr "Bilanciamento"
 
 #: ../src/main.py:111 ../src/main_full.py:98
 msgid "Input Port"
-msgstr ""
+msgstr "Ingresso"
 
 #: ../src/main.py:114 ../src/main.py:532 ../src/main.py:535 ../src/main.py:835
 #: ../src/main.py:837 ../src/main_full.py:101 ../src/main_full.py:467
 #: ../src/main_full.py:470
 msgid "Input Volume"
-msgstr ""
+msgstr "Volume di ingresso"
 
 #: ../src/main.py:120
 msgid "Input Level"
-msgstr ""
+msgstr "Livello di ingresso"
 
 #: ../src/main.py:139 ../src/main.py:742 ../src/main_full.py:123
 #: ../src/main_full.py:631
@@ -90,67 +91,67 @@ msgstr "Scegli un dispositivo da configurare:"
 
 #: ../src/main.py:280 ../src/main_full.py:213 ../src/search_keyword.py:30
 msgid "Input"
-msgstr ""
+msgstr "Ingresso"
 
 #: ../src/main.py:281 ../src/main_full.py:214 ../src/search_keyword.py:29
 msgid "Output"
-msgstr ""
+msgstr "Uscita"
 
 #: ../src/main.py:515 ../src/main_full.py:451
 msgid "Muted output"
-msgstr ""
+msgstr "Uscita muta"
 
 #: ../src/main.py:519 ../src/main_full.py:455
 msgid "Unmuted output"
-msgstr ""
+msgstr "Uscita attiva"
 
 #: ../src/main.py:533 ../src/main_full.py:468
 msgid "Muted input"
-msgstr ""
+msgstr "Ingresso muto"
 
 #: ../src/main.py:536 ../src/main_full.py:471
 msgid "Unmuted input"
-msgstr ""
+msgstr "Ingresso attivo"
 
 #: ../src/main.py:577 ../src/main_full.py:503
 #, python-format
 msgid "Set output port to %s"
-msgstr ""
+msgstr "imposta l'uscita a %s"
 
 #: ../src/main.py:586 ../src/main_full.py:512
 #, python-format
 msgid "Set input port to %s"
-msgstr ""
+msgstr "Imposta l'ingresso a %s"
 
 #: ../src/main.py:601 ../src/main_full.py:527
 #, python-format
 msgid "Output device %s selected"
-msgstr ""
+msgstr "Selezionato il dispositivo d'uscita %s"
 
 #: ../src/main.py:607 ../src/main_full.py:533
 #, python-format
 msgid "Input device %s selected"
-msgstr ""
+msgstr "Selezionato il dispositivo d'ingresso %s"
 
 #: ../src/main.py:898 ../src/main_full.py:781
 #, python-format
 msgid "%d Outputs"
-msgstr ""
+msgstr "%d Uscite"
 
 #: ../src/main.py:900 ../src/main_full.py:783
 #, python-format
 msgid "%d Output"
-msgstr ""
+msgstr "%d Uscita"
 
 #: ../src/main.py:902 ../src/main_full.py:785
 #, python-format
 msgid "%d Inputs"
-msgstr ""
+msgstr "%d Ingressi"
 
 #: ../src/main.py:904 ../src/main_full.py:787
 #, python-format
 msgid "%d Input"
-msgstr ""
+msgstr "%d Ingresso"
 
 #: ../src/main_full.py:92 ../src/main_full.py:104
 msgid "Sound Enabled"

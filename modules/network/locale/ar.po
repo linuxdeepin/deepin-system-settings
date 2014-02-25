@@ -12,9 +12,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-09 20:40+0000\n"
-"Last-Translator: suliman.503 <e20502@drdrb.com>\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-16 01:10+0000\n"
+"Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
 "Language: ar\n"
@@ -27,13 +27,13 @@ msgstr ""
 #: ../src/settings_widget.py:610 ../src/lists.py:488 ../src/wlan_config.py:332
 #: ../src/wlan_config.py:583
 msgid "SSID:"
-msgstr "SSID:"
+msgstr "SSID :"
 
 #: ../src/settings_widget.py:614 ../src/lists.py:522
 #: ../src/mobile_config.py:269 ../src/dsl_config.py:280
 #: ../src/vpn_config.py:180 ../src/wlan_config.py:263
 msgid "Password:"
-msgstr "كلمة المرور:"
+msgstr "كلمة المرور :"
 
 #: ../src/settings_widget.py:618
 msgid "Active"
@@ -73,15 +73,15 @@ msgstr "IPv6 اعدادات "
 
 #: ../src/lan_config.py:152 ../src/dsl_config.py:144 ../src/wlan_config.py:612
 msgid "Device Mac Address:"
-msgstr "عنوان الجهاز على الشبكة"
+msgstr "عنوان الجهاز على الشبكة :"
 
 #: ../src/lan_config.py:153 ../src/dsl_config.py:152 ../src/wlan_config.py:616
 msgid "Cloned Mac Address:"
-msgstr "تحويل عنوان الشبكة"
+msgstr "تحويل عنوان الشبكة :"
 
 #: ../src/lan_config.py:154 ../src/wlan_config.py:621
 msgid "MTU:"
-msgstr ""
+msgstr "MTU :"
 
 #: ../src/widgets.py:50 ../src/widgets.py:64
 #, python-format
@@ -91,7 +91,7 @@ msgstr "الرجاء ادخل كلمة المرور لـ %s"
 #: ../src/widgets.py:85 ../src/mobile_config.py:276 ../src/elements.py:248
 #: ../src/wlan_config.py:277
 msgid "Show password"
-msgstr "أظهار كلمة المرور:"
+msgstr "أظهار كلمة المرور :"
 
 #: ../src/widgets.py:97
 msgid "OK"
@@ -126,12 +126,12 @@ msgstr "البروتوكول التناظري"
 
 #: ../src/mobile_config.py:263
 msgid "Code:"
-msgstr "الرمز:"
+msgstr "الرمز :"
 
 #: ../src/mobile_config.py:266 ../src/dsl_config.py:268
 #: ../src/vpn_config.py:176
 msgid "Username:"
-msgstr "اسم المستخدم:"
+msgstr "اسم المستخدم :"
 
 #: ../src/mobile_config.py:277
 msgid "Regions setting"
@@ -139,19 +139,19 @@ msgstr "وضع المناطق"
 
 #: ../src/mobile_config.py:282
 msgid "APN:"
-msgstr "APN:"
+msgstr "APN :"
 
 #: ../src/mobile_config.py:285
 msgid "Network ID:"
-msgstr "معرف الشبكة:"
+msgstr "معرف الشبكة :"
 
 #: ../src/mobile_config.py:288
 msgid "Type:"
-msgstr "النوع:"
+msgstr "النوع :"
 
 #: ../src/mobile_config.py:291
 msgid "PIN:"
-msgstr "رقم سري"
+msgstr "الرقم السري :"
 
 #: ../src/mobile_config.py:303
 msgid "Allow roaming if home network is not available"
@@ -185,7 +185,7 @@ msgstr "بروتوكول مصادقة تعارف الارتياب ميكروسو
 #: ../src/mobile_config.py:486 ../src/dsl_config.py:397
 #: ../src/vpn_config.py:389
 msgid "MSCHAP v2"
-msgstr "بروتوكول مصادقة تعارف الارتياب ميكروسفت الاصدار الثانى"
+msgstr "MSCHAP v2"
 
 #: ../src/mobile_config.py:500 ../src/dsl_config.py:400
 #: ../src/vpn_config.py:403
@@ -200,7 +200,7 @@ msgstr "تردد"
 #: ../src/mobile_config.py:509 ../src/dsl_config.py:413
 #: ../src/vpn_config.py:414
 msgid "Use point-to-point encryption(mppe)"
-msgstr "مايكروسوفت من نقطة إلى نقطة التشفير )م ن ن ش ("
+msgstr "مايكروسوفت من نقطة إلى نقطة التشفير (م ن ن ش)"
 
 #: ../src/mobile_config.py:512 ../src/dsl_config.py:414
 #: ../src/vpn_config.py:417
@@ -210,12 +210,12 @@ msgstr "يتطلب تشفير 128-بت"
 #: ../src/mobile_config.py:515 ../src/dsl_config.py:415
 #: ../src/vpn_config.py:420
 msgid "Use stateful MPPE"
-msgstr "استخدام إشارة الحالة م ن ن ش"
+msgstr "استخدام إشارة الحالة MPPE"
 
 #: ../src/mobile_config.py:518 ../src/dsl_config.py:416
 #: ../src/vpn_config.py:423
 msgid "Allow BSD data Compression"
-msgstr "السماح BSD ضغط الملفات"
+msgstr "سماح BSD ضغط البيانات"
 
 #: ../src/mobile_config.py:521 ../src/dsl_config.py:417
 #: ../src/vpn_config.py:426
@@ -225,12 +225,12 @@ msgstr "السماح بتفريغ ضغط البيانات"
 #: ../src/mobile_config.py:524 ../src/dsl_config.py:418
 #: ../src/vpn_config.py:429
 msgid "Use TCP header compression"
-msgstr ""
+msgstr "إستخدام TCP ضغط رأسي"
 
 #: ../src/mobile_config.py:527 ../src/dsl_config.py:422
 #: ../src/vpn_config.py:433
 msgid "Send PPP echo packets"
-msgstr ""
+msgstr "إرسال PPP حزم المحاكاة"
 
 #: ../src/ipsettings.py:51 ../src/ipsettings.py:322
 msgid "Link-Local Only"
@@ -242,15 +242,15 @@ msgstr "عنوان IP تلقائي"
 
 #: ../src/ipsettings.py:57 ../src/ipsettings.py:327
 msgid "IP Address:"
-msgstr "عنوان IP:"
+msgstr "عنوان IP :"
 
 #: ../src/ipsettings.py:58
 msgid "Subnet Mask:"
-msgstr "قناع الشبكة الفرعية"
+msgstr "قناع الشبكة الفرعية :"
 
 #: ../src/ipsettings.py:59 ../src/ipsettings.py:329 ../src/vpn_config.py:172
 msgid "Gateway:"
-msgstr "البوابة:"
+msgstr "البوابة :"
 
 #: ../src/ipsettings.py:67 ../src/ipsettings.py:338
 msgid "Automatic DNS server address"
@@ -258,11 +258,11 @@ msgstr "عنوان خادم DNS التلقائي"
 
 #: ../src/ipsettings.py:71 ../src/ipsettings.py:342
 msgid "Primary DNS server address:"
-msgstr "عنوان خادم DNS الرئيسي:"
+msgstr "عنوان خادم DNS الرئيسي :"
 
 #: ../src/ipsettings.py:72 ../src/ipsettings.py:343
 msgid "Slave DNS server address:"
-msgstr "عنوان خادم DNS  التابع:"
+msgstr "عنوان خادم DNS التابع :"
 
 #: ../src/ipsettings.py:185
 msgid "IPv4"
@@ -279,16 +279,16 @@ msgstr "بوابة"
 #: ../src/ipsettings.py:190
 #, python-format
 msgid "Valid %s address."
-msgstr "عنوان %s متاح"
+msgstr "عنوان %s متاح."
 
 #: ../src/ipsettings.py:193
 #, python-format
 msgid "Invalid %s address."
-msgstr "عنوان %s غير متاح"
+msgstr "عنوان %s غير متاح."
 
 #: ../src/ipsettings.py:328
 msgid "Prefix:"
-msgstr "سابقة:"
+msgstr "سابقة :"
 
 #: ../src/main_ui.py:397 ../src/tray_ui.py:62 ../src/wlan_config.py:215
 #: ../src/wlan_config.py:575 ../src/search_keyword.py:30
@@ -334,7 +334,7 @@ msgstr "تكوين البروكسي"
 
 #: ../src/tray_ui.py:70
 msgid "Advanced..."
-msgstr "...متقدم"
+msgstr "متقدم..."
 
 #: ../src/tray_ui.py:485
 #, python-format
@@ -391,7 +391,7 @@ msgstr "حفظ"
 
 #: ../src/foot_box_ui.py:140
 msgid "Tip:"
-msgstr "إرشاد:"
+msgstr "إرشاد :"
 
 #: ../src/dsl_config.py:182
 msgid "Default Setting"
@@ -399,11 +399,11 @@ msgstr "الأعداد الأفتراضي"
 
 #: ../src/dsl_config.py:262 ../src/vpn_config.py:168
 msgid "Connection Name:"
-msgstr "اسم الأتصال:"
+msgstr "اسم الأتصال :"
 
 #: ../src/dsl_config.py:275
 msgid "Service:"
-msgstr "الخادم:"
+msgstr "الخادم :"
 
 #: ../src/dsl_config.py:301 ../src/vpn_config.py:213
 msgid "Show Password"
@@ -411,11 +411,11 @@ msgstr "أظهار كلمة المرور:"
 
 #: ../src/regions.py:71
 msgid "Country or Region:"
-msgstr "الدولة أو المنطقة:"
+msgstr "الدولة أو المنطقة :"
 
 #: ../src/regions.py:89
 msgid "Provider:"
-msgstr "المزود:"
+msgstr "المزود :"
 
 #: ../src/regions.py:104
 msgid ""
@@ -439,7 +439,7 @@ msgstr "PPTP"
 
 #: ../src/vpn_config.py:184
 msgid "NT Domain:"
-msgstr "مجال NT:"
+msgstr "مجال NT :"
 
 #: ../src/vpn_config.py:190
 msgid "L2TP"
@@ -447,7 +447,7 @@ msgstr "L2TP"
 
 #: ../src/vpn_config.py:436
 msgid "Use protocal field compression negotiation"
-msgstr ""
+msgstr "استخدام حقل بروتوكول تفاوض الضغط"
 
 #: ../src/vpn_config.py:439
 msgid "Use Address/Control compression"
@@ -459,15 +459,15 @@ msgstr "اعدادات IPSec"
 
 #: ../src/vpn_config.py:461
 msgid "Enable IPSec tunnel to l2tp host"
-msgstr ""
+msgstr "إستخدام نفق IPSec  إلى مضيف l2tp "
 
 #: ../src/vpn_config.py:464
 msgid "Group Name:"
-msgstr "اسم المجموعة:"
+msgstr "اسم المجموعة :"
 
 #: ../src/vpn_config.py:467
 msgid "Gateway ID:"
-msgstr "Gateway ID:"
+msgstr "Gateway ID :"
 
 #: ../src/vpn_config.py:470
 msgid "Pre_Shared_key"
@@ -479,19 +479,19 @@ msgstr "الحماية"
 
 #: ../src/wlan_config.py:250
 msgid "Security:"
-msgstr "الحماية:"
+msgstr "الحماية :"
 
 #: ../src/wlan_config.py:253
 msgid "Key:"
-msgstr "المفتاح:"
+msgstr "المفتاح :"
 
 #: ../src/wlan_config.py:256
 msgid "Wep index:"
-msgstr ":فهرس الويب    "
+msgstr "فهرس الويب :"
 
 #: ../src/wlan_config.py:260
 msgid "Authentication:"
-msgstr "المصادقة:"
+msgstr "المصادقة :"
 
 #: ../src/wlan_config.py:267
 msgid "None"
@@ -499,15 +499,15 @@ msgstr "لا شيء"
 
 #: ../src/wlan_config.py:268
 msgid "WEP (Hex or ASCII)"
-msgstr "WEP (Hex أو ASCII)"
+msgstr "WEP (Hex or ASCII)"
 
 #: ../src/wlan_config.py:269
 msgid "WEP 104/128-bit Passphrase"
-msgstr "WEP 104/128-بت Passphrase"
+msgstr "WEP 104/128-bit Passphrase"
 
 #: ../src/wlan_config.py:270
 msgid "WPA WPA2 Personal"
-msgstr "WPA WPA2 شخصي"
+msgstr "WPA WPA2 Personal"
 
 #: ../src/wlan_config.py:281
 msgid "Shared Key"
@@ -519,7 +519,7 @@ msgstr "فتح النظام"
 
 #: ../src/wlan_config.py:589
 msgid "Mode:"
-msgstr "الأسلوب:"
+msgstr "الأسلوب :"
 
 #: ../src/wlan_config.py:592
 msgid "Infrastructure"
@@ -527,19 +527,19 @@ msgstr "البنية التحتية"
 
 #: ../src/wlan_config.py:592
 msgid "Ad-hoc"
-msgstr ""
+msgstr "مخصصة"
 
 #: ../src/wlan_config.py:595
 msgid "Band:"
-msgstr "النطاق:"
+msgstr "النطاق :"
 
 #: ../src/wlan_config.py:603
 msgid "Channel:"
-msgstr "القناة:"
+msgstr "القناة :"
 
 #: ../src/wlan_config.py:608
 msgid "BSSID:"
-msgstr "BSSID:"
+msgstr "BSSID :"
 
 #: ../src/wlan_config.py:650
 msgid "Default Settings"

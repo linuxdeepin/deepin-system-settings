@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-08 03:50+0000\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-14 22:40+0000\n"
 "Last-Translator: fri <pavelfric@seznam.cz>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/cs/)\n"
@@ -133,7 +133,7 @@ msgstr "Odhlásit se"
 
 #: ../src/keybind_all.py:60 ../src/main.py:505
 msgid "Sound and Media"
-msgstr "Zvuk a záznamy"
+msgstr "Zvuk a média"
 
 #: ../src/keybind_all.py:61
 msgid "Launch calculator"
@@ -149,7 +149,7 @@ msgstr "Spustit internetový prohlížeč"
 
 #: ../src/keybind_all.py:64
 msgid "Launch media player"
-msgstr "Spustit přehrávač záznamů"
+msgstr "Spustit přehrávač"
 
 #: ../src/keybind_all.py:65
 msgid "Play (or play/pause)"
@@ -205,7 +205,7 @@ msgstr "Obnovit okno"
 
 #: ../src/keybind_all.py:78
 msgid "Minimize window"
-msgstr "Zmešit okno"
+msgstr "Zmenšit okno"
 
 #: ../src/keybind_all.py:79
 msgid "Move window"

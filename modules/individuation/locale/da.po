@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-08 03:50+0000\n"
-"Last-Translator: electricface <songwentai@linuxdeepin.com>\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-11 09:00+0000\n"
+"Last-Translator: Snubbi <carl@manjaro.dk>\n"
 "Language-Team: Danish (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/da/)\n"
 "Language: da\n"
@@ -29,7 +29,7 @@ msgstr "Unavngivet"
 
 #: ../src/main.py:81
 msgid "Image files"
-msgstr ""
+msgstr "Billede filer"
 
 #: ../src/search_keyword.py:29
 msgid "Personalization"
@@ -69,11 +69,11 @@ msgstr "Favoritter"
 
 #: ../src/ui/add_page.py:87 ../src/ui/local_page.py:98
 msgid "360 Wallpaper"
-msgstr ""
+msgstr "360 Wallpaper"
 
 #: ../src/ui/add_page.py:88 ../src/ui/local_page.py:99
 msgid "LoveWallpaper"
-msgstr ""
+msgstr "LoveWallpaper"
 
 #: ../src/ui/delete_page.py:55 ../src/ui/cache_page.py:131
 msgid "Back"
@@ -96,29 +96,29 @@ msgstr "Slet"
 #: ../src/ui/detail_page.py:133 ../src/ui/detail_page.py:142
 #: ../src/ui/detail_page.py:150 ../src/ui/detail_page.py:231
 msgid "Clear all"
-msgstr ""
+msgstr "Ryd alt"
 
 #: ../src/ui/delete_page.py:97 ../src/ui/select_page.py:166
 #: ../src/ui/select_page.py:296
 msgid "Delete Wallpaper"
-msgstr ""
+msgstr "Slet Wallpaper"
 
 #: ../src/ui/delete_page.py:98 ../src/ui/select_page.py:167
 #: ../src/ui/select_page.py:297
 msgid "Are you sure delete wallpaper?"
-msgstr ""
+msgstr "Er du sikker på at du vil slette wallpaper?"
 
 #: ../src/ui/cache_page.py:133
 msgid "Download All"
-msgstr ""
+msgstr "Download Alle"
 
 #: ../src/ui/local_page.py:46
 msgid "My Favorites"
-msgstr ""
+msgstr "Mine favoritter"
 
 #: ../src/ui/local_page.py:47
 msgid "Local Wallpapers"
-msgstr ""
+msgstr "Lokale Wallpapers"
 
 #: ../src/ui/detail_page.py:37
 msgid "Minute"
@@ -136,19 +136,19 @@ msgstr "Time"
 #: ../src/ui/detail_page.py:41 ../src/ui/detail_page.py:42
 #: ../src/ui/detail_page.py:43
 msgid "Hours"
-msgstr ""
+msgstr "Timer"
 
 #: ../src/ui/detail_page.py:46
 msgid "Stretch"
-msgstr ""
+msgstr "Udstrækning"
 
 #: ../src/ui/detail_page.py:46
 msgid "Tile"
-msgstr ""
+msgstr "Opdele i fliser"
 
 #: ../src/ui/detail_page.py:70
 msgid "Position"
-msgstr ""
+msgstr "Position"
 
 #: ../src/ui/detail_page.py:73
 msgid "Duration"
@@ -160,15 +160,15 @@ msgstr "Tilfældig"
 
 #: ../src/ui/wallpaper_view.py:57
 msgid "Apply Wallpaper"
-msgstr ""
+msgstr "Tilføj Wallpaper"
 
 #: ../src/ui/select_page.py:75
 msgid "Your Local Pictures folder is empty"
-msgstr ""
+msgstr "Din lokale billedemappe er tom"
 
 #: ../src/ui/select_page.py:81 ../src/ui/select_page.py:225
 msgid "Set as wallpaper"
-msgstr ""
+msgstr "Sæt som wallpaper"
 
 #: ../src/ui/select_page.py:84
 msgid "Add to Favorites"
@@ -177,77 +177,77 @@ msgstr "Tilføj til favoritter"
 #: ../src/ui/select_page.py:118 ../src/ui/select_page.py:258
 #, python-format
 msgid "%s pictures are set as wallpaper"
-msgstr ""
+msgstr "%s billeder bliver sat som wallpaper"
 
 #: ../src/ui/select_page.py:120 ../src/ui/select_page.py:260
 #, python-format
 msgid "%s picture is set as wallpaper"
-msgstr ""
+msgstr "%s billede er sat som wallpaper"
 
 #: ../src/ui/select_page.py:147
 #, python-format
 msgid "add %s pictures to Favorites"
-msgstr ""
+msgstr "tilføj %s billeder til favoritter"
 
 #: ../src/ui/select_page.py:149
 #, python-format
 msgid "add %s picture to Favorites"
-msgstr ""
+msgstr "tilføj %s billede til favoritter"
 
 #: ../src/ui/select_page.py:157 ../src/ui/select_page.py:287
 #, python-format
 msgid "delete %s pictures"
-msgstr ""
+msgstr "slet %s billeder"
 
 #: ../src/ui/select_page.py:159 ../src/ui/select_page.py:289
 #, python-format
 msgid "delete %s picture"
-msgstr ""
+msgstr "slet %s billede"
 
 #: ../src/ui/select_page.py:180 ../src/ui/select_page.py:310
 #, python-format
 msgid "choose %s pictures"
-msgstr ""
+msgstr "vælg %s billeder"
 
 #: ../src/ui/select_page.py:182 ../src/ui/select_page.py:312
 #, python-format
 msgid "choose %s picture"
-msgstr ""
+msgstr "vælg %s billede"
 
 #: ../src/ui/select_page.py:211
 msgid "Your Favorites folder is empty."
-msgstr ""
+msgstr "Din  favoritmappe er tom."
 
 #: ../src/ui/select_page.py:214
 msgid "Add from Local Pictures"
-msgstr ""
+msgstr "Tilføj fra lokale billeder"
 
 #: ../src/ui/theme_view.py:97 ../src/ui/theme_view.py:114
 #, python-format
 msgid "Changed User Theme to %s"
-msgstr ""
+msgstr "Skiftet brugertema til %s"
 
 #: ../src/ui/theme_view.py:133 ../src/ui/theme_view.py:264
 msgid "Save Theme As"
-msgstr ""
+msgstr "Gem tema som"
 
 #: ../src/ui/theme_view.py:137
 msgid "Rename Theme"
-msgstr ""
+msgstr "Omdøb tema"
 
 #: ../src/ui/theme_view.py:141 ../src/ui/theme_view.py:158
 msgid "Delete Theme"
-msgstr ""
+msgstr "Slet tema"
 
 #: ../src/ui/theme_view.py:142
 #, python-format
 msgid "Are you sure you want to delete the theme %s?"
-msgstr ""
+msgstr "Er du sikker på at du vil slette temaet %s?"
 
 #: ../src/ui/theme_view.py:152 ../src/ui/theme_view.py:156
 #: ../src/ui/theme_view.py:268
 msgid "Save As"
-msgstr ""
+msgstr "Gem som"
 
 #: ../src/ui/theme_view.py:155
 msgid "Rename"
@@ -256,4 +256,4 @@ msgstr "Omdøbe"
 #: ../src/ui/theme_view.py:240 ../src/ui/theme_view.py:249
 #, python-format
 msgid "Changed System Theme to %s"
-msgstr ""
+msgstr "Skiftet system tema til %s"

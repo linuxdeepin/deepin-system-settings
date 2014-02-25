@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Deepin System Settings\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:20+0800\n"
-"PO-Revision-Date: 2014-02-09 20:20+0000\n"
+"POT-Creation-Date: 2014-02-25 10:50+0800\n"
+"PO-Revision-Date: 2014-02-16 00:50+0000\n"
 "Last-Translator: Mohd <mo-hd@windowslive.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/deepin-system-"
 "settings/language/ar/)\n"
@@ -30,7 +30,7 @@ msgstr "ملف قادم من %s"
 #: ../src/bluetooth_transfer.py:105
 #, python-format
 msgid "Accept incoming file %s?"
-msgstr "هل توافق على قبول الملف %s?"
+msgstr "هل توافق على قبول الملف %s ؟"
 
 #: ../src/bluetooth_transfer.py:108
 msgid "Accept"
@@ -80,7 +80,7 @@ msgstr "بلوتوث صوتى"
 
 #: ../src/bluetooth_view.py:336 ../src/tray_bluetooth_plugin.py:92
 msgid "Successfully connected to the Bluetooth audio device."
-msgstr "تم الاتصال بنجاح مع مشغل الصوت"
+msgstr "تم الاتصال بنجاح مع مشغل الصوت."
 
 #: ../src/bluetooth_view.py:338 ../src/bluetooth_view.py:359
 #: ../src/bluetooth_view.py:379 ../src/tray_bluetooth_plugin.py:94
@@ -108,11 +108,11 @@ msgstr "سماعة البلوتوث"
 
 #: ../src/bluetooth_view.py:377
 msgid "Successfully connected to the Bluetooth headset."
-msgstr ".تم الأتصال بسماعة البلوتوث بنجاح"
+msgstr "تم الأتصال بسماعة البلوتوث بنجاح."
 
 #: ../src/bluetooth_view.py:401
 msgid "Pairing failed!"
-msgstr "!فشل الأقتران "
+msgstr "فشل الأقتران !"
 
 #: ../src/bluetooth_view.py:469 ../src/bluetooth_view.py:474
 #, python-format
@@ -150,7 +150,7 @@ msgstr "المحول"
 
 #: ../src/tray_bluetooth_plugin.py:317
 msgid "Advanced options..."
-msgstr "...إعدادات متقدمة"
+msgstr "إعدادات متقدمة..."
 
 #: ../src/dialog.py:166
 msgid "OK"
@@ -166,8 +166,8 @@ msgid ""
 "Failed!\n"
 "error msg: %s"
 msgstr ""
-"!فشل \n"
-"رسالة الخطأ: %s"
+"فشل !\n"
+"رسالة الخطأ : %s"
 
 #: ../src/bluetooth_sender.py:68
 #, python-format
@@ -176,7 +176,7 @@ msgstr "يتم إرسال الملف الى %s"
 
 #: ../src/bluetooth_sender.py:85
 msgid "Transfer complete!"
-msgstr "!أكتمل النقل"
+msgstr "أكتمل النقل !"
 
 #: ../src/bluetooth_sender.py:116
 msgid "Select File"
@@ -189,7 +189,7 @@ msgstr "انتهت مهلة البحث عن الجهاز"
 #: ../src/bt/agent.py:88
 #, python-format
 msgid "Enter PIN code to pair with %s:"
-msgstr "أدخل رمز التحقق فى ازواج مع %s:"
+msgstr "أدخل رمز التحقق فى ازواج مع %s : "
 
 #: ../src/bt/agent.py:138
 #, python-format
